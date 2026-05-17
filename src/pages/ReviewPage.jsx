@@ -7,9 +7,9 @@ const ACTIVE_SECTIONS = ['english', 'math', 'reading']
 const SECTION_LABELS = { english: 'English', math: 'Math', reading: 'Reading' }
 const REVIEW_SECONDS = 5 * 60
 const ERROR_TAGS = [
-  { key: 'conceptual', label: 'Conceptual' },
-  { key: 'silly', label: 'Silly Mistake' },
-  { key: 'strategy', label: 'Strategy' },
+  { key: 'conceptual', label: 'Conceptual', detail: "I didn't know the concept." },
+  { key: 'silly', label: 'Silly Mistake', detail: 'I knew it and slipped.' },
+  { key: 'strategy', label: 'Strategy', detail: 'I used the wrong approach.' },
 ]
 
 function formatTime(total) {
@@ -140,19 +140,26 @@ export default function ReviewPage() {
 
             <div className="mb-5">
               <div className="text-xs font-semibold uppercase tracking-wide text-gray-400 mb-2">Why did you miss it?</div>
-              <div className="flex gap-2 flex-wrap">
-                {ERROR_TAGS.map(({ key: tag, label }) => (
+              <div className="space-y-2">
+                {ERROR_TAGS.map(({ key: tag, label, detail }) => (
                   <button
                     key={tag}
                     onClick={() => setErrorTag(key, tag)}
-                    className={`flex items-center gap-2 rounded-xl border px-3 py-2 text-sm font-semibold transition-colors ${
+                    className={`w-full flex items-center gap-3 rounded-2xl border-2 px-4 py-3 text-left transition-all ${
                       errorTag === tag
-                        ? 'border-black bg-black text-white'
-                        : 'border-gray-200 bg-white text-gray-600 hover:border-gray-400'
+                        ? 'border-black bg-black text-white shadow-sm'
+                        : 'border-gray-200 bg-white text-gray-700 hover:border-gray-400'
                     }`}
                   >
-                    {errorTag === tag && <Check size={14} />}
-                    {label}
+                    <span className={`w-6 h-6 rounded-full border-2 flex items-center justify-center flex-shrink-0 ${
+                      errorTag === tag ? 'border-white bg-white text-black' : 'border-gray-300'
+                    }`}>
+                      {errorTag === tag && <Check size={14} strokeWidth={3} />}
+                    </span>
+                    <span>
+                      <span className="block text-sm font-bold">{label}</span>
+                      <span className={`block text-xs mt-0.5 ${errorTag === tag ? 'text-gray-300' : 'text-gray-500'}`}>{detail}</span>
+                    </span>
                   </button>
                 ))}
               </div>
