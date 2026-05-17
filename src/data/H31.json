@@ -10,7 +10,7 @@
         {
           "id": "eng-p1",
           "title": "Passage 1",
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_2.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/english/page_2.jpg",
           "startPage": 2,
           "questions": [
             {
@@ -23,7 +23,7 @@
                 "D": "DELETE the underlined portion."
               },
               "pageIndex": 2,
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_2.jpg",
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/english/page_2.jpg",
               "correct": "C"
             },
             {
@@ -36,7 +36,7 @@
                 "J": "city\u2019s classical music fans. . 2 GO ON TO THE NEXT PAGE."
               },
               "pageIndex": 2,
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_2.jpg",
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/english/page_2.jpg",
               "correct": "J"
             },
             {
@@ -49,7 +49,7 @@
                 "D": "was committed to bringing each composer\u2019s vision for a given piece to fruition."
               },
               "pageIndex": 3,
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
               "correct": "A"
             },
             {
@@ -62,7 +62,7 @@
                 "J": "forget about dressing up as fancily as"
               },
               "pageIndex": 3,
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
               "correct": "F"
             },
             {
@@ -75,7 +75,7 @@
                 "D": "stands Romeu"
               },
               "pageIndex": 3,
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
               "correct": "B"
             },
             {
@@ -88,7 +88,7 @@
                 "J": "revise"
               },
               "pageIndex": 3,
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
               "correct": "G"
             },
             {
@@ -101,7 +101,7 @@
                 "D": "flocked to"
               },
               "pageIndex": 3,
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
               "correct": "D"
             },
             {
@@ -114,7 +114,7 @@
                 "J": "DELETE the underlined portion."
               },
               "pageIndex": 3,
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
               "correct": "J"
             },
             {
@@ -130,7 +130,7 @@
                 "J": "DELETE the underlined portion. 3 GO ON TO THE NEXT PAGE."
               },
               "pageIndex": 3,
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
               "correct": "A"
             }
           ]
@@ -150,7 +150,7 @@
             "C": "\u23aaf\u23aa(2) \u23aa \u23aa _ _2_ _ D. f \u23aa \u23aa _ _2_ _ E. x"
           },
           "pageIndex": 14,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_14.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_14.jpg",
           "correct": "B"
         },
         {
@@ -164,7 +164,7 @@
             "K": "$360 \u2666,"
           },
           "pageIndex": 14,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_14.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_14.jpg",
           "correct": "G"
         },
         {
@@ -178,7 +178,7 @@
             "E": "10 14 ACT-H31 2 DO"
           },
           "pageIndex": 14,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_14.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_14.jpg",
           "correct": "C"
         },
         {
@@ -192,7 +192,7 @@
             "K": "85.5"
           },
           "pageIndex": 15,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
           "correct": "J"
         },
         {
@@ -206,7 +206,7 @@
             "E": "39,375"
           },
           "pageIndex": 15,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
           "correct": "B"
         },
         {
@@ -220,7 +220,7 @@
             "K": "26"
           },
           "pageIndex": 15,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
           "correct": "G"
         },
         {
@@ -234,7 +234,7 @@
             "E": "128"
           },
           "pageIndex": 15,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
           "correct": "E"
         },
         {
@@ -246,7 +246,7 @@
             "K": "4 15 ACT-H31 2 DO"
           },
           "pageIndex": 15,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
           "correct": "G"
         },
         {
@@ -260,7 +260,7 @@
             "E": "11"
           },
           "pageIndex": 16,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_16.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_16.jpg",
           "correct": "A"
         },
         {
@@ -275,7 +275,7 @@
             "K": "340 ___"
           },
           "pageIndex": 16,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_16.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_16.jpg",
           "correct": "F"
         },
         {
@@ -289,7 +289,7 @@
             "D": "216\u00b0 D"
           },
           "pageIndex": 16,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_16.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_16.jpg",
           "correct": "B"
         },
         {
@@ -300,7 +300,7 @@
             "B": "\u221215 31 44 C. 3 \u22122 3\u2212_2_ \u2212_1_4 3 3 D. \u2212_5_ 0 3 3\u22126 34 E. 0 \u221215"
           },
           "pageIndex": 17,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_17.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_17.jpg",
           "correct": "E"
         },
         {
@@ -315,7 +315,7 @@
             "K": "126"
           },
           "pageIndex": 17,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_17.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_17.jpg",
           "correct": "K"
         },
         {
@@ -328,7 +328,7 @@
             "E": "( 8,0)"
           },
           "pageIndex": 17,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_17.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_17.jpg",
           "correct": "A"
         },
         {
@@ -342,7 +342,7 @@
             "K": "(x 17 ACT-H31 2 x2 + y2 = DO"
           },
           "pageIndex": 17,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_17.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_17.jpg",
           "correct": "H"
         },
         {
@@ -356,7 +356,7 @@
             "E": "(\u221236,0) and (36,0)"
           },
           "pageIndex": 18,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
           "correct": "B"
         },
         {
@@ -371,7 +371,7 @@
             "K": "0.827 ___ ___"
           },
           "pageIndex": 18,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
           "correct": "H"
         },
         {
@@ -385,7 +385,7 @@
             "E": "146\u00b0 D E F"
           },
           "pageIndex": 18,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
           "correct": "E"
         },
         {
@@ -399,7 +399,7 @@
             "K": "It is neither irrational nor rational."
           },
           "pageIndex": 18,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
           "correct": "G"
         },
         {
@@ -418,7 +418,7 @@
             "K": "\u22125z4+16"
           },
           "pageIndex": 18,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
           "correct": "C"
         },
         {
@@ -432,7 +432,7 @@
             "E": "0.98"
           },
           "pageIndex": 19,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_19.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_19.jpg",
           "correct": "C"
         },
         {
@@ -446,7 +446,7 @@
             "K": "\u03c0 \u221a 5\u03c0"
           },
           "pageIndex": 19,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_19.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_19.jpg",
           "correct": "G"
         },
         {
@@ -460,7 +460,7 @@
             "E": "6 19 ACT-H31 2 = + DO"
           },
           "pageIndex": 19,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_19.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_19.jpg",
           "correct": "D"
         },
         {
@@ -474,7 +474,7 @@
             "K": "The weight, in ounces, of the empty carton"
           },
           "pageIndex": 20,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_20.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_20.jpg",
           "correct": "K"
         },
         {
@@ -488,7 +488,7 @@
             "K": "140"
           },
           "pageIndex": 20,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_20.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_20.jpg",
           "correct": "J"
         },
         {
@@ -502,7 +502,7 @@
             "E": "Cannot be determined from the given information 20 ACT-H31 2 DO"
           },
           "pageIndex": 20,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_20.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_20.jpg",
           "correct": "B"
         },
         {
@@ -513,7 +513,7 @@
             "C": "x 3 O D. 9 III IV"
           },
           "pageIndex": 22,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_22.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_22.jpg",
           "correct": "C"
         },
         {
@@ -525,7 +525,7 @@
             "E": "1 0 5 10 15 20 25 30 x i2 = \u22121,"
           },
           "pageIndex": 22,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_22.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_22.jpg",
           "correct": "D"
         },
         {
@@ -538,7 +538,7 @@
             "K": "6 ACT-H31 2 DO"
           },
           "pageIndex": 22,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_22.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_22.jpg",
           "correct": "J"
         },
         {
@@ -551,7 +551,7 @@
             "E": "f is defined for all real numbers."
           },
           "pageIndex": 23,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_23.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_23.jpg",
           "correct": "A"
         },
         {
@@ -566,7 +566,7 @@
             "K": "$5.80"
           },
           "pageIndex": 23,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_23.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_23.jpg",
           "correct": "J"
         },
         {
@@ -578,7 +578,7 @@
             "E": "_424+3"
           },
           "pageIndex": 23,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_23.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_23.jpg",
           "correct": "E"
         },
         {
@@ -592,7 +592,7 @@
             "E": "110\u00b0 X"
           },
           "pageIndex": 24,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_24.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_24.jpg",
           "correct": "C"
         },
         {
@@ -605,7 +605,7 @@
             "K": "and"
           },
           "pageIndex": 24,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_24.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_24.jpg",
           "correct": "K"
         },
         {
@@ -619,7 +619,7 @@
             "E": "580"
           },
           "pageIndex": 24,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_24.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_24.jpg",
           "correct": "B"
         },
         {
@@ -632,7 +632,7 @@
             "J": "1 2 1_1_,\u22121 2 K. 2 24 ACT-H31 2 DO"
           },
           "pageIndex": 24,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_24.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_24.jpg",
           "correct": "F"
         },
         {
@@ -643,7 +643,7 @@
             "E": "2, 4 4 f(x)=\u2212_1_x\u22125"
           },
           "pageIndex": 25,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
           "correct": "A"
         },
         {
@@ -657,7 +657,7 @@
             "K": "f(x) 9"
           },
           "pageIndex": 25,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
           "correct": "G"
         },
         {
@@ -671,7 +671,7 @@
             "E": "126 \u2194 \u2194"
           },
           "pageIndex": 25,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
           "correct": "B"
         },
         {
@@ -688,7 +688,7 @@
             "K": "Cannot be determined from the given information"
           },
           "pageIndex": 25,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
           "correct": "K"
         },
         {
@@ -701,7 +701,7 @@
             "E": "8 25 ACT-H31 2 DO"
           },
           "pageIndex": 25,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
           "correct": "C"
         },
         {
@@ -715,7 +715,7 @@
             "K": "(100, 120)"
           },
           "pageIndex": 26,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_26.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_26.jpg",
           "correct": "J"
         },
         {
@@ -727,7 +727,7 @@
             "C": "y x O"
           },
           "pageIndex": 26,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_26.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_26.jpg",
           "correct": "E"
         },
         {
@@ -741,7 +741,7 @@
             "K": "Cannot be determined from the given information 26 ACT-H31 2 DO Use the following information to answer questions 53\u201355. Shakir and Julia have completed a typing class. The table below gives their typing speeds in words per minute (wpm) on different days during the 99-day class. (Note: The typing speed of each student in the class was measured at the end of each of the days in the table.) Day of class Shakir (wpm) Julia (wpm) 01st 25 35 49th 45 40 99th 55 55"
           },
           "pageIndex": 26,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_26.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_26.jpg",
           "correct": "F"
         },
         {
@@ -755,7 +755,7 @@
             "E": "64%"
           },
           "pageIndex": 27,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_27.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_27.jpg",
           "correct": "D"
         },
         {
@@ -769,7 +769,7 @@
             "K": "None"
           },
           "pageIndex": 27,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_27.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_27.jpg",
           "correct": "K"
         },
         {
@@ -783,7 +783,7 @@
             "E": "20 27 ACT-H31 2 DO"
           },
           "pageIndex": 27,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_27.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_27.jpg",
           "correct": "B"
         },
         {
@@ -795,7 +795,7 @@
             "G": "K. 4 4 \u22124 \u22122 O 2 4 x \u22124 \u22122 O 2 4 x \u22122 \u22122 \u22124 \u22124 y H. 4 2 \u22124 \u22122 O 2 4 x \u22122 \u22124"
           },
           "pageIndex": 28,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_28.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_28.jpg",
           "correct": "H"
         },
         {
@@ -809,7 +809,7 @@
             "E": "9 28 ACT-H31 2 (0,\u22123), (\u22122,0), DO"
           },
           "pageIndex": 28,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_28.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_28.jpg",
           "correct": "E"
         },
         {
@@ -822,7 +822,7 @@
             "K": "+1)(x +6) 2"
           },
           "pageIndex": 29,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_29.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_29.jpg",
           "correct": "G"
         },
         {
@@ -836,7 +836,7 @@
             "K": "greater than or equal to 1. STOP! DO NOT TURN TH DO NOT RE 29 ACT-H31"
           },
           "pageIndex": 29,
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_29.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/math/page_29.jpg",
           "correct": "J"
         }
       ]
@@ -977,7 +977,7 @@
         {
           "id": "passage-i",
           "title": "Passage i",
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg",
           "startPage": 38,
           "questions": [
             {
@@ -990,7 +990,7 @@
                 "D": "50 cm; the Ca2+ concentration at a soil depth of 50 cm was 0.4 meq/L less than that at a soil depth of 10 cm. 38 GO ON TO THE NEXT PAGE."
               },
               "correct": "C",
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
             },
             {
               "number": 2,
@@ -1002,7 +1002,7 @@
                 "J": "14 dS/m"
               },
               "correct": "J",
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
             },
             {
               "number": 3,
@@ -1014,7 +1014,7 @@
                 "D": "Between 36 months and 48 months"
               },
               "correct": "D",
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
             },
             {
               "number": 4,
@@ -1026,7 +1026,7 @@
                 "J": "independent independent 39 4"
               },
               "correct": "G",
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
             },
             {
               "number": 5,
@@ -1038,7 +1038,7 @@
                 "D": "No; at 12 months after planting, the electrical con- ductivity was lowest at a depth of 90 cm, but the Ca2+ concentration was lowest at a depth of 50 cm."
               },
               "correct": "B",
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
             },
             {
               "number": 6,
@@ -1050,14 +1050,14 @@
                 "J": "Neither 1 month nor 24 months 39 GO ON TO THE NEXT PAGE."
               },
               "correct": "G",
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
             }
           ]
         },
         {
           "id": "passage-ii",
           "title": "Passage II",
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_42.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_42.jpg",
           "startPage": 40,
           "questions": [
             {
@@ -1070,7 +1070,7 @@
                 "D": "Immediately after the percent recovery of the cad- mium was determined"
               },
               "correct": "B",
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_42.jpg"
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_42.jpg"
             },
             {
               "number": 8,
@@ -1082,7 +1082,7 @@
                 "J": "between 95% and 100%."
               },
               "correct": "F",
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_42.jpg"
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_42.jpg"
             },
             {
               "number": 9,
@@ -1094,14 +1094,14 @@
                 "D": "100% 40 GO ON TO THE NEXT PAGE."
               },
               "correct": "C",
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_42.jpg"
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_42.jpg"
             }
           ]
         },
         {
           "id": "passage-v",
           "title": "Passage V",
-          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_46.jpg",
+          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_46.jpg",
           "startPage": 46,
           "questions": [
             {
@@ -1118,7 +1118,7 @@
                 "D": "4.7 g. 46 GO ON TO THE NEXT PAGE."
               },
               "correct": "B",
-              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_46.jpg"
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/H31/science/page_46.jpg"
             }
           ]
         }
