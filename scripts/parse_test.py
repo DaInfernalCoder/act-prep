@@ -37,7 +37,8 @@ def get_col(page, x_ratio_start=0.0, x_ratio_end=1.0):
 CHOICE_LETTERS = 'ABCDEFGHJK'  # A/B/C/D/E (odd) and F/G/H/J/K (even)
 NOISE_RE = re.compile(
     r'^(?:\d+|ACT[-\w]*|GO ON TO THE NEXT PAGE\.?|END OF TEST \d+|'
-    r'STOP!?|DO NOT TURN THE PAGE UNTIL TOLD TO DO SO\.?)$',
+    r'STOP!?|(?:DO )?NOT TURN THE PAGE UNTIL TOLD TO DO SO\.?|'
+    r'DO NOT RETURN TO A PREVIOUS TEST\.?)$',
     re.IGNORECASE
 )
 
@@ -118,7 +119,8 @@ def clean_choice_text(text):
     """Remove page furniture that OCR sometimes appends to the last choice."""
     return re.split(
         r'\s+(?:GO ON TO THE NEXT PAGE\.?|END OF TEST \d+|STOP!?|'
-        r'DO NOT TURN THE PAGE UNTIL TOLD TO DO SO\.?|'
+        r'(?:DO )?NOT TURN THE PAGE UNTIL TOLD TO DO SO\.?|'
+        r'DO NOT RETURN TO A PREVIOUS TEST\.?|'
         r'Question \d+ asks about the preceding passage as a whole\.)',
         text,
         maxsplit=1,

@@ -28,7 +28,8 @@ FORMS = [
     ('ACT June 2022 E26.pdf', 'E26'),
 ]
 JUNK_RE = re.compile(
-    r'END OF TEST|GO ON TO THE NEXT PAGE|DO NOT TURN THE PAGE|'
+    r'END OF TEST|GO ON TO THE NEXT PAGE|(?:DO )?NOT TURN THE PAGE|'
+    r'DO NOT RETURN TO A PREVIOUS TEST|'
     r'Question \d+ asks about the preceding passage as a whole',
     re.IGNORECASE,
 )

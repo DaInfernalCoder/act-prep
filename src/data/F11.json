@@ -2365,7 +2365,7 @@
                 "F": "slightly greater.",
                 "G": "exactly the same.",
                 "H": "slightly less.",
-                "J": "significantly less. NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST."
+                "J": "significantly less."
               },
               "correct": "F",
               "lineRef": null,
