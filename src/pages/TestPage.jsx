@@ -152,7 +152,7 @@ export default function TestPage() {
             >
               <ChevronLeft size={16} /> Prev
             </button>
-            <span className="text-xs text-gray-400">Q{q.number} · {currentQuestionIndex + 1} / {total}</span>
+            <span className="text-xs text-gray-400">{currentQuestionIndex + 1} / {total}</span>
             <button
               onClick={() => goTo(currentQuestionIndex + 1)}
               disabled={currentQuestionIndex === total - 1}
