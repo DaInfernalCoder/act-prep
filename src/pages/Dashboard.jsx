@@ -3,7 +3,7 @@ import { Check, Trash2 } from 'lucide-react'
 import tests from '../data'
 
 export default function Dashboard() {
-  const { startTest, testResults } = useTestStore()
+  const { startTest, testResults, clearTestResults } = useTestStore()
 
   return (
     <div className="min-h-screen bg-[#f5f5f5] p-8">
@@ -56,9 +56,7 @@ function TestCard({ test, result, completed, onStart }) {
           <button
             onClick={() => {
               if (confirm('Clear results for this test?')) {
-                useTestStore.setState(s => ({
-                  testResults: s.testResults.filter(r => r.testId !== test.id)
-                }))
+                clearTestResults(test.id)
               }
             }}
             className="text-gray-300 hover:text-gray-500 transition-colors ml-2 flex-shrink-0"

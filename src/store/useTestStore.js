@@ -168,6 +168,18 @@ export const useTestStore = create(
         }
       },
 
+      clearTestResults: async (testId) => {
+        set((state) => ({
+          testResults: state.testResults.filter(r => r.testId !== testId),
+        }))
+        try {
+          const { supabase } = await import('../lib/supabase')
+          await supabase.from('act_test_results').delete().eq('test_id', testId)
+        } catch (e) {
+          console.error('Clear results failed:', e)
+        }
+      },
+
       resetToHome: () => set({
         activeTestId: null,
         currentSection: null,
