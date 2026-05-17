@@ -1,24 +1,15 @@
 import { useTestStore } from '../store/useTestStore'
-import { Check, Trash2, LogOut } from 'lucide-react'
-import { supabase } from '../lib/supabase'
+import { Check, Trash2 } from 'lucide-react'
 import tests from '../data'
 
-export default function Dashboard({ user }) {
+export default function Dashboard() {
   const { startTest, testResults } = useTestStore()
-
-  const signOut = async () => {
-    await supabase.auth.signOut()
-    useTestStore.setState({ testResults: [] })
-  }
 
   return (
     <div className="min-h-screen bg-[#f5f5f5] p-8">
       <div className="max-w-5xl mx-auto">
         <div className="flex items-center justify-between mb-8">
           <h1 className="text-2xl font-bold text-gray-900">Practice Tests</h1>
-          <button onClick={signOut} className="flex items-center gap-1.5 text-sm text-gray-400 hover:text-gray-700 transition-colors">
-            <LogOut size={15} /> Sign out
-          </button>
         </div>
 
         <div className="grid grid-cols-4 gap-4">

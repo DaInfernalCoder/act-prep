@@ -129,20 +129,16 @@ export const useTestStore = create(
         }
         set({ testResults: [...testResults, result] })
 
-        // Save to Supabase
+        // Save to Supabase (no auth needed — single user app)
         try {
           const { supabase } = await import('../lib/supabase')
-          const { data: { user } } = await supabase.auth.getUser()
-          if (user) {
-            await supabase.from('act_test_results').insert({
-              user_id: user.id,
-              test_id: activeTestId,
-              scores,
-              answers,
-              error_tags: errorTags,
-              mindset_notes: mindsetNotes,
-            })
-          }
+          await supabase.from('act_test_results').insert({
+            test_id: activeTestId,
+            scores,
+            answers,
+            error_tags: errorTags,
+            mindset_notes: mindsetNotes,
+          })
         } catch (e) {
           console.error('Cloud save failed:', e)
         }
