@@ -97,7 +97,7 @@ export default function TestPage() {
         {/* Left: page image */}
         <div className="flex-1 border-r border-gray-100 overflow-hidden">
           {leftImageSrc
-            ? <PageImage src={leftImageSrc} alt={`${currentSection} passage`} />
+            ? <PageImage key={leftImageSrc} src={leftImageSrc} alt={`${currentSection} passage`} />
             : <div className="h-full flex items-center justify-center text-gray-300 text-sm">No content</div>
           }
         </div>
