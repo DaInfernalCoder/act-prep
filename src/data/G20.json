@@ -1042,7 +1042,7 @@
             "E": "\u22124a3 \u2212 48"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_14.jpg",
           "correct": "C"
         },
         {
@@ -1056,7 +1056,7 @@
             "K": "$100.00 31 4"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_14.jpg",
           "correct": "J"
         },
         {
@@ -1067,7 +1067,7 @@
             "E": "15"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_14.jpg",
           "correct": "E"
         },
         {
@@ -1075,7 +1075,7 @@
           "stem": "The word a DO",
           "choices": {},
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_14.jpg",
           "correct": "H"
         },
         {
@@ -1087,7 +1087,7 @@
             "E": "4"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_15.jpg",
           "correct": "E"
         },
         {
@@ -1101,7 +1101,7 @@
             "K": "430 _9_"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_15.jpg",
           "correct": "H"
         },
         {
@@ -1115,7 +1115,7 @@
             "E": "81.0\u00b0F _1_"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_15.jpg",
           "correct": "D"
         },
         {
@@ -1123,7 +1123,7 @@
           "stem": "What number, when added to , gives a sum that is _1_ _1_ equal to the sum of and ? 4 6 _1__ F. _1_ G. _1_ H. _1_ J. _3_ K. \u2194 ___",
           "choices": {},
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_15.jpg",
           "correct": "F"
         },
         {
@@ -1137,7 +1137,7 @@
             "E": "26 www.crackab.com DO"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_15.jpg",
           "correct": "D"
         },
         {
@@ -1151,7 +1151,7 @@
             "K": "2012 to 2013"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_16.jpg",
           "correct": "G"
         },
         {
@@ -1165,7 +1165,7 @@
             "E": "$1,947.50"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_16.jpg",
           "correct": "E"
         },
         {
@@ -1179,7 +1179,7 @@
             "K": "354"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_16.jpg",
           "correct": "F"
         },
         {
@@ -1193,7 +1193,7 @@
             "E": "16 www.crackab.com DO"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_16.jpg",
           "correct": "B"
         },
         {
@@ -1207,7 +1207,7 @@
             "K": "150 D ___"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_17.jpg",
           "correct": "H"
         },
         {
@@ -1221,7 +1221,7 @@
             "E": "115\u00b0 www.actexam"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_17.jpg",
           "correct": "C"
         },
         {
@@ -1235,7 +1235,7 @@
             "K": "zero."
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_17.jpg",
           "correct": "G"
         },
         {
@@ -1249,7 +1249,7 @@
             "E": "10 _a_2a__4"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_17.jpg",
           "correct": "D"
         },
         {
@@ -1261,7 +1261,7 @@
             "H": "a a2 J. a12 K. www.crackab.com DO"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_17.jpg",
           "correct": "G"
         },
         {
@@ -1275,7 +1275,7 @@
             "E": "tan"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_18.jpg",
           "correct": "D"
         },
         {
@@ -1289,7 +1289,7 @@
             "K": "45 www.actexam = + = x2 \u2212"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_18.jpg",
           "correct": "K"
         },
         {
@@ -1305,7 +1305,7 @@
             "K": "14 24i x2 \u2212 \u2212 ="
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_18.jpg",
           "correct": "D"
         },
         {
@@ -1319,7 +1319,7 @@
             "K": ""
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_18.jpg",
           "correct": "J",
           "synthetic": true
         },
@@ -1333,7 +1333,7 @@
             "E": "06 www.crackab.com DO"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_18.jpg",
           "correct": "D"
         },
         {
@@ -1346,7 +1346,7 @@
             "H": ")sdnuop( www.actexam nekcihc 40 0 20406080 x beef (pounds)"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_19.jpg",
           "correct": "G"
         },
         {
@@ -1358,7 +1358,7 @@
             "E": "36 www.crackab.com =\u22129(x +1)2 +81 DO"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_19.jpg",
           "correct": "D"
         },
         {
@@ -1370,7 +1370,7 @@
             "K": "81 _1_ _1_"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_20.jpg",
           "correct": "H"
         },
         {
@@ -1380,7 +1380,7 @@
             "C": "2 2_1_ D. 2_1_ E."
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_20.jpg",
           "correct": "B"
         },
         {
@@ -1394,7 +1394,7 @@
             "K": "59"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_20.jpg",
           "correct": "H"
         },
         {
@@ -1408,7 +1408,7 @@
             "E": "2 hours 25 minutes"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_20.jpg",
           "correct": "C"
         },
         {
@@ -1418,7 +1418,7 @@
             "F": "1 _b_ G. a _b_ H. c _c_ J. a _c_ K. b www.crackab.com"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_20.jpg",
           "correct": "K"
         },
         {
@@ -1426,7 +1426,7 @@
           "stem": "The number line shown below is marked in equal DO intervals. Two fractions are indicated on the number line. One of the following fractions corresponds to the point marked P. Which one? P _1_ _5_ 4 4 _6_ A. _7_ B. _8_ C. _4_ D. _9_ E.",
           "choices": {},
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_21.jpg",
           "correct": "E"
         },
         {
@@ -1440,7 +1440,7 @@
             "K": "216\u00b0"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_21.jpg",
           "correct": "F"
         },
         {
@@ -1452,7 +1452,7 @@
             "E": "k(x) (0,5) C. x h(x) 00 06 03 00 (\u22121,1) 11 \u221216 x O www.crackab.com nPQR DO"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_21.jpg",
           "correct": "B"
         },
         {
@@ -1466,7 +1466,7 @@
             "K": "48 O _5_"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_22.jpg",
           "correct": "G"
         },
         {
@@ -1480,7 +1480,7 @@
             "E": "The graph of f(x) has an intercept at (0,0)."
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_22.jpg",
           "correct": "E"
         },
         {
@@ -1494,7 +1494,7 @@
             "K": "146 www.crackab.com DO Use the following information to answer questions 37\u201339. Josie has decided to make a new lampshade for her bedroom lamp. She will order materials from a website that offers 4 different print designs and 4 different color schemes that can be used with each design. The top and bottom edges of Josie\u2019s current lampshade are parallel circles with diameters of length 6 inches and 8 inches, as pictured below. The centers of the 2 circles are directly above and below one another."
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_22.jpg",
           "correct": "F"
         },
         {
@@ -1508,7 +1508,7 @@
             "E": "16:9 www.actexam"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_23.jpg",
           "correct": "C"
         },
         {
@@ -1522,7 +1522,7 @@
             "K": "48"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_23.jpg",
           "correct": "K"
         },
         {
@@ -1536,7 +1536,7 @@
             "E": "Isosceles trapezoid"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_23.jpg",
           "correct": "E"
         },
         {
@@ -1550,7 +1550,7 @@
             "K": "17 www.crackab.com DO"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_23.jpg",
           "correct": "G"
         },
         {
@@ -1564,7 +1564,7 @@
             "E": "ab \u2212 cd + ef"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_24.jpg",
           "correct": "C"
         },
         {
@@ -1579,7 +1579,7 @@
             "K": "a 3b"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_24.jpg",
           "correct": "H"
         },
         {
@@ -1593,7 +1593,7 @@
             "E": "224 www.crackab.com DO"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_24.jpg",
           "correct": "C"
         },
         {
@@ -1607,7 +1607,7 @@
             "K": "(x 1)(x 2) _2_ _2_ + _a_ ___b_ \u2260 \u2260"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_25.jpg",
           "correct": "K"
         },
         {
@@ -1618,7 +1618,7 @@
             "C": "6(a b) _2_(a_ + b__) _ _ D. __4_a_b_ __ E. 3(a + b) giwven bewlow, twhe firs.t anumbcer its exam"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_25.jpg",
           "correct": "D"
         },
         {
@@ -1632,7 +1632,7 @@
             "K": "A, B, C, D, and E"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_25.jpg",
           "correct": "G"
         },
         {
@@ -1643,7 +1643,7 @@
             "C": "4 _4__ 3 D. _1_6_ E. www.crackab.com nPQR \u2220P DO"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_25.jpg",
           "correct": "D"
         },
         {
@@ -1651,7 +1651,7 @@
           "stem": "In shown below, the measure of is 40\u00b0, PR = 110 meters, and the measure of \u2220R is 80\u00b0. Which of the following expressions gives QR, in meters? Q ? 40\u00b0 80\u00b0 P 110 R (Note: For a triangle with sides of length a, b, and c that are opposite angles \u2220A, \u2220B, and \u2220C, respectively, _s_in_ _\u2220_A__ _s_in_ _\u2220_B__ _si_n_ _\u2220_C__ = = .) a b c _1_1_0_ s_in_ _4_0__\u00b0 F. sin 60\u00b0 _1_1_0_ s_in_ _4_0__\u00b0 G. sin 80\u00b0 _1_1_0_ s_in_ _6_0__\u00b0 H. sin 40\u00b0 _1_1_0_ s_in_ _8_0__\u00b0 J. sin 40\u00b0 _1_1_0_ s_in_ _8_0__\u00b0 K. sin 60\u00b0 www.actexam",
           "choices": {},
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_26.jpg",
           "correct": "F"
         },
         {
@@ -1664,7 +1664,7 @@
             "E": "0525"
           },
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_26.jpg",
           "correct": "B"
         },
         {
@@ -1672,7 +1672,7 @@
           "stem": "Let A be the greatest whole number that is less than \u221a\u20224\u20222\u2022\u20220. Let B be the least whole number that is greater",
           "choices": {},
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_26.jpg",
           "correct": "F"
         },
         {
@@ -1686,7 +1686,7 @@
             "E": "One number is rational, and the other is irrational. www.crackab.com DO Use the following information to answer questions 52\u201354."
           },
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_26.jpg",
           "correct": "E"
         },
         {
@@ -1700,7 +1700,7 @@
             "K": "540"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_27.jpg",
           "correct": "J"
         },
         {
@@ -1714,7 +1714,7 @@
             "E": "60"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_27.jpg",
           "correct": "D"
         },
         {
@@ -1729,7 +1729,7 @@
             "K": "30 \u00b7 V(t) www.crackab.com DO"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_27.jpg",
           "correct": "F"
         },
         {
@@ -1743,7 +1743,7 @@
             "E": "327 y2 = + = \u2212"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_28.jpg",
           "correct": "C"
         },
         {
@@ -1757,7 +1757,7 @@
             "K": "3x"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_28.jpg",
           "correct": "K"
         },
         {
@@ -1771,7 +1771,7 @@
             "E": "64 www.crackab.com DO"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_28.jpg",
           "correct": "A"
         },
         {
@@ -1781,7 +1781,7 @@
             "A": "shirt will be randomly selected from a display of 23 shirts. The probability that the selected shirt will be _1_3_ long-sleeved is . The probability that the selected _8__ shirt will be white is . The probability that the _3__ selected shirt will be long-sleeved and white is . What is the probability that the selected shirt will be long-sleeved or white or both? _7__ F. _8__ G. _1_8_ H. _2_2_ J. _2_4_ K."
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_29.jpg",
           "correct": "H"
         },
         {
@@ -1792,7 +1792,7 @@
             "B": "(x (y 1 _x_ 2 _y__ 2 _ + =1 C. 8 5 _x_ 2 _y__ 2 _ + =1 D. 16 10 _x_ 2 _y__ 2 _ + =1 E. 64 25 \u2212 > +"
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_29.jpg",
           "correct": "E"
         },
         {
@@ -1806,7 +1806,7 @@
             "K": "I, II, and III"
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/G20/math/page_29.jpg",
           "correct": "G"
         }
       ]
@@ -1833,7 +1833,8 @@
                 "D": "an adult woman telling a story she has heard many times."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_30.jpg"
             },
             {
               "number": 2,
@@ -1845,7 +1846,8 @@
                 "J": "less certain that people tell stories to help others heal."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_30.jpg"
             },
             {
               "number": 3,
@@ -1857,7 +1859,8 @@
                 "D": "distinguish between stories that the mother told truthfully and stories that she lied about."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_30.jpg"
             },
             {
               "number": 4,
@@ -1869,7 +1872,8 @@
                 "J": "depict what Malinda Lee saw on the streets of New York in 1955. www.crac"
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_30.jpg"
             },
             {
               "number": 5,
@@ -1881,7 +1885,8 @@
                 "D": "thinking about girls."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_30.jpg"
             },
             {
               "number": 6,
@@ -1893,7 +1898,8 @@
                 "J": "that she could change things."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_30.jpg"
             },
             {
               "number": 7,
@@ -1905,7 +1911,8 @@
                 "D": "It invites genuine feeling into their relatively strained relationship. exam.net"
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_30.jpg"
             },
             {
               "number": 8,
@@ -1917,7 +1924,8 @@
                 "J": "performs her story as if she were onstage and then is disappointed that her daughter isn\u2019t impressed."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_30.jpg"
             },
             {
               "number": 9,
@@ -1929,7 +1937,8 @@
                 "D": "often gathered to discuss their favorite baseball players."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_30.jpg"
             },
             {
               "number": 10,
@@ -1941,9 +1950,11 @@
                 "J": "relaxed. 1"
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_30.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/G20/reading/page_30.jpg"
         },
         {
           "id": "passage-ii",
@@ -1962,7 +1973,8 @@
                 "D": "provide an overview of the ROMACONS project and its findings. 2"
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_31.jpg"
             },
             {
               "number": 12,
@@ -1974,7 +1986,8 @@
                 "J": "an opinion of the passage author\u2019s that is sup- ported by Oleson\u2019s and Jackson\u2019s remarks about Roman maritime concrete."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_31.jpg"
             },
             {
               "number": 13,
@@ -1986,7 +1999,8 @@
                 "D": "cement."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_31.jpg"
             },
             {
               "number": 14,
@@ -1998,7 +2012,8 @@
                 "J": "Lancaster\u2019s research in ancient vault-building."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_31.jpg"
             },
             {
               "number": 15,
@@ -2010,7 +2025,8 @@
                 "D": "chunks of concrete collected from the ruins of ancient Greek houses. www.crac"
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_31.jpg"
             },
             {
               "number": 16,
@@ -2022,7 +2038,8 @@
                 "J": "evidence that the Romans built ports throughout the Bay of Naples."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_31.jpg"
             },
             {
               "number": 17,
@@ -2034,7 +2051,8 @@
                 "D": "time-consuming to produce."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_31.jpg"
             },
             {
               "number": 18,
@@ -2046,7 +2064,8 @@
                 "J": "was used in port construction throughout the Bay of Naples."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_31.jpg"
             },
             {
               "number": 19,
@@ -2058,7 +2077,8 @@
                 "D": "unfortunate accidents."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_31.jpg"
             },
             {
               "number": 20,
@@ -2070,9 +2090,11 @@
                 "J": "The ash had been used for port construction in Greece. 3"
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_31.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/G20/reading/page_31.jpg"
         },
         {
           "id": "passage-iii",
@@ -2091,7 +2113,8 @@
                 "D": "underscore that McChristian\u2019s subject matter is often mundane."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_33.jpg"
             },
             {
               "number": 22,
@@ -2103,7 +2126,8 @@
                 "J": "mostly overgrown with no indication that people live nearby."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_33.jpg"
             },
             {
               "number": 23,
@@ -2115,7 +2139,8 @@
                 "D": "selects and arranges objects in her paintings."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_33.jpg"
             },
             {
               "number": 24,
@@ -2127,7 +2152,8 @@
                 "J": "have not been painted before, so people feel as if they are having a new experience. Questions 25\u201327 ask about Passage B."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_33.jpg"
             },
             {
               "number": 25,
@@ -2139,7 +2165,8 @@
                 "D": "helped her hone her painting skills. www.crac"
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_33.jpg"
             },
             {
               "number": 26,
@@ -2151,7 +2178,8 @@
                 "J": "traditional subject matter."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_33.jpg"
             },
             {
               "number": 27,
@@ -2163,7 +2191,8 @@
                 "D": "aid. Questions 28\u201330 ask about both passages."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_33.jpg"
             },
             {
               "number": 28,
@@ -2175,7 +2204,8 @@
                 "J": "Passage A describes the appeal of McChristian\u2019s paintings, whereas Passage B discusses the artists that influenced her work."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_33.jpg"
             },
             {
               "number": 29,
@@ -2187,7 +2217,8 @@
                 "D": "comparisons between McChristian\u2019s commercial art and her fine art."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_33.jpg"
             },
             {
               "number": 30,
@@ -2199,9 +2230,11 @@
                 "J": "McChristian usually paints scenes near Los Ange- les, but she painted her most famous works while visiting Europe. 5"
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_33.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/G20/reading/page_33.jpg"
         },
         {
           "id": "passage-iv",
@@ -2220,9 +2253,11 @@
                 "D": "analyze the processes that allow a transistor to work. 6"
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_34.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/G20/reading/page_34.jpg"
         },
         {
           "id": "passage-i",
@@ -2241,7 +2276,8 @@
                 "J": "Information regarding the placement of a news item about transistors in the New York Times"
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_36.jpg"
             },
             {
               "number": 33,
@@ -2253,7 +2289,8 @@
                 "D": "work less quickly."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_36.jpg"
             },
             {
               "number": 34,
@@ -2265,7 +2302,8 @@
                 "J": "computer designers were hesitant at first to make use of transistors."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_36.jpg"
             },
             {
               "number": 35,
@@ -2277,7 +2315,8 @@
                 "D": "persuade Shockley to bring Walter Brattain into the project."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_36.jpg"
             },
             {
               "number": 36,
@@ -2289,7 +2328,8 @@
                 "J": "Since the invention of transistors, journalists have made significant progress in their understanding of technology."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_36.jpg"
             },
             {
               "number": 37,
@@ -2301,7 +2341,8 @@
                 "D": "Transistors are made up of a series of logic gates."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_36.jpg"
             },
             {
               "number": 38,
@@ -2313,7 +2354,8 @@
                 "J": "allow a large number of interconnected transistors to be contained in one computer. exam.net"
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_36.jpg"
             },
             {
               "number": 39,
@@ -2325,7 +2367,8 @@
                 "D": "speed at which transistors became integrated into many technologies."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_36.jpg"
             },
             {
               "number": 40,
@@ -2337,9 +2380,11 @@
                 "J": "similar process being adopted in the manufactur- ing of hearing aids. NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST. ckab.com"
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/G20/reading/page_36.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/G20/reading/page_36.jpg"
         }
       ]
     },
@@ -2351,7 +2396,7 @@
         {
           "id": "passage-i",
           "title": "Passage I",
-          "imageSrc": "/tests/G20/science/passage_passage-i.jpg",
+          "imageSrc": "/tests/G20/science/page_38.jpg",
           "startPage": 38,
           "questions": [
             {
@@ -2364,7 +2409,7 @@
                 "D": "Site 8 www.crac"
               },
               "correct": "A",
-              "imageSrc": "/tests/G20/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/G20/science/page_38.jpg"
             },
             {
               "number": 2,
@@ -2376,7 +2421,7 @@
                 "J": "Pump Teflon tube Rn detector"
               },
               "correct": "F",
-              "imageSrc": "/tests/G20/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/G20/science/page_38.jpg"
             },
             {
               "number": 4,
@@ -2388,7 +2433,7 @@
                 "J": "6"
               },
               "correct": "H",
-              "imageSrc": "/tests/G20/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/G20/science/page_38.jpg"
             },
             {
               "number": 5,
@@ -2400,7 +2445,7 @@
                 "D": "decreased, then increased."
               },
               "correct": "A",
-              "imageSrc": "/tests/G20/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/G20/science/page_38.jpg"
             },
             {
               "number": 6,
@@ -2412,7 +2457,7 @@
                 "J": "175 km"
               },
               "correct": "H",
-              "imageSrc": "/tests/G20/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/G20/science/page_38.jpg"
             },
             {
               "number": 7,
@@ -2424,14 +2469,14 @@
                 "D": "Cannot be determined from the given information 9"
               },
               "correct": "C",
-              "imageSrc": "/tests/G20/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/G20/science/page_38.jpg"
             }
           ]
         },
         {
           "id": "passage-ii",
           "title": "Passage II",
-          "imageSrc": "/tests/G20/science/passage_passage-ii.jpg",
+          "imageSrc": "/tests/G20/science/page_40.jpg",
           "startPage": 40,
           "questions": [
             {
@@ -2444,7 +2489,7 @@
                 "J": "decreased and then increased."
               },
               "correct": "F",
-              "imageSrc": "/tests/G20/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/G20/science/page_40.jpg"
             },
             {
               "number": 9,
@@ -2456,7 +2501,7 @@
                 "D": "10 m/s"
               },
               "correct": "B",
-              "imageSrc": "/tests/G20/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/G20/science/page_40.jpg"
             },
             {
               "number": 10,
@@ -2468,7 +2513,7 @@
                 "J": "20 m/s www.acte www.crac 9\u221212"
               },
               "correct": "G",
-              "imageSrc": "/tests/G20/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/G20/science/page_40.jpg"
             },
             {
               "number": 11,
@@ -2480,7 +2525,7 @@
                 "D": "v"
               },
               "correct": "A",
-              "imageSrc": "/tests/G20/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/G20/science/page_40.jpg"
             },
             {
               "number": 12,
@@ -2492,7 +2537,7 @@
                 "J": "Trial 12"
               },
               "correct": "J",
-              "imageSrc": "/tests/G20/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/G20/science/page_40.jpg"
             },
             {
               "number": 13,
@@ -2504,14 +2549,14 @@
                 "D": "1,000 exam.net 1"
               },
               "correct": "D",
-              "imageSrc": "/tests/G20/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/G20/science/page_40.jpg"
             }
           ]
         },
         {
           "id": "passage-iii",
           "title": "Passage III",
-          "imageSrc": "/tests/G20/science/passage_passage-iii.jpg",
+          "imageSrc": "/tests/G20/science/page_42.jpg",
           "startPage": 42,
           "questions": [
             {
@@ -2524,7 +2569,7 @@
                 "J": "Iapetus"
               },
               "correct": "H",
-              "imageSrc": "/tests/G20/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/G20/science/page_42.jpg"
             },
             {
               "number": 15,
@@ -2536,7 +2581,7 @@
                 "D": "Elliptical, because most of the plotted moons have < < an orbit for which 0 e 1. www.crac"
               },
               "correct": "D",
-              "imageSrc": "/tests/G20/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/G20/science/page_42.jpg"
             },
             {
               "number": 16,
@@ -2548,7 +2593,7 @@
                 "J": "1032 J"
               },
               "correct": "G",
-              "imageSrc": "/tests/G20/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/G20/science/page_42.jpg"
             },
             {
               "number": 17,
@@ -2560,7 +2605,7 @@
                 "D": "I, II, and III"
               },
               "correct": "C",
-              "imageSrc": "/tests/G20/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/G20/science/page_42.jpg"
             },
             {
               "number": 18,
@@ -2572,7 +2617,7 @@
                 "J": "1024 J to 1028 J"
               },
               "correct": "G",
-              "imageSrc": "/tests/G20/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/G20/science/page_42.jpg"
             },
             {
               "number": 19,
@@ -2584,14 +2629,14 @@
                 "D": "17 0.45 3"
               },
               "correct": "D",
-              "imageSrc": "/tests/G20/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/G20/science/page_42.jpg"
             }
           ]
         },
         {
           "id": "passage-iv",
           "title": "Passage IV",
-          "imageSrc": "/tests/G20/science/passage_passage-iv.jpg",
+          "imageSrc": "/tests/G20/science/page_44.jpg",
           "startPage": 44,
           "questions": [
             {
@@ -2604,7 +2649,7 @@
                 "J": "Only male R. mehelyi calls were played."
               },
               "correct": "F",
-              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/G20/science/page_44.jpg"
             },
             {
               "number": 20,
@@ -2616,7 +2661,7 @@
                 "J": "Females choose mates on the basis of the loudness of the potential mates\u2019 calls."
               },
               "correct": "H",
-              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/G20/science/page_44.jpg"
             },
             {
               "number": 21,
@@ -2628,7 +2673,7 @@
                 "D": "112 kHz are more likely to attract more females and have higher reproductive fitness than are male R. mehelyi that emit calls with a peak frequency of 104 kHz. 4"
               },
               "correct": "D",
-              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/G20/science/page_44.jpg"
             },
             {
               "number": 23,
@@ -2638,7 +2683,7 @@
                 "D": "4"
               },
               "correct": "B",
-              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/G20/science/page_44.jpg"
             },
             {
               "number": 24,
@@ -2650,7 +2695,7 @@
                 "J": "(12 61) (225 www.crac"
               },
               "correct": "J",
-              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/G20/science/page_44.jpg"
             },
             {
               "number": 25,
@@ -2662,7 +2707,7 @@
                 "D": "Recording bats while they were stationary"
               },
               "correct": "D",
-              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/G20/science/page_44.jpg"
             },
             {
               "number": 26,
@@ -2674,14 +2719,14 @@
                 "J": "No; 109 kHz is not in the audible range of sound exafomr huma.nsn. et 5"
               },
               "correct": "J",
-              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/G20/science/page_44.jpg"
             }
           ]
         },
         {
           "id": "passage-v",
           "title": "Passage V",
-          "imageSrc": "/tests/G20/science/passage_passage-v.jpg",
+          "imageSrc": "/tests/G20/science/page_46.jpg",
           "startPage": 46,
           "questions": [
             {
@@ -2694,7 +2739,7 @@
                 "D": "Yes; the concentration of was 96.5 mg/kg for Variety X and 37.5 mg/kg for Variety Y."
               },
               "correct": "A",
-              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/G20/science/page_46.jpg"
             },
             {
               "number": 28,
@@ -2706,7 +2751,7 @@
                 "J": "Variety Y; a lower concentration corresponds to a higher absorbance."
               },
               "correct": "F",
-              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/G20/science/page_46.jpg"
             },
             {
               "number": 29,
@@ -2718,7 +2763,7 @@
                 "D": "greater than 96.5 mg/kg. www.crac"
               },
               "correct": "B",
-              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/G20/science/page_46.jpg"
             },
             {
               "number": 30,
@@ -2730,7 +2775,7 @@
                 "J": "Greater than 7.0; the liquid was a base."
               },
               "correct": "F",
-              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/G20/science/page_46.jpg"
             },
             {
               "number": 31,
@@ -2742,7 +2787,7 @@
                 "D": "28"
               },
               "correct": "C",
-              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/G20/science/page_46.jpg"
             },
             {
               "number": 32,
@@ -2754,7 +2799,7 @@
                 "J": "light that passed through the flame."
               },
               "correct": "J",
-              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/G20/science/page_46.jpg"
             },
             {
               "number": 33,
@@ -2766,14 +2811,14 @@
                 "D": "stay the same decrease 7"
               },
               "correct": "D",
-              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/G20/science/page_46.jpg"
             }
           ]
         },
         {
           "id": "passage-vi",
           "title": "Passage VI",
-          "imageSrc": "/tests/G20/science/passage_passage-vi.jpg",
+          "imageSrc": "/tests/G20/science/page_48.jpg",
           "startPage": 48,
           "questions": [
             {
@@ -2786,7 +2831,7 @@
                 "J": "crocodiles than with the other groups of organisms."
               },
               "correct": "H",
-              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/G20/science/page_48.jpg"
             },
             {
               "number": 35,
@@ -2798,7 +2843,7 @@
                 "D": "Students 1 and 3 only 8"
               },
               "correct": "C",
-              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/G20/science/page_48.jpg"
             },
             {
               "number": 36,
@@ -2808,7 +2853,7 @@
                 "J": "snakes lizards lizards tuatara crocodiles crocodiles birds birds tuatara turtles turtles"
               },
               "correct": "G",
-              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/G20/science/page_48.jpg"
             },
             {
               "number": 37,
@@ -2820,7 +2865,7 @@
                 "D": "3 S www.crac"
               },
               "correct": "C",
-              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/G20/science/page_48.jpg"
             },
             {
               "number": 38,
@@ -2832,7 +2877,7 @@
                 "J": "4"
               },
               "correct": "F",
-              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/G20/science/page_48.jpg"
             },
             {
               "number": 39,
@@ -2844,7 +2889,7 @@
                 "D": "3 4"
               },
               "correct": "A",
-              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/G20/science/page_48.jpg"
             },
             {
               "number": 40,
@@ -2856,7 +2901,7 @@
                 "J": "Students 1 and 3 only"
               },
               "correct": "J",
-              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/G20/science/page_48.jpg"
             }
           ]
         }

@@ -1034,7 +1034,7 @@
           "stem": "Given that f(x) what is ? \u221231 A. \u221229 B. \u2022_5_\u2022 C. \u221a3 3 _5_ D. _3_1_ E.",
           "choices": {},
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_14.jpg",
           "correct": "A"
         },
         {
@@ -1044,7 +1044,7 @@
             "F": "0 _1_ G. _1_ H. _1_ J. _7_ K."
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_14.jpg",
           "correct": "K"
         },
         {
@@ -1052,7 +1052,7 @@
           "stem": "Dawn randomly selected 6books from the teen library, read them, and then rated them as follows: 40, 60, 10,",
           "choices": {},
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_14.jpg",
           "correct": "C"
         },
         {
@@ -1060,7 +1060,7 @@
           "stem": "The word a =3x3\u22127, f(\u22122) DO",
           "choices": {},
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_14.jpg",
           "correct": "H"
         },
         {
@@ -1070,7 +1070,7 @@
             "A": "city bus picks up and drops off passengers according to the table below. The bus has 0 passengers before"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_15.jpg",
           "correct": "C"
         },
         {
@@ -1082,7 +1082,7 @@
             "K": "0,11 = = \u221220, +"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_15.jpg",
           "correct": "H"
         },
         {
@@ -1095,7 +1095,7 @@
             "E": "400 \u2297 a\u2297b=a2b. a=5 DO"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_15.jpg",
           "correct": "B"
         },
         {
@@ -1109,7 +1109,7 @@
             "K": "2,500 \u2194 ___"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_16.jpg",
           "correct": "G"
         },
         {
@@ -1123,7 +1123,7 @@
             "E": "22"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_16.jpg",
           "correct": "D"
         },
         {
@@ -1137,7 +1137,7 @@
             "K": "\u22122"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_16.jpg",
           "correct": "G"
         },
         {
@@ -1151,7 +1151,7 @@
             "E": "r r"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_16.jpg",
           "correct": "E"
         },
         {
@@ -1165,7 +1165,7 @@
             "K": "112\u00b0 DO"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_16.jpg",
           "correct": "J"
         },
         {
@@ -1179,7 +1179,7 @@
             "E": "30"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_17.jpg",
           "correct": "A"
         },
         {
@@ -1192,7 +1192,7 @@
             "K": "28"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_17.jpg",
           "correct": "G"
         },
         {
@@ -1206,7 +1206,7 @@
             "E": "12"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_17.jpg",
           "correct": "B"
         },
         {
@@ -1220,7 +1220,7 @@
             "K": "1,450.4"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_17.jpg",
           "correct": "G"
         },
         {
@@ -1228,7 +1228,7 @@
           "stem": "The 1st term of Pattern A is 2. The rule to find each subsequent term is to multiply the previous term by 2",
           "choices": {},
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_17.jpg",
           "correct": "C"
         },
         {
@@ -1242,7 +1242,7 @@
             "K": "x"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_18.jpg",
           "correct": "F"
         },
         {
@@ -1250,7 +1250,7 @@
           "stem": "One of the following graphs is that of the solution set",
           "choices": {},
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_18.jpg",
           "correct": "B"
         },
         {
@@ -1264,7 +1264,7 @@
             "K": "It is neither irrational nor rational."
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_18.jpg",
           "correct": "G"
         },
         {
@@ -1283,7 +1283,7 @@
             "K": "(8,10) DO"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_18.jpg",
           "correct": "B"
         },
         {
@@ -1297,7 +1297,7 @@
             "K": ""
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_18.jpg",
           "correct": "H",
           "synthetic": true
         },
@@ -1312,7 +1312,7 @@
             "E": "Triangular pyramid"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_19.jpg",
           "correct": "A"
         },
         {
@@ -1326,7 +1326,7 @@
             "K": "5,720"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_19.jpg",
           "correct": "G"
         },
         {
@@ -1340,7 +1340,7 @@
             "E": "Reflection over the x-axis and then a translation to the left DO"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_19.jpg",
           "correct": "E"
         },
         {
@@ -1355,7 +1355,7 @@
             "K": "13"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_20.jpg",
           "correct": "G"
         },
         {
@@ -1369,7 +1369,7 @@
             "E": "y"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_20.jpg",
           "correct": "D"
         },
         {
@@ -1383,7 +1383,7 @@
             "K": "10.5"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_20.jpg",
           "correct": "F"
         },
         {
@@ -1397,7 +1397,7 @@
             "D": "D"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_20.jpg",
           "correct": "E"
         },
         {
@@ -1411,7 +1411,7 @@
             "K": "$133,225.00"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_21.jpg",
           "correct": "J"
         },
         {
@@ -1424,7 +1424,7 @@
             "E": "0 7"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_21.jpg",
           "correct": "C"
         },
         {
@@ -1438,7 +1438,7 @@
             "K": "50"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_21.jpg",
           "correct": "J"
         },
         {
@@ -1451,7 +1451,7 @@
             "E": "14 i2=\u22121, \u22122i(3 +4i) \u22123(2 +5i) =? DO"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_21.jpg",
           "correct": "E"
         },
         {
@@ -1465,7 +1465,7 @@
             "K": "14 +09i"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_22.jpg",
           "correct": "H"
         },
         {
@@ -1479,7 +1479,7 @@
             "E": "0.47 ="
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_22.jpg",
           "correct": "A"
         },
         {
@@ -1493,7 +1493,7 @@
             "K": "3 for x=\u22122 x=\u22122 2 for DO"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_22.jpg",
           "correct": "F"
         },
         {
@@ -1503,7 +1503,7 @@
             "A": "restaurant conducted a survey to determine whether its customers like or dislike corn bread and whether they like or dislike banana bread. The table below shows the results of the survey. Like corn Dislike corn bread bread Total Like banana bread 078 57 135 Dislike banana 082 32 114 bread Total 160 89 249 Given that a customer selected at random from those surveyed likes corn bread, what is the probability that the customer dislikes banana bread? _8_2__ A. _8_2__ B. _1_1_4_ C. _1_6_0_ D. _1_9_2_ E. _a_ 8b"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_23.jpg",
           "correct": "B"
         },
         {
@@ -1511,7 +1511,7 @@
           "stem": "For all positive values of aand b, is equivalent to: \u221a8 \u2022b\u2022a F. \u221ab \u2022a\u20228 G. \u221aa \u2022b\u20228 H. \u221aa \u2022\u20228\u2022\u2022b J. \u221ab \u20228\u2022a K.",
           "choices": {},
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_23.jpg",
           "correct": "K"
         },
         {
@@ -1525,7 +1525,7 @@
             "E": "40,320"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_23.jpg",
           "correct": "C"
         },
         {
@@ -1539,7 +1539,7 @@
             "E": "80 DO"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_14.jpg",
           "correct": "J"
         },
         {
@@ -1553,7 +1553,7 @@
             "E": "Not enough flips were performed to accurately predict whether the coin is unfair. ___ ___ nABC"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_24.jpg",
           "correct": "E"
         },
         {
@@ -1566,7 +1566,7 @@
             "J": "120 120\u221a\u20223 K. _1_ab(sin,C), DO"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_24.jpg",
           "correct": "H"
         },
         {
@@ -1580,7 +1580,7 @@
             "E": "43"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_25.jpg",
           "correct": "B"
         },
         {
@@ -1592,7 +1592,7 @@
             "K": "6"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_25.jpg",
           "correct": "F"
         },
         {
@@ -1604,7 +1604,7 @@
             "A": "small company has 12 employees and 5 job titles. The job title, number of employees with that title, and monthly salary of each employee with that title are given in the table below. Monthly salary Number of of each Job title employees employee Supervisor 1 $7,500 Software Engineer 5 $6,000 Hardware Engineer 3 $5,500 Accountant 2 $4,500 Assistant 1 $3,000"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_25.jpg",
           "correct": "D"
         },
         {
@@ -1618,7 +1618,7 @@
             "K": "90%"
           },
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_26.jpg",
           "correct": "J"
         },
         {
@@ -1632,7 +1632,7 @@
             "E": "x <4,700 or x >6,300"
           },
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_26.jpg",
           "correct": "E"
         },
         {
@@ -1646,7 +1646,7 @@
             "K": "$500 DO"
           },
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_26.jpg",
           "correct": "J"
         },
         {
@@ -1660,7 +1660,7 @@
             "E": "y x4\u22129 =0"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_27.jpg",
           "correct": "A"
         },
         {
@@ -1672,7 +1672,7 @@
             "K": "\u00b19"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_27.jpg",
           "correct": "F"
         },
         {
@@ -1686,7 +1686,7 @@
             "E": "52.8"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_27.jpg",
           "correct": "B"
         },
         {
@@ -1700,7 +1700,7 @@
             "K": "64 _3_x_3_4"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_27.jpg",
           "correct": "F"
         },
         {
@@ -1711,7 +1711,7 @@
             "D": "22 E. 54."
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_28.jpg",
           "correct": "D"
         },
         {
@@ -1725,7 +1725,7 @@
             "K": ""
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_28.jpg",
           "correct": "K",
           "synthetic": true
         },
@@ -1739,7 +1739,7 @@
             "E": "13.1 B A"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_28.jpg",
           "correct": "C"
         },
         {
@@ -1751,7 +1751,7 @@
             "K": "_\u2212\u221a\u20223,1+ DO"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_28.jpg",
           "correct": "K"
         },
         {
@@ -1765,7 +1765,7 @@
             "E": "10"
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_29.jpg",
           "correct": "E"
         },
         {
@@ -1780,7 +1780,7 @@
             "K": "300 \u2264 \u2264"
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_29.jpg",
           "correct": "J"
         },
         {
@@ -1794,7 +1794,7 @@
             "E": "60\u00b0 and 150\u00b0 16\u03c0feet."
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_29.jpg",
           "correct": "A"
         },
         {
@@ -1808,7 +1808,7 @@
             "K": "32\u221a\u20222"
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/H11/math/page_29.jpg",
           "correct": "K"
         }
       ]
@@ -1835,7 +1835,8 @@
                 "D": "The narrator and his family\u2019s visit to Radio City Music Hall in New York City"
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_30.jpg"
             },
             {
               "number": 2,
@@ -1847,7 +1848,8 @@
                 "J": "an adult recounting how he became interested in his Polish roots."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_30.jpg"
             },
             {
               "number": 3,
@@ -1859,7 +1861,8 @@
                 "D": "gave him a way of distinguishing himself from his friends and family."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_30.jpg"
             },
             {
               "number": 4,
@@ -1871,7 +1874,8 @@
                 "J": "embellish stories that the narrator used to justify his father\u2019s remoteness."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_30.jpg"
             },
             {
               "number": 5,
@@ -1883,7 +1887,8 @@
                 "D": "He disliked accompanying his father, but admired his father\u2019s ability to improvise fugues."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_30.jpg"
             },
             {
               "number": 6,
@@ -1895,7 +1900,8 @@
                 "J": "fact that his father played the piano."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_30.jpg"
             },
             {
               "number": 7,
@@ -1907,7 +1913,8 @@
                 "D": "reassured."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_30.jpg"
             },
             {
               "number": 8,
@@ -1919,7 +1926,8 @@
                 "J": "performed with."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_30.jpg"
             },
             {
               "number": 9,
@@ -1931,7 +1939,8 @@
                 "D": "the narrator learned about the activities his father enjoyed as a child."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_30.jpg"
             },
             {
               "number": 10,
@@ -1943,9 +1952,11 @@
                 "J": "delightful. 31"
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_30.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/H11/reading/page_30.jpg"
         },
         {
           "id": "passage-ii",
@@ -1964,7 +1975,8 @@
                 "D": "analyze ways in which the mirror caused European artists to be more innovative."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_32.jpg"
             },
             {
               "number": 12,
@@ -1976,7 +1988,8 @@
                 "J": "Both Leonardo and MacFarlane 32"
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_32.jpg"
             },
             {
               "number": 13,
@@ -1988,7 +2001,8 @@
                 "D": "mirror\u2019s transformation of social conventions and property rights."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_32.jpg"
             },
             {
               "number": 14,
@@ -2000,7 +2014,8 @@
                 "J": "the extended royal family painting portraits of King Philip IV and Queen Mariana of Spain."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_32.jpg"
             },
             {
               "number": 15,
@@ -2012,7 +2027,8 @@
                 "D": "glass lenses and mirrors helped humans depict the natural world much more accurately."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_32.jpg"
             },
             {
               "number": 16,
@@ -2024,7 +2040,8 @@
                 "J": "more obvious but less transformative."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_32.jpg"
             },
             {
               "number": 17,
@@ -2036,7 +2053,8 @@
                 "D": "psychological novels prompted people to spend more time examining themselves in mirrors."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_32.jpg"
             },
             {
               "number": 18,
@@ -2048,7 +2066,8 @@
                 "J": "insubstantial; each developed independently of the other."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_32.jpg"
             },
             {
               "number": 19,
@@ -2060,7 +2079,8 @@
                 "D": "not painted very accurately."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_32.jpg"
             },
             {
               "number": 20,
@@ -2072,9 +2092,11 @@
                 "J": "resolutions. 33"
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_32.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/H11/reading/page_32.jpg"
         },
         {
           "id": "passage-iii",
@@ -2093,7 +2115,8 @@
                 "D": "Marshall painted Portrait of the Artist as a Shadow of His Former Self."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_34.jpg"
             },
             {
               "number": 22,
@@ -2105,7 +2128,8 @@
                 "J": "influential; the painting drew attention to the lack of black representation in the museum."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_34.jpg"
             },
             {
               "number": 23,
@@ -2117,7 +2141,8 @@
                 "D": "creating a photonegative effect between his sub- ject and the background of the painting."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_34.jpg"
             },
             {
               "number": 24,
@@ -2129,7 +2154,8 @@
                 "J": "provide a comprehensive list of paintings Marshall has completed during his artistic career."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_34.jpg"
             },
             {
               "number": 25,
@@ -2141,7 +2167,8 @@
                 "D": "Marshall\u2019s use of unexpected images in his por- trayal of America is needlessly extravagant."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_34.jpg"
             },
             {
               "number": 26,
@@ -2153,7 +2180,8 @@
                 "J": "snubbed only by high-minded artists."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_34.jpg"
             },
             {
               "number": 27,
@@ -2165,7 +2193,8 @@
                 "D": "Characteristic elements of the work Marshall creates"
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_34.jpg"
             },
             {
               "number": 28,
@@ -2177,7 +2206,8 @@
                 "J": "\u201cThe selection in the Tower presents Marshall to us as a modern day History Painter\u201d (lines 59\u201360)."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_34.jpg"
             },
             {
               "number": 29,
@@ -2189,7 +2219,8 @@
                 "D": "glitter."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_34.jpg"
             },
             {
               "number": 30,
@@ -2201,9 +2232,11 @@
                 "J": "conservative in its approach to the African- American experience. 35"
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_34.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/H11/reading/page_34.jpg"
         },
         {
           "id": "passage-iv",
@@ -2222,7 +2255,8 @@
                 "D": "The four-color theorem was proven. 36"
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_36.jpg"
             },
             {
               "number": 32,
@@ -2234,7 +2268,8 @@
                 "J": "provide an account of the first rebuttal of the Hon- eycomb Conjecture."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_36.jpg"
             },
             {
               "number": 33,
@@ -2246,7 +2281,8 @@
                 "D": "exaggerated."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_36.jpg"
             },
             {
               "number": 34,
@@ -2258,7 +2294,8 @@
                 "J": "handled."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_36.jpg"
             },
             {
               "number": 35,
@@ -2270,7 +2307,8 @@
                 "D": "mathematicians prefer verifying the results of proofs completed by hand to verifying the results of computer-assisted proofs."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_36.jpg"
             },
             {
               "number": 36,
@@ -2282,7 +2320,8 @@
                 "J": "was just twenty pages long."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_36.jpg"
             },
             {
               "number": 37,
@@ -2294,7 +2333,8 @@
                 "D": "Raleigh"
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_36.jpg"
             },
             {
               "number": 38,
@@ -2306,7 +2346,8 @@
                 "J": "an amateur journal."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_36.jpg"
             },
             {
               "number": 39,
@@ -2318,7 +2359,8 @@
                 "D": "9 pounds"
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_36.jpg"
             },
             {
               "number": 40,
@@ -2330,9 +2372,11 @@
                 "J": "evolving. NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H11/reading/page_36.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/H11/reading/page_36.jpg"
         }
       ]
     },
@@ -2344,7 +2388,7 @@
         {
           "id": "passage-i",
           "title": "Passage i",
-          "imageSrc": "/tests/H11/science/passage_passage-i.jpg",
+          "imageSrc": "/tests/H11/science/page_38.jpg",
           "startPage": 38,
           "questions": [
             {
@@ -2357,7 +2401,7 @@
                 "D": "Types Y and Z"
               },
               "correct": "D",
-              "imageSrc": "/tests/H11/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/H11/science/page_38.jpg"
             },
             {
               "number": 2,
@@ -2369,7 +2413,7 @@
                 "J": "No; Type X was made from dried algae. 38"
               },
               "correct": "G",
-              "imageSrc": "/tests/H11/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/H11/science/page_38.jpg"
             },
             {
               "number": 3,
@@ -2379,7 +2423,7 @@
                 "D": "4"
               },
               "correct": "D",
-              "imageSrc": "/tests/H11/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/H11/science/page_38.jpg"
             },
             {
               "number": 5,
@@ -2391,7 +2435,7 @@
                 "D": "Less; a smaller volume of water would increase in temperature by a smaller amount when burning each fuel."
               },
               "correct": "C",
-              "imageSrc": "/tests/H11/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/H11/science/page_38.jpg"
             },
             {
               "number": 6,
@@ -2403,14 +2447,14 @@
                 "J": "Type Z 39"
               },
               "correct": "H",
-              "imageSrc": "/tests/H11/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/H11/science/page_38.jpg"
             }
           ]
         },
         {
           "id": "passage-ii",
           "title": "Passage II",
-          "imageSrc": "/tests/H11/science/passage_passage-ii.jpg",
+          "imageSrc": "/tests/H11/science/page_40.jpg",
           "startPage": 40,
           "questions": [
             {
@@ -2423,7 +2467,7 @@
                 "D": "keep bacteria from spreading to other parts of the plant."
               },
               "correct": "B",
-              "imageSrc": "/tests/H11/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H11/science/page_40.jpg"
             },
             {
               "number": 8,
@@ -2435,7 +2479,7 @@
                 "J": "Students 1, 2, 3, and 4 40"
               },
               "correct": "G",
-              "imageSrc": "/tests/H11/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H11/science/page_40.jpg"
             },
             {
               "number": 9,
@@ -2447,7 +2491,7 @@
                 "D": "nonsterile soil and added the bacteria to 200 of the pots."
               },
               "correct": "A",
-              "imageSrc": "/tests/H11/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H11/science/page_40.jpg"
             },
             {
               "number": 10,
@@ -2459,7 +2503,7 @@
                 "J": "Student 3; Student 3 predicted that the plants would grow larger when the bacteria were absent."
               },
               "correct": "F",
-              "imageSrc": "/tests/H11/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H11/science/page_40.jpg"
             },
             {
               "number": 11,
@@ -2471,7 +2515,7 @@
                 "D": "None of the students"
               },
               "correct": "C",
-              "imageSrc": "/tests/H11/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H11/science/page_40.jpg"
             },
             {
               "number": 12,
@@ -2483,7 +2527,7 @@
                 "J": "Neither Student 1 nor Student 4"
               },
               "correct": "J",
-              "imageSrc": "/tests/H11/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H11/science/page_40.jpg"
             },
             {
               "number": 13,
@@ -2495,14 +2539,14 @@
                 "D": "4 41"
               },
               "correct": "A",
-              "imageSrc": "/tests/H11/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H11/science/page_40.jpg"
             }
           ]
         },
         {
           "id": "passage-iii",
           "title": "Passage III",
-          "imageSrc": "/tests/H11/science/passage_passage-iii.jpg",
+          "imageSrc": "/tests/H11/science/page_42.jpg",
           "startPage": 42,
           "questions": [
             {
@@ -2513,7 +2557,7 @@
                 "K": "M. Moulding, and S. Anketell-Jones, \u201cCollisions Between Elastic Bodies: Newton\u2019s Cradle.\u201d \u00a91988 by IOP Publishing. 42"
               },
               "correct": "D",
-              "imageSrc": "/tests/H11/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H11/science/page_42.jpg"
             },
             {
               "number": 14,
@@ -2525,7 +2569,7 @@
                 "J": "6 release heights were tested, whereas in Study 2, only 3 release heights were tested."
               },
               "correct": "F",
-              "imageSrc": "/tests/H11/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H11/science/page_42.jpg"
             },
             {
               "number": 15,
@@ -2537,7 +2581,7 @@
                 "D": "250 \u03bcs"
               },
               "correct": "A",
-              "imageSrc": "/tests/H11/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H11/science/page_42.jpg"
             },
             {
               "number": 16,
@@ -2549,7 +2593,7 @@
                 "J": "18"
               },
               "correct": "J",
-              "imageSrc": "/tests/H11/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H11/science/page_42.jpg"
             },
             {
               "number": 17,
@@ -2561,7 +2605,7 @@
                 "D": "10.0 cm"
               },
               "correct": "D",
-              "imageSrc": "/tests/H11/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H11/science/page_42.jpg"
             },
             {
               "number": 18,
@@ -2573,7 +2617,7 @@
                 "J": "No; for rows with the same number of spheres, the interaction time in Study 2 was longer than the corresponding interaction time in Study 1."
               },
               "correct": "G",
-              "imageSrc": "/tests/H11/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H11/science/page_42.jpg"
             },
             {
               "number": 19,
@@ -2585,7 +2629,7 @@
                 "D": "65 \u03bcs"
               },
               "correct": "C",
-              "imageSrc": "/tests/H11/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H11/science/page_42.jpg"
             },
             {
               "number": 20,
@@ -2597,14 +2641,14 @@
                 "J": "greater than 300 \u03bcs. 43"
               },
               "correct": "H",
-              "imageSrc": "/tests/H11/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H11/science/page_42.jpg"
             }
           ]
         },
         {
           "id": "passage-iv",
           "title": "Passage IV",
-          "imageSrc": "/tests/H11/science/passage_passage-iv.jpg",
+          "imageSrc": "/tests/H11/science/page_44.jpg",
           "startPage": 44,
           "questions": [
             {
@@ -2617,7 +2661,7 @@
                 "D": ")gk/gm( 1.5 1.5 egareva 1.0 egareva 1.0 tnetnoc tnetnoc 0.5 0.5 eS 0 eS 0 i n mars h flat i n s h flat la la mar p dal p al h h d mars r ti mars r i w e w e t o o l l 44"
               },
               "correct": "C",
-              "imageSrc": "/tests/H11/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H11/science/page_44.jpg"
             },
             {
               "number": 22,
@@ -2629,7 +2673,7 @@
                 "J": "24 24"
               },
               "correct": "H",
-              "imageSrc": "/tests/H11/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H11/science/page_44.jpg"
             },
             {
               "number": 23,
@@ -2641,7 +2685,7 @@
                 "D": "TF, LM, MP TF, LM, MP"
               },
               "correct": "D",
-              "imageSrc": "/tests/H11/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H11/science/page_44.jpg"
             },
             {
               "number": 24,
@@ -2653,7 +2697,7 @@
                 "J": "17 cm"
               },
               "correct": "J",
-              "imageSrc": "/tests/H11/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H11/science/page_44.jpg"
             },
             {
               "number": 25,
@@ -2665,7 +2709,7 @@
                 "D": "20 cm"
               },
               "correct": "D",
-              "imageSrc": "/tests/H11/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H11/science/page_44.jpg"
             },
             {
               "number": 26,
@@ -2677,14 +2721,14 @@
                 "J": "greater than 0.75 mg/kg. 45"
               },
               "correct": "H",
-              "imageSrc": "/tests/H11/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H11/science/page_44.jpg"
             }
           ]
         },
         {
           "id": "passage-v",
           "title": "Passage V",
-          "imageSrc": "/tests/H11/science/passage_passage-v.jpg",
+          "imageSrc": "/tests/H11/science/page_46.jpg",
           "startPage": 46,
           "questions": [
             {
@@ -2697,7 +2741,7 @@
                 "D": "2, 1, 4, 3"
               },
               "correct": "H",
-              "imageSrc": "/tests/H11/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H11/science/page_46.jpg"
             },
             {
               "number": 27,
@@ -2709,7 +2753,7 @@
                 "D": "Ni2+ concentration"
               },
               "correct": "A",
-              "imageSrc": "/tests/H11/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H11/science/page_46.jpg"
             },
             {
               "number": 28,
@@ -2721,7 +2765,7 @@
                 "J": "Red 46"
               },
               "correct": "J",
-              "imageSrc": "/tests/H11/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H11/science/page_46.jpg"
             },
             {
               "number": 30,
@@ -2734,7 +2778,7 @@
                 "J": "No; cuvette width was doubled from Trial 7 to Trial 9 and from Trial 8 to Trial 10, but the value of A did not double in either case."
               },
               "correct": "G",
-              "imageSrc": "/tests/H11/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H11/science/page_46.jpg"
             },
             {
               "number": 31,
@@ -2746,7 +2790,7 @@
                 "D": "Protons; lost"
               },
               "correct": "B",
-              "imageSrc": "/tests/H11/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H11/science/page_46.jpg"
             },
             {
               "number": 32,
@@ -2758,7 +2802,7 @@
                 "J": "18.8 g of solution contains 1 L of dissolved"
               },
               "correct": "F",
-              "imageSrc": "/tests/H11/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H11/science/page_46.jpg"
             },
             {
               "number": 33,
@@ -2770,14 +2814,14 @@
                 "D": "Trial 10; the A for Trial 10 was lower than the A for Trial 3. 47"
               },
               "correct": "B",
-              "imageSrc": "/tests/H11/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H11/science/page_46.jpg"
             }
           ]
         },
         {
           "id": "passage-vi",
           "title": "Passage VI",
-          "imageSrc": "/tests/H11/science/passage_passage-vi.jpg",
+          "imageSrc": "/tests/H11/science/page_48.jpg",
           "startPage": 48,
           "questions": [
             {
@@ -2788,7 +2832,7 @@
                 "K": "Robinson, \u201cMonitoring Bacterial Cell-to-Cell Communication \u2018Quorum Sensing\u2019 Using FLUOstar OPTIMA.\u201d \u00a92009 by BMG LABTECH GmbH. 48"
               },
               "correct": "G",
-              "imageSrc": "/tests/H11/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H11/science/page_48.jpg"
             },
             {
               "number": 34,
@@ -2800,7 +2844,7 @@
                 "J": "Temperature at which the flasks were incubated"
               },
               "correct": "H",
-              "imageSrc": "/tests/H11/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H11/science/page_48.jpg"
             },
             {
               "number": 35,
@@ -2812,7 +2856,7 @@
                 "D": "increased and then decreased."
               },
               "correct": "B",
-              "imageSrc": "/tests/H11/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H11/science/page_48.jpg"
             },
             {
               "number": 36,
@@ -2824,7 +2868,7 @@
                 "J": "Strain R, because it had the lower OD."
               },
               "correct": "F",
-              "imageSrc": "/tests/H11/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H11/science/page_48.jpg"
             },
             {
               "number": 37,
@@ -2836,7 +2880,7 @@
                 "D": "1.3 S"
               },
               "correct": "A",
-              "imageSrc": "/tests/H11/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H11/science/page_48.jpg"
             },
             {
               "number": 38,
@@ -2848,7 +2892,7 @@
                 "J": "2 \u00d7 cells"
               },
               "correct": "J",
-              "imageSrc": "/tests/H11/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H11/science/page_48.jpg"
             },
             {
               "number": 39,
@@ -2860,7 +2904,7 @@
                 "D": "Mutualistic; Strain R"
               },
               "correct": "D",
-              "imageSrc": "/tests/H11/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H11/science/page_48.jpg"
             },
             {
               "number": 40,
@@ -2872,7 +2916,7 @@
                 "J": "120,000"
               },
               "correct": "J",
-              "imageSrc": "/tests/H11/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H11/science/page_48.jpg"
             }
           ]
         }

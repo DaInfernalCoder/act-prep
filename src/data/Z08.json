@@ -1039,7 +1039,7 @@
             "E": "(40 +18)w"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_14.jpg",
           "correct": "A"
         },
         {
@@ -1053,7 +1053,7 @@
             "K": "$141.25"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_14.jpg",
           "correct": "F"
         },
         {
@@ -1067,7 +1067,7 @@
             "E": "60"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_14.jpg",
           "correct": "B"
         },
         {
@@ -1075,7 +1075,7 @@
           "stem": "The word a DO",
           "choices": {},
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_14.jpg",
           "correct": "G"
         },
         {
@@ -1088,7 +1088,7 @@
             "E": "1,600"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_15.jpg",
           "correct": "B"
         },
         {
@@ -1101,7 +1101,7 @@
             "K": "48 a3ak = a9"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_15.jpg",
           "correct": "G"
         },
         {
@@ -1115,7 +1115,7 @@
             "E": "27"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_15.jpg",
           "correct": "C"
         },
         {
@@ -1129,7 +1129,7 @@
             "K": "78,000"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_15.jpg",
           "correct": "J"
         },
         {
@@ -1142,7 +1142,7 @@
             "E": "29 \u2194 \u2194"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_15.jpg",
           "correct": "B"
         },
         {
@@ -1156,7 +1156,7 @@
             "K": "96\u00b0 www.actexam.net DO"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_15.jpg",
           "correct": "H"
         },
         {
@@ -1170,7 +1170,7 @@
             "E": "6 hours 41 minutes \u2264 + \u2265"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_16.jpg",
           "correct": "B"
         },
         {
@@ -1183,7 +1183,7 @@
             "K": "8"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_16.jpg",
           "correct": "J"
         },
         {
@@ -1195,7 +1195,7 @@
             "D": "\u22204 \u2245\u22207 \u22206 \u2245\u22208 E."
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_16.jpg",
           "correct": "D"
         },
         {
@@ -1209,7 +1209,7 @@
             "K": "624"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_16.jpg",
           "correct": "K"
         },
         {
@@ -1217,7 +1217,7 @@
           "stem": "The blood types of 150 people are determined for a study. The results show that 62 people have Type O blood, 67 have Type A blood, 15 have Type B blood, and the others have Type AB blood. If 1 person from this study is randomly selected, what is the probability that this person has either Type O or Type AB blood? _1_ A. _1_1_ B. _1_4_ C. _3_1_ D. _3_4_ E. x+y=26 x\u2212y=14, y=? DO",
           "choices": {},
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_16.jpg",
           "correct": "E"
         },
         {
@@ -1231,7 +1231,7 @@
             "K": "40"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_17.jpg",
           "correct": "F"
         },
         {
@@ -1241,7 +1241,7 @@
             "E": "0"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_17.jpg",
           "correct": "A"
         },
         {
@@ -1255,7 +1255,7 @@
             "K": "10 and 100 DO"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_17.jpg",
           "correct": "H"
         },
         {
@@ -1269,7 +1269,7 @@
             "E": "42"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_18.jpg",
           "correct": "D"
         },
         {
@@ -1281,7 +1281,7 @@
             "K": "6"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_18.jpg",
           "correct": "G"
         },
         {
@@ -1300,7 +1300,7 @@
             "K": "$300.00 www.crackab.com DO"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_18.jpg",
           "correct": "C"
         },
         {
@@ -1314,7 +1314,7 @@
             "K": ""
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_18.jpg",
           "correct": "G",
           "synthetic": true
         },
@@ -1329,7 +1329,7 @@
             "E": "100"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_19.jpg",
           "correct": "B"
         },
         {
@@ -1343,7 +1343,7 @@
             "K": "79.1 nJKL,"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_19.jpg",
           "correct": "H"
         },
         {
@@ -1351,7 +1351,7 @@
           "stem": "In right triangle the right angle is at K, the ___ = _5__. length of JK is 10 cm, and sin,L What is the value of cos,J? _5__ A. _6__ B. __5___ C. \u221a\u20229\u20226 __6___ D. \u221a\u20229\u20226 ___5___ E. \u221a\u20221\u20224\u20226",
           "choices": {},
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_19.jpg",
           "correct": "A"
         },
         {
@@ -1365,7 +1365,7 @@
             "K": "66 DO Use the following information to answer questions 27\u201329. At Western High School and Eastern High School, 200 students and 100 students, respectively, were surveyed to determine their fast-food preferences. Each of the 300 students indicated 1 preference among 5 choices, as summarized in the pie charts below. Western High School Eastern High School tacos burgers 20% burgers 23% 30% pizza 50% pizza chicken 40% 12% tacos 10% egg rolls chicken 5% 5% egg rolls 5% (Note: Each pie chart is made up of sectors that are proportional in size to the percent of students they represent.)"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_19.jpg",
           "correct": "J"
         },
         {
@@ -1379,7 +1379,7 @@
             "E": "40"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_20.jpg",
           "correct": "C"
         },
         {
@@ -1393,7 +1393,7 @@
             "K": "144\u00b0 DO"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_20.jpg",
           "correct": "K"
         },
         {
@@ -1407,7 +1407,7 @@
             "E": "12%"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_21.jpg",
           "correct": "C"
         },
         {
@@ -1415,7 +1415,7 @@
           "stem": "Jermaine will build a metal wall sculpture that is composed of 3 circles of different sizes, shown below. The smallest circle will have a diameter of 8 inches, and the diameters of the 3circles will be in the ratio of",
           "choices": {},
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_21.jpg",
           "correct": "G"
         },
         {
@@ -1423,7 +1423,7 @@
           "stem": "Juan will flip a fair 2-sided coin and spin a wheel. The coin has 1heads side and 1 tails side. The wheel has an equal chance of stopping on any one of its 4 sections: red, blue, yellow, and green. What is the probability that the coin lands tails side up and the wheel stops on the green section? _1_ A. _1_ B. _1_ C. _1_ D. _3_ E. www.actexam.net DO",
           "choices": {},
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_21.jpg",
           "correct": "A"
         },
         {
@@ -1437,7 +1437,7 @@
             "K": "5.0"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_22.jpg",
           "correct": "K"
         },
         {
@@ -1451,7 +1451,7 @@
             "E": "25 ___"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_22.jpg",
           "correct": "C"
         },
         {
@@ -1466,7 +1466,7 @@
             "K": "264 DO"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_22.jpg",
           "correct": "H"
         },
         {
@@ -1480,7 +1480,7 @@
             "E": "b"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_23.jpg",
           "correct": "C"
         },
         {
@@ -1494,7 +1494,7 @@
             "K": "401"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_23.jpg",
           "correct": "K"
         },
         {
@@ -1508,7 +1508,7 @@
             "E": "9x8"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_23.jpg",
           "correct": "B"
         },
         {
@@ -1523,7 +1523,7 @@
             "K": "72 ______1_______ DO"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_23.jpg",
           "correct": "G"
         },
         {
@@ -1531,7 +1531,7 @@
           "stem": "What is the value of ? +_____1____ +__1___ +_1_ _3__ A. _3_ B. _7__ C. _7__ D. _1_0_ E.",
           "choices": {},
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_24.jpg",
           "correct": "C"
         },
         {
@@ -1545,7 +1545,7 @@
             "K": "x = 1 and x = 2"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_24.jpg",
           "correct": "J"
         },
         {
@@ -1559,7 +1559,7 @@
             "E": "18"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_24.jpg",
           "correct": "B"
         },
         {
@@ -1573,7 +1573,7 @@
             "K": "positive and equal to b."
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_24.jpg",
           "correct": "F"
         },
         {
@@ -1584,7 +1584,7 @@
             "D": "\u221a\u20223 \u221a\u20225 E. www.actexam.net DO"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_24.jpg",
           "correct": "E"
         },
         {
@@ -1592,7 +1592,7 @@
           "stem": "Which of the following fractions is closest to 0 ? \u2212_3__ F. \u2212_1_ G. _1_ H. _1_ J. _1_2_3__ K. 1,000",
           "choices": {},
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_25.jpg",
           "correct": "F"
         },
         {
@@ -1606,7 +1606,7 @@
             "E": "0.33"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_25.jpg",
           "correct": "A"
         },
         {
@@ -1614,7 +1614,7 @@
           "stem": "The quadrants of the standard (x,y) coordinate plane are shown below. The vertices of nABC are A(\u22123,3), B(\u22123,1), C(\u22121,1). and The triangle is translated by",
           "choices": {},
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_25.jpg",
           "correct": "J"
         },
         {
@@ -1622,7 +1622,7 @@
           "stem": "The figure below shows a map of Jennifer\u2019s neighborhood. school 6 miles Jennifer\u2019s home 50\u00b0 4 miles Which of the following expressions represents the straight-line distance, in miles, from Jennifer\u2019s home to school? (Note: For a triangle with sides of length a, b, and c that are opposite angles \u2220A, \u2220B, and _s_in_ _\u2220_A__ _s_in_ _\u2220_B__ _s_in_ _\u2220_C__ \u2220C, respectively, = = and a b c c2=a2+b2\u22122abcos,\u2220C.) _4_ s_i_n_(1_3_0_\u00b0__) A. sin(25\u00b0) _6_ s_i_n_(1_3_0_\u00b0__) B. sin(25\u00b0) \u221a\u20224\u20222\u2022+\u2022\u20226\u20222\u2022\u2212\u2022 2\u2022\u2022(4\u2022)\u2022(\u20226\u2022)\u2022 c\u2022o\u2022s\u2022(\u20222\u20225\u2022\u00b0\u2022) C. \u221a\u20224\u20222\u2022+\u2022\u20226\u20222\u2022\u2212\u2022 2\u2022\u2022(4\u2022)\u2022(\u20226\u2022)\u2022 c\u2022o\u2022s\u2022(\u20225\u20220\u2022\u00b0\u2022) D. \u221a\u20224\u20222\u2022+\u2022\u20226\u20222\u2022\u2212\u2022 2\u2022\u2022(4\u2022)\u2022(\u20226\u2022)\u2022 c\u2022o\u2022s\u2022(\u20221\u20223\u20220\u2022\u00b0\u2022) E. _2_x_\u2212__5_ =",
           "choices": {},
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_26.jpg",
           "correct": "E"
         },
         {
@@ -1635,7 +1635,7 @@
             "E": "8 D \u03c0ab,"
           },
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_26.jpg",
           "correct": "J"
         },
         {
@@ -1646,7 +1646,7 @@
             "D": "048\u03c0\u221296 192\u03c0\u221296 E."
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_27.jpg",
           "correct": "D"
         },
         {
@@ -1660,7 +1660,7 @@
             "K": "cos"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_27.jpg",
           "correct": "J"
         },
         {
@@ -1674,7 +1674,7 @@
             "E": "0.8 DO"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_27.jpg",
           "correct": "D"
         },
         {
@@ -1688,7 +1688,7 @@
             "K": "a n"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_28.jpg",
           "correct": "K"
         },
         {
@@ -1702,7 +1702,7 @@
             "E": "2 310 84"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_28.jpg",
           "correct": "A"
         },
         {
@@ -1715,7 +1715,7 @@
             "K": "160"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_28.jpg",
           "correct": "F"
         },
         {
@@ -1729,7 +1729,7 @@
             "E": "342 DO"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_28.jpg",
           "correct": "E"
         },
         {
@@ -1743,7 +1743,7 @@
             "K": "120"
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_29.jpg",
           "correct": "J"
         },
         {
@@ -1757,7 +1757,7 @@
             "E": "Even and nonzero only"
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_29.jpg",
           "correct": "E"
         },
         {
@@ -1771,7 +1771,7 @@
             "K": "A nonisosceles trapezoid + y)5,"
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_29.jpg",
           "correct": "K"
         },
         {
@@ -1785,7 +1785,7 @@
             "E": "15"
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_29.jpg",
           "correct": "D"
         },
         {
@@ -1799,7 +1799,7 @@
             "K": "0.300"
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/Z08/math/page_29.jpg",
           "correct": "K"
         }
       ]
@@ -1826,7 +1826,8 @@
                 "D": "an adult contrasting her observations of the world with those of her child."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_30.jpg"
             },
             {
               "number": 2,
@@ -1838,7 +1839,8 @@
                 "J": "contentment that the babies\u2019 ignorance permits and the anxiety that the narrator\u2019s knowledge produces."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_30.jpg"
             },
             {
               "number": 3,
@@ -1850,7 +1852,8 @@
                 "D": "fear; she thought her father might trample the per- fectly formed irises."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_30.jpg"
             },
             {
               "number": 4,
@@ -1862,7 +1865,8 @@
                 "J": "exact and predetermined by nature."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_30.jpg"
             },
             {
               "number": 5,
@@ -1874,7 +1878,8 @@
                 "D": "The narrator searched for moments when she felt free from constant adult supervision."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_30.jpg"
             },
             {
               "number": 6,
@@ -1886,7 +1891,8 @@
                 "J": "annoyance with her daughter for her carelessness."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_30.jpg"
             },
             {
               "number": 7,
@@ -1898,7 +1904,8 @@
                 "D": "overwhelming."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_30.jpg"
             },
             {
               "number": 8,
@@ -1910,7 +1917,8 @@
                 "J": "rugged."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_30.jpg"
             },
             {
               "number": 9,
@@ -1922,7 +1930,8 @@
                 "D": "destroying old books that were no longer useful to him."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_30.jpg"
             },
             {
               "number": 10,
@@ -1934,9 +1943,11 @@
                 "J": "surprised. 1"
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_30.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/Z08/reading/page_30.jpg"
         },
         {
           "id": "passage-ii",
@@ -1955,7 +1966,8 @@
                 "D": "a comparison of olive oil and other types of cook- ing oils in terms of their culinary merits and health benefits."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_31.jpg"
             },
             {
               "number": 12,
@@ -1967,9 +1979,11 @@
                 "J": "Door (line 51) 2"
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_31.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/Z08/reading/page_31.jpg"
         },
         {
           "id": "passage-i",
@@ -1988,7 +2002,8 @@
                 "D": "I and III only"
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_33.jpg"
             },
             {
               "number": 14,
@@ -2000,7 +2015,8 @@
                 "J": "Her recipes are typical of those that turned Euro- peans away from butter."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_33.jpg"
             },
             {
               "number": 15,
@@ -2012,7 +2028,8 @@
                 "D": "olive oil pressed from the lees."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_33.jpg"
             },
             {
               "number": 16,
@@ -2024,7 +2041,8 @@
                 "J": "in the fifteenth century, butter\u2019s popularity was growing where olive oil had been the favored fat. www.actexam.net"
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_33.jpg"
             },
             {
               "number": 17,
@@ -2036,7 +2054,8 @@
                 "D": "offer as a gift to their hosts."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_33.jpg"
             },
             {
               "number": 18,
@@ -2048,7 +2067,8 @@
                 "J": "Modifications in canon law"
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_33.jpg"
             },
             {
               "number": 19,
@@ -2060,7 +2080,8 @@
                 "D": "royalty who disdained olive oil."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_33.jpg"
             },
             {
               "number": 20,
@@ -2072,9 +2093,11 @@
                 "J": "more natural. 3"
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_33.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/Z08/reading/page_33.jpg"
         },
         {
           "id": "passage-iii",
@@ -2093,7 +2116,8 @@
                 "D": "spontaneous and variable, changing from show to show. 4"
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_34.jpg"
             },
             {
               "number": 22,
@@ -2105,7 +2129,8 @@
                 "J": "a description of Peterson\u2019s style as a piano teacher."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_34.jpg"
             },
             {
               "number": 23,
@@ -2117,7 +2142,8 @@
                 "D": "had been taught piano technique by a student of Liszt."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_34.jpg"
             },
             {
               "number": 24,
@@ -2129,7 +2155,8 @@
                 "J": "De Marky, knowing Peterson wanted to play jazz, purchased records for him to study. Questions 25\u201327 ask about Passage B."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_34.jpg"
             },
             {
               "number": 25,
@@ -2141,7 +2168,8 @@
                 "D": "a recollection of what the author learned as Peterson\u2019s student."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_34.jpg"
             },
             {
               "number": 26,
@@ -2153,7 +2181,8 @@
                 "J": "the history of classical music."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_34.jpg"
             },
             {
               "number": 27,
@@ -2165,7 +2194,8 @@
                 "D": "following a formula for beautiful playing. Questions 28\u201330 ask about both passages."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_34.jpg"
             },
             {
               "number": 28,
@@ -2177,7 +2207,8 @@
                 "J": "attainment of a recognizable personal sound."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_34.jpg"
             },
             {
               "number": 29,
@@ -2189,7 +2220,8 @@
                 "D": "can be mastered without learning classical techniques."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_34.jpg"
             },
             {
               "number": 30,
@@ -2201,9 +2233,11 @@
                 "J": "Studying the musical traditions of several nations 5"
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_34.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/Z08/reading/page_34.jpg"
         },
         {
           "id": "passage-iv",
@@ -2222,7 +2256,8 @@
                 "D": "Self-pollinating, cross-pollinating, and HaCYC2c 6"
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_36.jpg"
             },
             {
               "number": 32,
@@ -2234,7 +2269,8 @@
                 "J": "suggest that wild sunflowers are actually one single large flower."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_36.jpg"
             },
             {
               "number": 33,
@@ -2246,7 +2282,8 @@
                 "D": "accurate."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_36.jpg"
             },
             {
               "number": 34,
@@ -2258,7 +2295,8 @@
                 "J": "produce pollen."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_36.jpg"
             },
             {
               "number": 35,
@@ -2270,7 +2308,8 @@
                 "D": "The painting demonstrated that van Gogh was familiar with plant biology and early theories about genetic mutations."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_36.jpg"
             },
             {
               "number": 36,
@@ -2282,7 +2321,8 @@
                 "J": "suggest a need for greater floral diversity."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_36.jpg"
             },
             {
               "number": 37,
@@ -2294,7 +2334,8 @@
                 "D": "They are identical in their DNA makeup."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_36.jpg"
             },
             {
               "number": 38,
@@ -2306,7 +2347,8 @@
                 "J": "have difficulty reproducing, making it challenging for geneticists to identify patterns across generations."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_36.jpg"
             },
             {
               "number": 39,
@@ -2318,7 +2360,8 @@
                 "D": "bisecting."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_36.jpg"
             },
             {
               "number": 40,
@@ -2330,9 +2373,11 @@
                 "J": "refutes the claim that plant breeders have per - petuated the mutation because of its striking appearance. NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/Z08/reading/page_36.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/Z08/reading/page_36.jpg"
         }
       ]
     },
@@ -2344,7 +2389,7 @@
         {
           "id": "passage-i",
           "title": "Passage i",
-          "imageSrc": "/tests/Z08/science/passage_passage-i.jpg",
+          "imageSrc": "/tests/Z08/science/page_38.jpg",
           "startPage": 38,
           "questions": [
             {
@@ -2357,7 +2402,7 @@
                 "D": "16 \u2212"
               },
               "correct": "C",
-              "imageSrc": "/tests/Z08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/Z08/science/page_38.jpg"
             },
             {
               "number": 2,
@@ -2369,7 +2414,7 @@
                 "J": "I, II, and III +"
               },
               "correct": "J",
-              "imageSrc": "/tests/Z08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/Z08/science/page_38.jpg"
             },
             {
               "number": 3,
@@ -2381,7 +2426,7 @@
                 "D": "a shiny white precipitate."
               },
               "correct": "B",
-              "imageSrc": "/tests/Z08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/Z08/science/page_38.jpg"
             },
             {
               "number": 4,
@@ -2394,7 +2439,7 @@
                 "J": "A mixture of dull white and faint yellow precipitates"
               },
               "correct": "J",
-              "imageSrc": "/tests/Z08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/Z08/science/page_38.jpg"
             },
             {
               "number": 5,
@@ -2406,7 +2451,7 @@
                 "D": "Cl and I"
               },
               "correct": "A",
-              "imageSrc": "/tests/Z08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/Z08/science/page_38.jpg"
             },
             {
               "number": 6,
@@ -2418,14 +2463,14 @@
                 "J": "CaF 9"
               },
               "correct": "H",
-              "imageSrc": "/tests/Z08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/Z08/science/page_38.jpg"
             }
           ]
         },
         {
           "id": "passage-ii",
           "title": "Passage II",
-          "imageSrc": "/tests/Z08/science/passage_passage-ii.jpg",
+          "imageSrc": "/tests/Z08/science/page_40.jpg",
           "startPage": 40,
           "questions": [
             {
@@ -2438,7 +2483,7 @@
                 "D": "No; on all of those days, the average wave height was greater than 0 m."
               },
               "correct": "D",
-              "imageSrc": "/tests/Z08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/Z08/science/page_40.jpg"
             },
             {
               "number": 8,
@@ -2450,7 +2495,7 @@
                 "J": "Cannot be determined from the given information"
               },
               "correct": "G",
-              "imageSrc": "/tests/Z08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/Z08/science/page_40.jpg"
             },
             {
               "number": 9,
@@ -2462,7 +2507,7 @@
                 "D": "100 g of"
               },
               "correct": "A",
-              "imageSrc": "/tests/Z08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/Z08/science/page_40.jpg"
             },
             {
               "number": 10,
@@ -2474,7 +2519,7 @@
                 "J": "Different locations, because all measurements of current speed were taken at different times of the day."
               },
               "correct": "H",
-              "imageSrc": "/tests/Z08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/Z08/science/page_40.jpg"
             },
             {
               "number": 11,
@@ -2486,7 +2531,7 @@
                 "D": "greater than 0.18 cm/sec."
               },
               "correct": "B",
-              "imageSrc": "/tests/Z08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/Z08/science/page_40.jpg"
             },
             {
               "number": 12,
@@ -2498,7 +2543,7 @@
                 "J": "12"
               },
               "correct": "J",
-              "imageSrc": "/tests/Z08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/Z08/science/page_40.jpg"
             },
             {
               "number": 13,
@@ -2510,14 +2555,14 @@
                 "D": "25.5 m 1"
               },
               "correct": "A",
-              "imageSrc": "/tests/Z08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/Z08/science/page_40.jpg"
             }
           ]
         },
         {
           "id": "passage-iii",
           "title": "Passage III",
-          "imageSrc": "/tests/Z08/science/passage_passage-iii.jpg",
+          "imageSrc": "/tests/Z08/science/page_42.jpg",
           "startPage": 42,
           "questions": [
             {
@@ -2530,7 +2575,7 @@
                 "J": "Preventing the hatchlings in the NPT group from leaving their nests by covering the nests with nets having smaller holes"
               },
               "correct": "H",
-              "imageSrc": "/tests/Z08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/Z08/science/page_42.jpg"
             },
             {
               "number": 15,
@@ -2542,7 +2587,7 @@
                 "D": "neither predators of M. melodia nor nonpredators of M. melodia."
               },
               "correct": "B",
-              "imageSrc": "/tests/Z08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/Z08/science/page_42.jpg"
             },
             {
               "number": 16,
@@ -2554,7 +2599,7 @@
                 "J": "Neither the first nor second clutch"
               },
               "correct": "J",
-              "imageSrc": "/tests/Z08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/Z08/science/page_42.jpg"
             },
             {
               "number": 17,
@@ -2566,7 +2611,7 @@
                 "D": "Eggs, hatchlings, and fledglings"
               },
               "correct": "C",
-              "imageSrc": "/tests/Z08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/Z08/science/page_42.jpg"
             },
             {
               "number": 18,
@@ -2578,7 +2623,7 @@
                 "J": "I, II, and III"
               },
               "correct": "F",
-              "imageSrc": "/tests/Z08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/Z08/science/page_42.jpg"
             },
             {
               "number": 19,
@@ -2590,7 +2635,7 @@
                 "D": "III and IV only"
               },
               "correct": "B",
-              "imageSrc": "/tests/Z08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/Z08/science/page_42.jpg"
             },
             {
               "number": 20,
@@ -2602,14 +2647,14 @@
                 "J": "Prey being affected by predators through bodily contact 3"
               },
               "correct": "J",
-              "imageSrc": "/tests/Z08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/Z08/science/page_42.jpg"
             }
           ]
         },
         {
           "id": "passage-iv",
           "title": "Passage IV",
-          "imageSrc": "/tests/Z08/science/passage_passage-iv.jpg",
+          "imageSrc": "/tests/Z08/science/page_44.jpg",
           "startPage": 44,
           "questions": [
             {
@@ -2622,7 +2667,7 @@
                 "D": "Fructose, glucose, and sucrose"
               },
               "correct": "C",
-              "imageSrc": "/tests/Z08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/Z08/science/page_44.jpg"
             },
             {
               "number": 22,
@@ -2634,7 +2679,7 @@
                 "J": "8 g"
               },
               "correct": "F",
-              "imageSrc": "/tests/Z08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/Z08/science/page_44.jpg"
             },
             {
               "number": 23,
@@ -2646,7 +2691,7 @@
                 "D": "Day 28"
               },
               "correct": "D",
-              "imageSrc": "/tests/Z08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/Z08/science/page_44.jpg"
             },
             {
               "number": 24,
@@ -2658,7 +2703,7 @@
                 "J": "To decrease the likelihood that the bananas that remained in the group would be those having starch and sugars in their pulps"
               },
               "correct": "H",
-              "imageSrc": "/tests/Z08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/Z08/science/page_44.jpg"
             },
             {
               "number": 25,
@@ -2670,7 +2715,7 @@
                 "D": "No, because for any given day of testing, the sum of the mass of starch in the sample and the mass of sugars in the sample was not equal to 100 g."
               },
               "correct": "D",
-              "imageSrc": "/tests/Z08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/Z08/science/page_44.jpg"
             },
             {
               "number": 26,
@@ -2682,7 +2727,7 @@
                 "J": "\u00d7100% +20 80 mL ethanol mL HO"
               },
               "correct": "G",
-              "imageSrc": "/tests/Z08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/Z08/science/page_44.jpg"
             },
             {
               "number": 27,
@@ -2694,14 +2739,14 @@
                 "D": "As soluble substances were transferred from peel to pulp, the mass of starch in the pulps increased and the mass of sugars in the pulps decreased. 5"
               },
               "correct": "C",
-              "imageSrc": "/tests/Z08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/Z08/science/page_44.jpg"
             }
           ]
         },
         {
           "id": "passage-v",
           "title": "Passage V",
-          "imageSrc": "/tests/Z08/science/passage_passage-v.jpg",
+          "imageSrc": "/tests/Z08/science/page_46.jpg",
           "startPage": 46,
           "questions": [
             {
@@ -2714,7 +2759,7 @@
                 "J": "Sphere T, because the force of gravity on Sphere T would be less than the force of gravity on Sphere S. 6"
               },
               "correct": "J",
-              "imageSrc": "/tests/Z08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/Z08/science/page_46.jpg"
             },
             {
               "number": 29,
@@ -2726,7 +2771,7 @@
                 "D": "SphereZ, because it will travel the lesser distance down the incline."
               },
               "correct": "B",
-              "imageSrc": "/tests/Z08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/Z08/science/page_46.jpg"
             },
             {
               "number": 30,
@@ -2738,7 +2783,7 @@
                 "J": "Sphere Z, because it has the greater radius."
               },
               "correct": "F",
-              "imageSrc": "/tests/Z08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/Z08/science/page_46.jpg"
             },
             {
               "number": 31,
@@ -2750,7 +2795,7 @@
                 "D": "3 3"
               },
               "correct": "A",
-              "imageSrc": "/tests/Z08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/Z08/science/page_46.jpg"
             },
             {
               "number": 32,
@@ -2762,7 +2807,7 @@
                 "J": "Sphere X; Sphere Z"
               },
               "correct": "H",
-              "imageSrc": "/tests/Z08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/Z08/science/page_46.jpg"
             },
             {
               "number": 33,
@@ -2774,7 +2819,7 @@
                 "D": "Neither Student 1 nor Student 2"
               },
               "correct": "D",
-              "imageSrc": "/tests/Z08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/Z08/science/page_46.jpg"
             },
             {
               "number": 34,
@@ -2786,14 +2831,14 @@
                 "J": "Neither sphere, because the acceleration of each sphere due to the Moon\u2019s gravity would be inde- pendent of the sphere\u2019s mass. 7"
               },
               "correct": "J",
-              "imageSrc": "/tests/Z08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/Z08/science/page_46.jpg"
             }
           ]
         },
         {
           "id": "passage-vi",
           "title": "Passage VI",
-          "imageSrc": "/tests/Z08/science/passage_passage-vi.jpg",
+          "imageSrc": "/tests/Z08/science/page_48.jpg",
           "startPage": 48,
           "questions": [
             {
@@ -2805,7 +2850,7 @@
                 "F": "= Functions"
               },
               "correct": "F",
-              "imageSrc": "/tests/Z08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/Z08/science/page_48.jpg"
             },
             {
               "number": 35,
@@ -2817,7 +2862,7 @@
                 "D": "CSM E"
               },
               "correct": "C",
-              "imageSrc": "/tests/Z08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/Z08/science/page_48.jpg"
             },
             {
               "number": 36,
@@ -2829,7 +2874,7 @@
                 "J": "500 \u03bcm 2,000 \u03bcm"
               },
               "correct": "G",
-              "imageSrc": "/tests/Z08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/Z08/science/page_48.jpg"
             },
             {
               "number": 37,
@@ -2841,7 +2886,7 @@
                 "D": "CSM E S"
               },
               "correct": "A",
-              "imageSrc": "/tests/Z08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/Z08/science/page_48.jpg"
             },
             {
               "number": 38,
@@ -2853,7 +2898,7 @@
                 "J": "No; the catastrophe frequency was 0.044 MTs/sec and the rescue frequency was 0.056 MTs/sec for CSM D."
               },
               "correct": "J",
-              "imageSrc": "/tests/Z08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/Z08/science/page_48.jpg"
             },
             {
               "number": 39,
@@ -2865,7 +2910,7 @@
                 "D": "All 3 of the MT characteristics"
               },
               "correct": "B",
-              "imageSrc": "/tests/Z08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/Z08/science/page_48.jpg"
             },
             {
               "number": 40,
@@ -2877,7 +2922,7 @@
                 "J": "An increase in the average MT half-life"
               },
               "correct": "H",
-              "imageSrc": "/tests/Z08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/Z08/science/page_48.jpg"
             }
           ]
         }

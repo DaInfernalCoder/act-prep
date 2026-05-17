@@ -1037,7 +1037,7 @@
             "C": "\u23aaf\u23aa(2) \u23aa \u23aa _ _2_ _ D. f \u23aa \u23aa _ _2_ _ E. x"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_14.jpg",
           "correct": "B"
         },
         {
@@ -1051,7 +1051,7 @@
             "K": "$360 \u2666,"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_14.jpg",
           "correct": "G"
         },
         {
@@ -1065,7 +1065,7 @@
             "E": "10 DO"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_14.jpg",
           "correct": "C"
         },
         {
@@ -1073,7 +1073,7 @@
           "stem": "The word a DO",
           "choices": {},
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_14.jpg",
           "correct": "J"
         },
         {
@@ -1087,7 +1087,7 @@
             "E": "39,375"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_15.jpg",
           "correct": "B"
         },
         {
@@ -1101,7 +1101,7 @@
             "K": "26"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_15.jpg",
           "correct": "G"
         },
         {
@@ -1115,7 +1115,7 @@
             "E": "128"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_15.jpg",
           "correct": "E"
         },
         {
@@ -1127,7 +1127,7 @@
             "K": "4 DO"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_15.jpg",
           "correct": "G"
         },
         {
@@ -1141,7 +1141,7 @@
             "E": "11"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_16.jpg",
           "correct": "A"
         },
         {
@@ -1156,7 +1156,7 @@
             "K": "340 ___"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_16.jpg",
           "correct": "F"
         },
         {
@@ -1170,7 +1170,7 @@
             "D": "216\u00b0 D"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_16.jpg",
           "correct": "B"
         },
         {
@@ -1178,7 +1178,7 @@
           "stem": "Which of the following expressions gives the number of revolutions a tire with a diameter of dfeet will make in a trip mmiles long? (Note: 1 mile =5,280 feet) _5_,2__8_0_m_ F. \u03c0d _5_,2__8_0_d_ G. \u03c0m _5_,_2_8_0_ H. \u03c0dm __\u03c0__m___ J. 5,280d ___\u03c0_d___ K. 5,280m 3\u22122 14",
           "choices": {},
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_17.jpg",
           "correct": "F"
         },
         {
@@ -1189,7 +1189,7 @@
             "B": "\u221215 31 44 C. 3 \u22122 3\u2212_2_ \u2212_1_4 3 3 D. \u2212_5_ 3\u22126 34 E. 0 \u221215"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_17.jpg",
           "correct": "E"
         },
         {
@@ -1204,7 +1204,7 @@
             "K": "126"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_17.jpg",
           "correct": "K"
         },
         {
@@ -1217,7 +1217,7 @@
             "E": "( 8,0)"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_17.jpg",
           "correct": "A"
         },
         {
@@ -1231,7 +1231,7 @@
             "K": "(x x2 + y2 = DO"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_17.jpg",
           "correct": "H"
         },
         {
@@ -1245,7 +1245,7 @@
             "E": "(\u221236,0) and (36,0)"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_18.jpg",
           "correct": "B"
         },
         {
@@ -1260,7 +1260,7 @@
             "K": "0.827 ___ ___"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_18.jpg",
           "correct": "H"
         },
         {
@@ -1274,7 +1274,7 @@
             "E": "146\u00b0 D E F"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_18.jpg",
           "correct": "E"
         },
         {
@@ -1288,7 +1288,7 @@
             "K": "It is neither irrational nor rational."
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_18.jpg",
           "correct": "G"
         },
         {
@@ -1307,7 +1307,7 @@
             "K": "\u22125z4+16"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_18.jpg",
           "correct": "C"
         },
         {
@@ -1321,7 +1321,7 @@
             "K": ""
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_18.jpg",
           "correct": "H",
           "synthetic": true
         },
@@ -1336,7 +1336,7 @@
             "E": "0.98"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_19.jpg",
           "correct": "C"
         },
         {
@@ -1350,7 +1350,7 @@
             "K": "\u03c0 \u221a 5\u03c0"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_19.jpg",
           "correct": "G"
         },
         {
@@ -1364,7 +1364,7 @@
             "E": "6 = + DO"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_19.jpg",
           "correct": "D"
         },
         {
@@ -1378,7 +1378,7 @@
             "K": "The weight, in ounces, of the empty carton"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_20.jpg",
           "correct": "K"
         },
         {
@@ -1386,7 +1386,7 @@
           "stem": "For an angle with measure \u03b1 in a right triangle, sin,\u03b1 = _1_4_4_ tan,\u03b1 = _1_4_4_. and What is the value of 145 17 cos,\u03b1? _1_7__ A. _1_7__ B. ____1_7____ C. \u221a4\u20221\u2022,\u20227\u2022\u20226\u20221 ____1_7____ D. \u221a2\u20220\u2022,\u20224\u20224\u20227\u2022 _1_4_5_ E.",
           "choices": {},
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_20.jpg",
           "correct": "A"
         },
         {
@@ -1400,7 +1400,7 @@
             "K": "140"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_20.jpg",
           "correct": "J"
         },
         {
@@ -1414,7 +1414,7 @@
             "E": "Cannot be determined from the given information DO"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_20.jpg",
           "correct": "B"
         },
         {
@@ -1422,7 +1422,7 @@
           "stem": "Shown below are 2 fair dice. One has 6 faces, each numbered with a different integer from 1 through 6. The other has 8faces, each numbered with a different",
           "choices": {},
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_21.jpg",
           "correct": "H"
         },
         {
@@ -1432,7 +1432,7 @@
             "A": "spinner has 10 congruent sectors that have alternat- ing shading and are numbered 1 through 10, as shown below. The pointer is spun. Given that the pointer"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_21.jpg",
           "correct": "C"
         },
         {
@@ -1442,7 +1442,7 @@
             "G": "+2 x2 ___1____ H. (x+2)2 + _(_x_ __2__) J. x2 _1_ + __x_ 2(_x__ + __2_) K. x2 (\u22121,3), (2,\u22121), DO"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_21.jpg",
           "correct": "H"
         },
         {
@@ -1453,7 +1453,7 @@
             "C": "x 3 O D. III IV"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_22.jpg",
           "correct": "C"
         },
         {
@@ -1461,7 +1461,7 @@
           "stem": "Which of the following expressions is equivalent to _4__1_c_+__2_2 ? c2 c _8__ F. c2 _4_c_2_+_ 8_c__ G. c2 _4_c_+__2_ H. c3 _4_c_+__8_ J. c2 _4_c_+__8_ K. c3",
           "choices": {},
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_22.jpg",
           "correct": "K"
         },
         {
@@ -1473,7 +1473,7 @@
             "E": "1 0 5 10 15 20 25 30 x i2 = \u22121,"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_22.jpg",
           "correct": "D"
         },
         {
@@ -1486,7 +1486,7 @@
             "K": "6 DO"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_22.jpg",
           "correct": "J"
         },
         {
@@ -1499,7 +1499,7 @@
             "E": "f is defined for all real numbers."
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_23.jpg",
           "correct": "A"
         },
         {
@@ -1514,7 +1514,7 @@
             "K": "$5.80"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_23.jpg",
           "correct": "J"
         },
         {
@@ -1526,7 +1526,7 @@
             "E": "_424+3"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_23.jpg",
           "correct": "E"
         },
         {
@@ -1534,7 +1534,7 @@
           "stem": "Given the relatively prime positive integers a, b, c, and d such that a > b > c > d, which of the following fractions has the greatest value? _a_ F. b _a_ G. c _b_ H. c _c_ J. a _d_ K. a DO",
           "choices": {},
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_23.jpg",
           "correct": "G"
         },
         {
@@ -1548,7 +1548,7 @@
             "E": "110\u00b0 X"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_24.jpg",
           "correct": "C"
         },
         {
@@ -1561,7 +1561,7 @@
             "K": "and"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_24.jpg",
           "correct": "K"
         },
         {
@@ -1575,7 +1575,7 @@
             "E": "580"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_24.jpg",
           "correct": "B"
         },
         {
@@ -1583,7 +1583,7 @@
           "stem": "Let function f be defined by f(x)=4x+3. Let function",
           "choices": {},
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_24.jpg",
           "correct": "F"
         },
         {
@@ -1594,7 +1594,7 @@
             "E": "2, 4 4 f(x)=\u2212_1_x\u22125"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_25.jpg",
           "correct": "A"
         },
         {
@@ -1608,7 +1608,7 @@
             "K": "f(x) 9"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_25.jpg",
           "correct": "G"
         },
         {
@@ -1622,7 +1622,7 @@
             "E": "126 \u2194 \u2194"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_25.jpg",
           "correct": "B"
         },
         {
@@ -1639,7 +1639,7 @@
             "K": "Cannot be determined from the given information"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_25.jpg",
           "correct": "K"
         },
         {
@@ -1652,7 +1652,7 @@
             "E": "8 DO"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_25.jpg",
           "correct": "C"
         },
         {
@@ -1660,7 +1660,7 @@
           "stem": "For a certain normally distributed data set, the mean is",
           "choices": {},
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_26.jpg",
           "correct": "J"
         },
         {
@@ -1672,7 +1672,7 @@
             "C": "y x O"
           },
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_26.jpg",
           "correct": "E"
         },
         {
@@ -1680,7 +1680,7 @@
           "stem": "Let a, b, c, and d be real numbers greater than or equal",
           "choices": {},
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_26.jpg",
           "correct": "F"
         },
         {
@@ -1694,7 +1694,7 @@
             "E": "64%"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_27.jpg",
           "correct": "D"
         },
         {
@@ -1708,7 +1708,7 @@
             "K": "None"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_27.jpg",
           "correct": "K"
         },
         {
@@ -1722,7 +1722,7 @@
             "E": "20 DO"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_27.jpg",
           "correct": "B"
         },
         {
@@ -1734,7 +1734,7 @@
             "G": "K. 4 4 \u22124 \u22122 O 2 4 x \u22124 \u22122 O 2 4 x \u22122 \u22122 \u22124 \u22124 y H. \u22124 \u22122 O 2 4 x \u22122 \u22124"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_28.jpg",
           "correct": "H"
         },
         {
@@ -1748,7 +1748,7 @@
             "E": "9 (0,\u22123), (\u22122,0), DO"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_28.jpg",
           "correct": "E"
         },
         {
@@ -1761,7 +1761,7 @@
             "K": "+1)(x +6)"
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_29.jpg",
           "correct": "G"
         },
         {
@@ -1769,7 +1769,7 @@
           "stem": "In the standard (x,y) coordinate plane, an angle with measure \u03b1 is in standard position, and the point (\u22123,7) cos,\u03b1? is on the terminal side of the angle. What is \u2212_3_ A. \u2212__3___ B. \u221a\u20225\u20228 \u2212__7___ C. \u221a\u20225\u20228 _3_ D. __3___ E. \u221a\u20225\u20228",
           "choices": {},
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_29.jpg",
           "correct": "B"
         },
         {
@@ -1777,7 +1777,7 @@
           "stem": "The real numbers a and b are unknown. It is known",
           "choices": {},
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/H31/math/page_29.jpg",
           "correct": "J"
         }
       ]
@@ -1804,7 +1804,8 @@
                 "D": "first person narrator who primarily relates her thoughts surrounding an event that happened in the past."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_30.jpg"
             },
             {
               "number": 2,
@@ -1816,7 +1817,8 @@
                 "J": "A parent-and-child bond never feels as strong as when the child arrives home after a long absence."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_30.jpg"
             },
             {
               "number": 3,
@@ -1828,7 +1830,8 @@
                 "D": "empathetic and hardworking."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_30.jpg"
             },
             {
               "number": 4,
@@ -1840,7 +1843,8 @@
                 "J": "wasteful and dull."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_30.jpg"
             },
             {
               "number": 5,
@@ -1852,7 +1856,8 @@
                 "D": "read and memorize what was written on the dust-covered boxes."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_30.jpg"
             },
             {
               "number": 6,
@@ -1864,7 +1869,8 @@
                 "J": "nearly falling down."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_30.jpg"
             },
             {
               "number": 7,
@@ -1876,7 +1882,8 @@
                 "D": "Cora was frightened to see that one huge, white building could define an entire street."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_30.jpg"
             },
             {
               "number": 8,
@@ -1888,7 +1895,8 @@
                 "J": "much worse."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_30.jpg"
             },
             {
               "number": 9,
@@ -1900,7 +1908,8 @@
                 "D": "She would not be able to name any given model of car that drives by."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_30.jpg"
             },
             {
               "number": 10,
@@ -1912,9 +1921,11 @@
                 "J": "show spite. 31"
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_30.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/H31/reading/page_30.jpg"
         },
         {
           "id": "passage-ii",
@@ -1933,7 +1944,8 @@
                 "D": "provide an example of an extracted fossil that a preparator immortalized in film."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_32.jpg"
             },
             {
               "number": 12,
@@ -1945,7 +1957,8 @@
                 "J": "demonstrate the similarities between where the staff worked in the \u201cearly days\u201d and where they work currently."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_32.jpg"
             },
             {
               "number": 13,
@@ -1957,7 +1970,8 @@
                 "D": "bones of the fossil were softer than the rock sur- rounding it."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_32.jpg"
             },
             {
               "number": 14,
@@ -1969,7 +1983,8 @@
                 "J": "precision of Croucher\u2019s work."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_32.jpg"
             },
             {
               "number": 15,
@@ -1981,7 +1996,8 @@
                 "D": "people outside the film industry think that"
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_32.jpg"
             },
             {
               "number": 16,
@@ -1993,7 +2009,8 @@
                 "J": "450"
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_32.jpg"
             },
             {
               "number": 17,
@@ -2005,7 +2022,8 @@
                 "D": "scorn."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_32.jpg"
             },
             {
               "number": 18,
@@ -2017,7 +2035,8 @@
                 "J": "specialized knowledge of biology."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_32.jpg"
             },
             {
               "number": 19,
@@ -2029,7 +2048,8 @@
                 "D": "\u201cI wouldn\u2019t do what Travis is doing for anything\u201d (lines 80\u201381)."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_32.jpg"
             },
             {
               "number": 20,
@@ -2041,9 +2061,11 @@
                 "J": "specify the traditional tools used for the project. 33"
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_32.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/H31/reading/page_32.jpg"
         },
         {
           "id": "passage-iii",
@@ -2062,7 +2084,8 @@
                 "D": "describe Italian Renaissance artists\u2019 workshops and their effects on the production of art in Europe."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_34.jpg"
             },
             {
               "number": 22,
@@ -2074,7 +2097,8 @@
                 "J": "paint with originality. 34"
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_34.jpg"
             },
             {
               "number": 23,
@@ -2086,7 +2110,8 @@
                 "D": "making paints."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_34.jpg"
             },
             {
               "number": 24,
@@ -2098,7 +2123,8 @@
                 "J": "explain how Ghirlandaio\u2019s apprentices enhanced Ghirlandaio\u2019s color palette."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_34.jpg"
             },
             {
               "number": 25,
@@ -2110,7 +2136,8 @@
                 "D": "document how he set up multiple studios through- out Europe."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_34.jpg"
             },
             {
               "number": 26,
@@ -2122,7 +2149,8 @@
                 "J": "tolerance."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_34.jpg"
             },
             {
               "number": 27,
@@ -2134,7 +2162,8 @@
                 "D": "an opinion held by private patrons who were wary of art created by adventurous artists."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_34.jpg"
             },
             {
               "number": 28,
@@ -2146,7 +2175,8 @@
                 "J": "workshop\u2019s proprietary technique."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_34.jpg"
             },
             {
               "number": 29,
@@ -2158,7 +2188,8 @@
                 "D": "art critic."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_34.jpg"
             },
             {
               "number": 30,
@@ -2170,9 +2201,11 @@
                 "J": "Perugino became a champion of Raphael\u2019s artistic endeavors. 35"
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_34.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/H31/reading/page_34.jpg"
         },
         {
           "id": "passage-iv",
@@ -2191,7 +2224,8 @@
                 "D": "excavate their own homes."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_36.jpg"
             },
             {
               "number": 32,
@@ -2203,7 +2237,8 @@
                 "J": "scarce. 36"
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_36.jpg"
             },
             {
               "number": 33,
@@ -2215,7 +2250,8 @@
                 "D": "the woodpecker creates a home in which eggs and young are almost completely safe from predators."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_36.jpg"
             },
             {
               "number": 34,
@@ -2227,7 +2263,8 @@
                 "J": "It\u2019s easy not to notice the nests of many forest birds."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_36.jpg"
             },
             {
               "number": 35,
@@ -2239,7 +2276,8 @@
                 "D": "Hare"
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_36.jpg"
             },
             {
               "number": 36,
@@ -2251,7 +2289,8 @@
                 "J": "Although an exit might provide the young an escape route, it would also allow them to leave the warren prematurely."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_36.jpg"
             },
             {
               "number": 37,
@@ -2263,7 +2302,8 @@
                 "D": "A nursery chamber"
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_36.jpg"
             },
             {
               "number": 38,
@@ -2275,7 +2315,8 @@
                 "J": "ejects."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_36.jpg"
             },
             {
               "number": 39,
@@ -2287,7 +2328,8 @@
                 "D": "camouflaged in a tree."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_36.jpg"
             },
             {
               "number": 40,
@@ -2299,9 +2341,11 @@
                 "J": "Precocial species may evolve to survive a range of threats to their homes, whereas altricial species typically remain vulnerable. NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/H31/reading/page_36.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/H31/reading/page_36.jpg"
         }
       ]
     },
@@ -2313,7 +2357,7 @@
         {
           "id": "passage-i",
           "title": "Passage i",
-          "imageSrc": "/tests/H31/science/passage_passage-i.jpg",
+          "imageSrc": "/tests/H31/science/page_38.jpg",
           "startPage": 38,
           "questions": [
             {
@@ -2326,7 +2370,7 @@
                 "D": "50 cm; the Ca2+ concentration at a soil depth of 50 cm was 0.4 meq/L less than that at a soil depth of 10 cm. 38"
               },
               "correct": "C",
-              "imageSrc": "/tests/H31/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/H31/science/page_38.jpg"
             },
             {
               "number": 2,
@@ -2338,7 +2382,7 @@
                 "J": "14 dS/m"
               },
               "correct": "J",
-              "imageSrc": "/tests/H31/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/H31/science/page_38.jpg"
             },
             {
               "number": 3,
@@ -2350,7 +2394,7 @@
                 "D": "Between 36 months and 48 months"
               },
               "correct": "D",
-              "imageSrc": "/tests/H31/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/H31/science/page_38.jpg"
             },
             {
               "number": 4,
@@ -2362,7 +2406,7 @@
                 "J": "independent independent"
               },
               "correct": "G",
-              "imageSrc": "/tests/H31/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/H31/science/page_38.jpg"
             },
             {
               "number": 5,
@@ -2374,7 +2418,7 @@
                 "D": "No; at 12 months after planting, the electrical con- ductivity was lowest at a depth of 90 cm, but the Ca2+ concentration was lowest at a depth of 50 cm."
               },
               "correct": "B",
-              "imageSrc": "/tests/H31/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/H31/science/page_38.jpg"
             },
             {
               "number": 6,
@@ -2386,14 +2430,14 @@
                 "J": "Neither 1 month nor 24 months 39"
               },
               "correct": "G",
-              "imageSrc": "/tests/H31/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/H31/science/page_38.jpg"
             }
           ]
         },
         {
           "id": "passage-ii",
           "title": "Passage II",
-          "imageSrc": "/tests/H31/science/passage_passage-ii.jpg",
+          "imageSrc": "/tests/H31/science/page_40.jpg",
           "startPage": 40,
           "questions": [
             {
@@ -2406,7 +2450,7 @@
                 "D": "Immediately after the percent recovery of the cad- mium was determined"
               },
               "correct": "B",
-              "imageSrc": "/tests/H31/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H31/science/page_40.jpg"
             },
             {
               "number": 8,
@@ -2418,7 +2462,7 @@
                 "J": "between 95% and 100%."
               },
               "correct": "F",
-              "imageSrc": "/tests/H31/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H31/science/page_40.jpg"
             },
             {
               "number": 9,
@@ -2430,7 +2474,7 @@
                 "D": "100% 40"
               },
               "correct": "C",
-              "imageSrc": "/tests/H31/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H31/science/page_40.jpg"
             },
             {
               "number": 10,
@@ -2442,7 +2486,7 @@
                 "J": "10.0 mg of graphene, pH of 7, water bath tempera- ture of 40\u00b0C"
               },
               "correct": "G",
-              "imageSrc": "/tests/H31/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H31/science/page_40.jpg"
             },
             {
               "number": 11,
@@ -2454,7 +2498,7 @@
                 "D": "320 min"
               },
               "correct": "C",
-              "imageSrc": "/tests/H31/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H31/science/page_40.jpg"
             },
             {
               "number": 12,
@@ -2467,7 +2511,7 @@
                 "J": "No; as the mass of added graphene increased, the percent recovery did not increase linearly."
               },
               "correct": "J",
-              "imageSrc": "/tests/H31/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H31/science/page_40.jpg"
             },
             {
               "number": 13,
@@ -2479,14 +2523,14 @@
                 "D": "6 41"
               },
               "correct": "A",
-              "imageSrc": "/tests/H31/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/H31/science/page_40.jpg"
             }
           ]
         },
         {
           "id": "passage-iii",
           "title": "Passage III",
-          "imageSrc": "/tests/H31/science/passage_passage-iii.jpg",
+          "imageSrc": "/tests/H31/science/page_42.jpg",
           "startPage": 42,
           "questions": [
             {
@@ -2499,7 +2543,7 @@
                 "J": "100 dlom )%( 80 dlom )%( 80 egarevoc 60 egarevoc 60 egareva egareva 40 40 20 20 0 0 4 8 29 6 0 4 87 2 6 0 2 4 7 2 2 4 9 2 1 1 time (hr) time (hr) 42"
               },
               "correct": "J",
-              "imageSrc": "/tests/H31/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H31/science/page_42.jpg"
             },
             {
               "number": 14,
@@ -2511,7 +2555,7 @@
                 "J": "7"
               },
               "correct": "F",
-              "imageSrc": "/tests/H31/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H31/science/page_42.jpg"
             },
             {
               "number": 15,
@@ -2523,7 +2567,7 @@
                 "D": "35"
               },
               "correct": "B",
-              "imageSrc": "/tests/H31/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H31/science/page_42.jpg"
             },
             {
               "number": 16,
@@ -2535,7 +2579,7 @@
                 "J": "increased in all 4 groups."
               },
               "correct": "J",
-              "imageSrc": "/tests/H31/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H31/science/page_42.jpg"
             },
             {
               "number": 17,
@@ -2547,7 +2591,7 @@
                 "D": "Group D"
               },
               "correct": "D",
-              "imageSrc": "/tests/H31/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H31/science/page_42.jpg"
             },
             {
               "number": 19,
@@ -2559,7 +2603,7 @@
                 "D": "Mitochondrion"
               },
               "correct": "D",
-              "imageSrc": "/tests/H31/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H31/science/page_42.jpg"
             },
             {
               "number": 20,
@@ -2571,14 +2615,14 @@
                 "J": "\u03c0 \u00d7 (5.0 cm)2 \u00d7 78% 43"
               },
               "correct": "F",
-              "imageSrc": "/tests/H31/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/H31/science/page_42.jpg"
             }
           ]
         },
         {
           "id": "passage-iv",
           "title": "Passage IV",
-          "imageSrc": "/tests/H31/science/passage_passage-iv.jpg",
+          "imageSrc": "/tests/H31/science/page_44.jpg",
           "startPage": 44,
           "questions": [
             {
@@ -2591,7 +2635,7 @@
                 "D": "Student 2, because Student 2 proposes that the person should run."
               },
               "correct": "D",
-              "imageSrc": "/tests/H31/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H31/science/page_44.jpg"
             },
             {
               "number": 22,
@@ -2603,7 +2647,7 @@
                 "J": "u = v d"
               },
               "correct": "H",
-              "imageSrc": "/tests/H31/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H31/science/page_44.jpg"
             },
             {
               "number": 23,
@@ -2615,7 +2659,7 @@
                 "D": "Intensity = square meters per total number of drops 44"
               },
               "correct": "A",
-              "imageSrc": "/tests/H31/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H31/science/page_44.jpg"
             },
             {
               "number": 24,
@@ -2627,7 +2671,7 @@
                 "J": "In the back, because the person will be moving in the direction opposite to the rain\u2019s horizontal motion."
               },
               "correct": "G",
-              "imageSrc": "/tests/H31/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H31/science/page_44.jpg"
             },
             {
               "number": 25,
@@ -2639,7 +2683,7 @@
                 "D": "t = d L"
               },
               "correct": "C",
-              "imageSrc": "/tests/H31/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H31/science/page_44.jpg"
             },
             {
               "number": 26,
@@ -2651,7 +2695,7 @@
                 "J": "The statement is not consistent with the predic- tions made by any of these pairs of students."
               },
               "correct": "G",
-              "imageSrc": "/tests/H31/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H31/science/page_44.jpg"
             },
             {
               "number": 27,
@@ -2663,14 +2707,14 @@
                 "D": "N \u2212 t is approximately constant. 45"
               },
               "correct": "A",
-              "imageSrc": "/tests/H31/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/H31/science/page_44.jpg"
             }
           ]
         },
         {
           "id": "passage-v",
           "title": "Passage V",
-          "imageSrc": "/tests/H31/science/passage_passage-v.jpg",
+          "imageSrc": "/tests/H31/science/page_46.jpg",
           "startPage": 46,
           "questions": [
             {
@@ -2683,7 +2727,7 @@
                 "D": "4.7 g. 46"
               },
               "correct": "G",
-              "imageSrc": "/tests/H31/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H31/science/page_46.jpg"
             },
             {
               "number": 28,
@@ -2695,7 +2739,7 @@
                 "J": "using heptane, whereas the S3 samples were extracted using ethanol."
               },
               "correct": "F",
-              "imageSrc": "/tests/H31/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H31/science/page_46.jpg"
             },
             {
               "number": 29,
@@ -2707,7 +2751,7 @@
                 "D": "110\u00b0C"
               },
               "correct": "A",
-              "imageSrc": "/tests/H31/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H31/science/page_46.jpg"
             },
             {
               "number": 30,
@@ -2719,7 +2763,7 @@
                 "J": "No; as the extraction temperature increased, the percent yield of biodiesel decreased and then increased."
               },
               "correct": "F",
-              "imageSrc": "/tests/H31/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H31/science/page_46.jpg"
             },
             {
               "number": 32,
@@ -2731,7 +2775,7 @@
                 "J": "1.2 g"
               },
               "correct": "G",
-              "imageSrc": "/tests/H31/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H31/science/page_46.jpg"
             },
             {
               "number": 33,
@@ -2743,7 +2787,7 @@
                 "D": "decreased and then increased."
               },
               "correct": "D",
-              "imageSrc": "/tests/H31/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H31/science/page_46.jpg"
             },
             {
               "number": 34,
@@ -2755,14 +2799,14 @@
                 "J": "Nonpolar; the oil was extracted using a nonpolar solvent, and nonpolar substances are typically sol- uble in nonpolar solvents. 47"
               },
               "correct": "J",
-              "imageSrc": "/tests/H31/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/H31/science/page_46.jpg"
             }
           ]
         },
         {
           "id": "passage-vi",
           "title": "Passage VI",
-          "imageSrc": "/tests/H31/science/passage_passage-vi.jpg",
+          "imageSrc": "/tests/H31/science/page_48.jpg",
           "startPage": 48,
           "questions": [
             {
@@ -2775,7 +2819,7 @@
                 "D": "A, C, G, and U"
               },
               "correct": "C",
-              "imageSrc": "/tests/H31/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H31/science/page_48.jpg"
             },
             {
               "number": 36,
@@ -2787,7 +2831,7 @@
                 "J": "Tryptophan"
               },
               "correct": "F",
-              "imageSrc": "/tests/H31/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H31/science/page_48.jpg"
             },
             {
               "number": 37,
@@ -2799,7 +2843,7 @@
                 "D": "UUC S"
               },
               "correct": "C",
-              "imageSrc": "/tests/H31/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H31/science/page_48.jpg"
             },
             {
               "number": 38,
@@ -2811,7 +2855,7 @@
                 "J": "contain 3 different nucleobases."
               },
               "correct": "F",
-              "imageSrc": "/tests/H31/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H31/science/page_48.jpg"
             },
             {
               "number": 39,
@@ -2823,7 +2867,7 @@
                 "D": "CUC and UCU"
               },
               "correct": "C",
-              "imageSrc": "/tests/H31/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H31/science/page_48.jpg"
             },
             {
               "number": 40,
@@ -2835,7 +2879,7 @@
                 "J": "8"
               },
               "correct": "H",
-              "imageSrc": "/tests/H31/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/H31/science/page_48.jpg"
             }
           ]
         }

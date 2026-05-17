@@ -1041,7 +1041,7 @@
             "E": "150\u00b0 _1_a+10"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_14.jpg",
           "correct": "E"
         },
         {
@@ -1054,7 +1054,7 @@
             "K": "32"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_14.jpg",
           "correct": "G"
         },
         {
@@ -1072,7 +1072,7 @@
             "K": "15 www.actexam.net ___ ____ DO"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_14.jpg",
           "correct": "B"
         },
         {
@@ -1080,7 +1080,7 @@
           "stem": "The word a ___ \u2220BAC DO",
           "choices": {},
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_14.jpg",
           "correct": "G"
         },
         {
@@ -1094,7 +1094,7 @@
             "E": "135\u00b0"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_15.jpg",
           "correct": "B"
         },
         {
@@ -1108,7 +1108,7 @@
             "K": "$1,344"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_15.jpg",
           "correct": "H"
         },
         {
@@ -1122,7 +1122,7 @@
             "E": "72 __8_!__"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_15.jpg",
           "correct": "C"
         },
         {
@@ -1136,7 +1136,7 @@
             "K": "420 www.actexam.net www.actexam.net nABC DO"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_15.jpg",
           "correct": "J"
         },
         {
@@ -1148,7 +1148,7 @@
             "C": "B _b_ D. c _c_ E. a"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_16.jpg",
           "correct": "D"
         },
         {
@@ -1159,7 +1159,7 @@
             "J": "3a6\u22127a2c4+16c2 9a6\u22123a2c4+08c2 K."
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_16.jpg",
           "correct": "H"
         },
         {
@@ -1172,7 +1172,7 @@
             "E": "( 2,0)"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_16.jpg",
           "correct": "A"
         },
         {
@@ -1186,7 +1186,7 @@
             "K": "10:54 p.m."
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_16.jpg",
           "correct": "H"
         },
         {
@@ -1200,7 +1200,7 @@
             "E": "and (144,0)"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_16.jpg",
           "correct": "B"
         },
         {
@@ -1214,7 +1214,7 @@
             "K": "x www.actexam.net DO"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_16.jpg",
           "correct": "G"
         },
         {
@@ -1225,7 +1225,7 @@
             "B": "E. 6 6 4 4 O O \u22122 2 4 x \u22122 2 4 x \u22122 \u22122 y C. O \u22122 2 4 x \u22122"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_17.jpg",
           "correct": "E"
         },
         {
@@ -1240,7 +1240,7 @@
             "K": "784 www.actexam.net DO"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_17.jpg",
           "correct": "G"
         },
         {
@@ -1254,7 +1254,7 @@
             "E": "N =QR +D"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_18.jpg",
           "correct": "D"
         },
         {
@@ -1268,7 +1268,7 @@
             "K": "16"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_18.jpg",
           "correct": "J"
         },
         {
@@ -1278,7 +1278,7 @@
             "A": "team of biologists tagged and released 90deer in a forest. From the same forest 2 weeks later, the biologists collected a random sample of 30 deer, 5 of which were tagged. Let p be the proportion of deer in p\u02c6, this forest that are tagged. What is the sample proportion, for this sample? _1__ A. _1__ B. _1_ C. _1_ D. _1_ E."
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_18.jpg",
           "correct": "C"
         },
         {
@@ -1290,7 +1290,7 @@
             "K": "14 www.crackab.com www.actexam.net DO"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_18.jpg",
           "correct": "G"
         },
         {
@@ -1309,7 +1309,7 @@
             "K": "Cannot be determined from the given information"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_19.jpg",
           "correct": "C"
         },
         {
@@ -1323,7 +1323,7 @@
             "K": ""
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_19.jpg",
           "correct": "G",
           "synthetic": true
         },
@@ -1338,7 +1338,7 @@
             "E": "4,000"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_19.jpg",
           "correct": "D"
         },
         {
@@ -1346,7 +1346,7 @@
           "stem": "One day will be randomly selected from the 7days in a week. Then 1 month will be randomly selected from the 12 months in a year. What is the probability that the selected day will be Tuesday and the selected month will be January? _1__ F. _1__ G. _1__ H. _2__ J. _1_9_ K. www.actexam.net DO",
           "choices": {},
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_19.jpg",
           "correct": "F"
         },
         {
@@ -1360,7 +1360,7 @@
             "E": "190"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_20.jpg",
           "correct": "B"
         },
         {
@@ -1374,7 +1374,7 @@
             "K": "18"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_20.jpg",
           "correct": "H"
         },
         {
@@ -1388,7 +1388,7 @@
             "E": "34"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_20.jpg",
           "correct": "B"
         },
         {
@@ -1396,7 +1396,7 @@
           "stem": "What angle measure, in radians, is equal to 30\u00b0 ? _\u03c0_ F. _\u03c0_ G. _\u03c0_ H. _\u03c0_ J. _5_\u03c0_ K.",
           "choices": {},
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_20.jpg",
           "correct": "F"
         },
         {
@@ -1410,7 +1410,7 @@
             "E": "34\u00b0 www.actexam.net DO"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_20.jpg",
           "correct": "E"
         },
         {
@@ -1420,7 +1420,7 @@
             "A": "family\u2019s budgeted items are expressed as a fraction of their weekly income in the chart below. Fraction of Expense income fixed _3_ _1_ food _1_ utilities transportation _1__ _1__ personal entertainment _1__ What fractional part of their weekly income is left for unbudgeted items? _5__ F. _1__ G. _1__ H. _1__ J. _1_ K."
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_21.jpg",
           "correct": "J"
         },
         {
@@ -1434,7 +1434,7 @@
             "E": "7"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_21.jpg",
           "correct": "C"
         },
         {
@@ -1448,7 +1448,7 @@
             "K": "12 www.actexam.net www.actexam.net DO"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_21.jpg",
           "correct": "G"
         },
         {
@@ -1458,7 +1458,7 @@
             "A": "package of candy contains pieces each of which is 1 of 6 possible colors: brown, red, green, yellow, _1_ orange, and blue. In each package, of the pieces are brown and the remaining pieces have an even distribution of the other 5 colors. What is the probability that a piece drawn randomly from the package is red? _1__ A. _2__ B. _1_ C. _1_ D. _2_ E."
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_22.jpg",
           "correct": "B"
         },
         {
@@ -1472,7 +1472,7 @@
             "K": "[4,"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_22.jpg",
           "correct": "G"
         },
         {
@@ -1486,7 +1486,7 @@
             "E": "16.5 ="
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_22.jpg",
           "correct": "C"
         },
         {
@@ -1501,7 +1501,7 @@
             "K": "30 www.actexam.net DO"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_22.jpg",
           "correct": "J"
         },
         {
@@ -1515,7 +1515,7 @@
             "E": "95%"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_23.jpg",
           "correct": "A"
         },
         {
@@ -1529,7 +1529,7 @@
             "K": "$7,488"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_23.jpg",
           "correct": "K"
         },
         {
@@ -1543,7 +1543,7 @@
             "E": "28.6%"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_23.jpg",
           "correct": "C"
         },
         {
@@ -1558,7 +1558,7 @@
             "K": "62 www.actexam.net DO Use the following information to answer questions 41\u201343."
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_23.jpg",
           "correct": "J"
         },
         {
@@ -1572,7 +1572,7 @@
             "E": "2.10 \u00d7105"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_24.jpg",
           "correct": "C"
         },
         {
@@ -1586,7 +1586,7 @@
             "K": "x is $18 greater than y."
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_24.jpg",
           "correct": "J"
         },
         {
@@ -1600,7 +1600,7 @@
             "E": "$205,900"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_24.jpg",
           "correct": "D"
         },
         {
@@ -1612,7 +1612,7 @@
             "K": "04 www.actexam.net www.actexam.net DO"
           },
           "pageIndex": 24,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_24.jpg",
           "correct": "H"
         },
         {
@@ -1626,7 +1626,7 @@
             "E": "62.5 ___"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_25.jpg",
           "correct": "D"
         },
         {
@@ -1642,7 +1642,7 @@
             "K": "The measure of in degrees"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_25.jpg",
           "correct": "J"
         },
         {
@@ -1656,7 +1656,7 @@
             "E": "2,100 www.actexam.net DO Use the following information to answer questions 48\u201351. The 2circles graphed in the standard (x,y) coordinate plane below are centered at the origin, O. In coordinate units, the radius of the smaller circle is 2, and the radius of the larger A(\u22124,0),"
           },
           "pageIndex": 25,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_25.jpg",
           "correct": "E"
         },
         {
@@ -1667,7 +1667,7 @@
             "J": "4\u221a\u20222 4\u221a\u20223 K."
           },
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_26.jpg",
           "correct": "G"
         },
         {
@@ -1681,7 +1681,7 @@
             "E": "Infinitely many"
           },
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_26.jpg",
           "correct": "B"
         },
         {
@@ -1692,7 +1692,7 @@
             "J": "48\u03c0 \u03c0 wKw.w8.0c rackab.com www.actexam.net \u2194 DO"
           },
           "pageIndex": 26,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_26.jpg",
           "correct": "G"
         },
         {
@@ -1706,7 +1706,7 @@
             "E": "y =04x"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_27.jpg",
           "correct": "C"
         },
         {
@@ -1721,7 +1721,7 @@
             "K": "35"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_27.jpg",
           "correct": "J"
         },
         {
@@ -1735,7 +1735,7 @@
             "E": "200"
           },
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_27.jpg",
           "correct": "D"
         },
         {
@@ -1743,7 +1743,7 @@
           "stem": "Which of the following expressions is equivalent to __1___ __1___ \u2212 ? x\u2212a x+a __2_a____ F. x2\u2212a2 ___a_2___ G. x2\u2212a2 __2__x___ H. x2\u2212a2 ___1____ J. x2\u2212a2 \u2212_1__ K. 2a www.actexam.net DO",
           "choices": {},
           "pageIndex": 27,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_27.jpg",
           "correct": "F"
         },
         {
@@ -1757,7 +1757,7 @@
             "E": "+ =1 9 25"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_28.jpg",
           "correct": "D"
         },
         {
@@ -1771,7 +1771,7 @@
             "K": "y"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_28.jpg",
           "correct": "J"
         },
         {
@@ -1781,7 +1781,7 @@
             "A": "1 _1_ B. _1_ C. __1__ D. __1__ E. www.actexam.net 2x=7 2y=14, x\u2212y=? DO"
           },
           "pageIndex": 28,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_28.jpg",
           "correct": "E"
         },
         {
@@ -1794,7 +1794,7 @@
             "K": "049"
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_29.jpg",
           "correct": "H"
         },
         {
@@ -1802,7 +1802,7 @@
           "stem": "The table indicates the grade (10 or 11) and high school (North or South) of the 270 students enrolled in Algebra II in the Green City School District. North South Grade 10 47 93 Grade 11 73 57 Suppose 2 of these students will be chosen at random to represent the Algebra II classes at a local STEM (Science, Technology, Engineering, and Mathematics) event. Which of the following expressions gives the probability that both chosen students will be from the same grade and the same high school? __4_7_(4_6_)__ __9_3_(9_2_)__ __7_3_(7_2_)__ __5_7_(5_6_)__ + + + A. 270(269) 270(269) 270(269) 270(269) _1_1_4_7__ + _9_3__ + _7_3__ + _5_6__2 B. 4 270 270 270 270 __4_7_(7_3_)__ __9_3_(5_7_)__ + C. 270(269) 270(269) __4_7_(9_3_)__ __7_3_(5_7_)__ + D. 270(269) 270(269) _1_1_1_2 E. 4 4",
           "choices": {},
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_29.jpg",
           "correct": "A"
         },
         {
@@ -1812,7 +1812,7 @@
             "A": "certain company has 120 employees, 85 of whom have business degrees. Of the employees with business degrees, 75 are certified public accountants (CPAs). There are 14 employees who are not CPAs and also do not hold a business degree. One employee of the company will be selected at random to be interviewed for a television news program. What is the probability that the selected employee will be a CPA ? (Note: A business degree is NOT required to be a CPA.) _7_5__ F. _8_5__ G. _8_9__ H. _9_6__ J. _9_9__ K."
           },
           "pageIndex": 29,
-          "imageSrc": null,
+          "imageSrc": "/tests/D06/math/page_29.jpg",
           "correct": "J"
         }
       ]
@@ -1839,7 +1839,8 @@
                 "D": "different; Capote felt at home despite his apart- ment\u2019s defects, whereas Cruz was disappointed in her apartment\u2019s shabbiness."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_30.jpg"
             },
             {
               "number": 2,
@@ -1851,7 +1852,8 @@
                 "J": "had a clearer view."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_30.jpg"
             },
             {
               "number": 3,
@@ -1863,7 +1865,8 @@
                 "D": "expository; Cruz explains how to thrive in a flawed apartment. www.actexa"
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_30.jpg"
             },
             {
               "number": 4,
@@ -1875,7 +1878,8 @@
                 "J": "much like an office building, with people hurriedly coming and going."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_30.jpg"
             },
             {
               "number": 5,
@@ -1887,7 +1891,8 @@
                 "D": "reveal Cruz\u2019s frustration with the cluttered, noisy apartment complex."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_30.jpg"
             },
             {
               "number": 6,
@@ -1899,7 +1904,8 @@
                 "J": "Cruz needed to make the most of the few quiet moments she could find."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_30.jpg"
             },
             {
               "number": 7,
@@ -1911,7 +1917,8 @@
                 "D": "continued her freelance teaching jobs."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_30.jpg"
             },
             {
               "number": 8,
@@ -1923,7 +1930,8 @@
                 "J": "apartments have become more expensive."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_30.jpg"
             },
             {
               "number": 9,
@@ -1935,7 +1943,8 @@
                 "D": "study creative writing."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_30.jpg"
             },
             {
               "number": 10,
@@ -1947,9 +1956,11 @@
                 "J": "less than she had paid in the past. am.net 1"
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_30.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/D06/reading/page_30.jpg"
         },
         {
           "id": "passage-ii",
@@ -1968,7 +1979,8 @@
                 "D": "argument that aluminum should still be considered a precious metal due to its value to manufacturers."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_31.jpg"
             },
             {
               "number": 12,
@@ -1980,9 +1992,11 @@
                 "J": "It is difficult to definitively judge whether alu- minum\u2019s status was bettered or worsened by the attention it received in the 1800s. am.net 2"
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_31.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/D06/reading/page_31.jpg"
         },
         {
           "id": "passage-i",
@@ -2001,7 +2015,8 @@
                 "D": "Hall founded his company in the United States long before other countries had the tools to pro- duce aluminum."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_32.jpg"
             },
             {
               "number": 14,
@@ -2013,7 +2028,8 @@
                 "J": "Hall"
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_32.jpg"
             },
             {
               "number": 15,
@@ -2025,7 +2041,8 @@
                 "D": "despite its success in the lab, Hall\u2019s breakthrough wasn\u2019t initially practical on an industrial level."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_32.jpg"
             },
             {
               "number": 16,
@@ -2037,7 +2054,8 @@
                 "J": "he wanted to distance himself from H\u00e9roult, who tried to take credit for Hall\u2019s discovery. www.actexam.net www.actexa"
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_32.jpg"
             },
             {
               "number": 17,
@@ -2049,7 +2067,8 @@
                 "D": "suggest that the nineteenth-century fascination with aluminum was felt primarily by the French."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_32.jpg"
             },
             {
               "number": 18,
@@ -2061,7 +2080,8 @@
                 "J": "the US government wanted to flaunt the United States\u2019 industrial might."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_32.jpg"
             },
             {
               "number": 19,
@@ -2073,7 +2093,8 @@
                 "D": "cheapness."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_32.jpg"
             },
             {
               "number": 20,
@@ -2085,9 +2106,11 @@
                 "J": "H\u00e9roult was the first to discover an entirely new process for obtaining aluminum. am.net 3"
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_32.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/D06/reading/page_32.jpg"
         },
         {
           "id": "passage-iii",
@@ -2106,7 +2129,8 @@
                 "D": "dedicated to Dylan\u2019s career. am.net 4"
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_34.jpg"
             },
             {
               "number": 22,
@@ -2118,7 +2142,8 @@
                 "J": "establish that fans were unaccustomed to Dylan playing electric guitar."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_34.jpg"
             },
             {
               "number": 23,
@@ -2130,7 +2155,8 @@
                 "D": "he wasn\u2019t used to switching instruments between songs. Questions 24\u201327 ask about Passage B."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_34.jpg"
             },
             {
               "number": 24,
@@ -2142,7 +2168,8 @@
                 "J": "constituted folk music\u2019s audience."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_34.jpg"
             },
             {
               "number": 25,
@@ -2154,7 +2181,8 @@
                 "D": "increased seriousness of pop music."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_34.jpg"
             },
             {
               "number": 26,
@@ -2166,7 +2194,8 @@
                 "J": "depicted. www.actexa"
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_34.jpg"
             },
             {
               "number": 27,
@@ -2178,7 +2207,8 @@
                 "D": "Rock \u2019n\u2019 roll merged with folk music to become a genre called folk rock. Questions 28\u201330 ask about both passages."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_34.jpg"
             },
             {
               "number": 28,
@@ -2190,7 +2220,8 @@
                 "J": "PassageA focuses on portraying Dylan\u2019s rock \u2019n\u2019 roll performance at the Newport Folk Festival, while PassageB focuses on exploring the roles of and changes within folk music and rock \u2019n\u2019 roll in the 1960s."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_34.jpg"
             },
             {
               "number": 29,
@@ -2202,7 +2233,8 @@
                 "D": "Changes within rock \u2019n\u2019 roll motivated Dylan to switch from playing folk music to playing rock \u2019n\u2019 roll."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_34.jpg"
             },
             {
               "number": 30,
@@ -2214,9 +2246,11 @@
                 "J": "Dylan\u2019s background and musical training. am.net 5"
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_34.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/D06/reading/page_34.jpg"
         },
         {
           "id": "passage-iv",
@@ -2235,7 +2269,8 @@
                 "D": "while detecting sounds in both its right and left ears."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_35.jpg"
             },
             {
               "number": 32,
@@ -2247,9 +2282,11 @@
                 "J": "loudness and intensity. am.net 6"
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_35.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/D06/reading/page_35.jpg"
         },
         {
           "id": "passage-i",
@@ -2268,7 +2305,8 @@
                 "D": "making use of."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_36.jpg"
             },
             {
               "number": 34,
@@ -2280,7 +2318,8 @@
                 "J": "Swooping down on stationary prey"
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_36.jpg"
             },
             {
               "number": 35,
@@ -2292,7 +2331,8 @@
                 "D": "falling within one predictable timing pattern."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_36.jpg"
             },
             {
               "number": 36,
@@ -2304,7 +2344,8 @@
                 "J": "emphasize that the barn owl\u2019s means of hunting is both remarkable and lethal."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_36.jpg"
             },
             {
               "number": 37,
@@ -2316,7 +2357,8 @@
                 "D": "Its talons"
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_36.jpg"
             },
             {
               "number": 38,
@@ -2328,7 +2370,8 @@
                 "J": "variable in terms of their relative length and width."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_36.jpg"
             },
             {
               "number": 39,
@@ -2340,7 +2383,8 @@
                 "D": "fine enough to allow sound to pass through them unfiltered."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_36.jpg"
             },
             {
               "number": 40,
@@ -2352,9 +2396,11 @@
                 "J": "The barn owl is about three times more accurate as a human in azimuth but is about as accurate in elevation. NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST. am.net"
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/D06/reading/page_36.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/D06/reading/page_36.jpg"
         }
       ]
     },
@@ -2366,7 +2412,7 @@
         {
           "id": "passage-i",
           "title": "Passage i",
-          "imageSrc": "/tests/D06/science/passage_passage-i.jpg",
+          "imageSrc": "/tests/D06/science/page_38.jpg",
           "startPage": 38,
           "questions": [
             {
@@ -2379,7 +2425,7 @@
                 "D": "7 2.0%"
               },
               "correct": "B",
-              "imageSrc": "/tests/D06/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/D06/science/page_38.jpg"
             },
             {
               "number": 2,
@@ -2391,7 +2437,7 @@
                 "J": "20. www.actexa"
               },
               "correct": "G",
-              "imageSrc": "/tests/D06/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/D06/science/page_38.jpg"
             },
             {
               "number": 3,
@@ -2403,7 +2449,7 @@
                 "D": "2.2%"
               },
               "correct": "A",
-              "imageSrc": "/tests/D06/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/D06/science/page_38.jpg"
             },
             {
               "number": 4,
@@ -2415,7 +2461,7 @@
                 "J": "Trial 7; the longer RT corresponded to the faster decomposition."
               },
               "correct": "G",
-              "imageSrc": "/tests/D06/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/D06/science/page_38.jpg"
             },
             {
               "number": 5,
@@ -2427,7 +2473,7 @@
                 "D": "H O 2 2"
               },
               "correct": "C",
-              "imageSrc": "/tests/D06/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/D06/science/page_38.jpg"
             },
             {
               "number": 6,
@@ -2439,7 +2485,7 @@
                 "J": "16 sec"
               },
               "correct": "F",
-              "imageSrc": "/tests/D06/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/D06/science/page_38.jpg"
             },
             {
               "number": 7,
@@ -2451,14 +2497,14 @@
                 "D": "18 sec\u221250 sec am.net 9"
               },
               "correct": "B",
-              "imageSrc": "/tests/D06/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/D06/science/page_38.jpg"
             }
           ]
         },
         {
           "id": "passage-ii",
           "title": "Passage II",
-          "imageSrc": "/tests/D06/science/passage_passage-ii.jpg",
+          "imageSrc": "/tests/D06/science/page_40.jpg",
           "startPage": 40,
           "questions": [
             {
@@ -2470,7 +2516,7 @@
                 "B": "V. www.actexa"
               },
               "correct": "F",
-              "imageSrc": "/tests/D06/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/D06/science/page_40.jpg"
             },
             {
               "number": 8,
@@ -2483,7 +2529,7 @@
                 "J": "greater than 49,000"
               },
               "correct": "J",
-              "imageSrc": "/tests/D06/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/D06/science/page_40.jpg"
             },
             {
               "number": 9,
@@ -2496,7 +2542,7 @@
                 "D": "20% meat juice"
               },
               "correct": "D",
-              "imageSrc": "/tests/D06/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/D06/science/page_40.jpg"
             },
             {
               "number": 10,
@@ -2508,7 +2554,7 @@
                 "J": "To eliminate any excess dye from the chips after staining the cells"
               },
               "correct": "F",
-              "imageSrc": "/tests/D06/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/D06/science/page_40.jpg"
             },
             {
               "number": 11,
@@ -2521,7 +2567,7 @@
                 "D": "Skim milk and 20% meat juice only www.actexa"
               },
               "correct": "C",
-              "imageSrc": "/tests/D06/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/D06/science/page_40.jpg"
             },
             {
               "number": 12,
@@ -2533,7 +2579,7 @@
                 "J": "Step 7"
               },
               "correct": "J",
-              "imageSrc": "/tests/D06/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/D06/science/page_40.jpg"
             },
             {
               "number": 13,
@@ -2545,7 +2591,7 @@
                 "D": "skim milk, the average number of S.typhimurium cells/cm2decreases only."
               },
               "correct": "C",
-              "imageSrc": "/tests/D06/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/D06/science/page_40.jpg"
             },
             {
               "number": 14,
@@ -2557,14 +2603,14 @@
                 "J": "Nucleotide am.net 1"
               },
               "correct": "J",
-              "imageSrc": "/tests/D06/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/D06/science/page_40.jpg"
             }
           ]
         },
         {
           "id": "passage-iii",
           "title": "Passage III",
-          "imageSrc": "/tests/D06/science/passage_passage-iii.jpg",
+          "imageSrc": "/tests/D06/science/page_42.jpg",
           "startPage": 42,
           "questions": [
             {
@@ -2577,7 +2623,7 @@
                 "D": "To remove most or all water"
               },
               "correct": "B",
-              "imageSrc": "/tests/D06/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/D06/science/page_42.jpg"
             },
             {
               "number": 16,
@@ -2589,7 +2635,7 @@
                 "J": "oak trees to grow to a minimum height. am.net 2"
               },
               "correct": "F",
-              "imageSrc": "/tests/D06/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/D06/science/page_42.jpg"
             },
             {
               "number": 17,
@@ -2601,7 +2647,7 @@
                 "D": "The earthworms lived only at depths greater than 12 cm."
               },
               "correct": "C",
-              "imageSrc": "/tests/D06/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/D06/science/page_42.jpg"
             },
             {
               "number": 18,
@@ -2613,7 +2659,7 @@
                 "J": "Plots 3 and 4"
               },
               "correct": "J",
-              "imageSrc": "/tests/D06/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/D06/science/page_42.jpg"
             },
             {
               "number": 19,
@@ -2625,7 +2671,7 @@
                 "D": "larger than 3 mm in diameter. www.actexa"
               },
               "correct": "A",
-              "imageSrc": "/tests/D06/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/D06/science/page_42.jpg"
             },
             {
               "number": 20,
@@ -2635,7 +2681,7 @@
                 "J": "3"
               },
               "correct": "G",
-              "imageSrc": "/tests/D06/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/D06/science/page_42.jpg"
             },
             {
               "number": 21,
@@ -2647,14 +2693,14 @@
                 "D": "less less am.net 3"
               },
               "correct": "C",
-              "imageSrc": "/tests/D06/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/D06/science/page_42.jpg"
             }
           ]
         },
         {
           "id": "passage-iv",
           "title": "Passage IV",
-          "imageSrc": "/tests/D06/science/passage_passage-iv.jpg",
+          "imageSrc": "/tests/D06/science/page_44.jpg",
           "startPage": 44,
           "questions": [
             {
@@ -2667,7 +2713,7 @@
                 "J": "increased only for 4 odorants but increased and then decreased for 1 odorant."
               },
               "correct": "J",
-              "imageSrc": "/tests/D06/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/D06/science/page_44.jpg"
             },
             {
               "number": 23,
@@ -2679,7 +2725,7 @@
                 "D": "greater than 185 \u03bcV."
               },
               "correct": "C",
-              "imageSrc": "/tests/D06/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/D06/science/page_44.jpg"
             },
             {
               "number": 24,
@@ -2691,7 +2737,7 @@
                 "J": "methyl salicylate 100 mg/L"
               },
               "correct": "F",
-              "imageSrc": "/tests/D06/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/D06/science/page_44.jpg"
             },
             {
               "number": 25,
@@ -2703,7 +2749,7 @@
                 "D": "Propylacetone, nerolidol, caryophyllic acid, methyl salicylate, linalool am.net 4"
               },
               "correct": "D",
-              "imageSrc": "/tests/D06/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/D06/science/page_44.jpg"
             },
             {
               "number": 26,
@@ -2715,7 +2761,7 @@
                 "J": "Nose www.actexa"
               },
               "correct": "G",
-              "imageSrc": "/tests/D06/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/D06/science/page_44.jpg"
             },
             {
               "number": 27,
@@ -2727,14 +2773,14 @@
                 "D": "Peripheral; the function of these neurons is to receive stimuli from the environment and then pass this information to other neurons. am.net 5"
               },
               "correct": "C",
-              "imageSrc": "/tests/D06/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/D06/science/page_44.jpg"
             }
           ]
         },
         {
           "id": "passage-v",
           "title": "Passage V",
-          "imageSrc": "/tests/D06/science/passage_passage-v.jpg",
+          "imageSrc": "/tests/D06/science/page_46.jpg",
           "startPage": 46,
           "questions": [
             {
@@ -2747,7 +2793,7 @@
                 "J": "4,400 km"
               },
               "correct": "J",
-              "imageSrc": "/tests/D06/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/D06/science/page_46.jpg"
             },
             {
               "number": 29,
@@ -2759,7 +2805,7 @@
                 "D": "Satellites 5\u22128 and Satellites 9\u221212 only"
               },
               "correct": "B",
-              "imageSrc": "/tests/D06/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/D06/science/page_46.jpg"
             },
             {
               "number": 30,
@@ -2771,7 +2817,7 @@
                 "J": "Cannot be determined from the given information 5\u22128."
               },
               "correct": "G",
-              "imageSrc": "/tests/D06/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/D06/science/page_46.jpg"
             },
             {
               "number": 31,
@@ -2783,7 +2829,7 @@
                 "D": "Satellite 10 www.actexa"
               },
               "correct": "A",
-              "imageSrc": "/tests/D06/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/D06/science/page_46.jpg"
             },
             {
               "number": 32,
@@ -2795,7 +2841,7 @@
                 "J": "Satellite10, because R for Earth is greater than R for the Moon."
               },
               "correct": "G",
-              "imageSrc": "/tests/D06/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/D06/science/page_46.jpg"
             },
             {
               "number": 33,
@@ -2807,14 +2853,14 @@
                 "D": "Approximately how much time is required for a satellite to complete 1 revolution around Earth at an altitude of 400 km ? am.net 7"
               },
               "correct": "D",
-              "imageSrc": "/tests/D06/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/D06/science/page_46.jpg"
             }
           ]
         },
         {
           "id": "passage-vi",
           "title": "Passage VI",
-          "imageSrc": "/tests/D06/science/passage_passage-vi.jpg",
+          "imageSrc": "/tests/D06/science/page_48.jpg",
           "startPage": 48,
           "questions": [
             {
@@ -2827,7 +2873,7 @@
                 "G": "= Geometry S = Statistics & Probability IES = Integrating Essential Skills MDL = Modeling www.actexa Reporting Category* PHM Key N A F G S IES MDL"
               },
               "correct": "G",
-              "imageSrc": "/tests/D06/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/D06/science/page_48.jpg"
             },
             {
               "number": 34,
@@ -2839,7 +2885,7 @@
                 "J": "HCl is a base."
               },
               "correct": "H",
-              "imageSrc": "/tests/D06/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/D06/science/page_48.jpg"
             },
             {
               "number": 35,
@@ -2851,7 +2897,7 @@
                 "D": "donates an H , whereas according to Scientist 3, an acid accepts a pair of electrons."
               },
               "correct": "B",
-              "imageSrc": "/tests/D06/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/D06/science/page_48.jpg"
             },
             {
               "number": 36,
@@ -2863,7 +2909,7 @@
                 "J": "Scientists 2 and 3 only"
               },
               "correct": "J",
-              "imageSrc": "/tests/D06/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/D06/science/page_48.jpg"
             },
             {
               "number": 37,
@@ -2875,7 +2921,7 @@
                 "D": "Neither Scientist 2 nor Scientist 3"
               },
               "correct": "C",
-              "imageSrc": "/tests/D06/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/D06/science/page_48.jpg"
             },
             {
               "number": 38,
@@ -2887,7 +2933,7 @@
                 "J": "OH and Cl . am.net 8"
               },
               "correct": "G",
-              "imageSrc": "/tests/D06/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/D06/science/page_48.jpg"
             },
             {
               "number": 39,
@@ -2899,7 +2945,7 @@
                 "D": "O, because it has more than 2 electrons. S www.actexa"
               },
               "correct": "D",
-              "imageSrc": "/tests/D06/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/D06/science/page_48.jpg"
             },
             {
               "number": 40,
@@ -2911,7 +2957,7 @@
                 "J": "Cl"
               },
               "correct": "F",
-              "imageSrc": "/tests/D06/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/D06/science/page_48.jpg"
             }
           ]
         }

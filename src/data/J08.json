@@ -576,7 +576,7 @@
             "D": "289 \u2212_ 1 _1"
           },
           "pageIndex": 12,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_12.jpg",
           "correct": "D"
         },
         {
@@ -589,7 +589,7 @@
             "J": "128"
           },
           "pageIndex": 12,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_12.jpg",
           "correct": "H"
         },
         {
@@ -597,7 +597,7 @@
           "stem": "For which of the following fractions does the decimal expansion require 1 repeating nonzero digit? _1 A. _3 B. _5 C. _2 D.",
           "choices": {},
           "pageIndex": 12,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_12.jpg",
           "correct": "D"
         },
         {
@@ -605,7 +605,7 @@
           "stem": "The word \u201ca _ DO",
           "choices": {},
           "pageIndex": 12,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_12.jpg",
           "correct": "J"
         },
         {
@@ -618,7 +618,7 @@
             "D": "14"
           },
           "pageIndex": 13,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_13.jpg",
           "correct": "B"
         },
         {
@@ -631,7 +631,7 @@
             "J": "side lengths."
           },
           "pageIndex": 13,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_13.jpg",
           "correct": "F"
         },
         {
@@ -644,7 +644,7 @@
             "J": "9 x \u2212 27x + 18"
           },
           "pageIndex": 13,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_13.jpg",
           "correct": "H"
         },
         {
@@ -657,7 +657,7 @@
             "D": "4,056"
           },
           "pageIndex": 13,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_13.jpg",
           "correct": "B"
         },
         {
@@ -671,7 +671,7 @@
             "J": "40 (20.10) + 14 (1 ) (20.10) DO"
           },
           "pageIndex": 13,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_13.jpg",
           "correct": "J"
         },
         {
@@ -684,7 +684,7 @@
             "D": "9i"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_14.jpg",
           "correct": "C"
         },
         {
@@ -698,7 +698,7 @@
             "J": "Decrease the y -intercept by 12.5"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_14.jpg",
           "correct": "H"
         },
         {
@@ -708,7 +708,7 @@
             "A": "certain committee is composed of 11 juniors and 79 seniors. Two different members of the committee will be randomly selected, each for a different leadership role. Given that the 1 st member selected is a junior, what is the probability that the 2 nd member selected will be a senior? _10 A. _10 B. _79 C. _79 D. DO"
           },
           "pageIndex": 14,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_14.jpg",
           "correct": "C"
         },
         {
@@ -721,7 +721,7 @@
             "J": "671"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_15.jpg",
           "correct": "F"
         },
         {
@@ -734,7 +734,7 @@
             "D": "[0, 860] time in minutes 10i + 2"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_15.jpg",
           "correct": "A"
         },
         {
@@ -747,7 +747,7 @@
             "D": "11i DO"
           },
           "pageIndex": 15,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_15.jpg",
           "correct": "A"
         },
         {
@@ -755,7 +755,7 @@
           "stem": "What is the value of x in the solution to the given system of linear equations? 8x + y = 6 9x \u2212 6y = 11 _25 F. _47 G. _57 H. _39 J.",
           "choices": {},
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_16.jpg",
           "correct": "G"
         },
         {
@@ -768,7 +768,7 @@
             "D": "Period: 3 Amplitude: 4"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_16.jpg",
           "correct": "A"
         },
         {
@@ -781,7 +781,7 @@
             "J": "+ h h nRST DO"
           },
           "pageIndex": 16,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_16.jpg",
           "correct": "G"
         },
         {
@@ -794,7 +794,7 @@
             "D": "The measure of \u2220T is the greatest. \u22121"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_17.jpg",
           "correct": "A"
         },
         {
@@ -804,7 +804,7 @@
             "J": "x + 5"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_17.jpg",
           "correct": "G"
         },
         {
@@ -821,7 +821,7 @@
             "J": "(16,\u221220) DO"
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_17.jpg",
           "correct": "C"
         },
         {
@@ -835,7 +835,7 @@
             "K": ""
           },
           "pageIndex": 17,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_17.jpg",
           "correct": "F",
           "synthetic": true
         },
@@ -849,7 +849,7 @@
             "D": "$80.00"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_18.jpg",
           "correct": "A"
         },
         {
@@ -863,7 +863,7 @@
             "J": "30%"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_18.jpg",
           "correct": "F"
         },
         {
@@ -876,7 +876,7 @@
             "D": "7 DO"
           },
           "pageIndex": 18,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_18.jpg",
           "correct": "A"
         },
         {
@@ -889,7 +889,7 @@
             "J": "45 cot 25\u00b0"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_19.jpg",
           "correct": "H"
         },
         {
@@ -902,7 +902,7 @@
             "D": "1.475"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_19.jpg",
           "correct": "B"
         },
         {
@@ -915,7 +915,7 @@
             "D": "12 DO"
           },
           "pageIndex": 19,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_19.jpg",
           "correct": "A"
         },
         {
@@ -928,7 +928,7 @@
             "J": "Exponential, because over equal time intervals, the concentration decreases by equal differences."
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_20.jpg",
           "correct": "H"
         },
         {
@@ -941,7 +941,7 @@
             "D": "is a rational number. _ x 2 _ y"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_20.jpg",
           "correct": "C"
         },
         {
@@ -954,7 +954,7 @@
             "J": "( 9,0 ) DO"
           },
           "pageIndex": 20,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_20.jpg",
           "correct": "G"
         },
         {
@@ -967,7 +967,7 @@
             "D": "y = 4 log (x + 2) + 4"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_21.jpg",
           "correct": "D"
         },
         {
@@ -980,7 +980,7 @@
             "J": "\u23aaY\u23aa < \u23aaZ\u23aa < \u23aaX\u23aa < \u23aaW\u23aa"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_21.jpg",
           "correct": "H"
         },
         {
@@ -994,7 +994,7 @@
             "C": "16:1"
           },
           "pageIndex": 21,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_21.jpg",
           "correct": "C"
         },
         {
@@ -1007,7 +1007,7 @@
             "D": "2"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_22.jpg",
           "correct": "B"
         },
         {
@@ -1020,7 +1020,7 @@
             "J": "14"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_22.jpg",
           "correct": "J"
         },
         {
@@ -1033,7 +1033,7 @@
             "D": "110"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_22.jpg",
           "correct": "A"
         },
         {
@@ -1047,7 +1047,7 @@
             "J": "64"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_22.jpg",
           "correct": "H"
         },
         {
@@ -1060,7 +1060,7 @@
             "D": "84b DO"
           },
           "pageIndex": 22,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_22.jpg",
           "correct": "A"
         },
         {
@@ -1073,7 +1073,7 @@
             "J": "2,850"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_23.jpg",
           "correct": "J"
         },
         {
@@ -1086,7 +1086,7 @@
             "D": "x = \u22123 , x = 3 , and y = 3"
           },
           "pageIndex": 23,
-          "imageSrc": null,
+          "imageSrc": "/tests/J08/math/page_23.jpg",
           "correct": "D"
         }
       ]
@@ -1113,7 +1113,8 @@
                 "D": "explain the history of and manufacturing methods involved in the development of mirrors."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_24.jpg"
             },
             {
               "number": 2,
@@ -1125,7 +1126,8 @@
                 "J": "before flat mirrors were invented, convex mirrors were the norm and not particularly helpful to most self-portraitists."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_24.jpg"
             },
             {
               "number": 3,
@@ -1137,7 +1139,8 @@
                 "D": "the biographical backgrounds of the artists."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_24.jpg"
             },
             {
               "number": 4,
@@ -1149,7 +1152,8 @@
                 "J": "explain why the availability of mirrors affected some artists more than others."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_24.jpg"
             },
             {
               "number": 5,
@@ -1161,7 +1165,8 @@
                 "D": "A ball of blown glass was formed, filled with molten metal, allowed to cool, and then cut into individual pieces."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_24.jpg"
             },
             {
               "number": 6,
@@ -1173,7 +1178,8 @@
                 "J": "Once convex mirrors were used less often than flat mirrors for self-portraits, the convex mirror became a symbol of outdated, unfashionable artis- tic practices."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_24.jpg"
             },
             {
               "number": 7,
@@ -1185,7 +1191,8 @@
                 "D": "clear."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_24.jpg"
             },
             {
               "number": 8,
@@ -1197,7 +1204,8 @@
                 "J": "consumers finally expressing a need for mirrors."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_24.jpg"
             },
             {
               "number": 9,
@@ -1209,9 +1217,11 @@
                 "D": "correcting. 25"
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_24.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/J08/reading/page_24.jpg"
         },
         {
           "id": "passage-ii",
@@ -1230,7 +1240,8 @@
                 "J": "underscore that the thought of returning home is deeply exciting to Rani."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_26.jpg"
             },
             {
               "number": 11,
@@ -1242,7 +1253,8 @@
                 "D": "interpreted."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_26.jpg"
             },
             {
               "number": 12,
@@ -1254,7 +1266,8 @@
                 "J": "helping Ben learn how to pick out the best produce."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_26.jpg"
             },
             {
               "number": 13,
@@ -1266,7 +1279,8 @@
                 "D": "bewildered that her father doesn\u2019t ask Ben any questions about photography."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_26.jpg"
             },
             {
               "number": 14,
@@ -1278,7 +1292,8 @@
                 "J": "is frequently perceived by others as aloof and shy."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_26.jpg"
             },
             {
               "number": 15,
@@ -1290,7 +1305,8 @@
                 "D": "alternate between relating characters\u2019 memories of the past and events occurring in the present."
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_26.jpg"
             },
             {
               "number": 16,
@@ -1302,7 +1318,8 @@
                 "J": "Passage A focuses on how Rani feels that the people she once knew are different; Passage B examines how the narrator\u2019s hometown has changed."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_26.jpg"
             },
             {
               "number": 17,
@@ -1314,7 +1331,8 @@
                 "D": "disappointing."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_26.jpg"
             },
             {
               "number": 18,
@@ -1326,9 +1344,11 @@
                 "J": "The tones are different in that Passage A ends with a tone of acceptance, whereas Passage B ends on a defiant note. 27"
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_26.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/J08/reading/page_26.jpg"
         },
         {
           "id": "passage-iii",
@@ -1347,7 +1367,8 @@
                 "J": "provide a chronology of the prevailing beliefs about when and where life on Earth began."
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_28.jpg"
             },
             {
               "number": 20,
@@ -1359,7 +1380,8 @@
                 "D": "The researchers began hiking through the Pilbara at night. 28"
               },
               "correct": "A",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_28.jpg"
             },
             {
               "number": 21,
@@ -1371,7 +1393,8 @@
                 "J": "Djokic\u2019s discovery undermined Deamer\u2019s research from ten years earlier."
               },
               "correct": "F",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_28.jpg"
             },
             {
               "number": 22,
@@ -1383,7 +1406,8 @@
                 "D": "Hydrothermal vents emit gases such as hydrogen sulfide."
               },
               "correct": "B",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_28.jpg"
             },
             {
               "number": 23,
@@ -1395,7 +1419,8 @@
                 "J": "Polymers repeatedly dry out and get wet again, which allows them to interact with each other."
               },
               "correct": "H",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_28.jpg"
             },
             {
               "number": 24,
@@ -1407,7 +1432,8 @@
                 "D": "unlikely."
               },
               "correct": "D",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_28.jpg"
             },
             {
               "number": 25,
@@ -1419,7 +1445,8 @@
                 "J": "How primitive bacteria use iron and sulfur to form cell membranes"
               },
               "correct": "G",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_28.jpg"
             },
             {
               "number": 26,
@@ -1431,7 +1458,8 @@
                 "D": "emphasize how similar the Dresser\u2019s current cli- mate is to Yellowstone\u2019s."
               },
               "correct": "C",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_28.jpg"
             },
             {
               "number": 27,
@@ -1443,9 +1471,11 @@
                 "J": "the search for alien life. NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST."
               },
               "correct": "J",
-              "lineRef": null
+              "lineRef": null,
+              "imageSrc": "/tests/J08/reading/page_28.jpg"
             }
-          ]
+          ],
+          "imageSrc": "/tests/J08/reading/page_28.jpg"
         }
       ]
     },
@@ -1457,7 +1487,7 @@
         {
           "id": "passage-i",
           "title": "Passage i",
-          "imageSrc": "/tests/J08/science/passage_passage-i.jpg",
+          "imageSrc": "/tests/J08/science/page_30.jpg",
           "startPage": 30,
           "questions": [
             {
@@ -1470,7 +1500,7 @@
                 "D": "did not vary."
               },
               "correct": "B",
-              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/J08/science/page_30.jpg"
             },
             {
               "number": 2,
@@ -1482,7 +1512,7 @@
                 "J": "12"
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/J08/science/page_30.jpg"
             },
             {
               "number": 3,
@@ -1494,7 +1524,7 @@
                 "D": "greater than 16 cm."
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/J08/science/page_30.jpg"
             },
             {
               "number": 4,
@@ -1506,7 +1536,7 @@
                 "J": "From 60 s to 70 s"
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/J08/science/page_30.jpg"
             },
             {
               "number": 5,
@@ -1518,7 +1548,7 @@
                 "D": "Neither Experiment 1 nor Experiment 2"
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/J08/science/page_30.jpg"
             },
             {
               "number": 6,
@@ -1530,14 +1560,14 @@
                 "J": "16 cm 31"
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/J08/science/page_30.jpg"
             }
           ]
         },
         {
           "id": "passage-ii",
           "title": "Passage II",
-          "imageSrc": "/tests/J08/science/passage_passage-ii.jpg",
+          "imageSrc": "/tests/J08/science/page_32.jpg",
           "startPage": 32,
           "questions": [
             {
@@ -1550,7 +1580,7 @@
                 "D": "Time period: 5:00 p.m. to 5:05 p.m. Number of discharges: 100"
               },
               "correct": "B",
-              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/J08/science/page_32.jpg"
             },
             {
               "number": 8,
@@ -1562,7 +1592,7 @@
                 "J": "Storm 6, Storm 8, Storm 2, Storm 4 32"
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/J08/science/page_32.jpg"
             },
             {
               "number": 9,
@@ -1574,7 +1604,7 @@
                 "D": "Average flash rate: 5 Difference: 15"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/J08/science/page_32.jpg"
             },
             {
               "number": 10,
@@ -1586,7 +1616,7 @@
                 "J": "20\u221225 C, 25\u221230 C, and 30\u221235 C only"
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/J08/science/page_32.jpg"
             },
             {
               "number": 11,
@@ -1598,7 +1628,7 @@
                 "D": "16 discharges/min"
               },
               "correct": "A",
-              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/J08/science/page_32.jpg"
             },
             {
               "number": 12,
@@ -1610,14 +1640,14 @@
                 "J": "515 33"
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/J08/science/page_32.jpg"
             }
           ]
         },
         {
           "id": "passage-iii",
           "title": "Passage III",
-          "imageSrc": "/tests/J08/science/passage_passage-iii.jpg",
+          "imageSrc": "/tests/J08/science/page_34.jpg",
           "startPage": 34,
           "questions": [
             {
@@ -1630,7 +1660,7 @@
                 "D": "an organ, a group of tissues that perform a specific function. 34"
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/J08/science/page_34.jpg"
             },
             {
               "number": 14,
@@ -1642,7 +1672,7 @@
                 "J": "Insulin: decrease Glucagon: stay approximately the same"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/J08/science/page_34.jpg"
             },
             {
               "number": 15,
@@ -1654,7 +1684,7 @@
                 "D": "Students 1, 2, and 3"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/J08/science/page_34.jpg"
             },
             {
               "number": 16,
@@ -1666,7 +1696,7 @@
                 "J": "a chemical messenger that cannot regulate hor- mone release."
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/J08/science/page_34.jpg"
             },
             {
               "number": 17,
@@ -1678,7 +1708,7 @@
                 "D": "No; Student 1 indicated that the greatest amount of glucagon is released when BG concentrations are greater than the set point."
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/J08/science/page_34.jpg"
             },
             {
               "number": 18,
@@ -1690,14 +1720,14 @@
                 "J": "Yes; Student 4 indicated that the BG set point was recommended, and based on the Introduction, the BG set point results in optimal body functioning. 35"
               },
               "correct": "F",
-              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/J08/science/page_34.jpg"
             }
           ]
         },
         {
           "id": "passage-iv",
           "title": "Passage IV",
-          "imageSrc": "/tests/J08/science/passage_passage-iv.jpg",
+          "imageSrc": "/tests/J08/science/page_36.jpg",
           "startPage": 36,
           "questions": [
             {
@@ -1708,7 +1738,7 @@
                 "J": "Wu et al. (\u00a92015 by the authors through Atlantis Press). 36"
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             },
             {
               "number": 9,
@@ -1720,7 +1750,7 @@
                 "D": "30 mg/L."
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             },
             {
               "number": 19,
@@ -1732,7 +1762,7 @@
                 "D": "greater than 20%."
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             },
             {
               "number": 20,
@@ -1742,7 +1772,7 @@
                 "J": "6"
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             },
             {
               "number": 21,
@@ -1754,7 +1784,7 @@
                 "D": "4 trials"
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             },
             {
               "number": 22,
@@ -1766,7 +1796,7 @@
                 "J": "Temperature"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             },
             {
               "number": 24,
@@ -1778,14 +1808,14 @@
                 "J": "HCl; the solution tested in that trial was more acidic than the starting phenol solution. 37"
               },
               "correct": "F",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             }
           ]
         },
         {
           "id": "passage-v",
           "title": "Passage V",
-          "imageSrc": "/tests/J08/science/passage_passage-v.jpg",
+          "imageSrc": "/tests/J08/science/page_38.jpg",
           "startPage": 38,
           "questions": [
             {
@@ -1798,7 +1828,7 @@
                 "D": "sometimes greater and sometimes less. 39"
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/J08/science/page_38.jpg"
             },
             {
               "number": 25,
@@ -1810,7 +1840,7 @@
                 "D": "Trial 10"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/J08/science/page_38.jpg"
             },
             {
               "number": 26,
@@ -1823,7 +1853,7 @@
                 "J": "The R tested in Study 1 was less than that tested in Study 3. Li+?"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/J08/science/page_38.jpg"
             },
             {
               "number": 27,
@@ -1835,7 +1865,7 @@
                 "D": "2.00 \u00d7 m/s 10\u22123"
               },
               "correct": "A",
-              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/J08/science/page_38.jpg"
             },
             {
               "number": 28,
@@ -1847,14 +1877,14 @@
                 "J": "48.0 \u00d7 103 mT"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/J08/science/page_38.jpg"
             }
           ]
         },
         {
           "id": "passage-vi",
           "title": "Passage VI",
-          "imageSrc": "/tests/J08/science/passage_passage-vi.jpg",
+          "imageSrc": "/tests/J08/science/page_40.jpg",
           "startPage": 40,
           "questions": [
             {
@@ -1867,7 +1897,7 @@
                 "J": "Females; males deposit the eggs into the female\u2019s brood pouch where the eggs are fertilized by the female\u2019s sperm. S"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/J08/science/page_40.jpg"
             },
             {
               "number": 31,
@@ -1879,7 +1909,7 @@
                 "D": "Neither Group 3 nor Group 4"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/J08/science/page_40.jpg"
             },
             {
               "number": 32,
@@ -1891,7 +1921,7 @@
                 "J": "Neither the grow-out stage nor the nursery stage"
               },
               "correct": "F",
-              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/J08/science/page_40.jpg"
             },
             {
               "number": 33,
@@ -1903,7 +1933,7 @@
                 "D": "Yes; Group 2 seahorses had an average percent survival just under 30 percentage points less than that of Group 4."
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/J08/science/page_40.jpg"
             },
             {
               "number": 34,
@@ -1915,7 +1945,7 @@
                 "J": "Grow-out stage; the overall rate of change during the grow-out stage was greater than 0.5 mm/day, whereas the overall rate of change during the nurs- ery stage was less than 0.5 mm/day."
               },
               "correct": "F",
-              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/J08/science/page_40.jpg"
             }
           ]
         }
