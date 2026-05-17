@@ -37,7 +37,7 @@ export default function Dashboard() {
 }
 
 function TestCard({ test, result, completed, onStart }) {
-  const { startTest, goToReview, testResults } = useTestStore()
+  const { startTest, goToReview, testResults, clearTestResults } = useTestStore()
   const composite = result?.scores?.composite
 
   const handleReview = () => {
