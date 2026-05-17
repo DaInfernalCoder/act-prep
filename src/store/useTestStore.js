@@ -1,7 +1,13 @@
 import { create } from 'zustand'
+import tests from '../data'
 
 const SECTION_ORDER = ['english', 'math', 'reading']
 const SECTION_TIMES = { english: 45 * 60, math: 60 * 60, reading: 35 * 60 }
+
+function getSectionTime(testId, section) {
+  const test = tests.find(t => t.id === testId)
+  return test?.sectionTimes?.[section] ?? SECTION_TIMES[section]
+}
 const BREAK_AFTER = 'math'
 const BREAK_TIME = 10 * 60
 
@@ -32,7 +38,7 @@ export const useTestStore = create(
         currentQuestionIndex: 0,
         answers: {},
         flagged: {},
-        timeRemaining: SECTION_TIMES['english'],
+        timeRemaining: getSectionTime(testId, 'english'),
         phase: 'instructions',
         breakTimeRemaining: BREAK_TIME,
         errorTags: {},
@@ -42,7 +48,7 @@ export const useTestStore = create(
 
       beginSection: () => set((state) => ({
         phase: 'testing',
-        timeRemaining: SECTION_TIMES[state.currentSection],
+        timeRemaining: getSectionTime(state.activeTestId, state.currentSection),
       })),
 
       setAnswer: (key, value) => set((state) => ({
@@ -87,20 +93,20 @@ export const useTestStore = create(
           set({
             currentSection: nextSection,
             currentQuestionIndex: 0,
-            timeRemaining: SECTION_TIMES[nextSection],
+            timeRemaining: getSectionTime(get().activeTestId, nextSection),
             phase: 'instructions',
           })
         }
       },
 
       endBreak: () => {
-        const { currentSection } = get()
+        const { currentSection, activeTestId } = get()
         const idx = SECTION_ORDER.indexOf(currentSection)
         const nextSection = SECTION_ORDER[idx + 1]
         set({
           currentSection: nextSection,
           currentQuestionIndex: 0,
-          timeRemaining: SECTION_TIMES[nextSection],
+          timeRemaining: getSectionTime(activeTestId, nextSection),
           phase: 'instructions',
         })
       },

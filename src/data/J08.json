@@ -28,11 +28,11 @@
             },
             {
               "number": 2,
-              "stem": "Which choice most effectively maintains the essay\u2019s tone?",
+              "stem": "Which choice most effectively maintains the essay’s tone?",
               "choices": {
                 "F": "No Change",
                 "G": "To curtail the predicaments referenced above, com- munities may want to contemplate investing",
-                "H": "But there\u2019s a conceivable fix if communities would only just invest their monetary assets",
+                "H": "But there’s a conceivable fix if communities would only just invest their monetary assets",
                 "J": "One surefire way to remedy the culverting mess is for communities to invest 2"
               },
               "pageIndex": 2,
@@ -84,7 +84,7 @@
               "choices": {
                 "F": "No Change",
                 "G": "certain daylighting projects tear down abandoned malls and warehouses before adding bridges.",
-                "H": "many citizens have lived and worked above their cities\u2019 streams.",
+                "H": "many citizens have lived and worked above their cities’ streams.",
                 "J": "a downside of daylighting is the loss of some usable structures."
               },
               "pageIndex": 4,
@@ -124,7 +124,7 @@
                 "A": "No Change",
                 "B": "In the last twenty years, cities worldwide have contemplated daylighting various streams.",
                 "C": "Daylighting offers more than a view of a water- way; it brings life back to the city center.",
-                "D": "Daylighting is doable when people work together, but it isn\u2019t easy."
+                "D": "Daylighting is doable when people work together, but it isn’t easy."
               },
               "pageIndex": 4,
               "imageSrc": "/tests/J08/english/page_4.jpg",
@@ -179,7 +179,7 @@
           "questions": [
             {
               "number": 13,
-              "stem": "Which choice most effectively maintains the essay\u2019s tone?",
+              "stem": "Which choice most effectively maintains the essay’s tone?",
               "choices": {
                 "A": "No Change",
                 "B": "in pursuit of the phone with which an elongated lob could most likely be achieved.",
@@ -221,7 +221,7 @@
               "stem": "If the writer were to delete the underlined portion, the essay would primarily lose a specific detail that:",
               "choices": {
                 "F": "helps clarify that the woman on the unicycle was the most impressive contestant.",
-                "G": "helps illustrate why the woman\u2019s performance was particularly noteworthy.",
+                "G": "helps illustrate why the woman’s performance was particularly noteworthy.",
                 "H": "defines the minimum required length of the perfor- mances in this event.",
                 "J": "reveals why the woman chose to ride a unicycle before throwing her phone."
               },
@@ -275,7 +275,7 @@
                 "F": "After all, I had taken enough pictures and video to remember this experience in the years to come.",
                 "G": "Then I linked arms with Anneli and stepped fur- ther into the crowd.",
                 "H": "At that moment, I started hoping that I could come again next year.",
-                "J": "I could still feel it in my pocket, but I ignored it\u2014mostly. 6"
+                "J": "I could still feel it in my pocket, but I ignored it—mostly. 6"
               },
               "pageIndex": 6,
               "imageSrc": "/tests/J08/english/page_6.jpg",
@@ -298,10 +298,10 @@
               "number": 22,
               "stem": "If the writer were to delete the underlined portion (adjusting the punctuation as needed), the paragraph would primarily lose:",
               "choices": {
-                "F": "a detail illustrating how Torres\u2019s approach to cre- ating the Sun Light series was influenced by his personal and cultural history.",
+                "F": "a detail illustrating how Torres’s approach to cre- ating the Sun Light series was influenced by his personal and cultural history.",
                 "G": "an example clarifying how Torres depicted various types of moonlight in the paintings in his Sun Light series.",
                 "H": "a suggestion that Torres often finds inspiration for his art from a connection with friends and family.",
-                "J": "a description of Torres\u2019s upbringing and the cul- tural traditions that most influenced his artistry."
+                "J": "a description of Torres’s upbringing and the cul- tural traditions that most influenced his artistry."
               },
               "pageIndex": 7,
               "imageSrc": "/tests/J08/english/page_7.jpg",
@@ -322,7 +322,7 @@
             },
             {
               "number": 24,
-              "stem": "Which choice provides the most specific description of the appearance of the \u201cstrands\u201d composing the faces in Torres\u2019s portraits?",
+              "stem": "Which choice provides the most specific description of the appearance of the “strands” composing the faces in Torres’s portraits?",
               "choices": {
                 "F": "No Change",
                 "G": "combined in such a way that they",
@@ -372,9 +372,9 @@
               "stem": "Which choice makes the sentence most grammatically acceptable?",
               "choices": {
                 "A": "No Change",
-                "B": "paint\u2014mostly whites, grays, and blacks\u2014",
+                "B": "paint—mostly whites, grays, and blacks—",
                 "C": "paint, (mostly whites, grays, and blacks),",
-                "D": "paint\u2014mostly whites, grays, and blacks,"
+                "D": "paint—mostly whites, grays, and blacks,"
               },
               "pageIndex": 8,
               "imageSrc": "/tests/J08/english/page_8.jpg",
@@ -398,9 +398,9 @@
               "stem": "Given that all the choices are actual quotations from Torres, which one would most effectively conclude the sentence and the essay?",
               "choices": {
                 "A": "No Change",
-                "B": "\u201cEven if it looks like a lot of effort to create my paintings, they are effortless because it is total joy to make them.\u201d",
-                "C": "\u201cMost of the Cuban population is made up of farmers who plant and harvest their crops on the waning moon.\u201d",
-                "D": "\u201cI started to paint objects and people made out of natural elements, like feathers and basket weaving.\u201d 8"
+                "B": "“Even if it looks like a lot of effort to create my paintings, they are effortless because it is total joy to make them.”",
+                "C": "“Most of the Cuban population is made up of farmers who plant and harvest their crops on the waning moon.”",
+                "D": "“I started to paint objects and people made out of natural elements, like feathers and basket weaving.” 8"
               },
               "pageIndex": 8,
               "imageSrc": "/tests/J08/english/page_8.jpg",
@@ -408,12 +408,12 @@
             },
             {
               "number": 30,
-              "stem": "Suppose the writer\u2019s primary purpose had been to dis- cuss paintings that represent a key theme in an artist\u2019s work. Would this essay accomplish that purpose?",
+              "stem": "Suppose the writer’s primary purpose had been to dis- cuss paintings that represent a key theme in an artist’s work. Would this essay accomplish that purpose?",
               "choices": {
-                "F": "Yes, because it explains Torres\u2019s philosophy that childhood relationships have the most profound influence on an artist\u2019s paintings.",
-                "G": "Yes, because it explores how Torres\u2019s Sun Light series exemplifies his philosophy about interconnectedness.",
-                "H": "No, because although it discusses major ideas that Torres has explored throughout his artistic career, it doesn\u2019t focus on particular artworks.",
-                "J": "No, because although it describes Torres\u2019s Sun Light portraits in detail, it fails to discuss thematic elements in the series."
+                "F": "Yes, because it explains Torres’s philosophy that childhood relationships have the most profound influence on an artist’s paintings.",
+                "G": "Yes, because it explores how Torres’s Sun Light series exemplifies his philosophy about interconnectedness.",
+                "H": "No, because although it discusses major ideas that Torres has explored throughout his artistic career, it doesn’t focus on particular artworks.",
+                "J": "No, because although it describes Torres’s Sun Light portraits in detail, it fails to discuss thematic elements in the series."
               },
               "pageIndex": 9,
               "imageSrc": "/tests/J08/english/page_9.jpg",
@@ -438,8 +438,8 @@
               "choices": {
                 "F": "No Change",
                 "G": "hip hop, dip hop is not simply, rap songs translated into ASL, but musical expression",
-                "H": "hip hop\u2014dip hop is not simply rap songs, trans- lated into ASL but musical expression,",
-                "J": "hip hop, dip hop is not simply rap songs translated into ASL but\u2014musical expression"
+                "H": "hip hop—dip hop is not simply rap songs, trans- lated into ASL but musical expression,",
+                "J": "hip hop, dip hop is not simply rap songs translated into ASL but—musical expression"
               },
               "pageIndex": 9,
               "imageSrc": "/tests/J08/english/page_9.jpg",
@@ -510,7 +510,7 @@
               "stem": "Which choice makes the sentence most grammatically acceptable?",
               "choices": {
                 "A": "No Change",
-                "B": "thirty\u2014",
+                "B": "thirty—",
                 "C": "thirty,",
                 "D": "thirty:"
               },
@@ -537,7 +537,7 @@
               "choices": {
                 "A": "No Change",
                 "B": "revelatory, he has learned",
-                "C": "revelatory; he\u2019s learning",
+                "C": "revelatory; he’s learning",
                 "D": "revelatory; to learn"
               },
               "pageIndex": 11,
@@ -568,12 +568,12 @@
       "questions": [
         {
           "number": 1,
-          "stem": "What is the solution of the equation \u221a x \u2212 9 = 8 ?",
+          "stem": "What is the solution of the equation √ x − 9 = 8 ?",
           "choices": {
             "A": "1",
             "B": "25",
             "C": "34",
-            "D": "289 \u2212_ 1 _1"
+            "D": "289 −_ 1 _1"
           },
           "pageIndex": 12,
           "imageSrc": "/tests/J08/math/page_12.jpg",
@@ -583,8 +583,8 @@
           "number": 2,
           "stem": "2 = ? ( ) _1",
           "choices": {
-            "F": "\u2212 _1",
-            "G": "\u2212",
+            "F": "− _1",
+            "G": "−",
             "H": "8",
             "J": "128"
           },
@@ -602,7 +602,7 @@
         },
         {
           "number": 4,
-          "stem": "The word \u201ca _ DO",
+          "stem": "The word “a _ DO",
           "choices": {},
           "pageIndex": 12,
           "imageSrc": "/tests/J08/math/page_12.jpg",
@@ -636,12 +636,12 @@
         },
         {
           "number": 7,
-          "stem": "Which of the following expressions is equivalent to (3x \u2212 9) ?",
+          "stem": "Which of the following expressions is equivalent to (3x − 9) ?",
           "choices": {
-            "F": "6x \u2212 18",
+            "F": "6x − 18",
             "G": "6 x + 81",
-            "H": "9 x 2 \u2212 54x + 81",
-            "J": "9 x \u2212 27x + 18"
+            "H": "9 x 2 − 54x + 81",
+            "J": "9 x − 27x + 18"
           },
           "pageIndex": 13,
           "imageSrc": "/tests/J08/math/page_13.jpg",
@@ -676,9 +676,9 @@
         },
         {
           "number": 10,
-          "stem": "For the complex variable z , one of the following is a solution of z = \u22129 . Which one?",
+          "stem": "For the complex variable z , one of the following is a solution of z = −9 . Which one?",
           "choices": {
-            "A": "\u22123",
+            "A": "−3",
             "B": "3",
             "C": "3i",
             "D": "9i"
@@ -691,7 +691,7 @@
           "number": 11,
           "stem": "",
           "choices": {
-            "A": "student modeled a set of paired data with the equation y = 0.25x + 25 . The student\u2019s model and a scatterplot of the paired data are graphed in the standard (x,y) coordinate plane. Among the following possible changes to the student\u2019s equation, which one will most improve the fit to the paired data? y O 25 50 75 100 x",
+            "A": "student modeled a set of paired data with the equation y = 0.25x + 25 . The student’s model and a scatterplot of the paired data are graphed in the standard (x,y) coordinate plane. Among the following possible changes to the student’s equation, which one will most improve the fit to the paired data? y O 25 50 75 100 x",
             "F": "Increase the slope by 0.75",
             "G": "Decrease the slope by 0.25",
             "H": "Increase the y -intercept by 12.5",
@@ -713,7 +713,7 @@
         },
         {
           "number": 13,
-          "stem": "This table lists the engine size, x liters, and the weight, w kilograms, of each of 5 vehicles. A linear model for w\u02c6 the data in the table is = 375x + 370. The actual weight of the vehicle with the smallest engine size differs from the linear model\u2019s predicted weight of this vehicle by how many kilograms? Engine Weight size (L) (kg) 2.0 1,041 4.3 2,021 3.4 1,670 2.8 1,547 4.0 1,754",
+          "stem": "This table lists the engine size, x liters, and the weight, w kilograms, of each of 5 vehicles. A linear model for wˆ the data in the table is = 375x + 370. The actual weight of the vehicle with the smallest engine size differs from the linear model’s predicted weight of this vehicle by how many kilograms? Engine Weight size (L) (kg) 2.0 1,041 4.3 2,021 3.4 1,670 2.8 1,547 4.0 1,754",
           "choices": {
             "F": "79",
             "G": "296",
@@ -739,9 +739,9 @@
         },
         {
           "number": 15,
-          "stem": "Which of the following numbers is equal to _ ? 2i (Note: i 2 = \u22121 )",
+          "stem": "Which of the following numbers is equal to _ ? 2i (Note: i 2 = −1 )",
           "choices": {
-            "A": "5 \u2212 i",
+            "A": "5 − i",
             "B": "6",
             "C": "9i",
             "D": "11i DO"
@@ -752,7 +752,7 @@
         },
         {
           "number": 16,
-          "stem": "What is the value of x in the solution to the given system of linear equations? 8x + y = 6 9x \u2212 6y = 11 _25 F. _47 G. _57 H. _39 J.",
+          "stem": "What is the value of x in the solution to the given system of linear equations? 8x + y = 6 9x − 6y = 11 _25 F. _47 G. _57 H. _39 J.",
           "choices": {},
           "pageIndex": 16,
           "imageSrc": "/tests/J08/math/page_16.jpg",
@@ -760,7 +760,7 @@
         },
         {
           "number": 17,
-          "stem": "The function y = 2 sin (6\u03c0x) is graphed in the standard (x,y) coordinate plane for x radians in the interval 0 \u2264 x \u2264 1 . What are the period and amplitude of the function? y O 1 x \u22122 _ 1",
+          "stem": "The function y = 2 sin (6πx) is graphed in the standard (x,y) coordinate plane for x radians in the interval 0 ≤ x ≤ 1 . What are the period and amplitude of the function? y O 1 x −2 _ 1",
           "choices": {
             "A": "Period: Amplitude: 2 _1",
             "B": "Period: Amplitude: 4",
@@ -773,9 +773,9 @@
         },
         {
           "number": 18,
-          "stem": "Let c , h , and q be distinct nonzero real numbers, and let x be a variable. Which of the following gives the solution to c (x \u2212 h) = q ? _q",
+          "stem": "Let c , h , and q be distinct nonzero real numbers, and let x be a variable. Which of the following gives the solution to c (x − h) = q ? _q",
           "choices": {
-            "F": "c \u2212 h _q",
+            "F": "c − h _q",
             "G": "c + h _q _h",
             "H": "c + c _q _ c",
             "J": "+ h h nRST DO"
@@ -788,10 +788,10 @@
           "number": 19,
           "stem": "Given with RS = 18 cm, ST = 12 cm, and RT = 27 cm, which of the following statements is true about the angles of this triangle?",
           "choices": {
-            "A": "The measure of \u2220R is the least.",
-            "B": "The measure of \u2220S is the least.",
-            "C": "The measure of \u2220R is the greatest.",
-            "D": "The measure of \u2220T is the greatest. \u22121"
+            "A": "The measure of ∠R is the least.",
+            "B": "The measure of ∠S is the least.",
+            "C": "The measure of ∠R is the greatest.",
+            "D": "The measure of ∠T is the greatest. −1"
           },
           "pageIndex": 17,
           "imageSrc": "/tests/J08/math/page_17.jpg",
@@ -799,7 +799,7 @@
         },
         {
           "number": 20,
-          "stem": "Given f (x) = 2x \u2212 5 , what is the inverse, f (x) ? _x \u2212 5 F. _x + 5 G. _x + 2 H. _1",
+          "stem": "Given f (x) = 2x − 5 , what is the inverse, f (x) ? _x − 5 F. _x + 5 G. _x + 2 H. _1",
           "choices": {
             "J": "x + 5"
           },
@@ -809,16 +809,16 @@
         },
         {
           "number": 21,
-          "stem": "In the figure shown, a square is circumscribed about a circle with an 8 -inch radius. Diameter A\u203eB is parallel to 2 sides of the square, and C \u203eD is a diagonal of the square. Some regions, bounded by the square, the circle, A \u203eB , and C \u203eD , are shaded. Which of the following is closest to the total area, in square inches, of the shaded regions? C",
+          "stem": "In the figure shown, a square is circumscribed about a circle with an 8 -inch radius. Diameter A‾B is parallel to 2 sides of the square, and C ‾D is a diagonal of the square. Some regions, bounded by the square, the circle, A ‾B , and C ‾D , are shaded. Which of the following is closest to the total area, in square inches, of the shaded regions? C",
           "choices": {
             "A": "64",
             "B": "176",
             "C": "224",
-            "D": "256 maps the point (0,0) to itself and maps the point (4,\u221216) to the point (1,\u22124) . This dilation maps the point (12,\u221224) to the point:",
-            "F": "(3,\u22126)",
-            "G": "(9,\u221236)",
-            "H": "(15,\u221236)",
-            "J": "(16,\u221220) DO"
+            "D": "256 maps the point (0,0) to itself and maps the point (4,−16) to the point (1,−4) . This dilation maps the point (12,−24) to the point:",
+            "F": "(3,−6)",
+            "G": "(9,−36)",
+            "H": "(15,−36)",
+            "J": "(16,−20) DO"
           },
           "pageIndex": 17,
           "imageSrc": "/tests/J08/math/page_17.jpg",
@@ -868,7 +868,7 @@
         },
         {
           "number": 25,
-          "stem": "Consider the repeating decimal 0.\u203e7 412 in expanded form. What is the 323 rd digit to the right of the decimal point?",
+          "stem": "Consider the repeating decimal 0.‾7 412 in expanded form. What is the 323 rd digit to the right of the decimal point?",
           "choices": {
             "A": "1",
             "B": "2",
@@ -881,12 +881,12 @@
         },
         {
           "number": 26,
-          "stem": "Jabari is walking along a straight sidewalk when he sees a tree directly ahead of him. He estimates that the angle of elevation from his feet to the top of the tree is 25\u00b0 . As he continues walking, he finds that he was about 45 feet from the base of the tree when he estimated the angle of elevation. Based on Jabari\u2019s estimates, which of the following expressions represents the height, in feet, of the tree?",
+          "stem": "Jabari is walking along a straight sidewalk when he sees a tree directly ahead of him. He estimates that the angle of elevation from his feet to the top of the tree is 25° . As he continues walking, he finds that he was about 45 feet from the base of the tree when he estimated the angle of elevation. Based on Jabari’s estimates, which of the following expressions represents the height, in feet, of the tree?",
           "choices": {
-            "F": "45 sin 25\u00b0",
-            "G": "45 cos 25\u00b0",
-            "H": "45 tan 25\u00b0",
-            "J": "45 cot 25\u00b0"
+            "F": "45 sin 25°",
+            "G": "45 cos 25°",
+            "H": "45 tan 25°",
+            "J": "45 cot 25°"
           },
           "pageIndex": 19,
           "imageSrc": "/tests/J08/math/page_19.jpg",
@@ -933,11 +933,11 @@
         },
         {
           "number": 30,
-          "stem": "Given that n is a rational number, which of the _ _\u22124\u221a 14 \u2212 n following statements about the number must be true? _ _\u22124\u221a 14 \u2212 n",
+          "stem": "Given that n is a rational number, which of the _ _−4√ 14 − n following statements about the number must be true? _ _−4√ 14 − n",
           "choices": {
-            "A": "is positive. _ _\u22124\u221a 14 \u2212 n",
-            "B": "is negative. _ _\u22124\u221a 14 \u2212 n",
-            "C": "is an irrational number. _ _\u22124\u221a 14 \u2212 n",
+            "A": "is positive. _ _−4√ 14 − n",
+            "B": "is negative. _ _−4√ 14 − n",
+            "C": "is an irrational number. _ _−4√ 14 − n",
             "D": "is a rational number. _ x 2 _ y"
           },
           "pageIndex": 20,
@@ -946,7 +946,7 @@
         },
         {
           "number": 31,
-          "stem": "The graph of \u2212 = 1 in the standard ( x,y ) coordinate 9 49 plane has an x -intercept at which of the following points?",
+          "stem": "The graph of − = 1 in the standard ( x,y ) coordinate 9 49 plane has an x -intercept at which of the following points?",
           "choices": {
             "F": "( 0,0 )",
             "G": "( 3,0 )",
@@ -959,11 +959,11 @@
         },
         {
           "number": 32,
-          "stem": "One of the following is the equation of this graph in the standard (x,y) coordinate plane. Which one? y O 5 10 x x \u2212 4",
+          "stem": "One of the following is the equation of this graph in the standard (x,y) coordinate plane. Which one? y O 5 10 x x − 4",
           "choices": {
-            "A": "y = 4 (4) \u2212 2",
+            "A": "y = 4 (4) − 2",
             "B": "y = 4 (4) x + 2 + 4",
-            "C": "y = 4 log (x \u2212 4) \u2212 2",
+            "C": "y = 4 log (x − 4) − 2",
             "D": "y = 4 log (x + 2) + 4"
           },
           "pageIndex": 21,
@@ -972,12 +972,12 @@
         },
         {
           "number": 33,
-          "stem": "Event W consists of 14 simple events. Event X consists of 11 simple events, none of which are in event W . Event Y is the intersection of events W and X , and event Z is the union of events W and X . Which of the following statements is true? (Note: Given that event E consists of n simple events, \u23aaE\u23aa = n .)",
+          "stem": "Event W consists of 14 simple events. Event X consists of 11 simple events, none of which are in event W . Event Y is the intersection of events W and X , and event Z is the union of events W and X . Which of the following statements is true? (Note: Given that event E consists of n simple events, ⎪E⎪ = n .)",
           "choices": {
-            "F": "\u23aaX\u23aa < \u23aaW\u23aa < \u23aaY\u23aa < \u23aaZ\u23aa",
-            "G": "\u23aaX\u23aa < \u23aaW\u23aa < \u23aaZ\u23aa < \u23aaY\u23aa",
-            "H": "\u23aaY\u23aa < \u23aaX\u23aa < \u23aaW\u23aa < \u23aaZ\u23aa",
-            "J": "\u23aaY\u23aa < \u23aaZ\u23aa < \u23aaX\u23aa < \u23aaW\u23aa"
+            "F": "⎪X⎪ < ⎪W⎪ < ⎪Y⎪ < ⎪Z⎪",
+            "G": "⎪X⎪ < ⎪W⎪ < ⎪Z⎪ < ⎪Y⎪",
+            "H": "⎪Y⎪ < ⎪X⎪ < ⎪W⎪ < ⎪Z⎪",
+            "J": "⎪Y⎪ < ⎪Z⎪ < ⎪X⎪ < ⎪W⎪"
           },
           "pageIndex": 21,
           "imageSrc": "/tests/J08/math/page_21.jpg",
@@ -985,7 +985,7 @@
         },
         {
           "number": 34,
-          "stem": "An isosceles triangle, nABC , with A \u203eB \u2245 C \u203eB is shown. Points D , E , and H are the midpoints of A\u203eB , C\u203eB , and A \u203eC , respectively. Points F and G are the midpoints of D\u203eH and E \u203eH , respectively. What is the ratio of the area of nABC to the area of nFGH ? B",
+          "stem": "An isosceles triangle, nABC , with A ‾B ≅ C ‾B is shown. Points D , E , and H are the midpoints of A‾B , C‾B , and A ‾C , respectively. Points F and G are the midpoints of D‾H and E ‾H , respectively. What is the ratio of the area of nABC to the area of nFGH ? B",
           "choices": {
             "D": "64:1 DO",
             "F": "G",
@@ -1001,8 +1001,8 @@
           "number": 35,
           "stem": "Two perpendicular lines in the standard (x,y) coordinate plane each have nonzero slopes. What is the product of their slopes?",
           "choices": {
-            "A": "\u22122",
-            "B": "\u22121",
+            "A": "−2",
+            "B": "−1",
             "C": "1",
             "D": "2"
           },
@@ -1012,7 +1012,7 @@
         },
         {
           "number": 36,
-          "stem": "For integers m and n such that \u22123 \u2264 m \u2264 4 and \u221210 \u2264 n \u2264 9, what is the greatest possible value of \u23aam \u2212 n\u23aa ?",
+          "stem": "For integers m and n such that −3 ≤ m ≤ 4 and −10 ≤ n ≤ 9, what is the greatest possible value of ⎪m − n⎪ ?",
           "choices": {
             "F": "5",
             "G": "7",
@@ -1027,8 +1027,8 @@
           "number": 37,
           "stem": "",
           "choices": {
-            "A": "\u2212160",
-            "B": "\u221226",
+            "A": "−160",
+            "B": "−26",
             "C": "80",
             "D": "110"
           },
@@ -1040,7 +1040,7 @@
           "number": 38,
           "stem": "",
           "choices": {
-            "A": "company designed a questionnaire to be completed by its employees. The questionnaire has 5 questions with the answer choices of only \u201cyes\u201d or \u201cno.\u201d Given that every question must be answered and an employee can only choose 1 answer to each question, in how many ways can an employee answer all 5 questions on the questionnaire?",
+            "A": "company designed a questionnaire to be completed by its employees. The questionnaire has 5 questions with the answer choices of only “yes” or “no.” Given that every question must be answered and an employee can only choose 1 answer to each question, in how many ways can an employee answer all 5 questions on the questionnaire?",
             "F": "7",
             "G": "25",
             "H": "32",
@@ -1078,12 +1078,12 @@
         },
         {
           "number": 41,
-          "stem": "What are the equations of all the asymptotes in the standard (x,y) coordinate plane for the function _ 3 x 2 y = f (x) = ? x 2 \u2212 9",
+          "stem": "What are the equations of all the asymptotes in the standard (x,y) coordinate plane for the function _ 3 x 2 y = f (x) = ? x 2 − 9",
           "choices": {
-            "A": "x = \u22123 and y = 3",
+            "A": "x = −3 and y = 3",
             "B": "x = 3 and y = 0",
-            "C": "x = \u22123 , x = 3 , and y = 0",
-            "D": "x = \u22123 , x = 3 , and y = 3"
+            "C": "x = −3 , x = 3 , and y = 0",
+            "D": "x = −3 , x = 3 , and y = 3"
           },
           "pageIndex": 23,
           "imageSrc": "/tests/J08/math/page_23.jpg",
@@ -1101,7 +1101,7 @@
           "genre": "",
           "title": "Passage i",
           "source": "",
-          "text": "3 3\n1. The main purpose of the passage is to: 6. Based on the passage, which of the following statements\nbest summarizes the role of convex mirrors after flat\nA. provide an overview of famous self-portraits cre-\nmirrors came into use for artists?\nated using flat glass mirrors.\nB. explore trends in the art world that led to the F. Although flat mirrors had obvious advantages for\ndevelopment of self-portraiture. self-portraitists, many artists refused to use them,\nC. describe the relationship and significance of mir- opting instead to use the older, more traditional\nrors to the development of self-portraits. convex mirrors.\nD. explain the history of and manufacturing methods G. Although the convex mirror became a less popular\ninvolved in the development of mirrors. tool for artists after flat mirrors became available,\nit nonetheless remained a well-known symbol of\n2. The main point of the first paragraph (lines 1\u201320) is the artist.\nthat: H. Some artists who began using flat mirrors chose to\nreturn to using convex mirrors for particular types\nF. while mirrors were not wholly responsible for the\nof works, especially narrative paintings.\ndevelopment of self-portraiture, they likely played\nJ. Once convex mirrors were used less often than\nan important role.\nflat mirrors for self-portraits, the convex mirror\nG. mirrors enabled people to see themselves, which\nbecame a symbol of outdated, unfashionable artis-\nlikely had a great social impact.\ntic practices.\nH. flat glass mirrors were invented in Venice around\nthe year 1500.\nJ. before flat mirrors were invented, convex mirrors\nwere the norm and not particularly helpful to most\nself-portraitists.\n3. Based on the passage, one similarity shared by A Man in\nArmour and Lady at the Virginals with a Gentleman is: 7. According to the passage, one development that allowed\nfor the invention of flat mirrors was a new kind of\nA. the featuring of a convex mirror in the paintings. glass that was particularly:\nB. the inclusion of flat glass mirrors in the paintings.\nC. a focus on domestic interiors. A. hard.\nD. the biographical backgrounds of the artists. B. sturdy.\nC. lightweight.\n4. In the context of the passage, the author uses the phrase D. clear.\n\u201cfuel the vanity\u201d (line 19) mainly to:\nF. question Renaissance artists\u2019 commitment to the\ngenre of the self-portrait.\nG. suggest one reason why the availability of mirrors\nmight have resulted in more self-portraits.\nH. dispute the idea that mirrors were a significant\n8. According to the passage, mirrors became widely avail-\ncause of vanity during the Renaissance.\nable in the nineteenth century primarily because of:\nJ. explain why the availability of mirrors affected\nsome artists more than others. F. the discovery of a new type of glass.\nG. the development of mercury and tin as silvering\n5. Which of the following statements most effectively agents.\ncaptures the process by which convex mirrors were H. a more economical silvering technique.\nproduced? J. consumers finally expressing a need for mirrors.\nA. A ball of molten metal was formed, covered with\nglass, allowed to cool, and then cut into individual\npieces.\nB. A ball of molten metal was formed, allowed to\ncool, cut into individual pieces, and then covered\nwith glass.\n9. As it is used in line 87, the word fixing most nearly\nC. A ball of blown glass was formed, cut into individ-\nmeans:\nual pieces, filled with molten metal, and then\nallowed to cool. A. focusing on.\nD. A ball of blown glass was formed, filled with B. adhering to.\nmolten metal, allowed to cool, and then cut into C. stabilizing.\nindividual pieces. D. correcting.\n25 GO ON TO THE NEXT PAGE.\nACT-J08",
+          "text": "3 3\n1. The main purpose of the passage is to: 6. Based on the passage, which of the following statements\nbest summarizes the role of convex mirrors after flat\nA. provide an overview of famous self-portraits cre-\nmirrors came into use for artists?\nated using flat glass mirrors.\nB. explore trends in the art world that led to the F. Although flat mirrors had obvious advantages for\ndevelopment of self-portraiture. self-portraitists, many artists refused to use them,\nC. describe the relationship and significance of mir- opting instead to use the older, more traditional\nrors to the development of self-portraits. convex mirrors.\nD. explain the history of and manufacturing methods G. Although the convex mirror became a less popular\ninvolved in the development of mirrors. tool for artists after flat mirrors became available,\nit nonetheless remained a well-known symbol of\n2. The main point of the first paragraph (lines 1–20) is the artist.\nthat: H. Some artists who began using flat mirrors chose to\nreturn to using convex mirrors for particular types\nF. while mirrors were not wholly responsible for the\nof works, especially narrative paintings.\ndevelopment of self-portraiture, they likely played\nJ. Once convex mirrors were used less often than\nan important role.\nflat mirrors for self-portraits, the convex mirror\nG. mirrors enabled people to see themselves, which\nbecame a symbol of outdated, unfashionable artis-\nlikely had a great social impact.\ntic practices.\nH. flat glass mirrors were invented in Venice around\nthe year 1500.\nJ. before flat mirrors were invented, convex mirrors\nwere the norm and not particularly helpful to most\nself-portraitists.\n3. Based on the passage, one similarity shared by A Man in\nArmour and Lady at the Virginals with a Gentleman is: 7. According to the passage, one development that allowed\nfor the invention of flat mirrors was a new kind of\nA. the featuring of a convex mirror in the paintings. glass that was particularly:\nB. the inclusion of flat glass mirrors in the paintings.\nC. a focus on domestic interiors. A. hard.\nD. the biographical backgrounds of the artists. B. sturdy.\nC. lightweight.\n4. In the context of the passage, the author uses the phrase D. clear.\n“fuel the vanity” (line 19) mainly to:\nF. question Renaissance artists’ commitment to the\ngenre of the self-portrait.\nG. suggest one reason why the availability of mirrors\nmight have resulted in more self-portraits.\nH. dispute the idea that mirrors were a significant\n8. According to the passage, mirrors became widely avail-\ncause of vanity during the Renaissance.\nable in the nineteenth century primarily because of:\nJ. explain why the availability of mirrors affected\nsome artists more than others. F. the discovery of a new type of glass.\nG. the development of mercury and tin as silvering\n5. Which of the following statements most effectively agents.\ncaptures the process by which convex mirrors were H. a more economical silvering technique.\nproduced? J. consumers finally expressing a need for mirrors.\nA. A ball of molten metal was formed, covered with\nglass, allowed to cool, and then cut into individual\npieces.\nB. A ball of molten metal was formed, allowed to\ncool, cut into individual pieces, and then covered\nwith glass.\n9. As it is used in line 87, the word fixing most nearly\nC. A ball of blown glass was formed, cut into individ-\nmeans:\nual pieces, filled with molten metal, and then\nallowed to cool. A. focusing on.\nD. A ball of blown glass was formed, filled with B. adhering to.\nmolten metal, allowed to cool, and then cut into C. stabilizing.\nindividual pieces. D. correcting.\n25 GO ON TO THE NEXT PAGE.\nACT-J08",
           "questions": [
             {
               "number": 1,
@@ -1118,7 +1118,7 @@
             },
             {
               "number": 2,
-              "stem": "The main point of the first paragraph (lines 1\u201320) is that:",
+              "stem": "The main point of the first paragraph (lines 1–20) is that:",
               "choices": {
                 "F": "while mirrors were not wholly responsible for the development of self-portraiture, they likely played an important role.",
                 "G": "mirrors enabled people to see themselves, which likely had a great social impact.",
@@ -1144,9 +1144,9 @@
             },
             {
               "number": 4,
-              "stem": "In the context of the passage, the author uses the phrase \u201cfuel the vanity\u201d (line 19) mainly to:",
+              "stem": "In the context of the passage, the author uses the phrase “fuel the vanity” (line 19) mainly to:",
               "choices": {
-                "F": "question Renaissance artists\u2019 commitment to the genre of the self-portrait.",
+                "F": "question Renaissance artists’ commitment to the genre of the self-portrait.",
                 "G": "suggest one reason why the availability of mirrors might have resulted in more self-portraits.",
                 "H": "dispute the idea that mirrors were a significant cause of vanity during the Renaissance.",
                 "J": "explain why the availability of mirrors affected some artists more than others."
@@ -1228,11 +1228,11 @@
           "genre": "LITERARY NARRATIVE",
           "title": "Passage II",
           "source": "",
-          "text": "Passage B by Delia Cai\nLITERARY NARRATIVE: Passage A is adapted from the short The narrator has just arrived with her fianc\u00e9, Ben, to visit her\nstory \u201cAll the Flowers in the Air\u201d by Aarti Monteiro (\u00a92021 by parents, and they\u2019ve stopped at a grocery store on the way\nKweli Journal, Inc.). Passage B is adapted from the novel Cen- home.\ntral Places by Delia Cai (\u00a92023 by Delia Cai).\nInside the H Mart, the instant confrontation with\nPassage A by Aarti Monteiro ninety thousand square feet of food laid out under a\nbattery of flashing screens and fluorescent bulbs and\nWith one more day in Bombay, Rani decided to 50plastic holly makes me want to stop and massage my\nvisit her old neighborhood. She followed the route to temples a little. Ben snaps a few pictures. My dad\nthe train station Siya had laid out and bought a ticket. observes Ben with a bemused expression. \u201cHe\u2019s very\nShe snaked her way through the crowded platform and good,\u201d my dad remarks to me, as if he can tell just by\n5stopped at a group of women. The long train staggered the way that Ben glides through the produce aisle, even\ninto view and the crowd pushed to the edge of the plat- 55though I am sure that Ben is the first photographer, and\nform. Rani felt her heart pulse, anxious about being left journalist, and photojournalist, that my dad has ever\nbehind. Before the train stopped completely, the women met in his entire life. I take the shopping cart from my\nhoisted themselves up and pushed Rani along with dad and follow him around as he gradually loses inter-\n10them. est in watching Ben and then revs into grocery mode,\n60picking out crates of Asian pears and fat persimmons\nThe train didn\u2019t have doors so she gripped the and twelve whole cartons of the soft tofu on sale for\nsticky railing as tightly as she could. Warm air blew ninety-nine cents each. Ben takes a few pictures of\nthrough the car as it crept forward. She watched the a bin overflowing with bok choy before putting his\nhomes and trees as they passed. She\u2019d always found camera away, which I\u2019m relieved about.\n15comfort in the anonymity of cities, how no one noticed\nyou nor cared whether or not you belonged. In this way 65 \u201cIt\u2019s a lot,\u201d I apologize as my dad bobs ahead of us\nBombay reminded her of New York\u2014it wouldn\u2019t wel- in the produce aisles. I think about what else I should\ncome you but it didn\u2019t mind that you were there. preemptively say that I\u2019m sorry for, amid the strange-\nness of trailing after my dad in this random Chicago\nRani had barely seen the Lower Parel sign before suburb H Mart, but Ben squeezes my hand and tells me\n20the current of people pushed her off. She stepped into a 70to stop.\nnarrow vegetable market beneath the tracks. She knew\nshe looked like a tourist but snapped photos anyway: a \u201cYou\u2019re so stressed out.\u201d He chuckles, and ordi-\npile of drying chilies, plump green peppers, flowers narily this would be all it takes to make me roll my eyes\nstrung together. The sellers called after her but she and nod along, but I\u2019m watching my dad closely so we\n25couldn\u2019t understand what they said and kept walking. don\u2019t lose him in the soy sauce aisle. \u201cBreathe,\u201d Ben\n75reminds me. \u201cEverything is going great, okay?\u201d\nShe glanced at her phone to see the directions to\nthe building. She walked up a hill, each curve a current He takes the cart from me and gestures for me to\nmoving her closer to her home until she finally stopped climb onto the end. I want to humor him, so I do, and\nat her old street corner. A high-rise stood in place of the he steers the cart past rows of Spam and cellophane\n30small building where they\u2019d lived. Scaffolding blew in noodles, his eyes softening with satisfaction as I try to\nthe hot wind and the gate was covered in dust. Rani 80tell him to slow down but start laughing instead. Maybe\ncould feel something tangle inside her like weeds. She this was a good idea, bringing my chronically starry-\nused to play foursquare in the parking lot with the eyed fianc\u00e9 home. If anyone could handle this trip, it\nneighborhood kids, walk to the small corner shop with was going to be Ben, Mr. Up for Whatever, and as long\n35her brother\u2014in matching blue and white school uni- as I had him with me, that made me the soon-to-be\nforms\u2014to buy candy. She waited, as if the building 85Mrs. Up for Whatever. And that meant I was truly\nwould turn back into the home she remembered if she coming back to this place as a different person than the\nwas just there long enough. She took a photograph of one who left. How stupid it was to worry about Ben on\nthe grey scaffolding against the bright sky. A passerby this trip when being slightly out of place, I realize, has\n40looked at where her camera pointed and mumbled always been his natural element.\nsomething Rani couldn\u2019t understand.\nShe quickly moved the camera back into her bag,\nthe sun beating down on her. When she was a child, she\nbelonged to the city in a way she never had to think\n45about. The disappointment of returning home is the\nburden of anyone who leaves.\n26 GO ON TO THE NEXT PAGE.\nACT-J08",
+          "text": "Passage B by Delia Cai\nLITERARY NARRATIVE: Passage A is adapted from the short The narrator has just arrived with her fiancé, Ben, to visit her\nstory “All the Flowers in the Air” by Aarti Monteiro (©2021 by parents, and they’ve stopped at a grocery store on the way\nKweli Journal, Inc.). Passage B is adapted from the novel Cen- home.\ntral Places by Delia Cai (©2023 by Delia Cai).\nInside the H Mart, the instant confrontation with\nPassage A by Aarti Monteiro ninety thousand square feet of food laid out under a\nbattery of flashing screens and fluorescent bulbs and\nWith one more day in Bombay, Rani decided to 50plastic holly makes me want to stop and massage my\nvisit her old neighborhood. She followed the route to temples a little. Ben snaps a few pictures. My dad\nthe train station Siya had laid out and bought a ticket. observes Ben with a bemused expression. “He’s very\nShe snaked her way through the crowded platform and good,” my dad remarks to me, as if he can tell just by\n5stopped at a group of women. The long train staggered the way that Ben glides through the produce aisle, even\ninto view and the crowd pushed to the edge of the plat- 55though I am sure that Ben is the first photographer, and\nform. Rani felt her heart pulse, anxious about being left journalist, and photojournalist, that my dad has ever\nbehind. Before the train stopped completely, the women met in his entire life. I take the shopping cart from my\nhoisted themselves up and pushed Rani along with dad and follow him around as he gradually loses inter-\n10them. est in watching Ben and then revs into grocery mode,\n60picking out crates of Asian pears and fat persimmons\nThe train didn’t have doors so she gripped the and twelve whole cartons of the soft tofu on sale for\nsticky railing as tightly as she could. Warm air blew ninety-nine cents each. Ben takes a few pictures of\nthrough the car as it crept forward. She watched the a bin overflowing with bok choy before putting his\nhomes and trees as they passed. She’d always found camera away, which I’m relieved about.\n15comfort in the anonymity of cities, how no one noticed\nyou nor cared whether or not you belonged. In this way 65 “It’s a lot,” I apologize as my dad bobs ahead of us\nBombay reminded her of New York—it wouldn’t wel- in the produce aisles. I think about what else I should\ncome you but it didn’t mind that you were there. preemptively say that I’m sorry for, amid the strange-\nness of trailing after my dad in this random Chicago\nRani had barely seen the Lower Parel sign before suburb H Mart, but Ben squeezes my hand and tells me\n20the current of people pushed her off. She stepped into a 70to stop.\nnarrow vegetable market beneath the tracks. She knew\nshe looked like a tourist but snapped photos anyway: a “You’re so stressed out.” He chuckles, and ordi-\npile of drying chilies, plump green peppers, flowers narily this would be all it takes to make me roll my eyes\nstrung together. The sellers called after her but she and nod along, but I’m watching my dad closely so we\n25couldn’t understand what they said and kept walking. don’t lose him in the soy sauce aisle. “Breathe,” Ben\n75reminds me. “Everything is going great, okay?”\nShe glanced at her phone to see the directions to\nthe building. She walked up a hill, each curve a current He takes the cart from me and gestures for me to\nmoving her closer to her home until she finally stopped climb onto the end. I want to humor him, so I do, and\nat her old street corner. A high-rise stood in place of the he steers the cart past rows of Spam and cellophane\n30small building where they’d lived. Scaffolding blew in noodles, his eyes softening with satisfaction as I try to\nthe hot wind and the gate was covered in dust. Rani 80tell him to slow down but start laughing instead. Maybe\ncould feel something tangle inside her like weeds. She this was a good idea, bringing my chronically starry-\nused to play foursquare in the parking lot with the eyed fiancé home. If anyone could handle this trip, it\nneighborhood kids, walk to the small corner shop with was going to be Ben, Mr. Up for Whatever, and as long\n35her brother—in matching blue and white school uni- as I had him with me, that made me the soon-to-be\nforms—to buy candy. She waited, as if the building 85Mrs. Up for Whatever. And that meant I was truly\nwould turn back into the home she remembered if she coming back to this place as a different person than the\nwas just there long enough. She took a photograph of one who left. How stupid it was to worry about Ben on\nthe grey scaffolding against the bright sky. A passerby this trip when being slightly out of place, I realize, has\n40looked at where her camera pointed and mumbled always been his natural element.\nsomething Rani couldn’t understand.\nShe quickly moved the camera back into her bag,\nthe sun beating down on her. When she was a child, she\nbelonged to the city in a way she never had to think\n45about. The disappointment of returning home is the\nburden of anyone who leaves.\n26 GO ON TO THE NEXT PAGE.\nACT-J08",
           "questions": [
             {
               "number": 10,
-              "stem": "It can reasonably be inferred that the author of Pas- sage A uses the metaphors \u201ccurrent of people\u201d (line 20) and \u201ceach curve a current\u201d (line 27) primarily to:",
+              "stem": "It can reasonably be inferred that the author of Pas- sage A uses the metaphors “current of people” (line 20) and “each curve a current” (line 27) primarily to:",
               "choices": {
                 "F": "suggest that Rani is to some degree being com- pelled onward by external forces.",
                 "G": "emphasize the number of people in the crowds traveling alongside Rani.",
@@ -1245,7 +1245,7 @@
             },
             {
               "number": 11,
-              "stem": "As it is used in Passage A, the phrase \u201claid out\u201d (line 3) most nearly means:",
+              "stem": "As it is used in Passage A, the phrase “laid out” (line 3) most nearly means:",
               "choices": {
                 "A": "outlined.",
                 "B": "invented.",
@@ -1258,11 +1258,11 @@
             },
             {
               "number": 12,
-              "stem": "In Passage B, compared to the narrator, the narrator\u2019s father is characterized as being more focused on:",
+              "stem": "In Passage B, compared to the narrator, the narrator’s father is characterized as being more focused on:",
               "choices": {
-                "F": "chatting about the narrator\u2019s family.",
+                "F": "chatting about the narrator’s family.",
                 "G": "selecting various grocery items to buy.",
-                "H": "observing Ben\u2019s interactions with store patrons.",
+                "H": "observing Ben’s interactions with store patrons.",
                 "J": "helping Ben learn how to pick out the best produce."
               },
               "correct": "G",
@@ -1271,12 +1271,12 @@
             },
             {
               "number": 13,
-              "stem": "In Passage B, the narrator\u2019s thoughts in response to her father\u2019s remark about Ben\u2019s photography most nearly suggest that the narrator is:",
+              "stem": "In Passage B, the narrator’s thoughts in response to her father’s remark about Ben’s photography most nearly suggest that the narrator is:",
               "choices": {
                 "A": "skeptical that her father has any true understanding of photojournalism.",
-                "B": "overjoyed that her father already seems to value Ben\u2019s professional skills.",
+                "B": "overjoyed that her father already seems to value Ben’s professional skills.",
                 "C": "proud of being the one to introduce her father to the world of photojournalism.",
-                "D": "bewildered that her father doesn\u2019t ask Ben any questions about photography."
+                "D": "bewildered that her father doesn’t ask Ben any questions about photography."
               },
               "correct": "A",
               "lineRef": null,
@@ -1284,7 +1284,7 @@
             },
             {
               "number": 14,
-              "stem": "As it is used in Passage B, the phrase \u201cchronically starry- eyed\u201d (lines 81\u201382) most nearly means that Ben:",
+              "stem": "As it is used in Passage B, the phrase “chronically starry- eyed” (lines 81–82) most nearly means that Ben:",
               "choices": {
                 "F": "can often dazzle people with his charm.",
                 "G": "is regularly found daydreaming instead of working.",
@@ -1300,9 +1300,9 @@
               "stem": "The passages are structurally similar in that both mainly:",
               "choices": {
                 "A": "relate events that take place within a single day.",
-                "B": "recount characters\u2019 feelings and thoughts about moments from their past.",
+                "B": "recount characters’ feelings and thoughts about moments from their past.",
                 "C": "describe a particular event and its long-term effects.",
-                "D": "alternate between relating characters\u2019 memories of the past and events occurring in the present."
+                "D": "alternate between relating characters’ memories of the past and events occurring in the present."
               },
               "correct": "A",
               "lineRef": null,
@@ -1312,10 +1312,10 @@
               "number": 16,
               "stem": "Which of the following statements best captures a dif- ference in the way the passages explore the themes of home and belonging?",
               "choices": {
-                "F": "Passage A focuses on how Rani regrets leaving home; Passage B discusses the narrator\u2019s new- found desire to return home.",
+                "F": "Passage A focuses on how Rani regrets leaving home; Passage B discusses the narrator’s new- found desire to return home.",
                 "G": "Passage A considers how the place that was once home for Rani has changed; Passage B discusses how the narrator realizes that she herself is different.",
-                "H": "Passage A examines the lasting impact on Rani of leaving home as a child; Passage B considers the impact that returning home has on the narrator\u2019s relationship with her parents.",
-                "J": "Passage A focuses on how Rani feels that the people she once knew are different; Passage B examines how the narrator\u2019s hometown has changed."
+                "H": "Passage A examines the lasting impact on Rani of leaving home as a child; Passage B considers the impact that returning home has on the narrator’s relationship with her parents.",
+                "J": "Passage A focuses on how Rani feels that the people she once knew are different; Passage B examines how the narrator’s hometown has changed."
               },
               "correct": "G",
               "lineRef": null,
@@ -1336,7 +1336,7 @@
             },
             {
               "number": 18,
-              "stem": "Which of the following statements best describes how the tone of the last paragraph of Passage A (lines 42\u201346) compares to the tone of the last paragraph of Passage B (lines 76\u201389)?",
+              "stem": "Which of the following statements best describes how the tone of the last paragraph of Passage A (lines 42–46) compares to the tone of the last paragraph of Passage B (lines 76–89)?",
               "choices": {
                 "F": "The tones are similar in that both reflect the content- ment the characters feel with their circumstances.",
                 "G": "The tones are similar in that both reflect the hesi- tancy and indecision the characters feel about what to do next.",
@@ -1355,7 +1355,7 @@
           "genre": "INFORMATIONAL",
           "title": "Passage III",
           "source": "",
-          "text": "What Djokic found was strong geologic evidence\nthat the Dresser, now a dry, hot and barren outback\nINFORMATIONAL: This passage is from the article \u201cLife environment, had once been like the steaming pools and\nSprings\u201d by Martin J. Van Kranendonk, David Deamer, and erupting geysers of Yellowstone National Park in the\nTara Djokic (\u00a92017 by Scientific American). 55U.S., an active geothermal field. And everywhere in the\nDresser there are fossilized signs of life intimately\nThe researchers, who are also the authors of the passage, are\nassociated with the old hot spring system. Although the\nhiking back to their truck after spending the day at the Dresser\nDresser was not the actual site where the most primitive\nFormation.\nlife began half a billion years earlier, it was showing us\nHeading up the side of the creek embankment, 60that hydrothermal environments on land were present\nDjokic suddenly stumbles back downhill. Has she lost very early in Earth\u2019s history. Charles Darwin had sug-\nher balance? To stop her from falling, Van Kranendonk gested, back in 1871, that microbial life originated in\nreaches out to stop her and pushes her back uphill, \u201csome warm little pond.\u201d A number of scientists from\n5which prompts a screech, something unintelligible, and different fields now think that the author of On the\nfinally a sputtered cry: \u201cSp- ... p- ... p- ... pppider!\u201d 65Origin of Species had intuitively hit on something\nDjokic has not stumbled at all. She is in flight mode, in important. And the implications of these ideas stretch\nfear for her life as she tries to swat away the thick beyond our own planet: in our search for alien life else-\nspider web enveloping her. Spiders have a deservedly where in the solar system, a land-based theory about\n10bad reputation in Australia. In the dark, it is not a good origins would guide us to different places and planets\nidea to assume that you have found the odd benign 70than would an ocean-based theory.\nspecies.\nTen years before Djokic\u2019s run-in with the spider\nThe reason we are feeling our way around the Pil- web, another of us (Deamer) had shown that volcanic\nbara at night is because we had spent the day enthralled pools could foster the assembly of compartments made\n15by a new discovery Djokic had made in 3.48-billion- of membranes, essential boundaries of all cellular life.\nyear-old sedimentary rocks called the Dresser Forma-\ntion. Some of the rocks are wrinkled orange and white\nlayers, called geyserite, which were created by a volca-\nnic geyser on Earth\u2019s surface. They revealed bubbles\n20formed when gas was trapped in a sticky film, most\nlikely produced by a thin layer of bacterialike microor-\nganisms. The surface rocks and indications of biofilms\nsupport a new idea about one of the oldest mysteries on\nthe planet: how and where life got started. The evidence\n25pointed to volcanic hot springs and pools, on land,\nabout 3.5 billion years ago.\nThis is a far different picture of life\u2019s origins from\nthe one scientists have been sketching since 1977. That\nwas the year the research submarine Alvin discovered\n30hydrothermal vents at the bottom of the Pacific Ocean 19. The primary purpose of the passage is to:\npumping out minerals containing iron and sulfur and\nF. relate the story of how researchers studying the\ngases such as methane and hydrogen sulfide, sur-\nDresser Formation found indications of biofilms in\nrounded by primitive bacteria and large worms. It was a\ngeyserite.\nthriving ecosystem. Biologists have since theorized that\nG. explain how evidence from the Dresser Formation\n35such vents, protected from the cataclysms wracking\nsupports a new idea about where life on Earth\nEarth\u2019s surface about four billion years ago, could have\nbegan.\nprovided the energy, nutrients and a safe haven for life\nH. discuss the strengths and weaknesses of theories\nto begin. But the theory has problems. The big one is\nabout where life on Earth began.\nthat the ocean has a lot of water, and in it the needed\nJ. provide a chronology of the prevailing beliefs\n40molecules might spread out too quickly to interact and\nabout when and where life on Earth began.\nform cell membranes and primitive metabolisms.\n20. Which of the following events mentioned in the passage\nNow we and others believe land pools that repeat-\noccurred last chronologically?\nedly dry out and then get wet again could be much\nbetter places. The pools have heat to catalyze reactions, A. Van Kranendonk reached out to push Djokic back\n45dry spells in which complex molecules called polymers uphill.\ncan be formed from simpler units, wet spells that float B. Djokic discovered indications of biofilms in the\nthese polymers around, and further drying periods that Dresser Formation.\nmaroon them in tiny cavities where they can interact C. Djokic encountered the spiderweb.\nand even become concentrated in compartments of fatty D. The researchers began hiking through the Pilbara\n50acids\u2014the prototypes of cell membranes. at night.\n28 GO ON TO THE NEXT PAGE.\nACT-J08",
+          "text": "What Djokic found was strong geologic evidence\nthat the Dresser, now a dry, hot and barren outback\nINFORMATIONAL: This passage is from the article “Life environment, had once been like the steaming pools and\nSprings” by Martin J. Van Kranendonk, David Deamer, and erupting geysers of Yellowstone National Park in the\nTara Djokic (©2017 by Scientific American). 55U.S., an active geothermal field. And everywhere in the\nDresser there are fossilized signs of life intimately\nThe researchers, who are also the authors of the passage, are\nassociated with the old hot spring system. Although the\nhiking back to their truck after spending the day at the Dresser\nDresser was not the actual site where the most primitive\nFormation.\nlife began half a billion years earlier, it was showing us\nHeading up the side of the creek embankment, 60that hydrothermal environments on land were present\nDjokic suddenly stumbles back downhill. Has she lost very early in Earth’s history. Charles Darwin had sug-\nher balance? To stop her from falling, Van Kranendonk gested, back in 1871, that microbial life originated in\nreaches out to stop her and pushes her back uphill, “some warm little pond.” A number of scientists from\n5which prompts a screech, something unintelligible, and different fields now think that the author of On the\nfinally a sputtered cry: “Sp- ... p- ... p- ... pppider!” 65Origin of Species had intuitively hit on something\nDjokic has not stumbled at all. She is in flight mode, in important. And the implications of these ideas stretch\nfear for her life as she tries to swat away the thick beyond our own planet: in our search for alien life else-\nspider web enveloping her. Spiders have a deservedly where in the solar system, a land-based theory about\n10bad reputation in Australia. In the dark, it is not a good origins would guide us to different places and planets\nidea to assume that you have found the odd benign 70than would an ocean-based theory.\nspecies.\nTen years before Djokic’s run-in with the spider\nThe reason we are feeling our way around the Pil- web, another of us (Deamer) had shown that volcanic\nbara at night is because we had spent the day enthralled pools could foster the assembly of compartments made\n15by a new discovery Djokic had made in 3.48-billion- of membranes, essential boundaries of all cellular life.\nyear-old sedimentary rocks called the Dresser Forma-\ntion. Some of the rocks are wrinkled orange and white\nlayers, called geyserite, which were created by a volca-\nnic geyser on Earth’s surface. They revealed bubbles\n20formed when gas was trapped in a sticky film, most\nlikely produced by a thin layer of bacterialike microor-\nganisms. The surface rocks and indications of biofilms\nsupport a new idea about one of the oldest mysteries on\nthe planet: how and where life got started. The evidence\n25pointed to volcanic hot springs and pools, on land,\nabout 3.5 billion years ago.\nThis is a far different picture of life’s origins from\nthe one scientists have been sketching since 1977. That\nwas the year the research submarine Alvin discovered\n30hydrothermal vents at the bottom of the Pacific Ocean 19. The primary purpose of the passage is to:\npumping out minerals containing iron and sulfur and\nF. relate the story of how researchers studying the\ngases such as methane and hydrogen sulfide, sur-\nDresser Formation found indications of biofilms in\nrounded by primitive bacteria and large worms. It was a\ngeyserite.\nthriving ecosystem. Biologists have since theorized that\nG. explain how evidence from the Dresser Formation\n35such vents, protected from the cataclysms wracking\nsupports a new idea about where life on Earth\nEarth’s surface about four billion years ago, could have\nbegan.\nprovided the energy, nutrients and a safe haven for life\nH. discuss the strengths and weaknesses of theories\nto begin. But the theory has problems. The big one is\nabout where life on Earth began.\nthat the ocean has a lot of water, and in it the needed\nJ. provide a chronology of the prevailing beliefs\n40molecules might spread out too quickly to interact and\nabout when and where life on Earth began.\nform cell membranes and primitive metabolisms.\n20. Which of the following events mentioned in the passage\nNow we and others believe land pools that repeat-\noccurred last chronologically?\nedly dry out and then get wet again could be much\nbetter places. The pools have heat to catalyze reactions, A. Van Kranendonk reached out to push Djokic back\n45dry spells in which complex molecules called polymers uphill.\ncan be formed from simpler units, wet spells that float B. Djokic discovered indications of biofilms in the\nthese polymers around, and further drying periods that Dresser Formation.\nmaroon them in tiny cavities where they can interact C. Djokic encountered the spiderweb.\nand even become concentrated in compartments of fatty D. The researchers began hiking through the Pilbara\n50acids—the prototypes of cell membranes. at night.\n28 GO ON TO THE NEXT PAGE.\nACT-J08",
           "questions": [
             {
               "number": 19,
@@ -1385,12 +1385,12 @@
             },
             {
               "number": 21,
-              "stem": "Based on lines 13\u201326 and 71\u201374, what can reasonably be inferred about the relationship between Djokic\u2019s and Deamer\u2019s discoveries?",
+              "stem": "Based on lines 13–26 and 71–74, what can reasonably be inferred about the relationship between Djokic’s and Deamer’s discoveries?",
               "choices": {
                 "F": "Djokic found geologic evidence to support what Deamer had shown was possible.",
                 "G": "Deamer found the same geologic evidence in the Dresser a decade earlier than Djokic did.",
-                "H": "Deamer\u2019s research later proved that Djokic had found evidence of early life on Earth.",
-                "J": "Djokic\u2019s discovery undermined Deamer\u2019s research from ten years earlier."
+                "H": "Deamer’s research later proved that Djokic had found evidence of early life on Earth.",
+                "J": "Djokic’s discovery undermined Deamer’s research from ten years earlier."
               },
               "correct": "F",
               "lineRef": null,
@@ -1400,7 +1400,7 @@
               "number": 22,
               "stem": "Which of the following details from the passage most directly challenges the claim that life originated in the ocean?",
               "choices": {
-                "A": "Primitive bacteria weren\u2019t found on ocean-based hydrothermal vents until 1977.",
+                "A": "Primitive bacteria weren’t found on ocean-based hydrothermal vents until 1977.",
                 "B": "In vast amounts of water, molecules may spread out too quickly to interact.",
                 "C": "Cataclysms wracked the Earth about four billion years ago.",
                 "D": "Hydrothermal vents emit gases such as hydrogen sulfide."
@@ -1411,7 +1411,7 @@
             },
             {
               "number": 23,
-              "stem": "Which of the following statements best summarizes the passage\u2019s description of polymers in land pools?",
+              "stem": "Which of the following statements best summarizes the passage’s description of polymers in land pools?",
               "choices": {
                 "F": "Polymers form during a heated dry spell, and then they float around and interact with each other during wet spells.",
                 "G": "Polymers form and interact in the pools during wet spells, then float around and become fatty acids during dry spells.",
@@ -1437,9 +1437,9 @@
             },
             {
               "number": 25,
-              "stem": "In the passage, what evidence mentioned by the authors best supports the claim \u201cit was a thriving ecosystem\u201d (lines 33\u201334)?",
+              "stem": "In the passage, what evidence mentioned by the authors best supports the claim “it was a thriving ecosystem” (lines 33–34)?",
               "choices": {
-                "F": "Biologists\u2019 theories about hydrothermal vents after the 1977 Alvin discovery",
+                "F": "Biologists’ theories about hydrothermal vents after the 1977 Alvin discovery",
                 "G": "The minerals, gases, and organisms that the Alvin detected around hydrothermal vents",
                 "H": "The similarities between the ecosystems of hydro- thermal vents and volcanic pools",
                 "J": "How primitive bacteria use iron and sulfur to form cell membranes"
@@ -1455,7 +1455,7 @@
                 "A": "provide an example of where fossilized signs of life have been found.",
                 "B": "acknowledge where life on Earth likely began.",
                 "C": "portray what the Dresser once looked like.",
-                "D": "emphasize how similar the Dresser\u2019s current cli- mate is to Yellowstone\u2019s."
+                "D": "emphasize how similar the Dresser’s current cli- mate is to Yellowstone’s."
               },
               "correct": "C",
               "lineRef": null,
@@ -1463,7 +1463,7 @@
             },
             {
               "number": 27,
-              "stem": "According to the passage, establishing a land-based theory for life\u2019s origins will likely influence future research pertaining to:",
+              "stem": "According to the passage, establishing a land-based theory for life’s origins will likely influence future research pertaining to:",
               "choices": {
                 "F": "prototypes of cell membranes.",
                 "G": "sedimentary rocks in the Pilbara.",
@@ -1610,10 +1610,10 @@
               "number": 10,
               "stem": "Based on Figure 2, exactly 9 lightning discharges were detected for which range(s) of charge?",
               "choices": {
-                "F": "15\u221220 C only",
-                "G": "15\u221220 C and 25\u221230 C only",
-                "H": "20\u221225 C and 30\u221235 C only",
-                "J": "20\u221225 C, 25\u221230 C, and 30\u221235 C only"
+                "F": "15−20 C only",
+                "G": "15−20 C and 25−30 C only",
+                "H": "20−25 C and 30−35 C only",
+                "J": "20−25 C, 25−30 C, and 30−35 C only"
               },
               "correct": "J",
               "imageSrc": "/tests/J08/science/page_32.jpg"
@@ -1700,7 +1700,7 @@
             },
             {
               "number": 17,
-              "stem": "In Figure 1, consider the BG concentration that results in the greatest amount of glucagon released. Are these data consistent with Student 1\u2019s explanation?",
+              "stem": "In Figure 1, consider the BG concentration that results in the greatest amount of glucagon released. Are these data consistent with Student 1’s explanation?",
               "choices": {
                 "A": "Yes; Student 1 indicated that the greatest amount of glucagon is released when BG concentrations are within the set point.",
                 "B": "Yes; Student 1 indicated that the greatest amount of glucagon is released when BG concentrations are greater than the set point.",
@@ -1732,10 +1732,10 @@
           "questions": [
             {
               "number": 6,
-              "stem": "The percentage of phenol removed was calculated. Study 1 Each of Trials 1\u22129 was conducted at a different pH, with 1.0 mL of H O added to the phenol solution and the 2 2 reaction allowed to proceed for 5.0 hr. See Figure 1. Figure 1 devomer lonehp fo egatnecrep 2 3 4 5 6 7 8 9 10 pH Study 2 Each of Trials 10\u221214 was conducted at pH = 7.0, with a different volume of H O added to the phenol solution 2 2 and the reaction allowed to proceed for 1.0 hr. See Figure 2. Figure 2 devomer lonehp fo egatnecrep 0 0.2 0.4 0.6 0.8 1",
+              "stem": "The percentage of phenol removed was calculated. Study 1 Each of Trials 1−9 was conducted at a different pH, with 1.0 mL of H O added to the phenol solution and the 2 2 reaction allowed to proceed for 5.0 hr. See Figure 1. Figure 1 devomer lonehp fo egatnecrep 2 3 4 5 6 7 8 9 10 pH Study 2 Each of Trials 10−14 was conducted at pH = 7.0, with a different volume of H O added to the phenol solution 2 2 and the reaction allowed to proceed for 1.0 hr. See Figure 2. Figure 2 devomer lonehp fo egatnecrep 0 0.2 0.4 0.6 0.8 1",
               "choices": {
-                "H": "O added (mL) 2 2 Figures adapted from the article \u201cStudy of Degradation of Phenol in Waste Water Sample via Advanced Oxidation Technology\u201d",
-                "J": "Wu et al. (\u00a92015 by the authors through Atlantis Press). 36"
+                "H": "O added (mL) 2 2 Figures adapted from the article “Study of Degradation of Phenol in Waste Water Sample via Advanced Oxidation Technology”",
+                "J": "Wu et al. (©2015 by the authors through Atlantis Press). 36"
               },
               "correct": "J",
               "imageSrc": "/tests/J08/science/page_36.jpg"
@@ -1859,22 +1859,22 @@
               "number": 27,
               "stem": "In Study 2, what was the value of V for",
               "choices": {
-                "A": "1.00 \u00d7 103 m/s",
-                "B": "2.00 \u00d7 m/s",
-                "C": "1.00 \u00d7 104 m/s",
-                "D": "2.00 \u00d7 m/s 10\u22123"
+                "A": "1.00 × 103 m/s",
+                "B": "2.00 × m/s",
+                "C": "1.00 × 104 m/s",
+                "D": "2.00 × m/s 10−3"
               },
               "correct": "A",
               "imageSrc": "/tests/J08/science/page_38.jpg"
             },
             {
               "number": 28,
-              "stem": "One millitesla (mT) equals tesla (T). In Trial 8, what was H in mT? 10\u22123",
+              "stem": "One millitesla (mT) equals tesla (T). In Trial 8, what was H in mT? 10−3",
               "choices": {
-                "F": "31.2 \u00d7 mT",
+                "F": "31.2 × mT",
                 "G": "31.2 mT",
-                "H": "31.2 \u00d7 mT",
-                "J": "48.0 \u00d7 103 mT"
+                "H": "31.2 × mT",
+                "J": "48.0 × 103 mT"
               },
               "correct": "G",
               "imageSrc": "/tests/J08/science/page_38.jpg"
@@ -1891,10 +1891,10 @@
               "number": 30,
               "stem": "Seahorses carry their fertilized eggs in a brood pouch while the embryos fully develop. Based on Figure 1, which of male or female seahorses carry the fertilized eggs?",
               "choices": {
-                "F": "Males; females deposit the sperm into the male\u2019s brood pouch where the male deposits its eggs.",
-                "G": "Males; females deposit the eggs into the male\u2019s brood pouch where the eggs are fertilized by the male\u2019s sperm.",
-                "H": "Females; males deposit the sperm into the female\u2019s brood pouch where the female deposits its eggs.",
-                "J": "Females; males deposit the eggs into the female\u2019s brood pouch where the eggs are fertilized by the female\u2019s sperm. S"
+                "F": "Males; females deposit the sperm into the male’s brood pouch where the male deposits its eggs.",
+                "G": "Males; females deposit the eggs into the male’s brood pouch where the eggs are fertilized by the male’s sperm.",
+                "H": "Females; males deposit the sperm into the female’s brood pouch where the female deposits its eggs.",
+                "J": "Females; males deposit the eggs into the female’s brood pouch where the eggs are fertilized by the female’s sperm. S"
               },
               "correct": "G",
               "imageSrc": "/tests/J08/science/page_40.jpg"
@@ -1925,7 +1925,7 @@
             },
             {
               "number": 33,
-              "stem": "Consider the statement \u201cBy 98 days post-hatch, seahorses fed a diet of both blended fish and Acetes sp. had a greater average percent survival than did seahorses fed blended fish only.\u201d Is this statement con- sistent with the data shown in Figure 3?",
+              "stem": "Consider the statement “By 98 days post-hatch, seahorses fed a diet of both blended fish and Acetes sp. had a greater average percent survival than did seahorses fed blended fish only.” Is this statement con- sistent with the data shown in Figure 3?",
               "choices": {
                 "A": "No; Group 2 seahorses had an average percent sur- vival just over 30 percentage points less than that of Group 4.",
                 "B": "No; Group 2 seahorses had an average percent sur- vival just under 30 percentage points less than that of Group 4.",
@@ -1954,158 +1954,163 @@
   ],
   "scaleTable": {
     "english": {
-      "40": 36,
+      "0": 1,
+      "1": 2,
+      "2": 4,
+      "3": 5,
+      "4": 7,
+      "5": 8,
+      "6": 9,
+      "7": 10,
+      "8": 10,
+      "9": 11,
+      "10": 11,
+      "11": 12,
+      "12": 13,
+      "13": 14,
+      "14": 15,
+      "15": 15,
+      "16": 16,
+      "17": 18,
+      "18": 19,
+      "19": 20,
+      "20": 20,
+      "21": 21,
+      "22": 21,
+      "23": 22,
+      "24": 23,
+      "25": 23,
+      "26": 24,
+      "27": 25,
+      "28": 25,
+      "29": 26,
+      "30": 27,
+      "31": 28,
+      "32": 29,
+      "33": 30,
+      "34": 32,
+      "35": 33,
+      "36": 34,
       "37": 35,
       "38": 35,
       "39": 35,
-      "36": 34,
-      "35": 33,
-      "34": 32,
-      "33": 30,
-      "32": 29,
-      "31": 28,
-      "30": 27,
-      "29": 26,
-      "27": 25,
-      "28": 25,
-      "26": 24,
-      "24": 23,
-      "25": 23,
-      "23": 22,
-      "21": 21,
-      "22": 21,
-      "19": 20,
-      "20": 20,
-      "18": 19,
-      "17": 18,
-      "16": 16,
-      "14": 15,
-      "15": 15,
-      "13": 14,
-      "12": 13,
-      "11": 12,
-      "9": 11,
-      "10": 11,
-      "7": 10,
-      "8": 10,
-      "6": 9,
-      "5": 8,
-      "4": 7,
-      "3": 5,
-      "2": 4,
-      "1": 2,
-      "0": 1
+      "40": 36
     },
     "math": {
-      "41": 36,
-      "39": 35,
-      "40": 35,
-      "37": 34,
-      "38": 34,
-      "36": 33,
-      "35": 32,
-      "33": 31,
-      "34": 31,
-      "32": 30,
-      "31": 29,
-      "29": 28,
-      "30": 28,
-      "28": 27,
-      "26": 26,
-      "27": 26,
-      "25": 25,
-      "23": 24,
-      "24": 24,
-      "22": 23,
-      "21": 22,
-      "20": 21,
-      "19": 20,
-      "18": 19,
-      "16": 18,
-      "17": 18,
-      "14": 17,
-      "15": 17,
-      "12": 16,
-      "13": 16,
-      "10": 15,
-      "11": 15,
+      "0": 1,
+      "1": 4,
+      "2": 7,
+      "3": 9,
+      "4": 10,
+      "5": 11,
+      "6": 12,
+      "7": 13,
       "8": 14,
       "9": 14,
-      "7": 13,
-      "6": 12,
-      "5": 11,
-      "4": 10,
-      "3": 9,
-      "2": 7,
-      "1": 4,
-      "0": 1
+      "10": 15,
+      "11": 15,
+      "12": 16,
+      "13": 16,
+      "14": 17,
+      "15": 17,
+      "16": 18,
+      "17": 18,
+      "18": 19,
+      "19": 20,
+      "20": 21,
+      "21": 22,
+      "22": 23,
+      "23": 24,
+      "24": 24,
+      "25": 25,
+      "26": 26,
+      "27": 26,
+      "28": 27,
+      "29": 28,
+      "30": 28,
+      "31": 29,
+      "32": 30,
+      "33": 31,
+      "34": 31,
+      "35": 32,
+      "36": 33,
+      "37": 34,
+      "38": 34,
+      "39": 35,
+      "40": 35,
+      "41": 36
     },
     "reading": {
-      "26": 36,
-      "27": 36,
-      "25": 35,
-      "24": 34,
-      "23": 33,
-      "22": 32,
-      "21": 30,
-      "20": 29,
-      "19": 28,
-      "18": 26,
-      "17": 25,
-      "16": 24,
-      "15": 23,
-      "14": 22,
-      "13": 20,
-      "12": 19,
-      "11": 17,
-      "10": 16,
-      "9": 14,
-      "8": 13,
-      "7": 12,
-      "6": 11,
-      "5": 10,
-      "4": 9,
-      "3": 7,
-      "2": 5,
+      "0": 1,
       "1": 3,
-      "0": 1
+      "2": 5,
+      "3": 7,
+      "4": 9,
+      "5": 10,
+      "6": 11,
+      "7": 12,
+      "8": 13,
+      "9": 14,
+      "10": 16,
+      "11": 17,
+      "12": 19,
+      "13": 20,
+      "14": 22,
+      "15": 23,
+      "16": 24,
+      "17": 25,
+      "18": 26,
+      "19": 28,
+      "20": 29,
+      "21": 30,
+      "22": 32,
+      "23": 33,
+      "24": 34,
+      "25": 35,
+      "26": 36,
+      "27": 36
     },
     "science": {
-      "33": 36,
-      "34": 36,
-      "32": 35,
-      "31": 34,
-      "30": 33,
-      "29": 32,
-      "28": 31,
-      "27": 29,
-      "26": 28,
-      "25": 27,
-      "24": 26,
-      "22": 25,
-      "23": 25,
-      "21": 24,
-      "19": 23,
-      "20": 23,
-      "18": 22,
-      "17": 21,
-      "16": 20,
-      "15": 19,
-      "14": 18,
-      "13": 17,
-      "11": 16,
-      "12": 16,
-      "10": 15,
-      "9": 14,
-      "8": 13,
+      "0": 1,
+      "1": 4,
+      "2": 6,
+      "3": 8,
+      "4": 10,
+      "5": 11,
       "6": 12,
       "7": 12,
-      "5": 11,
-      "4": 10,
-      "3": 8,
-      "2": 6,
-      "1": 4,
-      "0": 1
+      "8": 13,
+      "9": 14,
+      "10": 15,
+      "11": 16,
+      "12": 16,
+      "13": 17,
+      "14": 18,
+      "15": 19,
+      "16": 20,
+      "17": 21,
+      "18": 22,
+      "19": 23,
+      "20": 23,
+      "21": 24,
+      "22": 25,
+      "23": 25,
+      "24": 26,
+      "25": 27,
+      "26": 28,
+      "27": 29,
+      "28": 31,
+      "29": 32,
+      "30": 33,
+      "31": 34,
+      "32": 35,
+      "33": 36,
+      "34": 36
     }
+  },
+  "sectionTimes": {
+    "english": 1680,
+    "math": 2730,
+    "reading": 1800
   }
 }
