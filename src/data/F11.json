@@ -10,7 +10,7 @@
         {
           "id": "eng-p1",
           "title": "Passage 1",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_1.jpg",
+          "imageSrc": "/tests/F11/english/page_1.jpg",
           "startPage": 1,
           "questions": [
             {
@@ -18,11 +18,12 @@
               "stem": "",
               "choices": {
                 "A": "NO CHANGE",
-                "B": "testing strength, skill, and, endurance, e C. testing strength, skill, and endurance",
+                "B": "testing strength, skill, and, endurance, e",
+                "C": "testing strength, skill, and endurance",
                 "D": "testing, strength, skill and endurance"
               },
               "pageIndex": 1,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_1.jpg",
+              "imageSrc": "/tests/F11/english/page_1.jpg",
               "correct": "C"
             },
             {
@@ -32,14 +33,24 @@
                 "F": "NO CHANGE",
                 "G": "most large sports newspaper, Le V\u00e9lo,",
                 "H": "largest sports newspaper, Le V\u00e9lo, had",
-                "J": "largest sports newspaper, Le V\u00e9lo, r, 3. A. NO CHANGE",
+                "J": "largest sports newspaper, Le V\u00e9lo, r,"
+              },
+              "pageIndex": 1,
+              "imageSrc": "/tests/F11/english/page_1.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 3,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
                 "B": "Le V\u00e9lo\u2014retaliated",
                 "C": "Le V\u00e9lo retaliated,",
                 "D": "Le V\u00e9lo retaliated"
               },
               "pageIndex": 1,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_1.jpg",
-              "correct": "J"
+              "imageSrc": "/tests/F11/english/page_1.jpg",
+              "correct": "A"
             },
             {
               "number": 4,
@@ -48,10 +59,10 @@
                 "F": "NO CHANGE",
                 "G": "furthermore,",
                 "H": "however,",
-                "J": "indeed, 2 GO ON TO THE NEXT PAGE."
+                "J": "indeed, 2"
               },
               "pageIndex": 1,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_1.jpg",
+              "imageSrc": "/tests/F11/english/page_1.jpg",
               "correct": "H"
             },
             {
@@ -64,7 +75,7 @@
                 "D": "races,"
               },
               "pageIndex": 2,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_2.jpg",
+              "imageSrc": "/tests/F11/english/page_2.jpg",
               "correct": "A"
             },
             {
@@ -77,7 +88,7 @@
                 "J": "In other words,"
               },
               "pageIndex": 2,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_2.jpg",
+              "imageSrc": "/tests/F11/english/page_2.jpg",
               "correct": "F"
             },
             {
@@ -90,7 +101,7 @@
                 "D": "draw a lot of attention to L\u2019Auto\u2014"
               },
               "pageIndex": 2,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_2.jpg",
+              "imageSrc": "/tests/F11/english/page_2.jpg",
               "correct": "B"
             },
             {
@@ -103,7 +114,7 @@
                 "J": "offered 20,000 francs"
               },
               "pageIndex": 2,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_2.jpg",
+              "imageSrc": "/tests/F11/english/page_2.jpg",
               "correct": "J"
             },
             {
@@ -116,7 +127,7 @@
                 "D": "francs. The"
               },
               "pageIndex": 2,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_2.jpg",
+              "imageSrc": "/tests/F11/english/page_2.jpg",
               "correct": "C"
             },
             {
@@ -129,7 +140,7 @@
                 "J": "The inaugural Tour began on July 1, 1903."
               },
               "pageIndex": 2,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_2.jpg",
+              "imageSrc": "/tests/F11/english/page_2.jpg",
               "correct": "J"
             },
             {
@@ -139,15 +150,37 @@
                 "A": "NO CHANGE",
                 "B": "days, and covered 1,508 miles, starting and e ending,",
                 "C": "days, and covered 1,508 miles, starting, and ending",
-                "D": "days and covered 1,508 miles starting and ending f 12. The writer is considering deleting the preceding sen- tence. Should the sentence be kept or deleted? n",
+                "D": "days and covered 1,508 miles starting and ending f"
+              },
+              "pageIndex": 2,
+              "imageSrc": "/tests/F11/english/page_2.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 12,
+              "stem": "The writer is considering deleting the preceding sen- tence. Should the sentence be kept or deleted? n",
+              "choices": {
                 "F": "Kept, because it reveals the number of cyclists who participated in the first Tour de France.",
                 "G": "Kept, because it provides a detail that suggests the difficulty of the first Tour de France.",
                 "H": "Deleted, because it repeats information found ear- lier in the essay.",
-                "J": "Deleted, because it doesn\u2019t pertain to the para- graph\u2019s focus on the first Tour de France. 3 GO ON TO THE NEXT PAGE."
+                "J": "Deleted, because it doesn\u2019t pertain to the para- graph\u2019s focus on the first Tour de France. 3"
               },
               "pageIndex": 2,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_2.jpg",
-              "correct": "A"
+              "imageSrc": "/tests/F11/english/page_2.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 13,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "unless",
+                "C": "since",
+                "D": "and"
+              },
+              "pageIndex": 3,
+              "imageSrc": "/tests/F11/english/page_3.jpg",
+              "correct": "D"
             },
             {
               "number": 14,
@@ -156,10 +189,10 @@
                 "F": "NO CHANGE",
                 "G": "brought about",
                 "H": "mustered up",
-                "J": "inspired Question 15 asks about the preceding passage as a whole."
+                "J": "inspired"
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_3.jpg",
+              "imageSrc": "/tests/F11/english/page_3.jpg",
               "correct": "G"
             },
             {
@@ -172,7 +205,7 @@
                 "D": "No, because it doesn\u2019t discuss any of the competi- tors in the first Tour de France except Maurice Garin."
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_3.jpg",
+              "imageSrc": "/tests/F11/english/page_3.jpg",
               "correct": "B"
             },
             {
@@ -185,7 +218,7 @@
                 "J": "Pankhurst,"
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_3.jpg",
+              "imageSrc": "/tests/F11/english/page_3.jpg",
               "correct": "J"
             },
             {
@@ -195,10 +228,10 @@
                 "A": "NO CHANGE",
                 "B": "which had raised",
                 "C": "also raising",
-                "D": "to raise 4 GO ON TO THE NEXT PAGE."
+                "D": "to raise 4"
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_3.jpg",
+              "imageSrc": "/tests/F11/english/page_3.jpg",
               "correct": "B"
             },
             {
@@ -211,9 +244,17 @@
                 "J": "an approach that included"
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_4.jpg",
+              "imageSrc": "/tests/F11/english/page_4.jpg",
               "correct": "H"
-            },
+            }
+          ]
+        },
+        {
+          "id": "eng-p2",
+          "title": "Passage 2",
+          "imageSrc": "/tests/F11/english/page_4.jpg",
+          "startPage": 4,
+          "questions": [
             {
               "number": 19,
               "stem": "",
@@ -224,17 +265,9 @@
                 "D": "and"
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_4.jpg",
+              "imageSrc": "/tests/F11/english/page_4.jpg",
               "correct": "B"
-            }
-          ]
-        },
-        {
-          "id": "eng-p2",
-          "title": "Passage 2",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_4.jpg",
-          "startPage": 4,
-          "questions": [
+            },
             {
               "number": 20,
               "stem": "",
@@ -245,7 +278,7 @@
                 "J": "hoping"
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_4.jpg",
+              "imageSrc": "/tests/F11/english/page_4.jpg",
               "correct": "J"
             },
             {
@@ -258,7 +291,7 @@
                 "D": "who remained near"
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_4.jpg",
+              "imageSrc": "/tests/F11/english/page_4.jpg",
               "correct": "C"
             },
             {
@@ -271,7 +304,7 @@
                 "J": "published a weekly journal, The Suffragist, to communicate with its members."
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_4.jpg",
+              "imageSrc": "/tests/F11/english/page_4.jpg",
               "correct": "G"
             },
             {
@@ -284,7 +317,7 @@
                 "D": "waving"
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_4.jpg",
+              "imageSrc": "/tests/F11/english/page_4.jpg",
               "correct": "D"
             },
             {
@@ -294,10 +327,10 @@
                 "F": "NO CHANGE",
                 "G": "vote\u2014",
                 "H": "vote,",
-                "J": "vote 5 GO ON TO THE NEXT PAGE."
+                "J": "vote 5"
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_4.jpg",
+              "imageSrc": "/tests/F11/english/page_4.jpg",
               "correct": "H"
             },
             {
@@ -310,7 +343,7 @@
                 "D": "lightly"
               },
               "pageIndex": 5,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_5.jpg",
+              "imageSrc": "/tests/F11/english/page_5.jpg",
               "correct": "B"
             },
             {
@@ -323,7 +356,7 @@
                 "J": "1, 3, 2"
               },
               "pageIndex": 5,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_5.jpg",
+              "imageSrc": "/tests/F11/english/page_5.jpg",
               "correct": "J"
             },
             {
@@ -336,7 +369,7 @@
                 "D": "imprisonment as Paul had hoped, significantly"
               },
               "pageIndex": 5,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_5.jpg",
+              "imageSrc": "/tests/F11/english/page_5.jpg",
               "correct": "A"
             },
             {
@@ -344,14 +377,38 @@
               "stem": "Which choice most effectively emphasizes that a long period of time passed between the introduction of the suffrage amendment in Congress and Wilson\u2019s endorsement of the amendment?",
               "choices": {
                 "F": "NO CHANGE",
-                "G": "and today it is used by people both young and old as an example of one of the most significant con- stitutional conflicts in history.",
-                "H": "despite the fact that it almost failed to pass in Congress by a single vote in the House of Representatives.",
-                "J": "and Alice Paul worked for other human rights causes until her death in 1977 in New Jersey. 6 GO ON TO THE NEXT PAGE.",
-                "B": "stance, and endorse the suffrage amendment, h C. stance, and endorse, the suffrage amendment,",
-                "D": "stance and endorse the suffrage amendment d 30. Given that all the choices are accurate, which one most effectively concludes the paragraph and the essay by emphasizing the central result of Paul\u2019s work?"
+                "G": "rightfully, to the relief of the suffragists,",
+                "H": "given the circumstances,",
+                "J": "grudgingly, n"
               },
               "pageIndex": 5,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_5.jpg",
+              "imageSrc": "/tests/F11/english/page_5.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 29,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "stance, and endorse the suffrage amendment, h",
+                "C": "stance, and endorse, the suffrage amendment,",
+                "D": "stance and endorse the suffrage amendment d"
+              },
+              "pageIndex": 5,
+              "imageSrc": "/tests/F11/english/page_5.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 30,
+              "stem": "Given that all the choices are accurate, which one most effectively concludes the paragraph and the essay by emphasizing the central result of Paul\u2019s work?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "and today it is used by people both young and old as an example of one of the most significant con- stitutional conflicts in history.",
+                "H": "despite the fact that it almost failed to pass in Congress by a single vote in the House of Representatives.",
+                "J": "and Alice Paul worked for other human rights causes until her death in 1977 in New Jersey. 6"
+              },
+              "pageIndex": 5,
+              "imageSrc": "/tests/F11/english/page_5.jpg",
               "correct": "F"
             },
             {
@@ -364,7 +421,7 @@
                 "D": "and just outside the cities of Havana and Lewistown,"
               },
               "pageIndex": 6,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_6.jpg",
+              "imageSrc": "/tests/F11/english/page_6.jpg",
               "correct": "C"
             },
             {
@@ -377,7 +434,7 @@
                 "J": "on waxy lily pads sit frogs."
               },
               "pageIndex": 6,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_6.jpg",
+              "imageSrc": "/tests/F11/english/page_6.jpg",
               "correct": "H"
             },
             {
@@ -390,7 +447,7 @@
                 "D": "expand"
               },
               "pageIndex": 6,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_6.jpg",
+              "imageSrc": "/tests/F11/english/page_6.jpg",
               "correct": "A"
             },
             {
@@ -403,7 +460,7 @@
                 "J": "River that"
               },
               "pageIndex": 6,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_6.jpg",
+              "imageSrc": "/tests/F11/english/page_6.jpg",
               "correct": "F"
             },
             {
@@ -416,7 +473,7 @@
                 "D": "largest, most successful"
               },
               "pageIndex": 6,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_6.jpg",
+              "imageSrc": "/tests/F11/english/page_6.jpg",
               "correct": "C"
             },
             {
@@ -429,9 +486,17 @@
                 "J": "River, and nearby prairies,"
               },
               "pageIndex": 6,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_6.jpg",
+              "imageSrc": "/tests/F11/english/page_6.jpg",
               "correct": "G"
-            },
+            }
+          ]
+        },
+        {
+          "id": "eng-p3",
+          "title": "Passage 3",
+          "imageSrc": "/tests/F11/english/page_6.jpg",
+          "startPage": 6,
+          "questions": [
             {
               "number": 37,
               "stem": "",
@@ -439,20 +504,25 @@
                 "A": "NO CHANGE",
                 "B": "For example, having",
                 "C": "However, having",
-                "D": "Having 7 GO ON TO THE NEXT PAGE."
+                "D": "Having 7"
               },
               "pageIndex": 6,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_6.jpg",
+              "imageSrc": "/tests/F11/english/page_6.jpg",
               "correct": "D"
-            }
-          ]
-        },
-        {
-          "id": "eng-p3",
-          "title": "Passage 3",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_7.jpg",
-          "startPage": 7,
-          "questions": [
+            },
+            {
+              "number": 38,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "thereby",
+                "H": "when",
+                "J": "DELETE the underlined portion."
+              },
+              "pageIndex": 7,
+              "imageSrc": "/tests/F11/english/page_7.jpg",
+              "correct": "J"
+            },
             {
               "number": 39,
               "stem": "",
@@ -463,7 +533,7 @@
                 "D": "predicted that they"
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_7.jpg",
+              "imageSrc": "/tests/F11/english/page_7.jpg",
               "correct": "B"
             },
             {
@@ -476,7 +546,7 @@
                 "J": "flourish"
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_7.jpg",
+              "imageSrc": "/tests/F11/english/page_7.jpg",
               "correct": "J"
             },
             {
@@ -489,7 +559,7 @@
                 "D": "Emiquon ecologists were aware that fish are highly sensitive to environmental change,"
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_7.jpg",
+              "imageSrc": "/tests/F11/english/page_7.jpg",
               "correct": "A"
             },
             {
@@ -502,7 +572,7 @@
                 "J": "Past"
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_7.jpg",
+              "imageSrc": "/tests/F11/english/page_7.jpg",
               "correct": "H"
             },
             {
@@ -515,7 +585,7 @@
                 "D": "impervious"
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_7.jpg",
+              "imageSrc": "/tests/F11/english/page_7.jpg",
               "correct": "C"
             },
             {
@@ -525,11 +595,37 @@
                 "F": "an example of two problems at Emiquon that con- servationists have not been able to remedy. d",
                 "G": "a description of conditions that visitors to Emiquon will sometimes encounter.",
                 "H": "an overview of improvements that will be made at Emiquon for the sake of visitors\u2019 comfort.",
-                "J": "an explanation of the reasons Emiquon is a popu- lar destination for bird watchers. 8 GO ON TO THE NEXT PAGE."
+                "J": "an explanation of the reasons Emiquon is a popu- lar destination for bird watchers. 8"
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_7.jpg",
+              "imageSrc": "/tests/F11/english/page_7.jpg",
               "correct": "G"
+            },
+            {
+              "number": 45,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "wetlands, just reestablished, that were not restored for humans\u2019 business interests or recreation.",
+                "C": "newly reestablished wetlands.",
+                "D": "DELETE the underlined portion and end the sen- tence with a period. z."
+              },
+              "pageIndex": 8,
+              "imageSrc": "/tests/F11/english/page_8.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 46,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "there was a mystery that geologist Walter Alvarez stumbled onto.",
+                "H": "certain rocks presented a mystery to geologist Walter Alvarez.",
+                "J": "geologist Walter Alvarez stumbled onto a mystery."
+              },
+              "pageIndex": 8,
+              "imageSrc": "/tests/F11/english/page_8.jpg",
+              "correct": "J"
             },
             {
               "number": 47,
@@ -541,7 +637,7 @@
                 "D": "period, and the start of the Paleogene"
               },
               "pageIndex": 8,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_8.jpg",
+              "imageSrc": "/tests/F11/english/page_8.jpg",
               "correct": "A"
             },
             {
@@ -554,7 +650,7 @@
                 "J": "abounds"
               },
               "pageIndex": 8,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_8.jpg",
+              "imageSrc": "/tests/F11/english/page_8.jpg",
               "correct": "H"
             },
             {
@@ -567,7 +663,7 @@
                 "D": "that this mass extinction"
               },
               "pageIndex": 8,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_8.jpg",
+              "imageSrc": "/tests/F11/english/page_8.jpg",
               "correct": "D"
             },
             {
@@ -580,7 +676,7 @@
                 "J": "revealed"
               },
               "pageIndex": 8,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_8.jpg",
+              "imageSrc": "/tests/F11/english/page_8.jpg",
               "correct": "F"
             },
             {
@@ -590,10 +686,10 @@
                 "A": "NO CHANGE",
                 "B": "He and his team",
                 "C": "They and him",
-                "D": "The group 9 GO ON TO THE NEXT PAGE."
+                "D": "The group 9"
               },
               "pageIndex": 8,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_8.jpg",
+              "imageSrc": "/tests/F11/english/page_8.jpg",
               "correct": "B"
             },
             {
@@ -606,7 +702,7 @@
                 "J": "No, because it is unrelated to the paragraph\u2019s dis- cussion of iridium."
               },
               "pageIndex": 9,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_9.jpg",
+              "imageSrc": "/tests/F11/english/page_9.jpg",
               "correct": "G"
             },
             {
@@ -619,7 +715,7 @@
                 "D": "this amount of iridium"
               },
               "pageIndex": 9,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_9.jpg",
+              "imageSrc": "/tests/F11/english/page_9.jpg",
               "correct": "A"
             },
             {
@@ -632,9 +728,17 @@
                 "J": "theory and saying"
               },
               "pageIndex": 9,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_9.jpg",
+              "imageSrc": "/tests/F11/english/page_9.jpg",
               "correct": "F"
-            },
+            }
+          ]
+        },
+        {
+          "id": "eng-p4",
+          "title": "Passage 4",
+          "imageSrc": "/tests/F11/english/page_9.jpg",
+          "startPage": 9,
+          "questions": [
             {
               "number": 55,
               "stem": "",
@@ -645,7 +749,7 @@
                 "D": "Earth; throwing dust and ash"
               },
               "pageIndex": 9,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_9.jpg",
+              "imageSrc": "/tests/F11/english/page_9.jpg",
               "correct": "B"
             },
             {
@@ -658,17 +762,9 @@
                 "J": "searched in vain for an"
               },
               "pageIndex": 9,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_9.jpg",
+              "imageSrc": "/tests/F11/english/page_9.jpg",
               "correct": "J"
-            }
-          ]
-        },
-        {
-          "id": "eng-p4",
-          "title": "Passage 4",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_9.jpg",
-          "startPage": 9,
-          "questions": [
+            },
             {
               "number": 57,
               "stem": "",
@@ -676,14 +772,24 @@
                 "A": "NO CHANGE",
                 "B": "For example,",
                 "C": "Furthermore,",
-                "D": "Thus, d 58. F. NO CHANGE",
+                "D": "Thus, d"
+              },
+              "pageIndex": 9,
+              "imageSrc": "/tests/F11/english/page_9.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 58,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
                 "G": "lead Hildebrand to two geophysicists whom",
                 "H": "led Hildebrand to two geophysicists whom",
                 "J": "lead Hildebrand to two geophysicists who"
               },
               "pageIndex": 9,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_9.jpg",
-              "correct": "A"
+              "imageSrc": "/tests/F11/english/page_9.jpg",
+              "correct": "F"
             },
             {
               "number": 59,
@@ -692,10 +798,10 @@
                 "A": "NO CHANGE",
                 "B": "validated",
                 "C": "approved",
-                "D": "preferred 10 GO ON TO THE NEXT PAGE."
+                "D": "preferred 10"
               },
               "pageIndex": 9,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_9.jpg",
+              "imageSrc": "/tests/F11/english/page_9.jpg",
               "correct": "B"
             },
             {
@@ -708,7 +814,7 @@
                 "J": "Point D in Paragraph 4."
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_10.jpg",
+              "imageSrc": "/tests/F11/english/page_10.jpg",
               "correct": "J"
             },
             {
@@ -721,7 +827,7 @@
                 "D": "round bare patches of sandy earth,"
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_10.jpg",
+              "imageSrc": "/tests/F11/english/page_10.jpg",
               "correct": "C"
             },
             {
@@ -734,7 +840,7 @@
                 "J": "long eluded scientists."
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_10.jpg",
+              "imageSrc": "/tests/F11/english/page_10.jpg",
               "correct": "J"
             },
             {
@@ -747,7 +853,7 @@
                 "D": "studied more than 1,200 fairy circles."
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_10.jpg",
+              "imageSrc": "/tests/F11/english/page_10.jpg",
               "correct": "D"
             },
             {
@@ -760,7 +866,7 @@
                 "J": "\u2014water is scarce in this climate\u2014"
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_10.jpg",
+              "imageSrc": "/tests/F11/english/page_10.jpg",
               "correct": "J"
             },
             {
@@ -770,10 +876,10 @@
                 "A": "NO CHANGE",
                 "B": "have an opportunity",
                 "C": "has a chance",
-                "D": "are able 11 GO ON TO THE NEXT PAGE."
+                "D": "are able 11"
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_10.jpg",
+              "imageSrc": "/tests/F11/english/page_10.jpg",
               "correct": "C"
             },
             {
@@ -786,7 +892,7 @@
                 "J": "Each circle includes"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_11.jpg",
+              "imageSrc": "/tests/F11/english/page_11.jpg",
               "correct": "G"
             },
             {
@@ -799,7 +905,7 @@
                 "D": "circle"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_11.jpg",
+              "imageSrc": "/tests/F11/english/page_11.jpg",
               "correct": "A"
             },
             {
@@ -812,7 +918,7 @@
                 "J": "roots, killing"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_11.jpg",
+              "imageSrc": "/tests/F11/english/page_11.jpg",
               "correct": "F"
             },
             {
@@ -825,7 +931,7 @@
                 "D": "this extra moisture"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_11.jpg",
+              "imageSrc": "/tests/F11/english/page_11.jpg",
               "correct": "C"
             },
             {
@@ -838,7 +944,7 @@
                 "J": "their positive affect"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_11.jpg",
+              "imageSrc": "/tests/F11/english/page_11.jpg",
               "correct": "H"
             },
             {
@@ -851,7 +957,7 @@
                 "D": "moisture supports"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_11.jpg",
+              "imageSrc": "/tests/F11/english/page_11.jpg",
               "correct": "D"
             },
             {
@@ -861,12 +967,20 @@
                 "F": "NO CHANGE",
                 "G": "is able to grow",
                 "H": "has grown",
-                "J": "grows 12 GO ON TO THE NEXT PAGE."
+                "J": "grows 12"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_11.jpg",
+              "imageSrc": "/tests/F11/english/page_11.jpg",
               "correct": "F"
-            },
+            }
+          ]
+        },
+        {
+          "id": "eng-p5",
+          "title": "Passage 5",
+          "imageSrc": "/tests/F11/english/page_12.jpg",
+          "startPage": 12,
+          "questions": [
             {
               "number": 73,
               "stem": "",
@@ -877,17 +991,9 @@
                 "D": "circles, too,"
               },
               "pageIndex": 12,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_12.jpg",
+              "imageSrc": "/tests/F11/english/page_12.jpg",
               "correct": "A"
-            }
-          ]
-        },
-        {
-          "id": "eng-p5",
-          "title": "Passage 5",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_12.jpg",
-          "startPage": 12,
-          "questions": [
+            },
             {
               "number": 74,
               "stem": "Which of the following statements, if added here, would most effectively conclude the essay?",
@@ -895,10 +1001,10 @@
                 "F": "Namibia is home to parts of the Kalahari desert, which extends into South Africa and Botswana.",
                 "G": "The circles are hidden oases, masquerading as bare patches of sand.",
                 "H": "The circles are spread across 1,200 miles of this captivating desert.",
-                "J": "J\u00fcrgens also found spiders, beetles, and ants in the circles. Question 75 asks about the preceding passage as a whole."
+                "J": "J\u00fcrgens also found spiders, beetles, and ants in the circles."
               },
               "pageIndex": 12,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_12.jpg",
+              "imageSrc": "/tests/F11/english/page_12.jpg",
               "correct": "G"
             },
             {
@@ -908,10 +1014,10 @@
                 "A": "Yes, because it describes J\u00fcrgens\u2019s theory and then discusses the weaknesses of his explanation.",
                 "B": "Yes, because it discusses both J\u00fcrgens\u2019s theory and other scientists\u2019 theories about fairy circles.",
                 "C": "No, because it focuses on fairy circles\u2019 ecological impact rather than on vying theories about them.",
-                "D": "No, because it focuses on J\u00fcrgens\u2019s theory of fairy circles without giving an alternate explanation. END OF TEST 1 DO NOT TURN THE PAGE UNTIL TOLD TO DO SO. 13"
+                "D": "No, because it focuses on J\u00fcrgens\u2019s theory of fairy circles without giving an alternate explanation."
               },
               "pageIndex": 12,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/english/page_12.jpg",
+              "imageSrc": "/tests/F11/english/page_12.jpg",
               "correct": "D"
             }
           ]
@@ -929,11 +1035,11 @@
           "choices": {
             "A": "\u221212",
             "B": "0\u22123 _1_2_",
-            "C": "\u2212 5 _1_2_ D. 5",
+            "C": "\u2212 _1_2_ D.",
             "E": "003"
           },
           "pageIndex": 13,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_13.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
@@ -947,22 +1053,30 @@
             "K": "70"
           },
           "pageIndex": 13,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_13.jpg",
+          "imageSrc": null,
           "correct": "J"
         },
         {
           "number": 3,
-          "stem": "The 1stterm in the geometric sequence below is \u22129. If it can be determined, what is the 6th term? \u22129, 18, \u221236, 72, \u2212144, \u2026",
+          "stem": "The 1stterm in the geometric sequence below is \u2212 9. If it can be determined, what is the 6th term? \u22129, 18, \u221236, 72, \u2212144, \u2026",
           "choices": {
             "A": "\u2212288",
             "B": "\u2212216",
             "C": "216",
             "D": "288",
-            "E": "Cannot be determined from the given information 14 ACT-F11 2 DO"
+            "E": "Cannot be determined from the given information DO"
           },
           "pageIndex": 13,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_13.jpg",
+          "imageSrc": null,
           "correct": "D"
+        },
+        {
+          "number": 4,
+          "stem": "The word a DO",
+          "choices": {},
+          "pageIndex": 13,
+          "imageSrc": null,
+          "correct": "F"
         },
         {
           "number": 5,
@@ -975,7 +1089,7 @@
             "E": "250"
           },
           "pageIndex": 14,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_14.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
@@ -990,7 +1104,7 @@
             "K": "120\u00b0"
           },
           "pageIndex": 14,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_14.jpg",
+          "imageSrc": null,
           "correct": "K"
         },
         {
@@ -1004,26 +1118,34 @@
             "E": "21"
           },
           "pageIndex": 14,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_14.jpg",
+          "imageSrc": null,
           "correct": "B"
         },
         {
           "number": 8,
           "stem": "Which of the following values is the solution to the equation below? _2_x+ _1_ 8_1_ = 3 4 4",
           "choices": {
-            "F": "12 12_3_ G. 8 12_3_ H. 4",
+            "F": "12 12_3_ G. 12_3_ H.",
             "J": "36",
-            "K": "51 15 ACT-F11 2 DO"
+            "K": "51 DO"
           },
           "pageIndex": 14,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_14.jpg",
+          "imageSrc": null,
           "correct": "F"
+        },
+        {
+          "number": 9,
+          "stem": "What is the volume, in cubic inches, of a sphere with a diameter of 10 inches? (Note: The volume of a sphere, V, with radius r is _4_ given by the formula V= \u03c0r3.) _6_0_\u03c0_ A. _1_0_0_\u03c0_ B. _4_0_0_\u03c0_ C. _5_0_0_\u03c0_ D. _4_,0_0_0__\u03c0_ E.",
+          "choices": {},
+          "pageIndex": 15,
+          "imageSrc": null,
+          "correct": "D"
         },
         {
           "number": 10,
           "stem": "",
           "choices": {
-            "A": "rhombus is a quadrilateral with all 4sides of equal length. Three vertices of a rhombus are graphed in the standard (x,y) coordinate plane below. y 6 4 2 O \u22126 \u22124 \u22122 2 4 6 x \u22122 \u22124 \u22126 One of the following points is the location of the 4th vertex of this rhombus. Which one?",
+            "A": "rhombus is a quadrilateral with all 4sides of equal length. Three vertices of a rhombus are graphed in the standard (x,y) coordinate plane below. y O \u22126 \u22124 \u22122 2 4 6 x \u22122 \u22124 \u22126 One of the following points is the location of the 4th vertex of this rhombus. Which one?",
             "F": "(4,\u22121)",
             "G": "(5,\u22124)",
             "H": "(5,\u22121)",
@@ -1031,23 +1153,33 @@
             "K": "(6, 0)"
           },
           "pageIndex": 15,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_15.jpg",
+          "imageSrc": null,
           "correct": "H"
         },
         {
           "number": 11,
-          "stem": "For an architecture class project, Lizette is making a scale drawing of Mr. Patel\u2019s classroom, which is rectangular with a width of 25 feet and a length of 30 feet. Lizette draws a 3-inch line segment to represent the width of the rectangle. How long a line segment, in inches, should Lizette draw to represent the length of the rectangle? 2_1_ A. 2",
+          "stem": "For an architecture class project, Lizette is making a scale drawing of Mr. Patel\u2019s classroom, which is rectangular with a width of 25 feet and a length of 30 feet. Lizette draws a 3-inch line segment to represent the width of the rectangle. How long a line segment, in inches, should Lizette draw to represent the length of the rectangle? 2_1_ A.",
           "choices": {
-            "B": "3 3_3_ C. 5 4_7__ D. 12",
-            "E": "5 www.actexam.net 16 ACT-F11 2 DO"
+            "B": "3 3_3_ C. 4_7__ D.",
+            "E": "5 www.actexam.net DO"
           },
           "pageIndex": 15,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_15.jpg",
+          "imageSrc": null,
           "correct": "C"
         },
         {
+          "number": 12,
+          "stem": "In the standard (x,y) coordinate plane, a line intersects the y-axis at (0,3) and contains the point (9,4). What is the slope of the line? _1_ F. _3_ G. _2_ H. _3_ J.",
+          "choices": {
+            "K": "9"
+          },
+          "pageIndex": 16,
+          "imageSrc": null,
+          "correct": "F"
+        },
+        {
           "number": 13,
-          "stem": "The equations of four (x,y) relations are given below. I. 5y=(x\u22121)(x\u22123)(x+3) II. (x\u22121)2+(y\u22121)2=9 _y_ III. =\u221a\"x\"+\"\"4\" \u22121 4 x =1_2_2 IV. y+5 5 The graph in the standard (x,y) coordinate plane of each of these relations is shown below. y y x x O O I II y y x x O O III IV Of these relations, which are functions?",
+          "stem": "The equations of four (x,y) relations are given below. I. 5y=(x\u22121)(x\u22123)(x+3) II. (x\u22121)2+(y\u22121)2=9 _y_ III. =\u221a\"x\"+\"\"4\" \u22121 x =1_2_2 IV. y+5 The graph in the standard (x,y) coordinate plane of each of these relations is shown below. y y x x O O I II y y x x O O III IV Of these relations, which are functions?",
           "choices": {
             "A": "I only",
             "B": "I and III only",
@@ -1056,7 +1188,7 @@
             "E": "I, III, and IV only"
           },
           "pageIndex": 16,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_16.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
@@ -1067,24 +1199,18 @@
             "G": "088",
             "H": "176",
             "J": "352",
-            "K": "704 17 ACT-F11 2 DO"
+            "K": "704 DO"
           },
           "pageIndex": 16,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_16.jpg",
+          "imageSrc": null,
           "correct": "F"
         },
         {
           "number": 15,
-          "stem": "Which of the following equations represents the axis of symmetry of this parabola?",
-          "choices": {
-            "F": "x =3",
-            "G": "x =9",
-            "H": "y =9",
-            "J": "y =3x+15",
-            "K": "3x+15y=0"
-          },
-          "pageIndex": 26,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_26.jpg",
+          "stem": "Which of the following expressions is equal to _1_ _2_ _1__ + + ? 3 9 10 _1_ _+_2__ +__1_ A. 3 +9 +10 _3_0_ +__2_0_ _+_9_ B. _1_ +__2_ _+_1_ C. _1_ _\u00d7_2__ \u00d7__1_ D. 3 \u00d79 \u00d710 1_ _\u00d7__2_ \u00d7___1 E.",
+          "choices": {},
+          "pageIndex": 17,
+          "imageSrc": null,
           "correct": "B"
         },
         {
@@ -1098,19 +1224,19 @@
             "K": "50"
           },
           "pageIndex": 17,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_17.jpg",
+          "imageSrc": null,
           "correct": "J"
         },
         {
           "number": 17,
-          "stem": "In Amul\u2019s yard, there was no snow on the ground at 10:15a.m. From 10:15 a.m. until 3:30p.m., it snowed _1_ at an average rate of inch per hour. How many 2 inches of snow were on the ground at 3:30 p.m. ?",
+          "stem": "In Amul\u2019s yard, there was no snow on the ground at 10:15a.m. From 10:15 a.m. until 3:30p.m., it snowed _1_ at an average rate of inch per hour. How many inches of snow were on the ground at 3:30 p.m. ?",
           "choices": {
-            "A": "1_2_3_ 40 1_5_ B. 8",
-            "C": "1_3_ 4 2_2_3_ D. 40",
-            "E": "2_5_ 8"
+            "A": "1_2_3_ 1_5_ B.",
+            "C": "1_3_ 2_2_3_ D.",
+            "E": "2_5_"
           },
           "pageIndex": 17,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_17.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
@@ -1121,10 +1247,10 @@
             "G": "04",
             "H": "05",
             "J": "06",
-            "K": "16 18 ACT-F11 2 DO"
+            "K": "16 DO"
           },
           "pageIndex": 17,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_17.jpg",
+          "imageSrc": null,
           "correct": "F"
         },
         {
@@ -1138,7 +1264,7 @@
             "E": "E"
           },
           "pageIndex": 18,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_18.jpg",
+          "imageSrc": null,
           "correct": "A"
         },
         {
@@ -1153,7 +1279,7 @@
             "K": "260"
           },
           "pageIndex": 18,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_18.jpg",
+          "imageSrc": null,
           "correct": "H"
         },
         {
@@ -1164,11 +1290,26 @@
             "B": "09",
             "C": "12",
             "D": "24",
-            "E": "48 www.crackab.com 19 ACT-F11 2 DO Which of the following expressions has the greatest value? _m__+_n_ F. m _m__+_n_ G. n _m__+_n_ H. m+n __m___ J. m+n __n___ K. m+n"
+            "E": "48 www.crackab.com DO Which of the following expressions has the greatest value? _m__+_n_ F. m _m__+_n_ G. n _m__+_n_ H. m+n __m___ J. m+n __n___ K. m+n"
           },
           "pageIndex": 18,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_18.jpg",
+          "imageSrc": null,
           "correct": "A"
+        },
+        {
+          "number": 22,
+          "stem": "",
+          "choices": {
+            "F": "",
+            "G": "",
+            "H": "",
+            "J": "",
+            "K": ""
+          },
+          "pageIndex": 18,
+          "imageSrc": null,
+          "correct": "F",
+          "synthetic": true
         },
         {
           "number": 23,
@@ -1181,18 +1322,18 @@
             "E": "89, 90, 91 _2_4_,"
           },
           "pageIndex": 19,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_19.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
           "number": 24,
-          "stem": "Given that sin,A = which of the following values 25 could tan,Aequal? _1__ F. 24 _7__ G. 24",
+          "stem": "Given that sin,A = which of the following values could tan,Aequal? _1__ F. _7__ G.",
           "choices": {
-            "H": "1 _2_4_ J. 7",
+            "H": "1 _2_4_ J.",
             "K": "24"
           },
           "pageIndex": 19,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_19.jpg",
+          "imageSrc": null,
           "correct": "J"
         },
         {
@@ -1206,7 +1347,7 @@
             "E": "no more than 17."
           },
           "pageIndex": 19,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_19.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
@@ -1217,10 +1358,10 @@
             "G": "0,320",
             "H": "0,352",
             "J": "0,750",
-            "K": "3,840 20 ACT-F11 2 DO"
+            "K": "3,840 DO"
           },
           "pageIndex": 19,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_19.jpg",
+          "imageSrc": null,
           "correct": "J"
         },
         {
@@ -1234,14 +1375,14 @@
             "E": "$1,280"
           },
           "pageIndex": 20,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_20.jpg",
+          "imageSrc": null,
           "correct": "C"
         },
         {
           "number": 28,
           "stem": "",
           "choices": {
-            "A": "jar of solid-colored marbles contains some yellow marbles, 21 blue marbles, 40 red marbles, and 14 green marbles. The probability of randomly drawing a green _2__. marble is How many yellow marbles are in the jar? 15",
+            "A": "jar of solid-colored marbles contains some yellow marbles, 21 blue marbles, 40 red marbles, and 14 green marbles. The probability of randomly drawing a green _2__. marble is How many yellow marbles are in the jar?",
             "F": "10",
             "G": "12",
             "H": "25",
@@ -1249,21 +1390,21 @@
             "K": "68"
           },
           "pageIndex": 20,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_20.jpg",
+          "imageSrc": null,
           "correct": "J"
         },
         {
           "number": 29,
-          "stem": "Dai traveled to 3 locations during a workday. Dai remained at each location a whole number of hours. The graph below shows the relationship between time, in hours, into his workday and total distance, in miles, traveled. Which of the following values is closest to Dai\u2019s average speed, in miles per hour, for the parts of the workday when he was traveling? )selim( 300 ecnatsid 200 100",
+          "stem": "Dai traveled to 3 locations during a workday. Dai remained at each location a whole number of hours. The graph below shows the relationship between time, in hours, into his workday and total distance, in miles, traveled. Which of the following values is closest to Dai\u2019s average speed, in miles per hour, for the parts of the workday when he was traveling? )selim( ecnatsid 200",
           "choices": {
             "A": "30 latot",
-            "B": "38 0",
+            "B": "38",
             "C": "40 0 2 4 6 8 1012",
             "D": "50 time (hours)",
-            "E": "63 21 ACT-F11 2 DO Use the following information to answer questions 30\u201333. The chart below provides some facts about 4 planets in our solar system. Mercury Venus Earth Mars Average distance from the Sun 36.0 67.2 93.0 141.6 (millions of miles) Orbital period 88.0 224.7 365.3 687.0 (Earth days) Equatorial diameter 3,032 7,521 7,926 4,222 (miles) Strength of surface gravity compared 37.8 90.7 100.0 37.7 to Earth (%)* Average surface temperature 332.4\u00b0 867.0\u00b0 59.0\u00b0 \u221285.0\u00b0 (\u00b0Fahrenheit) *The strength of surface gravity refers to the gravitational acceleration of an object near the surface of the planet. The ft/sec2 values given are percents of 32.2 (feet per second per second), which is the gravitational acceleration of an object near the surface of Earth."
+            "E": "63 DO Use the following information to answer questions 30\u201333. The chart below provides some facts about 4 planets in our solar system. Mercury Venus Earth Mars Average distance from the Sun 36.0 67.2 93.0 141.6 (millions of miles) Orbital period 88.0 224.7 365.3 687.0 (Earth days) Equatorial diameter 3,032 7,521 7,926 4,222 (miles) Strength of surface gravity compared 37.8 90.7 100.0 37.7 to Earth (%)* Average surface temperature 332.4\u00b0 867.0\u00b0 59.0\u00b0 \u221285.0\u00b0 (\u00b0Fahrenheit) *The strength of surface gravity refers to the gravitational acceleration of an object near the surface of the planet. The ft/sec2 values given are percents of 32.2 (feet per second per second), which is the gravitational acceleration of an object near the surface of Earth."
           },
           "pageIndex": 20,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_20.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
@@ -1277,7 +1418,7 @@
             "K": "1,056,000,000"
           },
           "pageIndex": 21,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_21.jpg",
+          "imageSrc": null,
           "correct": "J"
         },
         {
@@ -1286,15 +1427,25 @@
           "choices": {
             "A": "0.378(32.2)",
             "B": "(0.907 \u2212 0.378)(32.2)",
-            "C": "(0.907 +0.378)(32.2) _____3_2_.2_____ D. 0.907 \u22120.378 _____3_2_.2_____ E. 0.907 +0.378 www.actexam.net ACT-F11 2 DO"
+            "C": "(0.907 +0.378)(32.2) _____3_2_.2_____ D. 0.907 \u22120.378 _____3_2_.2_____ E. 0.907 +0.378 www.actexam.net DO"
           },
           "pageIndex": 21,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_21.jpg",
+          "imageSrc": null,
           "correct": "B"
         },
         {
+          "number": 32,
+          "stem": "For all the planets in the solar system, the equation 0.4D1.5 T = models the relationship between T, the orbital period in Earth days, and D, the average distance in millions of miles from the Sun, given in the table. According to this model, which of the following expressions is equal to Mercury\u2019s orbital period in Earth days? 0.4(62) F. 0.4(63) G. \u00b76)3",
+          "choices": {
+            "H": "(0.4 0.4_\u221a3\"3\"6+ 2 J. _\u221a3 \"0\".4\" \"\u00b7\"3\"6\"+ 2 K. _5_(F\u221232)"
+          },
+          "pageIndex": 22,
+          "imageSrc": null,
+          "correct": "G"
+        },
+        {
           "number": 33,
-          "stem": "The formula C= gives the conversion from 9 Fdegrees Fahrenheit to Cdegrees Celsius. The formula",
+          "stem": "The formula C= gives the conversion from Fdegrees Fahrenheit to Cdegrees Celsius. The formula",
           "choices": {
             "K": "= C + 273 gives the conversion from C degrees Celsius to Kkelvins. To the nearest integer, what is the average surface temperature, in kelvins, of Mars?",
             "A": "\u2212117",
@@ -1304,7 +1455,7 @@
             "E": "0208"
           },
           "pageIndex": 22,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_22.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
@@ -1315,10 +1466,10 @@
             "G": "08 a.m.",
             "H": "09 a.m.",
             "J": "10 a.m.",
-            "K": "11 a.m. 23 ACT-F11 2 DO"
+            "K": "11 a.m. DO"
           },
           "pageIndex": 22,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_22.jpg",
+          "imageSrc": null,
           "correct": "G"
         },
         {
@@ -1332,8 +1483,18 @@
             "E": "$675 _3_x_\u2212__y_ _2_"
           },
           "pageIndex": 23,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_23.jpg",
+          "imageSrc": null,
           "correct": "C"
+        },
+        {
+          "number": 36,
+          "stem": "Given that the equation = is true, what is the x+y 4 _x_ value of ? y _1_ F. _1_ G. _3_ H. _3_ J.",
+          "choices": {
+            "K": "3"
+          },
+          "pageIndex": 23,
+          "imageSrc": null,
+          "correct": "H"
         },
         {
           "number": 37,
@@ -1346,8 +1507,16 @@
             "E": "48 _3_"
           },
           "pageIndex": 23,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_23.jpg",
+          "imageSrc": null,
           "correct": "A"
+        },
+        {
+          "number": 38,
+          "stem": "On a typical day at Limestone College, of all students ride a bicycle to class. Among the rest of the _1_ _1_ students, ride the bus and walk. On a typical day, 3 6 what fraction of the students ride the bus to class? _1_ F. _2__ G. _1__ H. _1__ J. _1__ K. DO",
+          "choices": {},
+          "pageIndex": 23,
+          "imageSrc": null,
+          "correct": "G"
         },
         {
           "number": 39,
@@ -1358,7 +1527,7 @@
             "C": "y (2,7) x O"
           },
           "pageIndex": 24,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_24.jpg",
+          "imageSrc": null,
           "correct": "B"
         },
         {
@@ -1369,10 +1538,10 @@
             "G": "0,460",
             "H": "0,920",
             "J": "5,660",
-            "K": "7,550 25 ACT-F11 2 DO Use the following information to answer questions 41\u201343. One thousand people registered to run a 5-mile road race. Each of the 1,000 people who registered paid either the early, regular, or late registration fee given in the table below. Type of Registration registration fee Early $25.00 Regular $35.00 Late $45.00 Ninety percent of all the registered people started the race, and 95% of the people who started the race also finished the race."
+            "K": "7,550 DO Use the following information to answer questions 41\u201343. One thousand people registered to run a 5-mile road race. Each of the 1,000 people who registered paid either the early, regular, or late registration fee given in the table below. Type of Registration registration fee Early $25.00 Regular $35.00 Late $45.00 Ninety percent of all the registered people started the race, and 95% of the people who started the race also finished the race."
           },
           "pageIndex": 24,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_24.jpg",
+          "imageSrc": null,
           "correct": "H"
         },
         {
@@ -1386,7 +1555,7 @@
             "E": "350.00 \u00d7102"
           },
           "pageIndex": 25,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_25.jpg",
+          "imageSrc": null,
           "correct": "B"
         },
         {
@@ -1400,7 +1569,7 @@
             "K": "7x+8(5 \u2212x)"
           },
           "pageIndex": 25,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_25.jpg",
+          "imageSrc": null,
           "correct": "K"
         },
         {
@@ -1411,10 +1580,10 @@
             "B": "0.95(0.90)",
             "C": "1 \u2212 0.90",
             "D": "1 \u22120.95",
-            "E": "1 \u22120.95(0.90) www.actexam.net 26 ACT-F11 2 DO"
+            "E": "1 \u22120.95(0.90) www.actexam.net DO"
           },
           "pageIndex": 25,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_25.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
@@ -1428,7 +1597,7 @@
             "K": "II has exactly 1 more solution than I."
           },
           "pageIndex": 26,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_26.jpg",
+          "imageSrc": null,
           "correct": "F"
         },
         {
@@ -1442,8 +1611,16 @@
             "E": "100"
           },
           "pageIndex": 26,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_26.jpg",
+          "imageSrc": null,
           "correct": "C"
+        },
+        {
+          "number": 46,
+          "stem": "In the standard (x,y) coordinate plane, only 1 parabola h)2 of the form y = (x \u2212 + k has x-intercepts of 3 and",
+          "choices": {},
+          "pageIndex": 26,
+          "imageSrc": null,
+          "correct": "G"
         },
         {
           "number": 47,
@@ -1453,11 +1630,19 @@
             "B": "3",
             "C": "4",
             "D": "6",
-            "E": "8 www.crackab.com 27 ACT-F11 2 __a___ __b___ _a_\u2212__b_ DO"
+            "E": "8 www.crackab.com __a___ __b___ _a_\u2212__b_ DO"
           },
           "pageIndex": 26,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_26.jpg",
+          "imageSrc": null,
           "correct": "A"
+        },
+        {
+          "number": 48,
+          "stem": "+ + =? a+b a\u2212b a+b _2_(a__\u2212__b__) F. a+b _2_(a_ 2 __+__b_ 2 _) G. a2\u2212b2 _2_(a_ 2 __\u2212_a_b__+__b_ 2 _) H. a2\u2212b2 _____2_a______ J. (a+b)(a\u2212b) __2_a___ K. 3a+b",
+          "choices": {},
+          "pageIndex": 27,
+          "imageSrc": null,
+          "correct": "H"
         },
         {
           "number": 49,
@@ -1470,7 +1655,7 @@
             "E": "315"
           },
           "pageIndex": 27,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_27.jpg",
+          "imageSrc": null,
           "correct": "B"
         },
         {
@@ -1484,7 +1669,7 @@
             "K": "32"
           },
           "pageIndex": 27,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_27.jpg",
+          "imageSrc": null,
           "correct": "J"
         },
         {
@@ -1495,10 +1680,10 @@
             "B": "\u221220",
             "C": "\u221218",
             "D": "\u221214",
-            "E": "\u221212 28 ACT-F11 2 DO"
+            "E": "\u221212 DO"
           },
           "pageIndex": 27,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_27.jpg",
+          "imageSrc": null,
           "correct": "A"
         },
         {
@@ -1512,7 +1697,7 @@
             "K": "Cannot be determined from the given information"
           },
           "pageIndex": 28,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_28.jpg",
+          "imageSrc": null,
           "correct": "F"
         },
         {
@@ -1526,7 +1711,7 @@
             "E": "ab (xy)(xk)=1,"
           },
           "pageIndex": 28,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_28.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
@@ -1540,8 +1725,16 @@
             "K": "y=k"
           },
           "pageIndex": 28,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_28.jpg",
+          "imageSrc": null,
           "correct": "F"
+        },
+        {
+          "number": 55,
+          "stem": "Which of the following numbers is a solution to the 3x2+x+5 equation =0 ? _\u221a__\"1_\"5_ A. _i_\u221a__\"1_\"5_ B. +__\u221a__\"6_\"1_ _\u2212_1_ C. +__i_\u221a__\"5_\"9_ _\u2212_1_ D. +__2_i_\u221a__\"1_\"5_ _\u2212_1_ E. DO",
+          "choices": {},
+          "pageIndex": 28,
+          "imageSrc": null,
+          "correct": "D"
         },
         {
           "number": 56,
@@ -1551,21 +1744,21 @@
             "H": "x2+y2=4 (x\u22124)2+(y\u22129)2=36 J. (x\u22129)2+(y\u22124)2=36 K."
           },
           "pageIndex": 29,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_29.jpg",
+          "imageSrc": null,
           "correct": "H"
         },
         {
           "number": 57,
-          "stem": "In the figure below, points A, B, and D lie on the circle w__i_th cen_t_e_r C. The measure of \u2220BCD is 60\u00b0. Chords AB and AD have the same length. What is the measure of \u2220ABC? B 60\u00b0 D C A",
+          "stem": "In the figure below, points A, B, and D lie on the circle w__i_th cen_t_e_r",
           "choices": {
+            "C": "20\u00b0",
             "A": "10\u00b0",
             "B": "15\u00b0",
-            "C": "20\u00b0",
             "D": "30\u00b0",
             "E": "40\u00b0"
           },
           "pageIndex": 29,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_29.jpg",
+          "imageSrc": null,
           "correct": "B"
         },
         {
@@ -1576,15 +1769,15 @@
             "G": "5",
             "H": "6",
             "J": "8",
-            "K": "Infinitely many www.actexam.net 30 ACT-F11 2 nABC DO"
+            "K": "Infinitely many www.actexam.net nABC DO"
           },
           "pageIndex": 29,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_29.jpg",
+          "imageSrc": null,
           "correct": "F"
         },
         {
           "number": 59,
-          "stem": "The side lengths of shown below are 10 m, 18 m, and 21 m. Which of the following expressions represents the measure of \u2220B? (Note: For a triangle with sides of length a, b, and c that are opposite angles \u2220A, \u2220B, and \u2220C, respectively, c2=a2+b2\u22122abcos,\u2220C.) B 18 10 ?",
+          "stem": "The side lengths of shown below are 10 m, 18 m, and 21 m. Which of the following expressions represents the measure of \u2220B? (Note: For a triangle with sides of length a, b, and c that are opposite angles \u2220A, \u2220B, and \u2220C, respectively, c2=a2+b2\u22122abcos,\u2220C.) B 10 ?",
           "choices": {
             "A": "cos\u22121 _212\u2212102\u2212182\u22122(10)(18)+",
             "B": "cos\u22121 _212\u2212102\u2212182+2(10)(18)+",
@@ -1593,21 +1786,15 @@
             "E": "2 \u22122(10)(18)"
           },
           "pageIndex": 30,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_30.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
           "number": 60,
-          "stem": "The graph of f(x) is shown in the standard (x,y) coordinate plane below. The graph of f(x) has horizontal asymptotes at y=\u22122 and y=2. One of the following intervals represents the domain of f\u22121(x). Which one? y 2 1 O \u22124 \u22123 \u22122 \u22121 1 2 3 4 x \u22121 \u22122",
-          "choices": {
-            "F": "(\u22122, 2)",
-            "G": "[\u22122, 2]",
-            "H": "( 0, \u221e)",
-            "J": "[ 0, \u221e)",
-            "K": "(\u2212\u221e, \u221e) STOP! DO NOT TURN TH DO NOT RE 31 ACT-F11"
-          },
+          "stem": "The graph of f(x) is shown in the standard (x,y) coordinate plane below. The graph of f(x) has",
+          "choices": {},
           "pageIndex": 30,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/math/page_30.jpg",
+          "imageSrc": null,
           "correct": "F"
         }
       ]
@@ -1655,7 +1842,7 @@
                 "A": "provide background information about whales in the Bay of Biscay.",
                 "B": "indicate the narrator\u2019s fear that the day is too windy for any whale sightings.",
                 "C": "establish a setting for the narrator\u2019s experience while whale watching.",
-                "D": "show a contrast between whale behavior and migrant bird behavior. www.crackab.com 3 ACT-F11"
+                "D": "show a contrast between whale behavior and migrant bird behavior. www.crackab.com"
               },
               "correct": "C",
               "lineRef": null
@@ -1727,7 +1914,7 @@
                 "A": "similar; both passages describe events as they happen but include occasional flashbacks.",
                 "B": "similar; both passages only describe events that occurred in the past.",
                 "C": "different; Passage A mostly describes events as they happen, whereas PassageB mostly describes events that occurred in the past.",
-                "D": "different; Passage A mostly describes events that occurred in the past, whereas Passage B mostly describes events as they happen. 3 GO ON TO THE NEXT PAGE."
+                "D": "different; Passage A mostly describes events that occurred in the past, whereas Passage B mostly describes events as they happen. 3"
               },
               "correct": "C",
               "lineRef": null
@@ -1748,7 +1935,7 @@
                 "F": "\u201cThe wind was chasing us hard south and attend- ing to the sea\u2019s surface with diligence\u201d (lines 49\u201350).",
                 "G": "\u201cTheir jaws and undersides lit the sea with an otherworldly blue\u201d (lines 60\u201361).",
                 "H": "\u201cPerhaps it was just a few weeks old and had never seen the sea\u201d (lines 81\u201382).",
-                "J": "\u201cIt let itself be lifted into the air, out to the side of the boat, south over the whales and over the sea\u201d (lines 88\u201390). Passage II SOCIAL SCIENCE: This passage is adapted from the article \u201cThe Gift of Doubt\u201d by Malcolm Gladwell (\u00a92013 by Cond\u00e9 Nast). In the mid-nineteenth century, work began on a crucial section of the railway line connecting Boston to the Hudson River. The addition would run from Green- field, Massachusetts, to Troy, New York, and it required 5 tunneling through Hoosac Mountain, a massive impedi- ment, nearly five miles thick, that blocked passage between the Deerfield Valley and a tributary of the Hudson. James Hayward, one of New England\u2019s leading 10 railroad engineers, estimated that penetrating the Hoosac would cost, at most, a very manageable two million dollars. The president of Amherst College, an accomplished geologist, said that the mountain was composed of soft rock and that tunneling would be 15 fairly easy once the engineers had breached the surface. \u201cThe Hoosac . . . is believed to be the only barrier between Boston and the Pacific,\u201d the project\u2019s pro- moter, Alvah Crocker, declared. Everyone was wrong. Digging through the Hoosac 20 turned out to be a nightmare. The project cost more than ten times the budgeted estimate. If the people involved had known the true nature of the challenges they faced, they would never have funded the Troy- Greenfield railroad. But, had they not, the factories of 25 northwestern Massachusetts wouldn\u2019t have been able to ship their goods so easily to the expanding West, the cost of freight would have remained stubbornly high, and the state of Massachusetts would have been immea- surably poorer. So is ignorance an impediment to 30 progress or a precondition for it? The economist Albert O. Hirschman loved para- doxes like this. He was a \u201cplanner,\u201d the kind of econo- mist who conceives of grand infrastructure projects and bold schemes. But his eye was drawn to the many ways 35 in which plans did not turn out the way they were sup- posed to\u2014to unintended consequences and perverse outcomes and the puzzling fact that the shortest line between two points is often a dead end. www.actexam.net 3 ACT-F11 3 \u201cThe Principle of the Hiding Hand,\u201d one of 40 Hirschman\u2019s many memorable essays, drew on an account of the Troy-Greenfield \u201cfolly,\u201d and then pre- sented an even more elaborate series of paradoxes. Hirschman had studied the enormous Karnaphuli Paper Mills, in what was then East Pakistan. The mill was 45 built to exploit the vast bamboo forests of the Chit- tagong Hill Tracts. But not long after the mill came online the bamboo unexpectedly flowered and then died, a phenomenon now known to recur every fifty years or so. Dead bamboo was useless for pulping; it 50 fell apart as it was floated down the river. Because of ignorance and bad planning, a new, multimillion-dollar industrial plant was suddenly without the raw material it needed to function. But what impressed Hirschman was the response 55 to the crisis. The mill\u2019s operators quickly found ways to bring in bamboo from villages throughout East Pak- istan, building a new supply chain using the country\u2019s many waterways. They started a research program to find faster-growing species of bamboo to replace the 60 dead forests, and planted an experimental tract. They found other kinds of lumber that worked just as well. The result was that the plant was blessed with a far more diversified base of raw materials than had ever been imagined. If bad planning hadn\u2019t led to the crisis 65 at the Karnaphuli plant, the mill\u2019s operators would never have been forced to be creative. And the plant would not have been nearly as valuable as it became. \u201cWe may be dealing here with a general principle of action,\u201d Hirschman wrote: 70 Creativity always comes as a surprise to us; therefore we can never count on it and we dare not believe in it until it has happened. In other words, we would not consciously engage upon tasks whose success clearly requires that cre- 75 ativity be forthcoming. Hence, the only way in which we can bring our creative resources fully into play is by misjudging the nature of the task, by presenting it to ourselves as more rou- tine, simple, undemanding of genuine creativ- 80 ity than it will turn out to be. And from there Hirschman\u2019s analysis took flight. People don\u2019t seek out challenges, he went on. They are \u201capt to take on and plunge into new tasks because of the erroneously presumed absence of a challenge\u2014because 85 the task looks easier and more manageable than it will turn out to be.\u201d This was the Hiding Hand principle. The entrepreneur takes risks but does not see himself as a risk-taker, because he operates under the useful delusion that what he\u2019s attempting is not risky. Then, 90 trapped in mid-mountain, people discover the truth\u2014 and, because it is too late to turn back, they\u2019re forced to finish the job. 4 GO ON TO THE NEXT PAGE."
+                "J": "\u201cIt let itself be lifted into the air, out to the side of the boat, south over the whales and over the sea\u201d (lines 88\u201390). Passage II SOCIAL SCIENCE: This passage is adapted from the article \u201cThe Gift of Doubt\u201d by Malcolm Gladwell (\u00a92013 by Cond\u00e9 Nast). In the mid-nineteenth century, work began on a crucial section of the railway line connecting Boston to the Hudson River. The addition would run from Green- field, Massachusetts, to Troy, New York, and it required 5 tunneling through Hoosac Mountain, a massive impedi- ment, nearly five miles thick, that blocked passage between the Deerfield Valley and a tributary of the Hudson. James Hayward, one of New England\u2019s leading 10 railroad engineers, estimated that penetrating the Hoosac would cost, at most, a very manageable two million dollars. The president of Amherst College, an accomplished geologist, said that the mountain was composed of soft rock and that tunneling would be 15 fairly easy once the engineers had breached the surface. \u201cThe Hoosac . . . is believed to be the only barrier between Boston and the Pacific,\u201d the project\u2019s pro- moter, Alvah Crocker, declared. Everyone was wrong. Digging through the Hoosac 20 turned out to be a nightmare. The project cost more than ten times the budgeted estimate. If the people involved had known the true nature of the challenges they faced, they would never have funded the Troy- Greenfield railroad. But, had they not, the factories of 25 northwestern Massachusetts wouldn\u2019t have been able to ship their goods so easily to the expanding West, the cost of freight would have remained stubbornly high, and the state of Massachusetts would have been immea- surably poorer. So is ignorance an impediment to 30 progress or a precondition for it? The economist Albert O. Hirschman loved para- doxes like this. He was a \u201cplanner,\u201d the kind of econo- mist who conceives of grand infrastructure projects and bold schemes. But his eye was drawn to the many ways 35 in which plans did not turn out the way they were sup- posed to\u2014to unintended consequences and perverse outcomes and the puzzling fact that the shortest line between two points is often a dead end. www.actexam.net \u201cThe Principle of the Hiding Hand,\u201d one of 40 Hirschman\u2019s many memorable essays, drew on an account of the Troy-Greenfield \u201cfolly,\u201d and then pre- sented an even more elaborate series of paradoxes. Hirschman had studied the enormous Karnaphuli Paper Mills, in what was then East Pakistan. The mill was 45 built to exploit the vast bamboo forests of the Chit- tagong Hill Tracts. But not long after the mill came online the bamboo unexpectedly flowered and then died, a phenomenon now known to recur every fifty years or so. Dead bamboo was useless for pulping; it 50 fell apart as it was floated down the river. Because of ignorance and bad planning, a new, multimillion-dollar industrial plant was suddenly without the raw material it needed to function. But what impressed Hirschman was the response 55 to the crisis. The mill\u2019s operators quickly found ways to bring in bamboo from villages throughout East Pak- istan, building a new supply chain using the country\u2019s many waterways. They started a research program to find faster-growing species of bamboo to replace the 60 dead forests, and planted an experimental tract. They found other kinds of lumber that worked just as well. The result was that the plant was blessed with a far more diversified base of raw materials than had ever been imagined. If bad planning hadn\u2019t led to the crisis 65 at the Karnaphuli plant, the mill\u2019s operators would never have been forced to be creative. And the plant would not have been nearly as valuable as it became. \u201cWe may be dealing here with a general principle of action,\u201d Hirschman wrote: 70 Creativity always comes as a surprise to us; therefore we can never count on it and we dare not believe in it until it has happened. In other words, we would not consciously engage upon tasks whose success clearly requires that cre- 75 ativity be forthcoming. Hence, the only way in which we can bring our creative resources fully into play is by misjudging the nature of the task, by presenting it to ourselves as more rou- tine, simple, undemanding of genuine creativ- 80 ity than it will turn out to be. And from there Hirschman\u2019s analysis took flight. People don\u2019t seek out challenges, he went on. They are \u201capt to take on and plunge into new tasks because of the erroneously presumed absence of a challenge\u2014because 85 the task looks easier and more manageable than it will turn out to be.\u201d This was the Hiding Hand principle. The entrepreneur takes risks but does not see himself as a risk-taker, because he operates under the useful delusion that what he\u2019s attempting is not risky. Then, 90 trapped in mid-mountain, people discover the truth\u2014 and, because it is too late to turn back, they\u2019re forced to finish the job. 4"
               },
               "correct": "J",
               "lineRef": null
@@ -1817,7 +2004,7 @@
                 "A": "understood that Hoosac Mountain was the only barrier between Boston and the Pacific.",
                 "B": "included a leading engineer, the president of Amherst College, and a promoter.",
                 "C": "were confident that the project was manageable and worthwhile.",
-                "D": "were not qualified to give opinions on the project. 3 ACT-F11 3"
+                "D": "were not qualified to give opinions on the project."
               },
               "correct": "C",
               "lineRef": null
@@ -1877,7 +2064,7 @@
                 "F": "is less pliable.",
                 "G": "won\u2019t flower.",
                 "H": "makes low-quality paper.",
-                "J": "falls apart in water. 5 GO ON TO THE NEXT PAGE."
+                "J": "falls apart in water. 5"
               },
               "correct": "J",
               "lineRef": null
@@ -1898,7 +2085,7 @@
                 "A": "describe the pitfalls of attempting to imitate great jazz musicians in concert.",
                 "B": "review the qualities of two jazz tribute concerts.",
                 "C": "trace the rise in popularity of jazz tribute concerts.",
-                "D": "persuade readers to attend two upcoming jazz concerts. 6 GO ON TO THE NEXT PAGE."
+                "D": "persuade readers to attend two upcoming jazz concerts. 6"
               },
               "correct": "B",
               "lineRef": null
@@ -1958,7 +2145,7 @@
                 "F": "trumpet.",
                 "G": "piano.",
                 "H": "saxophone.",
-                "J": "no instrument; he conducted the music. 3 ACT-F11"
+                "J": "no instrument; he conducted the music."
               },
               "correct": "G",
               "lineRef": null
@@ -2006,7 +2193,7 @@
                 "F": "appreciation of Moran\u2019s accomplishment, given that Moran was so far removed from Monk\u2019s era.",
                 "G": "belief that Moran and Monk would have been a great jazz duo if Moran had been born earlier than he was.",
                 "H": "idea that Moran is too young to adequately capture the maturity of Monk\u2019s style.",
-                "J": "interest in analyzing Monk\u2019s concert and Moran\u2019s tribute as key moments in the development of jazz. 7 GO ON TO THE NEXT PAGE."
+                "J": "interest in analyzing Monk\u2019s concert and Moran\u2019s tribute as key moments in the development of jazz. 7"
               },
               "correct": "F",
               "lineRef": null
@@ -2039,7 +2226,7 @@
                 "F": "A second trigger hair is touched fifteen seconds after the first trigger hair is touched.",
                 "G": "A second trigger hair is touched twenty-five sec- onds after the first trigger hair is touched.",
                 "H": "Fifteen microcoulombs of electricity are applied to the plant\u2019s lobes.",
-                "J": "Twenty microcoulombs of electricity are applied to the plant\u2019s lobes. 8 GO ON TO THE NEXT PAGE."
+                "J": "Twenty microcoulombs of electricity are applied to the plant\u2019s lobes. 8"
               },
               "correct": "G",
               "lineRef": null
@@ -2087,7 +2274,7 @@
                 "F": "discovered the Venus flytrap in 1882.",
                 "G": "composed an early report on the Venus flytrap\u2019s physiology.",
                 "H": "determined that Venus flytraps could store electric charges.",
-                "J": "discovered what causes Venus flytraps to close. STOP! DO N 3 ACT-F11"
+                "J": "discovered what causes Venus flytraps to close."
               },
               "correct": "G",
               "lineRef": null
@@ -2135,7 +2322,7 @@
                 "F": "slightly greater.",
                 "G": "exactly the same.",
                 "H": "slightly less.",
-                "J": "significantly less. END OF TEST 3 NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST. 9"
+                "J": "significantly less. NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST."
               },
               "correct": "F",
               "lineRef": null
@@ -2152,7 +2339,7 @@
         {
           "id": "passage-i",
           "title": "Passage I",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_39.jpg",
+          "imageSrc": "/tests/F11/science/passage_passage-i.jpg",
           "startPage": 39,
           "questions": [
             {
@@ -2162,43 +2349,44 @@
                 "A": "Balance",
                 "B": "Graduated cylinder",
                 "C": "Microscope",
-                "D": "pH meter 0 GO ON TO THE NEXT PAGE."
+                "D": "pH meter 0"
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_39.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-i.jpg"
             },
             {
               "number": 2,
-              "stem": "Based on the results of Experiment 1, the C. elegans were most attracted to which of Compounds X, Y, or Z, if any?",
+              "stem": "Based on the results of Experiment 1,",
               "choices": {
+                "C": "elegans were equally attracted to each of the 3 compounds.",
                 "F": "Compound X",
                 "G": "Compound Y",
                 "H": "Compound Z",
-                "J": "None of the compounds; the C. elegans were equally attracted to each of the 3 compounds."
+                "J": "None of the compounds;"
               },
               "correct": "F",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_39.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-i.jpg"
             },
             {
               "number": 3,
-              "stem": "On Dish3 in Experiment1, the number of C.elegans that moved toward Compound Z was approximately how many times as great as the number of C.elegans that moved toward Compound Y ? _1_ A. 4 _1_ B. 2",
+              "stem": "On Dish3 in Experiment1, the number of C.elegans that moved toward Compound Z was approximately how many times as great as the number of C.elegans that moved toward Compound Y ? _1_ A. _1_ B.",
               "choices": {
                 "C": "2",
                 "D": "4"
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_39.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-i.jpg"
             },
             {
               "number": 4,
               "stem": "The single-dish experimental design shown in which of the following figures would have best allowed the stu- dents to determine which compound (X, Y, or Z) was most attractive to the C.elegans? Key Drug P Compound",
               "choices": {
                 "F": "X",
-                "C": "elegans X Y Z 4 4",
-                "G": "Y C. elegans X Z H."
+                "C": "elegans X Y Z",
+                "G": "Y"
               },
               "correct": "J",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_39.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-i.jpg"
             },
             {
               "number": 5,
@@ -2210,7 +2398,7 @@
                 "D": "6"
               },
               "correct": "D",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_39.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-i.jpg"
             },
             {
               "number": 6,
@@ -2222,26 +2410,26 @@
                 "J": "Plasma membrane"
               },
               "correct": "G",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_39.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-i.jpg"
             },
             {
               "number": 7,
-              "stem": "In Experiment 2, as the amount of pre-exposure time increased, did the number of C. elegans that were attracted to Compound Z increase or decrease?",
+              "stem": "In Experiment 2, as the amount of pre-exposure time increased, did the number",
               "choices": {
-                "A": "Increase, because the C. elegans experienced chemosensory adaptation to Compound X.",
-                "B": "Increase, because the C. elegans experienced chemosensory adaptation to Compound Z.",
-                "C": "Decrease, because the C. elegans experienced chemosensory adaptation to Compound X.",
-                "D": "Decrease, because the C. elegans experienced chemosensory adaptation to Compound Z. 1 GO ON TO THE NEXT PAGE."
+                "C": "elegans experienced chemosensory adaptation to Compound Z. 1",
+                "A": "Increase, because",
+                "B": "Increase, because",
+                "D": "Decrease, because"
               },
               "correct": "A",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_39.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-i.jpg"
             }
           ]
         },
         {
           "id": "passage-ii",
           "title": "Passage II",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_41.jpg",
+          "imageSrc": "/tests/F11/science/passage_passage-ii.jpg",
           "startPage": 41,
           "questions": [
             {
@@ -2254,7 +2442,7 @@
                 "J": "Day 20"
               },
               "correct": "G",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_41.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-ii.jpg"
             },
             {
               "number": 9,
@@ -2266,7 +2454,7 @@
                 "D": "32 g."
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_41.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-ii.jpg"
             },
             {
               "number": 10,
@@ -2275,10 +2463,10 @@
                 "F": "001 g",
                 "G": "015 g",
                 "H": "065 g",
-                "J": "100 g 4 4"
+                "J": "100 g"
               },
               "correct": "J",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_41.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-ii.jpg"
             },
             {
               "number": 11,
@@ -2290,7 +2478,7 @@
                 "D": "Z."
               },
               "correct": "B",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_41.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-ii.jpg"
             },
             {
               "number": 12,
@@ -2302,7 +2490,7 @@
                 "J": "18"
               },
               "correct": "F",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_41.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-ii.jpg"
             },
             {
               "number": 13,
@@ -2311,30 +2499,30 @@
                 "A": "less than 0.2 mL/g/hr.",
                 "B": "between 0.2 mL/g/hr and 0.6 mL/g/hr.",
                 "C": "between 0.6 mL/g/hr and 1.0 mL/g/hr.",
-                "D": "greater than 1.0 mL/g/hr. 3 GO ON TO THE NEXT PAGE."
+                "D": "greater than 1.0 mL/g/hr. 3"
               },
               "correct": "B",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_41.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-ii.jpg"
             }
           ]
         },
         {
           "id": "passage-iii",
           "title": "Passage III",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_43.jpg",
+          "imageSrc": "/tests/F11/science/passage_passage-iii.jpg",
           "startPage": 43,
           "questions": [
             {
               "number": 14,
-              "stem": "According to Figure1, the solubility of KNO in water 3 at 50\u00b0C is closest to which of the following values?",
+              "stem": "According to Figure1, the solubility of KNO in water at 50\u00b0C is closest to which of the following values?",
               "choices": {
-                "F": "030 g KNO /100 g water 3",
-                "G": "085 g KNO /100 g water 3",
-                "H": "170 g KNO /100 g water 3",
-                "J": "250 g KNO /100 g water 3"
+                "F": "030 g KNO /100 g water",
+                "G": "085 g KNO /100 g water",
+                "H": "170 g KNO /100 g water",
+                "J": "250 g KNO /100 g water"
               },
               "correct": "J",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_43.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iii.jpg"
             },
             {
               "number": 15,
@@ -2346,31 +2534,31 @@
                 "D": "370 g"
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_43.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iii.jpg"
             },
             {
               "number": 16,
               "stem": "Which of the following compounds shows the least variation in solubility as the temperature of water increases from 0\u00b0C to 100\u00b0C ?",
               "choices": {
                 "F": "KI",
-                "G": "KNO 3",
+                "G": "KNO",
                 "H": "NaCl",
-                "J": "NH 3 4 4"
+                "J": "NH"
               },
               "correct": "F",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_43.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iii.jpg"
             },
             {
               "number": 17,
               "stem": "Based on Figure 1, which of the substances repre- sented in Figure1 is most likely a gas?",
               "choices": {
-                "A": "NH only, because the solubility of gases in water 3 generally decreases as the temperature increases.",
-                "B": "NH only, because the solubility of gases in water 3 generally decreases as the temperature decreases.",
-                "C": "Sucrose, KNO , KI, and NaCl only, because the 3 solubility of gases in water generally decreases as the temperature increases.",
-                "D": "Sucrose, KNO , KI, and NaCl only, because the 3 solubility of gases in water generally decreases as the temperature decreases."
+                "A": "NH only, because the solubility of gases in water generally decreases as the temperature increases.",
+                "B": "NH only, because the solubility of gases in water generally decreases as the temperature decreases.",
+                "C": "Sucrose, KNO , KI, and NaCl only, because the solubility of gases in water generally decreases as the temperature increases.",
+                "D": "Sucrose, KNO , KI, and NaCl only, because the solubility of gases in water generally decreases as the temperature decreases."
               },
               "correct": "B",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_43.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iii.jpg"
             },
             {
               "number": 18,
@@ -2382,7 +2570,7 @@
                 "J": "no no"
               },
               "correct": "F",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_43.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iii.jpg"
             },
             {
               "number": 19,
@@ -2391,22 +2579,22 @@
                 "A": "000,140 mg KI/100 g water",
                 "B": "001,400 mg KI/100 g water",
                 "C": "014,000 mg KI/100 g water",
-                "D": "140,000 mg KI/100 g water 5 GO ON TO THE NEXT PAGE."
+                "D": "140,000 mg KI/100 g water 5"
               },
               "correct": "D",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_43.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iii.jpg"
             }
           ]
         },
         {
           "id": "passage-iv",
           "title": "Passage IV",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_45.jpg",
+          "imageSrc": "/tests/F11/science/passage_passage-iv.jpg",
           "startPage": 45,
           "questions": [
             {
               "number": 20,
-              "stem": "In Study2, on average, at which location was the content greater, and at which location was the SO 2\u2212 4 content greater? Na+content SO 2\u2212content 4",
+              "stem": "In Study2, on average, at which location was the content greater, and at which location was the SO 2\u2212 content greater? Na+content SO 2\u2212content",
               "choices": {
                 "F": "center of lake center of lake",
                 "G": "center of lake flooded crater",
@@ -2414,7 +2602,7 @@
                 "J": "flooded crater flooded crater"
               },
               "correct": "J",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_45.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iv.jpg"
             },
             {
               "number": 21,
@@ -2426,7 +2614,7 @@
                 "D": "severity of volcanic eruptions."
               },
               "correct": "B",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_45.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iv.jpg"
             },
             {
               "number": 22,
@@ -2438,19 +2626,19 @@
                 "J": "4"
               },
               "correct": "J",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_45.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iv.jpg"
             },
             {
               "number": 23,
-              "stem": "Assume that the electrical conductivity of the lake water is determined only by the SO 2\u2212 content. Also 4 2\u2212 assume that the electrical conductivity and the SO 4 content are directly related. Based on these assump- tions and on the results of Study2, on April 1, 1996, at what depth in the center of the lake, and at what depth in the flooded crater, would the electrical conductivity of the water most likely have been greatest? center of lake flooded crater",
+              "stem": "Assume that the electrical conductivity of the lake water is determined only by the SO 2\u2212 content. Also 2\u2212 assume that the electrical conductivity and the SO content are directly related. Based on these assump- tions and on the results of Study2, on April 1, 1996, at what depth in the center of the lake, and at what depth in the flooded crater, would the electrical conductivity of the water most likely have been greatest? center of lake flooded crater",
               "choices": {
                 "A": "40 m 00 m",
                 "B": "40 m 40 m",
                 "C": "50 m 00 m",
-                "D": "50 m 50 m 4 4 Key center of lake flooded crater 2\u2212 a+ content (mg/L) average SO content (mg/L) 4 40 60 80 100 0 100 200 300 400 500 0 10 20 30 40 50 60 ure 2 Eruption at Academii Nauk Volcano (Kamchatka) and Its Effects on"
+                "D": "50 m 50 m Key center of lake flooded crater 2\u2212 a+ content (mg/L) average SO content (mg/L) 40 60 80 100 0 100 200 300 400 500 ure 2 Eruption at Academii Nauk Volcano (Kamchatka) and Its Effects on"
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_45.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iv.jpg"
             },
             {
               "number": 24,
@@ -2462,7 +2650,7 @@
                 "J": "100%"
               },
               "correct": "J",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_45.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iv.jpg"
             },
             {
               "number": 25,
@@ -2474,7 +2662,7 @@
                 "D": "April 1, 1996, because the water collected on that date had the lower pH at every depth."
               },
               "correct": "B",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_45.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iv.jpg"
             },
             {
               "number": 26,
@@ -2483,17 +2671,17 @@
                 "F": "05",
                 "G": "15",
                 "H": "25",
-                "J": "35 7 GO ON TO THE NEXT PAGE."
+                "J": "35 7"
               },
               "correct": "G",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_45.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-iv.jpg"
             }
           ]
         },
         {
           "id": "passage-v",
           "title": "Passage V",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_47.jpg",
+          "imageSrc": "/tests/F11/science/passage_passage-v.jpg",
           "startPage": 47,
           "questions": [
             {
@@ -2503,20 +2691,22 @@
                 "F": "2, 4, 1, 3, 5",
                 "G": "2, 4, 3, 5, 1",
                 "H": "4, 2, 1, 3, 5",
-                "J": "4, 2, 3, 5, 1 4 4"
+                "J": "4, 2, 3, 5, 1"
               },
               "correct": "D",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_47.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-v.jpg"
             },
             {
               "number": 27,
               "stem": "Which of the following graphs best shows the mass of dry solid obtained in Trials 1\u22125 ?",
               "choices": {
-                "A": "6 C. 6 )g( )g( 5 5 dilos dilos yrd 3 yrd 3 2 2 fo fo ssam ssam 1 1 0 0 1 2 3 4 5 1 2 3 4 5 Trial Trial",
-                "B": "6 D. 6 )g( )g( 5 5 dilos dilos yrd 3 yrd 3 2 2 fo fo ssam 1 ssam 1 0 0 1 2 3 4 5 1 2 3 4 5 Trial Trial"
+                "A": "6",
+                "C": "6 )g( )g( 5 5 dilos dilos yrd 3 yrd 3 2 2 fo fo ssam ssam 1 1 0 0 1 2 3 4 5 1 2 3 4 5 Trial Trial",
+                "B": "6",
+                "D": "6 )g( )g( 5 5 dilos dilos yrd 3 yrd 3 2 2 fo fo ssam 1 ssam 1 0 0 1 2 3 4 5 1 2 3 4 5 Trial Trial"
               },
               "correct": "B",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_47.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-v.jpg"
             },
             {
               "number": 29,
@@ -2528,11 +2718,11 @@
                 "D": "2.00 g \u00f71.49 g"
               },
               "correct": "A",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_47.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-v.jpg"
             },
             {
               "number": 30,
-              "stem": "Suppose a trial had been performed in the experiment with 2.00g of Zn and 2.50g of I . Based on the results 2 of the experiment, the mass of unreacted Zn in this trial would most likely have been:",
+              "stem": "Suppose a trial had been performed in the experiment with 2.00g of Zn and 2.50g of I . Based on the results of the experiment, the mass of unreacted Zn in this trial would most likely have been:",
               "choices": {
                 "F": "less than 1.23 g.",
                 "G": "between 1.23 g and 1.49 g.",
@@ -2540,11 +2730,11 @@
                 "J": "greater than 2.00 g."
               },
               "correct": "F",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_47.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-v.jpg"
             },
             {
               "number": 31,
-              "stem": "Which of the variables listed below were dependent variables in the experiment? I. Initial mass of I 2 II. Mass of unreacted Zn III. Mass of dry solid",
+              "stem": "Which of the variables listed below were dependent variables in the experiment? I. Initial mass of I II. Mass of unreacted Zn III. Mass of dry solid",
               "choices": {
                 "A": "I and II only",
                 "B": "I and III only",
@@ -2552,11 +2742,11 @@
                 "D": "I, II, and III"
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_47.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-v.jpg"
             },
             {
               "number": 32,
-              "stem": "Consider the results of Trials 1\u22123. In those trials, as the initial mass of I increased, the mass of unreacted 2 Zn:",
+              "stem": "Consider the results of Trials 1\u22123. In those trials, as the initial mass of I increased, the mass of unreacted Zn:",
               "choices": {
                 "F": "decreased only.",
                 "G": "increased only.",
@@ -2564,39 +2754,39 @@
                 "J": "increased and then decreased."
               },
               "correct": "G",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_47.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-v.jpg"
             },
             {
               "number": 33,
-              "stem": "Consider the trials in which the initial mass of I was 2 2.00 g. In those trials, as the initial mass of Zn increased, the mass of dry solid obtained:",
+              "stem": "Consider the trials in which the initial mass of I was 2.00 g. In those trials, as the initial mass of Zn increased, the mass of dry solid obtained:",
               "choices": {
                 "A": "increased only.",
                 "B": "decreased only.",
                 "C": "increased and then decreased.",
-                "D": "remained nearly constant. 9 GO ON TO THE NEXT PAGE."
+                "D": "remained nearly constant. 9"
               },
               "correct": "A",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_47.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-v.jpg"
             }
           ]
         },
         {
           "id": "passage-vi",
           "title": "Passage VI",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_49.jpg",
+          "imageSrc": "/tests/F11/science/passage_passage-vi.jpg",
           "startPage": 49,
           "questions": [
             {
               "number": 30,
               "stem": "",
               "choices": {
-                "J": "___ 5 Combine the totals of these columns and p *Reporting Categories PHM = Preparing for Higher Math N = Number & Quantity",
+                "J": "___ Combine the totals of these columns and p *Reporting Categories PHM = Preparing for Higher Math N = Number & Quantity",
                 "A": "= Algebra",
                 "F": "= Functions",
-                "G": "= Geometry S = Statistics & Probability IES = Integrating Essential Skills MDL = Modeling 53 Reporting Category* PHM Key N A F G S IES MDL"
+                "G": "= Geometry S = Statistics & Probability IES = Integrating Essential Skills MDL = Modeling Reporting Category* PHM Key N A F G S IES MDL"
               },
               "correct": "F",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_49.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-vi.jpg"
             },
             {
               "number": 34,
@@ -2608,19 +2798,20 @@
                 "J": "Students 1, 2, and 3"
               },
               "correct": "J",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_49.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-vi.jpg"
             },
             {
               "number": 35,
-              "stem": "Suppose that Student 2 had done another estimate of the mechanical energy in the cloud and found that it was about 1042 J. Student 2 would most likely revise the estimate of the Sun\u2019s life span to be:",
+              "stem": "Suppose that Student 2 had done another estimate of the mechanical energy in the cloud and found that it was about 1042",
               "choices": {
+                "J": "Student 2 would most likely revise the estimate of the Sun\u2019s life span to be:",
                 "A": "001 million years.",
                 "B": "005 million years.",
                 "C": "100 million years.",
                 "D": "500 million years."
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_49.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-vi.jpg"
             },
             {
               "number": 36,
@@ -2632,7 +2823,7 @@
                 "J": "Students 1, 2, and 3"
               },
               "correct": "G",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_49.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-vi.jpg"
             },
             {
               "number": 37,
@@ -2641,10 +2832,10 @@
                 "A": "combustion requires oxygen, but Student1 did not include any oxygen in the Sun\u2019s composition.",
                 "B": "combustion is a chemical reaction, but combustion is a mechanical process.",
                 "C": "hydrogen exists as a diatomic molecule, but hydro- gen exists only as individual atoms.",
-                "D": "oxygen exists as a diatomic molecule, but oxygen exists only as individual atoms. 0 GO ON TO THE NEXT PAGE."
+                "D": "oxygen exists as a diatomic molecule, but oxygen exists only as individual atoms. 0"
               },
               "correct": "D",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_49.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-vi.jpg"
             },
             {
               "number": 38,
@@ -2656,7 +2847,7 @@
                 "J": "64"
               },
               "correct": "H",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_49.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-vi.jpg"
             },
             {
               "number": 39,
@@ -2665,10 +2856,10 @@
                 "A": "Carbon dioxide",
                 "B": "Helium",
                 "C": "Ozone",
-                "D": "Water S 5 4"
+                "D": "Water S"
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_49.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-vi.jpg"
             },
             {
               "number": 40,
@@ -2677,10 +2868,10 @@
                 "F": "1 \u00d7109yr",
                 "G": "5 \u00d7109yr",
                 "H": "1 \u00d71010yr",
-                "J": "5 \u00d71010yr END OF TEST 4 STOP! DO NOT RETURN TO ANY OTHER TEST. 1"
+                "J": "5 \u00d71010yr"
               },
               "correct": "F",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/F11/science/page_49.jpg"
+              "imageSrc": "/tests/F11/science/passage_passage-vi.jpg"
             }
           ]
         }

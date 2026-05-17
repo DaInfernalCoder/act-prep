@@ -10,7 +10,7 @@
         {
           "id": "eng-p1",
           "title": "Passage 1",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_2.jpg",
+          "imageSrc": "/tests/G20/english/page_2.jpg",
           "startPage": 2,
           "questions": [
             {
@@ -19,10 +19,11 @@
               "choices": {
                 "A": "NO CHANGE",
                 "B": "game between the Grizzlies, ctexCa. gamme, be.twneen tehe Gtrizzlies,",
+                "C": "",
                 "D": "game, between the Grizzlies"
               },
               "pageIndex": 2,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_2.jpg",
+              "imageSrc": "/tests/G20/english/page_2.jpg",
               "correct": "A"
             },
             {
@@ -35,7 +36,7 @@
                 "J": "which contained twenty-nine teams at the time."
               },
               "pageIndex": 2,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_2.jpg",
+              "imageSrc": "/tests/G20/english/page_2.jpg",
               "correct": "G"
             },
             {
@@ -48,7 +49,7 @@
                 "D": "amateur and professional games for years,"
               },
               "pageIndex": 2,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_2.jpg",
+              "imageSrc": "/tests/G20/english/page_2.jpg",
               "correct": "D"
             },
             {
@@ -58,10 +59,10 @@
                 "F": "NO CHANGE",
                 "G": "she had the knowledge,",
                 "H": "was knowledgeable,",
-                "J": "knowledgeable, 2 GO ON TO THE NEXT PAGE. rackab.com"
+                "J": "knowledgeable, 2"
               },
               "pageIndex": 2,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_2.jpg",
+              "imageSrc": "/tests/G20/english/page_2.jpg",
               "correct": "J"
             },
             {
@@ -74,7 +75,7 @@
                 "D": "first did ref stuff for"
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "imageSrc": "/tests/G20/english/page_3.jpg",
               "correct": "C"
             },
             {
@@ -87,7 +88,7 @@
                 "J": "soon afterward began"
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "imageSrc": "/tests/G20/english/page_3.jpg",
               "correct": "G"
             },
             {
@@ -100,7 +101,7 @@
                 "D": "it\u2019s"
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "imageSrc": "/tests/G20/english/page_3.jpg",
               "correct": "A"
             },
             {
@@ -113,7 +114,7 @@
                 "J": "gripped"
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "imageSrc": "/tests/G20/english/page_3.jpg",
               "correct": "H"
             },
             {
@@ -126,7 +127,7 @@
                 "D": "basketball she officiated ctexam.net n"
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "imageSrc": "/tests/G20/english/page_3.jpg",
               "correct": "A"
             },
             {
@@ -139,7 +140,7 @@
                 "J": "Deleted, because it is unrelated to the essay\u2019s dis- cussion of Palmer\u2019s occupation."
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "imageSrc": "/tests/G20/english/page_3.jpg",
               "correct": "H"
             },
             {
@@ -152,7 +153,7 @@
                 "D": "call fouls and regulate"
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "imageSrc": "/tests/G20/english/page_3.jpg",
               "correct": "D"
             },
             {
@@ -165,7 +166,7 @@
                 "J": "DELETE the underlined portion."
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "imageSrc": "/tests/G20/english/page_3.jpg",
               "correct": "F"
             },
             {
@@ -175,10 +176,10 @@
                 "A": "help explain why the NBA is challenging for referees.",
                 "B": "specify some of Palmer\u2019s attributes as a referee.",
                 "C": "identify other referees\u2019 traits that Palmer admired.",
-                "D": "establish that Palmer won over her critics. 3 GO ON TO THE NEXT PAGE. rackab.com"
+                "D": "establish that Palmer won over her critics. 3"
               },
               "pageIndex": 3,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "imageSrc": "/tests/G20/english/page_3.jpg",
               "correct": "B"
             },
             {
@@ -191,7 +192,7 @@
                 "J": "gender"
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "imageSrc": "/tests/G20/english/page_4.jpg",
               "correct": "H"
             },
             {
@@ -199,11 +200,12 @@
               "stem": "",
               "choices": {
                 "A": "NO CHANGE",
-                "B": "Otherwise, she , C. That said, she",
+                "B": "Otherwise, she ,",
+                "C": "That said, she",
                 "D": "She"
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "imageSrc": "/tests/G20/english/page_4.jpg",
               "correct": "D"
             },
             {
@@ -216,7 +218,7 @@
                 "J": "With more than 1,600 flights a day, ctexam.net"
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "imageSrc": "/tests/G20/english/page_4.jpg",
               "correct": "J"
             },
             {
@@ -229,17 +231,9 @@
                 "D": "continued day and night."
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "imageSrc": "/tests/G20/english/page_4.jpg",
               "correct": "B"
-            }
-          ]
-        },
-        {
-          "id": "eng-p2",
-          "title": "Passage 2",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
-          "startPage": 4,
-          "questions": [
+            },
             {
               "number": 18,
               "stem": "",
@@ -250,9 +244,17 @@
                 "J": "get the full scoop."
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "imageSrc": "/tests/G20/english/page_4.jpg",
               "correct": "F"
-            },
+            }
+          ]
+        },
+        {
+          "id": "eng-p2",
+          "title": "Passage 2",
+          "imageSrc": "/tests/G20/english/page_4.jpg",
+          "startPage": 4,
+          "questions": [
             {
               "number": 19,
               "stem": "",
@@ -263,7 +265,7 @@
                 "D": "changed, yet"
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "imageSrc": "/tests/G20/english/page_4.jpg",
               "correct": "C"
             },
             {
@@ -273,10 +275,10 @@
                 "F": "NO CHANGE",
                 "G": "noise, reaching the airport\u2019s neighbors",
                 "H": "noise reaching the airport\u2019s neighbors,",
-                "J": "noise reaching the airport\u2019s neighbors 4 GO ON TO THE NEXT PAGE. rackab.com"
+                "J": "noise reaching the airport\u2019s neighbors 4"
               },
               "pageIndex": 4,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "imageSrc": "/tests/G20/english/page_4.jpg",
               "correct": "J"
             },
             {
@@ -289,7 +291,7 @@
                 "D": "understood how disruptive the airport\u2019s noise could be to nearby residents."
               },
               "pageIndex": 5,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
+              "imageSrc": "/tests/G20/english/page_5.jpg",
               "correct": "A"
             },
             {
@@ -302,7 +304,7 @@
                 "J": "artist Paul de Kort"
               },
               "pageIndex": 5,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
+              "imageSrc": "/tests/G20/english/page_5.jpg",
               "correct": "J"
             },
             {
@@ -315,7 +317,7 @@
                 "D": "consist"
               },
               "pageIndex": 5,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
+              "imageSrc": "/tests/G20/english/page_5.jpg",
               "correct": "C"
             },
             {
@@ -328,7 +330,7 @@
                 "J": "standing ten feet tall and run"
               },
               "pageIndex": 5,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
+              "imageSrc": "/tests/G20/english/page_5.jpg",
               "correct": "F"
             },
             {
@@ -341,7 +343,7 @@
                 "D": "a lively visual dynamism."
               },
               "pageIndex": 5,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
+              "imageSrc": "/tests/G20/english/page_5.jpg",
               "correct": "A"
             },
             {
@@ -354,8 +356,8 @@
                 "J": "ridges make"
               },
               "pageIndex": 5,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_5.jpg",
+              "correct": "J"
             },
             {
               "number": 27,
@@ -364,11 +366,11 @@
                 "A": "NO CHANGE",
                 "B": "Most importantly,",
                 "C": "To demonstrate,",
-                "D": "Specifically, 5 GO ON TO THE NEXT PAGE. rackab.com"
+                "D": "Specifically, 5"
               },
               "pageIndex": 5,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_5.jpg",
+              "correct": "B"
             },
             {
               "number": 28,
@@ -380,8 +382,8 @@
                 "J": "airplane noise,"
               },
               "pageIndex": 6,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_6.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_6.jpg",
+              "correct": "J"
             },
             {
               "number": 29,
@@ -390,11 +392,11 @@
                 "A": "NO CHANGE",
                 "B": "solution, as a neighborhood-friendly way,",
                 "C": "solution; as a neighborhood-friendly way",
-                "D": "solution, as a neighborhood-friendly way Question 30 asks about the preceding passage as a whole."
+                "D": "solution, as a neighborhood-friendly way"
               },
               "pageIndex": 6,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_6.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_6.jpg",
+              "correct": "A"
             },
             {
               "number": 30,
@@ -406,8 +408,8 @@
                 "J": "Point D in Paragraph 5."
               },
               "pageIndex": 6,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_6.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_6.jpg",
+              "correct": "F"
             },
             {
               "number": 31,
@@ -419,8 +421,8 @@
                 "D": "The"
               },
               "pageIndex": 6,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_6.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_6.jpg",
+              "correct": "D"
             },
             {
               "number": 32,
@@ -429,24 +431,24 @@
                 "F": "NO CHANGE",
                 "G": "It is when the",
                 "H": "That is, the",
-                "J": "When the 6 GO ON TO THE NEXT PAGE. rackab.com"
+                "J": "When the 6"
               },
               "pageIndex": 6,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_6.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_6.jpg",
+              "correct": "J"
             },
             {
               "number": 33,
               "stem": "",
               "choices": {
-                "A": "NO CHANGE",
-                "B": "C. metallidurans also received an assessment of its hardiness performed by Kashefi and Brown.",
+                "A": "NO CHANGE B.",
+                "B": "",
                 "C": "the bacterium also had an assessment of its hardi- ness done by Kashefi and Brown.",
                 "D": "the bacterium also got its hardiness assessed by Kashefi and Brown."
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_7.jpg",
+              "correct": "A"
             },
             {
               "number": 34,
@@ -458,17 +460,9 @@
                 "J": "extremophile"
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
-              "correct": ""
-            }
-          ]
-        },
-        {
-          "id": "eng-p3",
-          "title": "Passage 3",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
-          "startPage": 7,
-          "questions": [
+              "imageSrc": "/tests/G20/english/page_7.jpg",
+              "correct": "H"
+            },
             {
               "number": 35,
               "stem": "",
@@ -479,8 +473,8 @@
                 "D": "exiled"
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_7.jpg",
+              "correct": "B"
             },
             {
               "number": 36,
@@ -492,9 +486,17 @@
                 "J": "eats were in the house, s ctexam.net"
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
-              "correct": ""
-            },
+              "imageSrc": "/tests/G20/english/page_7.jpg",
+              "correct": "G"
+            }
+          ]
+        },
+        {
+          "id": "eng-p3",
+          "title": "Passage 3",
+          "imageSrc": "/tests/G20/english/page_7.jpg",
+          "startPage": 7,
+          "questions": [
             {
               "number": 37,
               "stem": "",
@@ -505,8 +507,8 @@
                 "D": "for producing gold isn\u2019t cost-affective\u2014"
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_7.jpg",
+              "correct": "C"
             },
             {
               "number": 38,
@@ -518,8 +520,8 @@
                 "J": "after the word granules (and before the period)."
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_7.jpg",
+              "correct": "J"
             },
             {
               "number": 39,
@@ -528,52 +530,90 @@
                 "A": "NO CHANGE",
                 "B": "Brown thinking",
                 "C": "Brown to think",
-                "D": "Brown think 7 GO ON TO THE NEXT PAGE. rackab.com"
+                "D": "Brown think 7"
               },
               "pageIndex": 7,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_7.jpg",
+              "correct": "D"
             },
             {
               "number": 40,
               "stem": "",
               "choices": {
                 "F": "NO CHANGE",
-                "G": "For instance, s, H. Likewise,",
+                "G": "For instance, s,",
+                "H": "Likewise,",
                 "J": "In effect,"
               },
               "pageIndex": 8,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_8.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_8.jpg",
+              "correct": "G"
             },
             {
               "number": 41,
               "stem": "If the writer were to delete the underlined portion (adjusting the punctuation as needed), the essay would primarily lose:",
               "choices": {
                 "A": "a suggestion that toxins are not as damaging to waterways as was once believed.",
-                "B": "an indication of how C. metallidurans could reduce pollution levels.",
-                "C": "a suggestion about how C. metallidurans could be genetically engineered in laboratories.",
-                "D": "an indication that C. metallidurans can metabolize arsenic and uranium more efficiently than it can metabolize gold chloride. s 42. F. NO CHANGE",
+                "B": "an indication of",
+                "C": "metallidurans can metabolize arsenic and uranium more efficiently than it can metabolize gold chloride. s",
+                "D": "an indication"
+              },
+              "pageIndex": 8,
+              "imageSrc": "/tests/G20/english/page_8.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 42,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
                 "G": "resource, and such",
                 "H": "resource; such",
                 "J": "resource. Such"
               },
               "pageIndex": 8,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_8.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_8.jpg",
+              "correct": "F"
             },
             {
               "number": 43,
               "stem": "",
               "choices": {
-                "A": "Yes, because it suggests potential applications of st Kashefi and Brown\u2019s process for creating gold.",
-                "B": "Yes, because it identifies key developments in alchemy\u2019s history that led to Kashefi and Brown\u2019s process for creating gold.",
-                "C": "No, because it focuses on how C. metallidurans created gold in Kashefi and Brown\u2019s experiment and potential practical uses of the bacterium.",
-                "D": "No, because it mainly details C. metallidurans\u2019s evolution and why the bacterium can metabolize various toxins. 8 GO ON TO THE NEXT PAGE. rackab.com"
+                "A": "NO CHANGE",
+                "B": "they\u2019re",
+                "C": "their",
+                "D": "it\u2019s ut the preceding passage as a whole. ctexam.net n-"
               },
               "pageIndex": 8,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_8.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_8.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 44,
+              "stem": "",
+              "choices": {
+                "F": "",
+                "G": "",
+                "H": "",
+                "J": ""
+              },
+              "pageIndex": 8,
+              "imageSrc": "/tests/G20/english/page_8.jpg",
+              "correct": "F",
+              "synthetic": true
+            },
+            {
+              "number": 45,
+              "stem": "Suppose the writer\u2019s primary purpose had been to pro- vide a historical overview of a particular discipline of science. Would this essay accomplish that goal?",
+              "choices": {
+                "A": "Yes, because it suggests potential applications of st Kashefi and Brown\u2019s process for creating gold.",
+                "B": "Yes, because it identifies key developments in alchemy\u2019s history that led to Kashefi and Brown\u2019s process for creating gold.",
+                "C": "metallidurans\u2019s evolution and why the bacterium can metabolize various toxins. 8",
+                "D": "No, because it mainly"
+              },
+              "pageIndex": 8,
+              "imageSrc": "/tests/G20/english/page_8.jpg",
+              "correct": "C"
             },
             {
               "number": 46,
@@ -585,8 +625,8 @@
                 "J": "Burnley a town in Lancashire, England,"
               },
               "pageIndex": 9,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_9.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_9.jpg",
+              "correct": "G"
             },
             {
               "number": 47,
@@ -598,8 +638,8 @@
                 "D": "can be heard."
               },
               "pageIndex": 9,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_9.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_9.jpg",
+              "correct": "B"
             },
             {
               "number": 48,
@@ -611,8 +651,8 @@
                 "J": "an indication of the difficulty involved in crafting ctexathme sculp.turne. et"
               },
               "pageIndex": 9,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_9.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_9.jpg",
+              "correct": "H"
             },
             {
               "number": 49,
@@ -624,8 +664,8 @@
                 "D": "Named for the river Burn,"
               },
               "pageIndex": 9,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_9.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_9.jpg",
+              "correct": "A"
             },
             {
               "number": 50,
@@ -634,11 +674,11 @@
                 "F": "NO CHANGE",
                 "G": "themself",
                 "H": "itself",
-                "J": "DELETE the underlined portion. 9 GO ON TO THE NEXT PAGE. rackab.com"
+                "J": "DELETE the underlined portion. 9"
               },
               "pageIndex": 9,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_9.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_9.jpg",
+              "correct": "H"
             },
             {
               "number": 51,
@@ -650,8 +690,8 @@
                 "D": "No, because it fails to describe the wind conditions elsewhere in the region."
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_10.jpg",
+              "correct": "C"
             },
             {
               "number": 52,
@@ -663,8 +703,8 @@
                 "J": "lump"
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_10.jpg",
+              "correct": "G"
             },
             {
               "number": 53,
@@ -676,8 +716,8 @@
                 "D": "DELETE the underlined portion. ctexam.net"
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_10.jpg",
+              "correct": "A"
             },
             {
               "number": 54,
@@ -689,17 +729,9 @@
                 "J": "DELETE the underlined portion."
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
-              "correct": ""
-            }
-          ]
-        },
-        {
-          "id": "eng-p4",
-          "title": "Passage 4",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
-          "startPage": 10,
-          "questions": [
+              "imageSrc": "/tests/G20/english/page_10.jpg",
+              "correct": "J"
+            },
             {
               "number": 55,
               "stem": "",
@@ -710,9 +742,17 @@
                 "D": "of produced the same musical effect."
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
-              "correct": ""
-            },
+              "imageSrc": "/tests/G20/english/page_10.jpg",
+              "correct": "B"
+            }
+          ]
+        },
+        {
+          "id": "eng-p4",
+          "title": "Passage 4",
+          "imageSrc": "/tests/G20/english/page_10.jpg",
+          "startPage": 10,
+          "questions": [
             {
               "number": 56,
               "stem": "",
@@ -723,8 +763,8 @@
                 "J": "axis and layers"
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_10.jpg",
+              "correct": "H"
             },
             {
               "number": 57,
@@ -733,11 +773,11 @@
                 "A": "NO CHANGE",
                 "B": "creating the sculpture, only 25 actually generating",
                 "C": "create the sculpture, only 25 actually generating",
-                "D": "create the sculpture, only 25 actually generate 10 GO ON TO THE NEXT PAGE. rackab.com"
+                "D": "create the sculpture, only 25 actually generate 10"
               },
               "pageIndex": 10,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_10.jpg",
+              "correct": "D"
             },
             {
               "number": 58,
@@ -749,8 +789,8 @@
                 "J": "something"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_11.jpg",
+              "correct": "H"
             },
             {
               "number": 59,
@@ -759,11 +799,11 @@
                 "A": "NO CHANGE",
                 "B": "vision, the sculpture\u2019s eerie,",
                 "C": "vision, the sculpture\u2019s eerie",
-                "D": "vision the sculpture\u2019s eerie Question 60 asks about the preceding passage as a whole."
+                "D": "vision the sculpture\u2019s eerie"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_11.jpg",
+              "correct": "B"
             },
             {
               "number": 60,
@@ -775,8 +815,8 @@
                 "J": "No, because it instead focuses on Burnley\u2019s improving economy. ctexam.net"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_11.jpg",
+              "correct": "G"
             },
             {
               "number": 61,
@@ -788,8 +828,8 @@
                 "D": "punctuate"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_11.jpg",
+              "correct": "D"
             },
             {
               "number": 62,
@@ -801,8 +841,8 @@
                 "J": "It is at once cozy,"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_11.jpg",
+              "correct": "G"
             },
             {
               "number": 63,
@@ -814,8 +854,8 @@
                 "D": "slowly, pausing to admire"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_11.jpg",
+              "correct": "D"
             },
             {
               "number": 64,
@@ -824,11 +864,11 @@
                 "F": "NO CHANGE",
                 "G": "titles, such as \u201cPoes\u00eda\u201d (Poetry),",
                 "H": "titles such as, \u201cPoes\u00eda\u201d (Poetry),",
-                "J": "titles such as, \u201cPoes\u00eda\u201d (Poetry) 11 GO ON TO THE NEXT PAGE. rackab.com"
+                "J": "titles such as, \u201cPoes\u00eda\u201d (Poetry) 11"
               },
               "pageIndex": 11,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_11.jpg",
+              "correct": "F"
             },
             {
               "number": 65,
@@ -840,20 +880,21 @@
                 "D": "a busy street in Mexico City,"
               },
               "pageIndex": 12,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_12.jpg",
+              "correct": "C"
             },
             {
               "number": 66,
               "stem": "",
               "choices": {
                 "F": "NO CHANGE",
-                "G": "who emigrated from e H. who immigrated of",
+                "G": "who emigrated from e",
+                "H": "who immigrated of",
                 "J": "whom emigrated of"
               },
               "pageIndex": 12,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_12.jpg",
+              "correct": "G"
             },
             {
               "number": 67,
@@ -865,8 +906,8 @@
                 "D": "anywhere."
               },
               "pageIndex": 12,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_12.jpg",
+              "correct": "D"
             },
             {
               "number": 68,
@@ -874,11 +915,12 @@
               "choices": {
                 "F": "NO CHANGE",
                 "G": "(in the range of 20,000 as an estimated total)",
-                "H": "(around 20,000 total or thereabouts) ctexJa. (imn ra.ngne earountd the of 20,000)"
+                "H": "(around 20,000 total or thereabouts) ctexJa. (imn ra.ngne earountd the of 20,000)",
+                "J": ""
               },
               "pageIndex": 12,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_12.jpg",
+              "correct": "F"
             },
             {
               "number": 69,
@@ -890,8 +932,8 @@
                 "D": "preserving the lineage and also"
               },
               "pageIndex": 12,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_12.jpg",
+              "correct": "A"
             },
             {
               "number": 70,
@@ -903,8 +945,8 @@
                 "J": "Each sticker bears"
               },
               "pageIndex": 12,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_12.jpg",
+              "correct": "J"
             },
             {
               "number": 71,
@@ -913,20 +955,12 @@
                 "A": "where it is now.",
                 "B": "after the word that.",
                 "C": "after the word they.",
-                "D": "after the word leave. 12 GO ON TO THE NEXT PAGE. rackab.com"
+                "D": "after the word leave. 12"
               },
               "pageIndex": 12,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
-              "correct": ""
-            }
-          ]
-        },
-        {
-          "id": "eng-p5",
-          "title": "Passage 5",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_13.jpg",
-          "startPage": 13,
-          "questions": [
+              "imageSrc": "/tests/G20/english/page_12.jpg",
+              "correct": "A"
+            },
             {
               "number": 72,
               "stem": "",
@@ -937,21 +971,56 @@
                 "J": "Arriba"
               },
               "pageIndex": 13,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_13.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_13.jpg",
+              "correct": "H"
             },
             {
               "number": 73,
               "stem": "Which choice most effectively concludes the essay by demonstrating that Librer\u00eda Donceles is successful in connecting visitors to their roots?",
               "choices": {
+                "A": "NO CHANGE",
+                "B": "\u201cIt reminds me how much I love books.\u201d",
+                "C": "\u201cIt\u2019s charming and unexpected.\u201d",
+                "D": "\u201cIt feels like home.\u201d ut the preceding passage as a whole. he"
+              },
+              "pageIndex": 13,
+              "imageSrc": "/tests/G20/english/page_13.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 74,
+              "stem": "",
+              "choices": {
+                "F": "",
+                "G": "",
+                "H": "",
+                "J": ""
+              },
+              "pageIndex": 13,
+              "imageSrc": "/tests/G20/english/page_13.jpg",
+              "correct": "J",
+              "synthetic": true
+            }
+          ]
+        },
+        {
+          "id": "eng-p5",
+          "title": "Passage 5",
+          "imageSrc": "/tests/G20/english/page_13.jpg",
+          "startPage": 13,
+          "questions": [
+            {
+              "number": 75,
+              "stem": "Suppose the writer\u2019s primary purpose had been to describe how the direction of Helguera\u2019s projects has changed over the years. Would this essay accomplish that purpose?",
+              "choices": {
                 "A": "Yes, because it demonstrates the overall signifi- ctexacamnce of .Henlgueera\u2019s Ltibrer\u00eda Donceles project.",
                 "B": "Yes, because it describes projects that Helguera completed in both Mexico City and New York City.",
                 "C": "No, because it instead focuses on one project Helguera created during his career.",
-                "D": "No, because it instead explores Helguera\u2019s cultural background. END OF TEST 1 DO NOT TURN THE PAGE UNTIL TOLD TO DO SO. 13 rackab.com"
+                "D": "No, because it instead explores Helguera\u2019s cultural background. rackab.com"
               },
               "pageIndex": 13,
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/english/page_13.jpg",
-              "correct": ""
+              "imageSrc": "/tests/G20/english/page_13.jpg",
+              "correct": "C"
             }
           ]
         }
@@ -973,7 +1042,7 @@
             "E": "\u22124a3 \u2212 48"
           },
           "pageIndex": 14,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_14.jpg",
+          "imageSrc": null,
           "correct": "C"
         },
         {
@@ -984,36 +1053,29 @@
             "G": "$ 080.20",
             "H": "$ 082.00",
             "J": "$ 096.00",
-            "K": "$100.00 31 4 2"
+            "K": "$100.00 31 4"
           },
           "pageIndex": 14,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_14.jpg",
+          "imageSrc": null,
           "correct": "J"
         },
         {
           "number": 3,
-          "stem": "Which of the following matrices is equal to 5 ? 3 4 35 4 2 A. 3 4 35 2 4 B. 3 20 3 104 1",
+          "stem": "Which of the following matrices is equal to 5 ? 3 4 35 4 A. 3 4 35 2 4 B. 3 20 3 104",
           "choices": {
-            "C": "15 4 36 4 7 D. 8 9 3 4 5 10",
-            "E": "15 20"
+            "C": "15 36 4 D. 8 9 3 4 5 10",
+            "E": "15"
           },
           "pageIndex": 14,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_14.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
           "number": 4,
-          "stem": "",
-          "choices": {
-            "A": "retail sales associate\u2019s daily commission during 1 week was $30 on Monday and Tuesday and $60 on Wednesday, Thursday, and Friday. What was the associate\u2019s average daily commission for these 5 days?",
-            "F": "$45",
-            "G": "$46",
-            "H": "$48",
-            "J": "$49",
-            "K": "$50 14 ACT-G20 www.crackab.com 2 DO"
-          },
+          "stem": "The word a DO",
+          "choices": {},
           "pageIndex": 14,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_14.jpg",
+          "imageSrc": null,
           "correct": "H"
         },
         {
@@ -1025,7 +1087,7 @@
             "E": "4"
           },
           "pageIndex": 15,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_15.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
@@ -1039,12 +1101,12 @@
             "K": "430 _9_"
           },
           "pageIndex": 15,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_15.jpg",
+          "imageSrc": null,
           "correct": "H"
         },
         {
           "number": 7,
-          "stem": "The function f(c) = c + 32 gives the temperature, 5 f(c) degrees Fahrenheit, that corresponds to c degrees Celsius. To the nearest 0.1\u00b0F, what Fahrenheit temperature corresponds to 13.0\u00b0C ?",
+          "stem": "The function f(c) = c + 32 gives the temperature, f(c) degrees Fahrenheit, that corresponds to c degrees Celsius. To the nearest 0.1\u00b0F, what Fahrenheit temperature corresponds to 13.0\u00b0C ?",
           "choices": {
             "A": "33.8\u00b0F www.actexam",
             "B": "45.0\u00b0F",
@@ -1053,8 +1115,16 @@
             "E": "81.0\u00b0F _1_"
           },
           "pageIndex": 15,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_15.jpg",
+          "imageSrc": null,
           "correct": "D"
+        },
+        {
+          "number": 8,
+          "stem": "What number, when added to , gives a sum that is _1_ _1_ equal to the sum of and ? 4 6 _1__ F. _1_ G. _1_ H. _1_ J. _3_ K. \u2194 ___",
+          "choices": {},
+          "pageIndex": 15,
+          "imageSrc": null,
+          "correct": "F"
         },
         {
           "number": 9,
@@ -1064,15 +1134,15 @@
             "B": "16",
             "C": "20",
             "D": "23",
-            "E": "26 15 ACT-G20 www.crackab.com 2 DO"
+            "E": "26 www.crackab.com DO"
           },
           "pageIndex": 15,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_15.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
           "number": 10,
-          "stem": "The graph below shows the average daily consumption, in thousands of barrels, of oil for Uzbekistan ,for the years 2003 through 2013. noitpmusnoc 160 )slerrab 140 120 fo 100 yliad sdnasuoht( 80 60 egareva 40 20 0 03 04 05 06 07 08 09 10 11 12 13 year From what year to the following year did the average daily consumption decrease the most?",
+          "stem": "The graph below shows the average daily consumption, in thousands of barrels, of oil for Uzbekistan ,for the years 2003 through 2013. noitpmusnoc )slerrab fo 100 yliad sdnasuoht( egareva 03 04 05 06 07 08 09 10 11 12 13 year From what year to the following year did the average daily consumption decrease the most?",
           "choices": {
             "F": "2003 to 2004",
             "G": "2004 to 2005",
@@ -1081,7 +1151,7 @@
             "K": "2012 to 2013"
           },
           "pageIndex": 16,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_16.jpg",
+          "imageSrc": null,
           "correct": "G"
         },
         {
@@ -1095,7 +1165,7 @@
             "E": "$1,947.50"
           },
           "pageIndex": 16,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_16.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
@@ -1109,7 +1179,7 @@
             "K": "354"
           },
           "pageIndex": 16,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_16.jpg",
+          "imageSrc": null,
           "correct": "F"
         },
         {
@@ -1120,24 +1190,24 @@
             "B": "08",
             "C": "10",
             "D": "14",
-            "E": "16 16 ACT-G20 www.crackab.com 2 DO"
+            "E": "16 www.crackab.com DO"
           },
           "pageIndex": 16,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_16.jpg",
+          "imageSrc": null,
           "correct": "B"
         },
         {
           "number": 14,
-          "stem": "Rafael has made a scale model of City Park, shown below, i_n_ _w hich 3 lengths are given in inches. On the model, BC represents_ _a_n actual length of 90 feet in the park. On the model, DE represents what actual length, in feet, in the park? A 3 G 4 C B",
+          "stem": "Rafael has made a scale model of City Park, shown below, i_n_ _w hich 3 lengths are given in inches. On the model, BC represents_ _a_n actual length of 90 feet in the park. On the model, DE represents what actual length, in feet, in the park? A G 4 C B",
           "choices": {
             "F": "067.5",
             "G": "072 F",
             "H": "112.5 E",
-            "J": "120 5",
+            "J": "120",
             "K": "150 D ___"
           },
           "pageIndex": 17,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_17.jpg",
+          "imageSrc": null,
           "correct": "H"
         },
         {
@@ -1151,7 +1221,7 @@
             "E": "115\u00b0 www.actexam"
           },
           "pageIndex": 17,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_17.jpg",
+          "imageSrc": null,
           "correct": "C"
         },
         {
@@ -1165,7 +1235,7 @@
             "K": "zero."
           },
           "pageIndex": 17,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_17.jpg",
+          "imageSrc": null,
           "correct": "G"
         },
         {
@@ -1179,7 +1249,7 @@
             "E": "10 _a_2a__4"
           },
           "pageIndex": 17,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_17.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
@@ -1188,24 +1258,24 @@
           "choices": {
             "F": "0",
             "G": "1",
-            "H": "a a2 J. a12 K. 17 ACT-G20 www.crackab.com 2 DO"
+            "H": "a a2 J. a12 K. www.crackab.com DO"
           },
           "pageIndex": 17,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_17.jpg",
+          "imageSrc": null,
           "correct": "G"
         },
         {
           "number": 19,
           "stem": "",
           "choices": {
-            "A": "cos 12 \u221211_8__ 2",
-            "B": "csc 12 \u221211_8__ 2 12 ft",
-            "C": "sec 8 ft 12 \u22121 1_8__ 2 ?",
-            "D": "sin 12 \u221211_8__ 2",
-            "E": "tan 12"
+            "A": "cos \u221211_8__ 2",
+            "B": "csc \u221211_8__ 2 12 ft",
+            "C": "sec 8 ft \u22121 1_8__ 2 ?",
+            "D": "sin \u221211_8__ 2",
+            "E": "tan"
           },
           "pageIndex": 18,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_18.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
@@ -1219,7 +1289,7 @@
             "K": "45 www.actexam = + = x2 \u2212"
           },
           "pageIndex": 18,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_18.jpg",
+          "imageSrc": null,
           "correct": "K"
         },
         {
@@ -1235,8 +1305,23 @@
             "K": "14 24i x2 \u2212 \u2212 ="
           },
           "pageIndex": 18,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_18.jpg",
+          "imageSrc": null,
           "correct": "D"
+        },
+        {
+          "number": 22,
+          "stem": "",
+          "choices": {
+            "F": "",
+            "G": "",
+            "H": "",
+            "J": "",
+            "K": ""
+          },
+          "pageIndex": 18,
+          "imageSrc": null,
+          "correct": "J",
+          "synthetic": true
         },
         {
           "number": 23,
@@ -1245,47 +1330,58 @@
             "B": "\u22121",
             "C": "01",
             "D": "05",
-            "E": "06 18 ACT-G20 www.crackab.com 2 DO"
+            "E": "06 www.crackab.com DO"
           },
           "pageIndex": 18,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_18.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
           "number": 24,
           "stem": "Kate is going to buy meat (beef and chicken) for a party. Beef costs $3.00 per pound, chicken costs $2.00 per pound, and Kate has a budget of $90.00 to spend on meat for the party. The shaded region in one of the following graphs represents all and only the possible combinations of beef and chicken Kate can buy while staying within her budget. Which one? (Note: Do not consider tax.) y y",
           "choices": {
-            "F": ")sdnuop( J. )sdnuop( 80 80 60 60 nekcihc 40 nekcihc 40 20 20 0 0 0 20406080 x 0 20406080 x beef (pounds) beef (pounds)",
-            "G": "y K. y )sdnuop( )sdnuop( 80 80 60 60 nekcihc 40 nekcihc 40 20 20 0 0 0 20406080 x 0 20406080 x beef (pounds) beef (pounds) y",
-            "H": ")sdnuop( www.actexam 80 60 nekcihc 40 20 0 0 20406080 x beef (pounds)"
+            "F": ")sdnuop(",
+            "J": ")sdnuop( 80 80 60 60 nekcihc 40 nekcihc 40 20 20 0 0 0 20406080 x 0 20406080 x beef (pounds) beef (pounds) G.",
+            "K": "y )sdnuop( )sdnuop( 80 80 60 60 nekcihc 40 nekcihc 40 20 20 0 0 0 20406080 x 0 20406080 x beef (pounds) beef (pounds) y",
+            "H": ")sdnuop( www.actexam nekcihc 40 0 20406080 x beef (pounds)"
           },
           "pageIndex": 19,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_19.jpg",
+          "imageSrc": null,
           "correct": "G"
         },
         {
           "number": 25,
-          "stem": "Each student in a particular classroom was given a string that was 72 inches long. Each student cut his or her string into pieces of equal length. Which of the following CANNOT be the length, in inches, of any student\u2019s pieces? _1__ A. 16 _1_ B. 2",
+          "stem": "Each student in a particular classroom was given a string that was 72 inches long. Each student cut his or her string into pieces of equal length. Which of the following CANNOT be the length, in inches, of any student\u2019s pieces? _1__ A. _1_ B.",
           "choices": {
             "C": "01",
             "D": "16",
-            "E": "36 19 ACT-G20 www.crackab.com 2 =\u22129(x +1)2 +81 DO"
+            "E": "36 www.crackab.com =\u22129(x +1)2 +81 DO"
           },
           "pageIndex": 19,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_19.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
           "number": 26,
-          "stem": "The graph of the function f(x) has its vertex at point (\u22121,81) and intersects the x-axis at (\u22124,0) points and (a,0). What is the value of a ? \u2212_8_1_ F. 5 _5__ G. 81",
+          "stem": "The graph of the function f(x) has its vertex at point (\u22121,81) and intersects the x-axis at (\u22124,0) points and (a,0). What is the value of a ? \u2212_8_1_ F. _5__ G.",
           "choices": {
             "H": "2",
             "J": "3",
             "K": "81 _1_ _1_"
           },
           "pageIndex": 20,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_20.jpg",
+          "imageSrc": null,
           "correct": "H"
+        },
+        {
+          "number": 27,
+          "stem": "What fraction of 4 is 2 ? 4 8 0_1_ A. 0_1_ B.",
+          "choices": {
+            "C": "2 2_1_ D. 2_1_ E."
+          },
+          "pageIndex": 20,
+          "imageSrc": null,
+          "correct": "B"
         },
         {
           "number": 28,
@@ -1298,7 +1394,7 @@
             "K": "59"
           },
           "pageIndex": 20,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_20.jpg",
+          "imageSrc": null,
           "correct": "H"
         },
         {
@@ -1312,8 +1408,26 @@
             "E": "2 hours 25 minutes"
           },
           "pageIndex": 20,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_20.jpg",
+          "imageSrc": null,
           "correct": "C"
+        },
+        {
+          "number": 30,
+          "stem": "Let \u03b8 be an acute angle of a right triangle. Given _a_ _a_ sin ,\u03b8= and tan ,\u03b8= , cos ,\u03b8=? b c",
+          "choices": {
+            "F": "1 _b_ G. a _b_ H. c _c_ J. a _c_ K. b www.crackab.com"
+          },
+          "pageIndex": 20,
+          "imageSrc": null,
+          "correct": "K"
+        },
+        {
+          "number": 31,
+          "stem": "The number line shown below is marked in equal DO intervals. Two fractions are indicated on the number line. One of the following fractions corresponds to the point marked P. Which one? P _1_ _5_ 4 4 _6_ A. _7_ B. _8_ C. _4_ D. _9_ E.",
+          "choices": {},
+          "pageIndex": 21,
+          "imageSrc": null,
+          "correct": "E"
         },
         {
           "number": 32,
@@ -1326,7 +1440,7 @@
             "K": "216\u00b0"
           },
           "pageIndex": 21,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_21.jpg",
+          "imageSrc": null,
           "correct": "F"
         },
         {
@@ -1335,10 +1449,10 @@
           "choices": {
             "A": "f(x) = 15 D. x j(x) 0\u22126 0 04 05 14 10",
             "B": "g(x) = 8x + 7",
-            "E": "k(x) (0,5) C. x h(x) 00 06 03 00 (\u22121,1) 11 \u221216 x O 21 ACT-G20 www.crackab.com 2 nPQR DO"
+            "E": "k(x) (0,5) C. x h(x) 00 06 03 00 (\u22121,1) 11 \u221216 x O www.crackab.com nPQR DO"
           },
           "pageIndex": 21,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_21.jpg",
+          "imageSrc": null,
           "correct": "B"
         },
         {
@@ -1352,12 +1466,12 @@
             "K": "48 O _5_"
           },
           "pageIndex": 22,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_22.jpg",
+          "imageSrc": null,
           "correct": "G"
         },
         {
           "number": 35,
-          "stem": "The function y = f(x) = is graphed in the standard x (x,y) coordinate plane below. y y= _5_ 20 x 10 \u22124 \u22122 O 2 4 x \u221210 \u221220 www.actexam One of the following statements is FALSE. Which one?",
+          "stem": "The function y = f(x) = is graphed in the standard x (x,y) coordinate plane below. y y= _5_ x \u22124 \u22122 O 2 4 x \u221210 \u221220 www.actexam One of the following statements is FALSE. Which one?",
           "choices": {
             "A": "f(x) decreases for all x > 0. <",
             "B": "f(x) decreases for all x 0.",
@@ -1366,21 +1480,21 @@
             "E": "The graph of f(x) has an intercept at (0,0)."
           },
           "pageIndex": 22,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_22.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
           "number": 36,
-          "stem": "All students in a high school responded either \u201cYes\u201d or \u201cNo\u201d to the question \u201cAre you studying enough?\u201d The table below gives the number of students in each grade who responded. Two numbers in the table are represented by x and y. 9th 10th 11th 12th Yes 85 92 79 102 No 65 x y 056 The probability that a randomly selected student from this high school is in 11th grade given that the student _7_5__ responded \u201cNo\u201d is . One of the following is the 267 value of x. Which one?",
+          "stem": "All students in a high school responded either \u201cYes\u201d or \u201cNo\u201d to the question \u201cAre you studying enough?\u201d The table below gives the number of students in each grade who responded. Two numbers in the table are represented by x and y. 9th 10th 11th 12th Yes 85 92 79 102 No 65 x y 056 The probability that a randomly selected student from this high school is in 11th grade given that the student _7_5__ responded \u201cNo\u201d is . One of the following is the value of x. Which one?",
           "choices": {
             "F": "071",
             "G": "075",
             "H": "100",
             "J": "113",
-            "K": "146 ACT-G20 www.crackab.com 2 DO Use the following information to answer questions 37\u201339. Josie has decided to make a new lampshade for her bedroom lamp. She will order materials from a website that offers 4 different print designs and 4 different color schemes that can be used with each design. The top and bottom edges of Josie\u2019s current lampshade are parallel circles with diameters of length 6 inches and 8 inches, as pictured below. The centers of the 2 circles are directly above and below one another. 6 8"
+            "K": "146 www.crackab.com DO Use the following information to answer questions 37\u201339. Josie has decided to make a new lampshade for her bedroom lamp. She will order materials from a website that offers 4 different print designs and 4 different color schemes that can be used with each design. The top and bottom edges of Josie\u2019s current lampshade are parallel circles with diameters of length 6 inches and 8 inches, as pictured below. The centers of the 2 circles are directly above and below one another."
           },
           "pageIndex": 22,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_22.jpg",
+          "imageSrc": null,
           "correct": "F"
         },
         {
@@ -1394,7 +1508,7 @@
             "E": "16:9 www.actexam"
           },
           "pageIndex": 23,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_23.jpg",
+          "imageSrc": null,
           "correct": "C"
         },
         {
@@ -1408,7 +1522,7 @@
             "K": "48"
           },
           "pageIndex": 23,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_23.jpg",
+          "imageSrc": null,
           "correct": "K"
         },
         {
@@ -1422,7 +1536,7 @@
             "E": "Isosceles trapezoid"
           },
           "pageIndex": 23,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_23.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
@@ -1433,10 +1547,10 @@
             "G": "09",
             "H": "11",
             "J": "15",
-            "K": "17 23 ACT-G20 www.crackab.com 2 DO"
+            "K": "17 www.crackab.com DO"
           },
           "pageIndex": 23,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_23.jpg",
+          "imageSrc": null,
           "correct": "G"
         },
         {
@@ -1450,22 +1564,22 @@
             "E": "ab \u2212 cd + ef"
           },
           "pageIndex": 24,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_24.jpg",
+          "imageSrc": null,
           "correct": "C"
         },
         {
           "number": 42,
-          "stem": "Rectangular pyramids A (left) and B (right) are shown below with dimensions given in feet. 12 _1_2_ x www.actexam x x _1_2_ 12 x",
+          "stem": "Rectangular pyramids A (left) and B (right) are shown below with dimensions given in feet. _1_2_ x www.actexam x x _1_2_ 12 x",
           "choices": {
             "A": "B Let a and b be the volumes of A and B, respectively. Which of the following equations is true? = _1_",
-            "F": "a b 3 = _2_",
-            "G": "a b 3 =",
+            "F": "a b = _2_",
+            "G": "a b =",
             "H": "a b = _3_",
-            "J": "a b 2 =",
+            "J": "a b =",
             "K": "a 3b"
           },
           "pageIndex": 24,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_24.jpg",
+          "imageSrc": null,
           "correct": "H"
         },
         {
@@ -1476,10 +1590,10 @@
             "B": "100",
             "C": "125",
             "D": "139",
-            "E": "224 24 ACT-G20 www.crackab.com 2 DO"
+            "E": "224 www.crackab.com DO"
           },
           "pageIndex": 24,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_24.jpg",
+          "imageSrc": null,
           "correct": "C"
         },
         {
@@ -1493,18 +1607,18 @@
             "K": "(x 1)(x 2) _2_ _2_ + _a_ ___b_ \u2260 \u2260"
           },
           "pageIndex": 25,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_25.jpg",
+          "imageSrc": null,
           "correct": "K"
         },
         {
           "number": 45,
-          "stem": "For all a 0 and b 0, the expression simplifies _3__ ab to: _4_ A. 3 +",
+          "stem": "For all a 0 and b 0, the expression simplifies _3__ ab to: _4_ A. +",
           "choices": {
             "B": "4(a b) +",
-            "C": "6(a b) _2_(a_ + b__) _ _ D. 3 __4_a_b_ __ E. 3(a + b) giwven bewlow, twhe firs.t anumbcer its exam"
+            "C": "6(a b) _2_(a_ + b__) _ _ D. __4_a_b_ __ E. 3(a + b) giwven bewlow, twhe firs.t anumbcer its exam"
           },
           "pageIndex": 25,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_25.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
@@ -1518,23 +1632,31 @@
             "K": "A, B, C, D, and E"
           },
           "pageIndex": 25,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_25.jpg",
+          "imageSrc": null,
           "correct": "G"
         },
         {
           "number": 47,
           "stem": "",
           "choices": {
-            "A": "square dartboard is red and white, as shown below. Each 4-inch-long side of the red square is parallel to 2 sides of the white square and is 3 inches from the closest side of the white square. A dart will be thrown randomly and will land on the dartboard. What is the probability that the dart will land on the red square? _1__ A. 10 white 3 _1_ B. 7 red _2_ 3 3",
-            "C": "4 5 _4__ 3 D. 25 _1_6_ E. 49 25 ACT-G20 www.crackab.com 2 nPQR \u2220P DO"
+            "A": "square dartboard is red and white, as shown below. Each 4-inch-long side of the red square is parallel to 2 sides of the white square and is 3 inches from the closest side of the white square. A dart will be thrown randomly and will land on the dartboard. What is the probability that the dart will land on the red square? _1__ A. white 3 _1_ B. red _2_ 3 3",
+            "C": "4 _4__ 3 D. _1_6_ E. www.crackab.com nPQR \u2220P DO"
           },
           "pageIndex": 25,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_25.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
+          "number": 48,
+          "stem": "In shown below, the measure of is 40\u00b0, PR = 110 meters, and the measure of \u2220R is 80\u00b0. Which of the following expressions gives QR, in meters? Q ? 40\u00b0 80\u00b0 P 110 R (Note: For a triangle with sides of length a, b, and c that are opposite angles \u2220A, \u2220B, and \u2220C, respectively, _s_in_ _\u2220_A__ _s_in_ _\u2220_B__ _si_n_ _\u2220_C__ = = .) a b c _1_1_0_ s_in_ _4_0__\u00b0 F. sin 60\u00b0 _1_1_0_ s_in_ _4_0__\u00b0 G. sin 80\u00b0 _1_1_0_ s_in_ _6_0__\u00b0 H. sin 40\u00b0 _1_1_0_ s_in_ _8_0__\u00b0 J. sin 40\u00b0 _1_1_0_ s_in_ _8_0__\u00b0 K. sin 60\u00b0 www.actexam",
+          "choices": {},
+          "pageIndex": 26,
+          "imageSrc": null,
+          "correct": "F"
+        },
+        {
           "number": 49,
-          "stem": "log 25 = ? 5 _1_ A. 5",
+          "stem": "log 25 = ? _1_ A.",
           "choices": {
             "B": "02",
             "C": "05",
@@ -1542,35 +1664,29 @@
             "E": "0525"
           },
           "pageIndex": 26,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_26.jpg",
+          "imageSrc": null,
           "correct": "B"
         },
         {
           "number": 50,
-          "stem": "Let A be the greatest whole number that is less than \u221a\u20224\u20222\u2022\u20220. Let B be the least whole number that is greater than \u221a\u20225\u20226. What is A \u2212 B ?",
-          "choices": {
-            "F": "12",
-            "G": "13",
-            "H": "14",
-            "J": "18",
-            "K": "19"
-          },
+          "stem": "Let A be the greatest whole number that is less than \u221a\u20224\u20222\u2022\u20220. Let B be the least whole number that is greater",
+          "choices": {},
           "pageIndex": 26,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_26.jpg",
+          "imageSrc": null,
           "correct": "F"
         },
         {
           "number": 51,
           "stem": "The product of 2 real numbers is a nonzero rational number. Which of the following statements CANNOT be true?",
           "choices": {
-            "A": "pump is used to move water in and out of a tank. The = pump is turned on at t 0 seconds when there are 20 gallons in the tank. The function V(t) represents the volume, in gallons, of water in the tank t seconds after the pump is turned on. Shown below is the graph of V(t), which is a periodic function with a period of 9 seconds. The 1st period of V(t) is shown as a solid line, and the rest is shown as dashed. The pump remains on for 1 hour. V(t) 60 )snollag( 50 V(t) 40 30 emulov 20 10 O time (seconds) www.actexam",
+            "A": "pump is used to move water in and out of a tank. The = pump is turned on at t 0 seconds when there are 20 gallons in the tank. The function V(t) represents the volume, in gallons, of water in the tank t seconds after the pump is turned on. Shown below is the graph of V(t), which is a periodic function with a period of 9 seconds. The 1st period of V(t) is shown as a solid line, and the rest is shown as dashed. The pump remains on for 1 hour. V(t) )snollag( V(t) emulov O time (seconds) www.actexam",
             "B": "Both numbers are rational.",
             "C": "Both numbers are integers.",
             "D": "One number is positive, and the other is negative.",
-            "E": "One number is rational, and the other is irrational. 26 ACT-G20 www.crackab.com 2 DO Use the following information to answer questions 52\u201354."
+            "E": "One number is rational, and the other is irrational. www.crackab.com DO Use the following information to answer questions 52\u201354."
           },
           "pageIndex": 26,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_26.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
@@ -1584,7 +1700,7 @@
             "K": "540"
           },
           "pageIndex": 27,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_27.jpg",
+          "imageSrc": null,
           "correct": "J"
         },
         {
@@ -1598,7 +1714,7 @@
             "E": "60"
           },
           "pageIndex": 27,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_27.jpg",
+          "imageSrc": null,
           "correct": "D"
         },
         {
@@ -1610,10 +1726,10 @@
             "G": "V(t) 30",
             "H": "V(t + 10)",
             "J": "10 \u00b7 V(t)",
-            "K": "30 \u00b7 V(t) 27 ACT-G20 www.crackab.com 2 DO"
+            "K": "30 \u00b7 V(t) www.crackab.com DO"
           },
           "pageIndex": 27,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_27.jpg",
+          "imageSrc": null,
           "correct": "F"
         },
         {
@@ -1627,20 +1743,21 @@
             "E": "327 y2 = + = \u2212"
           },
           "pageIndex": 28,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_28.jpg",
+          "imageSrc": null,
           "correct": "C"
         },
         {
           "number": 56,
-          "stem": "The graphs of x 8 and y 3x 3 are shown in the standard (x,y) coordinate plane below. The 2 graphs intersect at points A and B. The solution of which of the following equations gives the x-coordinate of point A ? y A www.actexam x O B \u221a\u20223\u2022x \u2022\u2212\u2022\u20223\u2022 =\u2212\u221a\u2022x\u2022+\u2022\u20228\u2022 F.",
+          "stem": "The graphs of x 8 and y 3x 3 are shown in the standard (x,y) coordinate plane below. The 2 graphs intersect at points A",
           "choices": {
+            "B": "The solution of which of the following equations gives the x-coordinate of point A ? y A www.actexam x O B \u221a\u20223\u2022x \u2022\u2212\u2022\u20223\u2022 =\u2212\u221a\u2022x\u2022+\u2022\u20228\u2022 F.",
             "G": "\u221a\u20223\u2022x \u2022\u2212\u2022\u20223\u2022 = \u221a\u2022x\u2022+\u2022\u20228\u2022 2 \u22129 =x+8",
             "H": "9x",
             "J": "3x \u22123 =\u2212\u221a\u2022x\u2022+\u2022\u20228\u2022 \u22123 = \u221a\u2022x\u2022+\u2022\u20228\u2022",
             "K": "3x"
           },
           "pageIndex": 28,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_28.jpg",
+          "imageSrc": null,
           "correct": "K"
         },
         {
@@ -1651,11 +1768,21 @@
             "B": "20",
             "C": "25",
             "D": "40",
-            "E": "64 28 ACT-G20 www.crackab.com 2 DO"
+            "E": "64 www.crackab.com DO"
           },
           "pageIndex": 28,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_28.jpg",
+          "imageSrc": null,
           "correct": "A"
+        },
+        {
+          "number": 58,
+          "stem": "",
+          "choices": {
+            "A": "shirt will be randomly selected from a display of 23 shirts. The probability that the selected shirt will be _1_3_ long-sleeved is . The probability that the selected _8__ shirt will be white is . The probability that the _3__ selected shirt will be long-sleeved and white is . What is the probability that the selected shirt will be long-sleeved or white or both? _7__ F. _8__ G. _1_8_ H. _2_2_ J. _2_4_ K."
+          },
+          "pageIndex": 29,
+          "imageSrc": null,
+          "correct": "H"
         },
         {
           "number": 59,
@@ -1665,7 +1792,7 @@
             "B": "(x (y 1 _x_ 2 _y__ 2 _ + =1 C. 8 5 _x_ 2 _y__ 2 _ + =1 D. 16 10 _x_ 2 _y__ 2 _ + =1 E. 64 25 \u2212 > +"
           },
           "pageIndex": 29,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_29.jpg",
+          "imageSrc": null,
           "correct": "E"
         },
         {
@@ -1676,10 +1803,10 @@
             "G": "II only",
             "H": "I and III only",
             "J": "II and III only",
-            "K": "I, II, and III STOP! DO NOT TURN TH DO NOT RE 29 ACT-G20 www.crackab.com"
+            "K": "I, II, and III"
           },
           "pageIndex": 29,
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/math/page_29.jpg",
+          "imageSrc": null,
           "correct": "G"
         }
       ]
@@ -1739,7 +1866,7 @@
                 "F": "indicate that Malinda Lee felt special because she saw both Sugar Ray Robinson and the Dodgers win titles right after she arrived in New York.",
                 "G": "convey the optimism that Malinda Lee felt during the summer of 1955.",
                 "H": "establish that while Malinda Lee was excited to experience New York, she didn\u2019t want to forget Trinidad.",
-                "J": "depict what Malinda Lee saw on the streets of New York in 1955. 3 ACT-G20 www.crac"
+                "J": "depict what Malinda Lee saw on the streets of New York in 1955. www.crac"
               },
               "correct": "G",
               "lineRef": null
@@ -1811,7 +1938,7 @@
                 "F": "independent.",
                 "G": "immodest.",
                 "H": "discrete.",
-                "J": "relaxed. 1 GO ON TO THE NEXT PAGE. ckab.com"
+                "J": "relaxed. 1"
               },
               "correct": "J",
               "lineRef": null
@@ -1832,7 +1959,7 @@
                 "A": "show how the ROMACONS research helped improve the composition of modern concrete.",
                 "B": "describe the composition and origin of pozzolana.",
                 "C": "compare modern concrete to Roman maritime concrete.",
-                "D": "provide an overview of the ROMACONS project and its findings. 2 GO ON TO THE NEXT PAGE. ckab.com"
+                "D": "provide an overview of the ROMACONS project and its findings. 2"
               },
               "correct": "D",
               "lineRef": null
@@ -1880,7 +2007,7 @@
                 "A": "rock produced from volcanic ash.",
                 "B": "volcanic ash that came from Mount Vesuvius or Campi Flegrei.",
                 "C": "samples of concrete from harbors built in the Mediterranean.",
-                "D": "chunks of concrete collected from the ruins of ancient Greek houses. 3 ACT-G20 www.crac"
+                "D": "chunks of concrete collected from the ruins of ancient Greek houses. www.crac"
               },
               "correct": "C",
               "lineRef": null
@@ -1940,7 +2067,7 @@
                 "F": "The ash was found in ports in Caesarea and Alexandria.",
                 "G": "The ash was named for Pozzuoli, the town where it was originally used.",
                 "H": "The ash makes up parts of the coastline throughout the Bay of Naples.",
-                "J": "The ash had been used for port construction in Greece. 3 GO ON TO THE NEXT PAGE. ckab.com"
+                "J": "The ash had been used for port construction in Greece. 3"
               },
               "correct": "F",
               "lineRef": null
@@ -2009,7 +2136,7 @@
                 "A": "occurred just as computers were infiltrating the industry.",
                 "B": "taught her that painting is harder than drawing.",
                 "C": "inspired her to use computers in her later works.",
-                "D": "helped her hone her painting skills. 3 ACT-G20 www.crac"
+                "D": "helped her hone her painting skills. www.crac"
               },
               "correct": "D",
               "lineRef": null
@@ -2069,7 +2196,7 @@
                 "F": "McChristian doesn\u2019t need to travel to find some- thing to paint, but travel has inspired her paintings.",
                 "G": "McChristian can find a subject to paint anywhere, but most of her paintings are set in places far from her home.",
                 "H": "McChristian prefers to travel outside the United States to paint, but most of her art portrays scenes near Los Angeles.",
-                "J": "McChristian usually paints scenes near Los Ange- les, but she painted her most famous works while visiting Europe. 5 GO ON TO THE NEXT PAGE. ckab.com"
+                "J": "McChristian usually paints scenes near Los Ange- les, but she painted her most famous works while visiting Europe. 5"
               },
               "correct": "F",
               "lineRef": null
@@ -2090,7 +2217,7 @@
                 "A": "argue that the structural features of the transistor became a model for later inventions.",
                 "B": "discuss the unintended consequences that resulted from the invention of the transistor.",
                 "C": "describe the invention of the transistor and its significance.",
-                "D": "analyze the processes that allow a transistor to work. 6 GO ON TO THE NEXT PAGE. ckab.com"
+                "D": "analyze the processes that allow a transistor to work. 6"
               },
               "correct": "C",
               "lineRef": null
@@ -2147,7 +2274,7 @@
                 "A": "identify why the semiconductor wasn\u2019t performing properly.",
                 "B": "suggest replacing vacuum tubes with semiconductors.",
                 "C": "convince Shockley that the theoretical basis of his plan was flawed.",
-                "D": "persuade Shockley to bring Walter Brattain into the project. STOP! DO N 3 ACT-G20 www.crac 3"
+                "D": "persuade Shockley to bring Walter Brattain into the project."
               },
               "correct": "A",
               "lineRef": null
@@ -2207,7 +2334,7 @@
                 "F": "wider recognition of the importance of transistors.",
                 "G": "change in radio programming to appeal to new audiences.",
                 "H": "significant increase in the number of potential radio buyers.",
-                "J": "similar process being adopted in the manufactur- ing of hearing aids. END OF TEST 3 NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST. 7 ckab.com"
+                "J": "similar process being adopted in the manufactur- ing of hearing aids. NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST. ckab.com"
               },
               "correct": "H",
               "lineRef": null
@@ -2224,7 +2351,7 @@
         {
           "id": "passage-i",
           "title": "Passage I",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg",
+          "imageSrc": "/tests/G20/science/passage_passage-i.jpg",
           "startPage": 38,
           "questions": [
             {
@@ -2234,10 +2361,10 @@
                 "A": "Site 1",
                 "B": "Site 4",
                 "C": "Site 5",
-                "D": "Site 8 3 www.crac 4"
+                "D": "Site 8 www.crac"
               },
               "correct": "A",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-i.jpg"
             },
             {
               "number": 2,
@@ -2249,19 +2376,7 @@
                 "J": "Pump Teflon tube Rn detector"
               },
               "correct": "F",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
-            },
-            {
-              "number": 3,
-              "stem": "Consider the site having the second-largest vertical displacement in Figure 1. According to Figure 3, the average Rn concentration at that site in Decem- ber 2008 was approximately:",
-              "choices": {
-                "A": "04 kBq/m3.",
-                "B": "08 kBq/m3.",
-                "C": "12 kBq/m3.",
-                "D": "16 kBq/m3."
-              },
-              "correct": "B",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-i.jpg"
             },
             {
               "number": 4,
@@ -2273,7 +2388,7 @@
                 "J": "6"
               },
               "correct": "H",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-i.jpg"
             },
             {
               "number": 5,
@@ -2285,7 +2400,7 @@
                 "D": "decreased, then increased."
               },
               "correct": "A",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-i.jpg"
             },
             {
               "number": 6,
@@ -2297,7 +2412,7 @@
                 "J": "175 km"
               },
               "correct": "H",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-i.jpg"
             },
             {
               "number": 7,
@@ -2306,17 +2421,17 @@
                 "A": "79 cm",
                 "B": "80 cm",
                 "C": "81 cm",
-                "D": "Cannot be determined from the given information 9 GO ON TO THE NEXT PAGE. ckab.com"
+                "D": "Cannot be determined from the given information 9"
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-i.jpg"
             }
           ]
         },
         {
           "id": "passage-ii",
           "title": "Passage II",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg",
+          "imageSrc": "/tests/G20/science/passage_passage-ii.jpg",
           "startPage": 40,
           "questions": [
             {
@@ -2329,7 +2444,7 @@
                 "J": "decreased and then increased."
               },
               "correct": "F",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-ii.jpg"
             },
             {
               "number": 9,
@@ -2341,7 +2456,7 @@
                 "D": "10 m/s"
               },
               "correct": "B",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-ii.jpg"
             },
             {
               "number": 10,
@@ -2350,10 +2465,10 @@
                 "F": "06 m/s",
                 "G": "10 m/s",
                 "H": "16 m/s",
-                "J": "20 m/s www.acte 4 www.crac 4 9\u221212"
+                "J": "20 m/s www.acte www.crac 9\u221212"
               },
               "correct": "G",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-ii.jpg"
             },
             {
               "number": 11,
@@ -2365,7 +2480,7 @@
                 "D": "v"
               },
               "correct": "A",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-ii.jpg"
             },
             {
               "number": 12,
@@ -2377,7 +2492,7 @@
                 "J": "Trial 12"
               },
               "correct": "J",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-ii.jpg"
             },
             {
               "number": 13,
@@ -2386,17 +2501,17 @@
                 "A": "000,1.00",
                 "B": "00,10.0",
                 "C": "0,100",
-                "D": "1,000 exam.net 1 GO ON TO THE NEXT PAGE. ckab.com"
+                "D": "1,000 exam.net 1"
               },
               "correct": "D",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-ii.jpg"
             }
           ]
         },
         {
           "id": "passage-iii",
           "title": "Passage III",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg",
+          "imageSrc": "/tests/G20/science/passage_passage-iii.jpg",
           "startPage": 42,
           "questions": [
             {
@@ -2409,7 +2524,7 @@
                 "J": "Iapetus"
               },
               "correct": "H",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-iii.jpg"
             },
             {
               "number": 15,
@@ -2418,22 +2533,22 @@
                 "A": "Circular, because most of the plotted moons have = an orbit for which e 0.",
                 "B": "Circular, because most of the plotted moons have < < an orbit for which 0 e 1.",
                 "C": "Elliptical, because most of the plotted moons have = an orbit for which e 0.",
-                "D": "Elliptical, because most of the plotted moons have < < an orbit for which 0 e 1. 4 www.crac 4"
+                "D": "Elliptical, because most of the plotted moons have < < an orbit for which 0 e 1. www.crac"
               },
               "correct": "D",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-iii.jpg"
             },
             {
               "number": 16,
-              "stem": "There is a Group 4 moon with an orbital energy more similar to those of Group 1 moons than to those of the other Group 4 moons. What is the approximate orbital energy of this moon? 1026",
+              "stem": "There is a Group 4 moon with an orbital energy more similar to those of Group 1 moons than to those of the other Group 4 moons. What is the approximate orbital energy of this moon?",
               "choices": {
                 "F": "J",
-                "G": "1028 J 1030",
+                "G": "1028 J",
                 "H": "J",
                 "J": "1032 J"
               },
               "correct": "G",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-iii.jpg"
             },
             {
               "number": 17,
@@ -2445,7 +2560,7 @@
                 "D": "I, II, and III"
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-iii.jpg"
             },
             {
               "number": 18,
@@ -2457,7 +2572,7 @@
                 "J": "1024 J to 1028 J"
               },
               "correct": "G",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-iii.jpg"
             },
             {
               "number": 19,
@@ -2466,19 +2581,31 @@
                 "A": "11 \u00d7 109 0.15 \u00d7 109",
                 "B": "11 0.45",
                 "C": "17 \u00d7 109 0.15 \u00d7 109",
-                "D": "17 0.45 3 GO ON TO THE NEXT PAGE. ckab.com"
+                "D": "17 0.45 3"
               },
               "correct": "D",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-iii.jpg"
             }
           ]
         },
         {
           "id": "passage-iv",
           "title": "Passage IV",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg",
+          "imageSrc": "/tests/G20/science/passage_passage-iv.jpg",
           "startPage": 44,
           "questions": [
+            {
+              "number": 2,
+              "stem": "Which of the follow- ing procedures was most likely done to eliminate pref- erence based on the direction the call came from?",
+              "choices": {
+                "F": "The calls were played at different volumes.",
+                "G": "The calls were randomly assigned to the speakers.",
+                "H": "Only female R. mehelyi calls were played.",
+                "J": "Only male R. mehelyi calls were played."
+              },
+              "correct": "F",
+              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
+            },
             {
               "number": 20,
               "stem": "Which of the following statements was most likely the exhaypotmhesis fo.r Sntudye t 2 ?",
@@ -2489,7 +2616,7 @@
                 "J": "Females choose mates on the basis of the loudness of the potential mates\u2019 calls."
               },
               "correct": "H",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
             },
             {
               "number": 21,
@@ -2498,32 +2625,20 @@
                 "A": "104 kHz are more likely to attract more females and have lower reproductive fitness than are male R. mehelyi that emit calls with a peak frequency of 112 kHz.",
                 "B": "104 kHz are more likely to attract more females and have higher reproductive fitness than are male R. mehelyi that emit calls with a peak frequency of 112 kHz.",
                 "C": "112 kHz are more likely to attract more females and have lower reproductive fitness than are male R. mehelyi that emit calls with a peak frequency of 104 kHz.",
-                "D": "112 kHz are more likely to attract more females and have higher reproductive fitness than are male R. mehelyi that emit calls with a peak frequency of 104 kHz. 4 GO ON TO THE NEXT PAGE. ckab.com"
+                "D": "112 kHz are more likely to attract more females and have higher reproductive fitness than are male R. mehelyi that emit calls with a peak frequency of 104 kHz. 4"
               },
               "correct": "D",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
-            },
-            {
-              "number": 22,
-              "stem": "Consider the design of Study 2. Which of the follow- ing procedures was most likely done to eliminate pref- erence based on the direction the call came from?",
-              "choices": {
-                "F": "The calls were played at different volumes.",
-                "G": "The calls were randomly assigned to the speakers.",
-                "H": "Only female R. mehelyi calls were played.",
-                "J": "Only male R. mehelyi calls were played."
-              },
-              "correct": "G",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
             },
             {
               "number": 23,
-              "stem": "Based on Table 1, the total number of bat landings in the compartment that played a call with a peak fre- quency of 104 kHz was approximately how many times as great as the total number of bat landings in the com- partment that played a call with a peak frequency of 112 kHz ? _1_ A. 4 _1_ B. 2",
+              "stem": "Based on Table 1, the total number of bat landings in the compartment that played a call with a peak fre- quency of 104 kHz was approximately how many times as great as the total number of bat landings in the com- partment that played a call with a peak frequency of 112 kHz ? _1_ A. _1_ B.",
               "choices": {
                 "C": "2",
                 "D": "4"
               },
               "correct": "B",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
             },
             {
               "number": 24,
@@ -2532,10 +2647,10 @@
                 "F": "(2 \u00d7 61) + (225 + 460) \u00d7 \u2212 +",
                 "G": "(2 61) (225 460)",
                 "H": "(12 \u00d7 61) + (225 + 460) \u00d7 \u2212 + 4w60) ww.acte",
-                "J": "(12 61) (225 4 www.crac 4"
+                "J": "(12 61) (225 www.crac"
               },
               "correct": "J",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
             },
             {
               "number": 25,
@@ -2547,7 +2662,7 @@
                 "D": "Recording bats while they were stationary"
               },
               "correct": "D",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
             },
             {
               "number": 26,
@@ -2556,17 +2671,17 @@
                 "F": "Yes; 107 kHz is in the audible range of sound for humans.",
                 "G": "Yes; 109 kHz is in the audible range of sound for humans.",
                 "H": "No; 107 kHz is not in the audible range of sound for humans.",
-                "J": "No; 109 kHz is not in the audible range of sound exafomr huma.nsn. et 5 GO ON TO THE NEXT PAGE. ckab.com"
+                "J": "No; 109 kHz is not in the audible range of sound exafomr huma.nsn. et 5"
               },
               "correct": "J",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-iv.jpg"
             }
           ]
         },
         {
           "id": "passage-v",
           "title": "Passage V",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg",
+          "imageSrc": "/tests/G20/science/passage_passage-v.jpg",
           "startPage": 46,
           "questions": [
             {
@@ -2579,7 +2694,7 @@
                 "D": "Yes; the concentration of was 96.5 mg/kg for Variety X and 37.5 mg/kg for Variety Y."
               },
               "correct": "A",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
             },
             {
               "number": 28,
@@ -2591,7 +2706,7 @@
                 "J": "Variety Y; a lower concentration corresponds to a higher absorbance."
               },
               "correct": "F",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
             },
             {
               "number": 29,
@@ -2600,10 +2715,10 @@
                 "A": "less than 37.5 mg/kg.",
                 "B": "between 37.5 mg/kg and 49.5 mg/kg.",
                 "C": "between 49.5 mg/kg and 96.5 mg/kg.",
-                "D": "greater than 96.5 mg/kg. 4 www.crac 4"
+                "D": "greater than 96.5 mg/kg. www.crac"
               },
               "correct": "B",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
             },
             {
               "number": 30,
@@ -2615,7 +2730,7 @@
                 "J": "Greater than 7.0; the liquid was a base."
               },
               "correct": "F",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
             },
             {
               "number": 31,
@@ -2627,7 +2742,7 @@
                 "D": "28"
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
             },
             {
               "number": 32,
@@ -2639,7 +2754,7 @@
                 "J": "light that passed through the flame."
               },
               "correct": "J",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
             },
             {
               "number": 33,
@@ -2648,17 +2763,17 @@
                 "A": "increase increase",
                 "B": "increase decrease",
                 "C": "stay the same increase",
-                "D": "stay the same decrease 7 GO ON TO THE NEXT PAGE. ckab.com"
+                "D": "stay the same decrease 7"
               },
               "correct": "D",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-v.jpg"
             }
           ]
         },
         {
           "id": "passage-vi",
           "title": "Passage VI",
-          "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg",
+          "imageSrc": "/tests/G20/science/passage_passage-vi.jpg",
           "startPage": 48,
           "questions": [
             {
@@ -2671,7 +2786,7 @@
                 "J": "crocodiles than with the other groups of organisms."
               },
               "correct": "H",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
             },
             {
               "number": 35,
@@ -2680,20 +2795,20 @@
                 "A": "Student 2 only",
                 "B": "Student 3 only",
                 "C": "Students 1 and 2 only",
-                "D": "Students 1 and 3 only 8 GO ON TO THE NEXT PAGE. ckab.com"
+                "D": "Students 1 and 3 only 8"
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
             },
             {
               "number": 36,
-              "stem": "Tuatara (a reptile native to New Zealand) share a more recent MRCA with squamates than with archosaurs. Which of the following proposed phylogenetic trees is most consistent with this information?",
+              "stem": "Tuatara (a reptile native to New Zealand) share a more recent MRCA with squamates than with archosaurs. Which of the following proposed phylogenetic trees is most consistent with this information? F.",
               "choices": {
-                "F": "snakes H. snakes lizards lizards tuatara crocodiles crocodiles birds birds tuatara turtles turtles",
-                "G": "snakes J. snakes lizards lizards tuatara crocodiles crocodiles birds birds tuatara turtles turtles"
+                "H": "snakes lizards lizards tuatara crocodiles crocodiles birds birds tuatara turtles turtles G.",
+                "J": "snakes lizards lizards tuatara crocodiles crocodiles birds birds tuatara turtles turtles"
               },
               "correct": "G",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
             },
             {
               "number": 37,
@@ -2702,10 +2817,10 @@
                 "A": "0 www.acte",
                 "B": "1",
                 "C": "2",
-                "D": "3 S 4 www.crac 4"
+                "D": "3 S www.crac"
               },
               "correct": "C",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
             },
             {
               "number": 38,
@@ -2717,7 +2832,7 @@
                 "J": "4"
               },
               "correct": "F",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
             },
             {
               "number": 39,
@@ -2729,7 +2844,7 @@
                 "D": "3 4"
               },
               "correct": "A",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
             },
             {
               "number": 40,
@@ -2738,10 +2853,10 @@
                 "F": "Student 2 only exam.net",
                 "G": "Student 3 only",
                 "H": "Students 1 and 2 only",
-                "J": "Students 1 and 3 only END OF TEST 4 STOP! DO NOT RETURN TO ANY OTHER TEST. 9 ckab.com"
+                "J": "Students 1 and 3 only"
               },
               "correct": "J",
-              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+              "imageSrc": "/tests/G20/science/passage_passage-vi.jpg"
             }
           ]
         }
