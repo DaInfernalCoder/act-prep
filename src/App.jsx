@@ -27,7 +27,7 @@ export default function App() {
     return () => subscription.unsubscribe()
   }, [])
 
-  if (loading) return null
+  if (loading) return <LoginPage />
   if (!user) return <LoginPage />
 
   return (
