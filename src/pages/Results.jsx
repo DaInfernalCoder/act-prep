@@ -51,11 +51,6 @@ export default function Results() {
           ))}
         </div>
 
-        <div className="rounded-2xl border border-gray-200 p-5 mb-6">
-          <div className="font-semibold text-gray-900">Review missed questions</div>
-          <div className="text-sm text-gray-500 mt-1">One question at a time. Think for at least 3 minutes before tagging why you missed it.</div>
-        </div>
-
         <div className="flex gap-3">
           <button onClick={goToReview} className="flex-1 flex items-center justify-center gap-2 bg-black text-white py-4 rounded-2xl font-semibold hover:bg-gray-800">
             Start Review <ArrowRight size={18} />
