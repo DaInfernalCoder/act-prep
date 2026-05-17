@@ -101,7 +101,7 @@ export default function ReviewPage() {
           <div className="border-b border-gray-100 p-6">
             <div className="flex items-center justify-between">
               <span className="text-xs font-semibold uppercase tracking-wide text-gray-400">
-                {SECTION_LABELS[section.id]} Q{q.number} · {index + 1}/{wrongQuestions.length}
+                {index + 1} / {wrongQuestions.length}
               </span>
               <div className={`text-2xl font-black ${helpReady ? 'text-amber-600' : 'text-gray-900'}`}>
                 {formatTime(timeLeft)}
