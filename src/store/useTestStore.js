@@ -6,7 +6,6 @@ const BREAK_AFTER = 'math'
 const BREAK_TIME = 10 * 60
 
 export const useTestStore = create(
-  persist(
     (set, get) => ({
       // Session state
       activeTestId: null,
@@ -155,7 +154,6 @@ export const useTestStore = create(
         phase: 'dashboard',
       }),
     })
-  )
 )
 
 export function computeScores(testData, answers) {
