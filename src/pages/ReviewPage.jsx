@@ -6,6 +6,12 @@ import tests from '../data'
 const ACTIVE_SECTIONS = ['english', 'math', 'reading']
 const SECTION_LABELS = { english: 'English', math: 'Math', reading: 'Reading' }
 const REVIEW_SECONDS = 5 * 60
+
+function getChoiceLetters(section, q) {
+  const isEven = q.number % 2 === 0
+  if (section === 'math') return isEven ? ['F', 'G', 'H', 'J', 'K'] : ['A', 'B', 'C', 'D', 'E']
+  return isEven ? ['F', 'G', 'H', 'J'] : ['A', 'B', 'C', 'D']
+}
 const ERROR_TAGS = [
   { key: 'conceptual', label: 'Conceptual', detail: "I didn't know the concept." },
   { key: 'silly', label: 'Silly Mistake', detail: 'I knew it and slipped.' },
@@ -19,16 +25,23 @@ function formatTime(total) {
 }
 
 export default function ReviewPage() {
-  const { activeTestId, answers, errorTags, mindsetNotes, setErrorTag, setMindsetNote, resetToHome } = useTestStore()
+  const { activeTestId, answers: storeAnswers, testResults, errorTags, mindsetNotes, setErrorTag, setMindsetNote, resetToHome } = useTestStore()
   const [index, setIndex] = useState(0)
   const [elapsed, setElapsed] = useState(0)
+  const [sectionFilter, setSectionFilter] = useState('all')
 
   const test = tests.find(t => t.id === activeTestId)
+
+  // Fall back to Supabase-saved answers if in-memory store is empty (e.g. page refresh)
+  const savedResult = testResults.find(r => r.testId === activeTestId)
+  const answers = Object.keys(storeAnswers).length > 0 ? storeAnswers : (savedResult?.answers || storeAnswers)
 
   const wrongQuestions = useMemo(() => {
     if (!test) return []
     const items = []
-    for (const section of test.sections.filter(s => ACTIVE_SECTIONS.includes(s.id))) {
+    const sections = test.sections.filter(s => ACTIVE_SECTIONS.includes(s.id))
+    for (const section of sections) {
+      if (sectionFilter !== 'all' && section.id !== sectionFilter) continue
       for (const passage of section.passages || []) {
         for (const q of passage.questions) {
           const key = `${section.id}-${q.number - 1}`
@@ -41,7 +54,10 @@ export default function ReviewPage() {
       }
     }
     return items
-  }, [test, answers])
+  }, [test, answers, sectionFilter])
+
+  // Reset to first question when filter changes
+  useEffect(() => { setIndex(0) }, [sectionFilter])
 
   const current = wrongQuestions[index]
   const taggedCount = wrongQuestions.filter(({ key }) => errorTags[key]).length
@@ -87,6 +103,19 @@ export default function ReviewPage() {
           <div className="font-semibold text-gray-900">Review missed questions</div>
           <div className="text-sm text-gray-400">{taggedCount}/{wrongQuestions.length} tagged</div>
         </div>
+        <div className="flex items-center gap-2">
+          {['all', ...ACTIVE_SECTIONS].map(s => (
+            <button
+              key={s}
+              onClick={() => setSectionFilter(s)}
+              className={`text-xs font-semibold px-3 py-1.5 rounded-lg transition-colors ${
+                sectionFilter === s ? 'bg-black text-white' : 'text-gray-500 hover:bg-gray-100'
+              }`}
+            >
+              {s === 'all' ? 'All' : SECTION_LABELS[s]}
+            </button>
+          ))}
+        </div>
         <button onClick={resetToHome} className="flex items-center gap-1.5 text-sm text-gray-500 hover:text-black">
           <Home size={14} /> Home
         </button>
@@ -110,7 +139,7 @@ export default function ReviewPage() {
           </div>
 
           <div className="flex-1 overflow-y-auto p-6">
-            {section.id !== 'math' && <p className="text-[15px] leading-relaxed text-gray-800 mb-5">{q.stem}</p>}
+            {section.id === 'reading' && q.stem && <p className="text-[15px] leading-relaxed text-gray-800 mb-5">{q.stem}</p>}
 
             <div className="grid grid-cols-2 gap-3 mb-5">
               <div className="rounded-2xl border border-red-200 bg-red-50 p-4">
@@ -124,13 +153,12 @@ export default function ReviewPage() {
             </div>
 
             <div className="space-y-2 mb-6">
-              {Object.entries(q.choices).map(([letter, text]) => {
+              {getChoiceLetters(section.id, q).map(letter => {
                 const right = letter === q.correct
                 const yours = letter === userAnswer
                 return (
                   <div key={letter} className={`answer-choice text-sm ${right ? 'correct' : yours ? 'incorrect' : ''}`}>
                     <span className="font-bold w-5 flex-shrink-0">{letter}.</span>
-                    {section.id !== 'math' && <span className="flex-1">{text}</span>}
                     {right && <span className="ml-auto text-xs font-semibold text-green-600">Correct</span>}
                     {yours && !right && <span className="ml-auto text-xs font-semibold text-red-500">Your answer</span>}
                   </div>

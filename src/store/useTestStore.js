@@ -1,4 +1,5 @@
 import { create } from 'zustand'
+import { persist, createJSONStorage } from 'zustand/middleware'
 import tests from '../data'
 
 const SECTION_ORDER = ['english', 'math', 'reading']
@@ -12,6 +13,7 @@ const BREAK_AFTER = 'math'
 const BREAK_TIME = 10 * 60
 
 export const useTestStore = create(
+  persist(
     (set, get) => ({
       // Session state
       activeTestId: null,
@@ -197,7 +199,25 @@ export const useTestStore = create(
         timeRemaining: null,
         phase: 'dashboard',
       }),
-    })
+    }),
+    {
+      name: 'act-test-state',
+      storage: createJSONStorage(() => sessionStorage),
+      partialize: (state) => ({
+        phase: state.phase,
+        activeTestId: state.activeTestId,
+        currentSection: state.currentSection,
+        currentQuestionIndex: state.currentQuestionIndex,
+        answers: state.answers,
+        flagged: state.flagged,
+        timeRemaining: state.timeRemaining,
+        breakTimeRemaining: state.breakTimeRemaining,
+        errorTags: state.errorTags,
+        mindsetNotes: state.mindsetNotes,
+        currentResultId: state.currentResultId,
+      }),
+    }
+  )
 )
 
 export function computeScores(testData, answers) {

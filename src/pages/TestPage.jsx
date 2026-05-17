@@ -7,13 +7,10 @@ import tests from '../data'
 
 const SECTION_LABELS = { english: 'English', math: 'Mathematics', reading: 'Reading', science: 'Science' }
 
-function getMathChoices(section, q) {
-  if (section !== 'math') return Object.keys(q.choices)
+function getChoiceLetters(section, q) {
   const isEven = q.number % 2 === 0
-  const base = isEven ? ['F', 'G', 'H', 'J'] : ['A', 'B', 'C', 'D']
-  const extra = isEven ? 'K' : 'E'
-  if (q.correct === extra) return [...base, extra]
-  return base
+  if (section === 'math') return isEven ? ['F', 'G', 'H', 'J', 'K'] : ['A', 'B', 'C', 'D', 'E']
+  return isEven ? ['F', 'G', 'H', 'J'] : ['A', 'B', 'C', 'D']
 }
 
 function PageImage({ src, alt }) {
@@ -117,12 +114,8 @@ export default function TestPage() {
               </button>
             </div>
 
-            {currentSection !== 'math' && (
-              <p className="text-gray-800 text-[15px] leading-relaxed mb-5">{q.stem}</p>
-            )}
-
             <div className="space-y-2">
-              {getMathChoices(currentSection, q).map((letter) => {
+              {getChoiceLetters(currentSection, q).map((letter) => {
                 const isSelected = selectedAnswer === letter
                 return (
                   <button
@@ -133,9 +126,6 @@ export default function TestPage() {
                     <span className={`font-bold text-sm w-5 flex-shrink-0 ${isSelected ? 'text-white' : 'text-gray-400'}`}>
                       {letter}.
                     </span>
-                    {currentSection !== 'math' && (
-                      <span className="text-sm flex-1">{q.choices[letter]}</span>
-                    )}
                   </button>
                 )
               })}
