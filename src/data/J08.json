@@ -150,15 +150,24 @@
                 "A": "No Change",
                 "B": "aggravating calls with my sister that make me long to throw my phone, on",
                 "C": "some frustrating calls with my sister on the phone,",
-                "D": "certain exasperating calls with my sister, s 12. Which choice is clearest and most precise in context?",
-                "F": "No Change",
-                "G": "speculated",
-                "H": "conceived e",
-                "J": "supposed"
+                "D": "certain exasperating calls with my sister,"
               },
               "pageIndex": 5,
               "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/J08/english/page_5.jpg",
               "correct": "D"
+            },
+            {
+              "number": 12,
+              "stem": "Which choice is clearest and most precise in context?",
+              "choices": {
+                "F": "No Change",
+                "G": "speculated",
+                "H": "conceived",
+                "J": "supposed"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/J08/english/page_5.jpg",
+              "correct": "H"
             },
             {
               "number": 13,
@@ -542,7 +551,7 @@
                 "F": "No Change",
                 "G": "employees who have earned stipends to",
                 "H": "employees, having earned stipends, to",
-                "J": "employees have earned stipends to END OF TEST 1 DO NOT TURN THE PAGE UNTIL TOLD TO DO SO. 11"
+                "J": "employees have earned stipends to"
               },
               "pageIndex": 11,
               "imageSrc": "https://ylgxnutrbejubgiqcsew.supabase.co/storage/v1/object/public/act-images/J08/english/page_11.jpg",
