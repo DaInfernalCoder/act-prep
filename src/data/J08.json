@@ -1,0 +1,1934 @@
+{
+  "id": "J08",
+  "name": "ACT Form J08",
+  "sections": [
+    {
+      "id": "english",
+      "name": "English",
+      "timeMinutes": 45,
+      "passages": [
+        {
+          "id": "eng-p1",
+          "title": "Passage 1",
+          "paragraphs": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "[See PDF for passage text]"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "number": 1,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "A": "No Change",
+                "B": "grew in the nineteenth",
+                "C": "grew in the nineteenth,",
+                "D": "grew, in the nineteenth"
+              },
+              "correct": "B"
+            },
+            {
+              "number": 2,
+              "stem": "Which choice most effectively maintains the essay\u2019s tone?",
+              "choices": {
+                "F": "No Change",
+                "G": "To curtail the predicaments referenced above, com- munities may want to contemplate investing",
+                "H": "But there\u2019s a conceivable fix if communities would only just invest their monetary assets",
+                "J": "One surefire way to remedy the culverting mess is for communities to invest 2 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F"
+            },
+            {
+              "number": 3,
+              "stem": "If the writer were to delete the preceding sentence, the essay would primarily lose information that:",
+              "choices": {
+                "A": "articulates one advantage of removing barriers between waterways and the soil.",
+                "B": "provides data on the effects of removing barriers between waterways and the soil.",
+                "C": "describes the process through which soil absorbs rainwater where it falls.",
+                "D": "explains the impact of rainwater on daylighting projects."
+              },
+              "correct": "A"
+            },
+            {
+              "number": 4,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "F": "No Change",
+                "G": "streams, these",
+                "H": "streams that",
+                "J": "streams g, d"
+              },
+              "correct": "J"
+            },
+            {
+              "number": 5,
+              "stem": "Given that all the choices are accurate, which one pro- vides the most relevant support for the primary claim in this sentence?",
+              "choices": {
+                "A": "No Change",
+                "B": "keeping stormwater out of sewer systems reduces water treatment costs.",
+                "C": "natural streambeds actually help clean the water that flows over them.",
+                "D": "accessible waterways provide habitats for fish and other wildlife. 3 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "B"
+            },
+            {
+              "number": 6,
+              "stem": "At this point in the essay, the writer wants to introduce a counterclaim that an opponent of daylighting might rea- sonably assert. Which choice most effectively accom- plishes that goal?",
+              "choices": {
+                "F": "No Change",
+                "G": "certain daylighting projects tear down abandoned malls and warehouses before adding bridges.",
+                "H": "many citizens have lived and worked above their cities\u2019 streams.",
+                "J": "a downside of daylighting is the loss of some usable structures."
+              },
+              "correct": "J"
+            },
+            {
+              "number": 7,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "A": "No Change",
+                "B": "whom may be affected.",
+                "C": "who may be effected.",
+                "D": "who may be affected."
+              },
+              "correct": "D"
+            },
+            {
+              "number": 8,
+              "stem": "Which choice is clearest and most precise in context?",
+              "choices": {
+                "F": "No Change",
+                "G": "refurbishes",
+                "H": "enriches",
+                "J": "fortifies"
+              },
+              "correct": "H"
+            },
+            {
+              "number": 9,
+              "stem": "Which choice provides the most effective conclusion for the paragraph and essay?",
+              "choices": {
+                "A": "No Change",
+                "B": "In the last twenty years, cities worldwide have contemplated daylighting various streams.",
+                "C": "Daylighting offers more than a view of a water- way; it brings life back to the city center.",
+                "D": "Daylighting is doable when people work together, but it isn\u2019t easy. Question 10 asks about the preceding passage as a whole."
+              },
+              "correct": "C"
+            },
+            {
+              "number": 10,
+              "stem": "The writer is considering adding the following assertion to the essay: (If it had happened sooner, the project might have saved $70 million more in flood damage that occurred between 1999 and 2011.) If the writer were to add the sentence, it would most logically be placed at:",
+              "choices": {
+                "F": "Point A in Paragraph 1.",
+                "G": "Point B in Paragraph 3.",
+                "H": "Point C in Paragraph 3.",
+                "J": "Point D in Paragraph 4. 4 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "H"
+            },
+            {
+              "number": 11,
+              "stem": "Which choice is least redundant in context?",
+              "choices": {
+                "A": "No Change",
+                "B": "aggravating calls with my sister that make me long to throw my phone, on",
+                "C": "some frustrating calls with my sister on the phone,",
+                "D": "certain exasperating calls with my sister, s 12. Which choice is clearest and most precise in context?",
+                "F": "No Change",
+                "G": "speculated",
+                "H": "conceived e",
+                "J": "supposed"
+              },
+              "correct": "D"
+            },
+            {
+              "number": 13,
+              "stem": "Which choice most effectively maintains the essay\u2019s tone?",
+              "choices": {
+                "A": "No Change",
+                "B": "in pursuit of the phone with which an elongated lob could most likely be achieved.",
+                "C": "seeking the phone with a structural configuration most suited to being flung afar.",
+                "D": "keeping their eyes peeled for the phone that might take to the skies with gusto."
+              },
+              "correct": "A"
+            }
+          ]
+        },
+        {
+          "id": "eng-p2",
+          "title": "Passage 2",
+          "paragraphs": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "[See PDF for passage text]"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "stem": "Which choice creates the clearest contrast between the atmosphere at this event and the fierce rivalry the nar- rator expected to see?",
+              "choices": {
+                "F": "No Change e",
+                "G": "dignified, focused",
+                "H": "festive, cordial",
+                "J": "tense, wary"
+              },
+              "correct": "H"
+            },
+            {
+              "number": 15,
+              "stem": "Which transition word or phrase is most logical in context?",
+              "choices": {
+                "A": "No Change",
+                "B": "Eventually,",
+                "C": "Besides,",
+                "D": "In fact, 5 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "D"
+            },
+            {
+              "number": 16,
+              "stem": "If the writer were to delete the underlined portion, the essay would primarily lose a specific detail that:",
+              "choices": {
+                "F": "helps clarify that the woman on the unicycle was the most impressive contestant.",
+                "G": "helps illustrate why the woman\u2019s performance was particularly noteworthy.",
+                "H": "defines the minimum required length of the perfor- mances in this event.",
+                "J": "reveals why the woman chose to ride a unicycle before throwing her phone."
+              },
+              "correct": "G"
+            },
+            {
+              "number": 17,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "A": "No Change",
+                "B": "at least as much",
+                "C": "primarily",
+                "D": "Delete the underlined portion."
+              },
+              "correct": "A"
+            },
+            {
+              "number": 18,
+              "stem": "Which sequence of sentences makes this paragraph most logical?",
+              "choices": {
+                "F": "No Change",
+                "G": "1, 3, 2",
+                "H": "3, 1, 2",
+                "J": "3, 2, 1"
+              },
+              "correct": "H"
+            },
+            {
+              "number": 19,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "A": "No Change",
+                "B": "phones, instead, they talked",
+                "C": "phones, they were talking",
+                "D": "phones instead talking"
+              },
+              "correct": "A"
+            },
+            {
+              "number": 20,
+              "stem": "Which of the following sentences, if added here, would most effectively suggest that at this moment the narra- tor intends to connect with others in person rather than engaging with the phone?",
+              "choices": {
+                "F": "After all, I had taken enough pictures and video to remember this experience in the years to come.",
+                "G": "Then I linked arms with Anneli and stepped fur- ther into the crowd.",
+                "H": "At that moment, I started hoping that I could come again next year.",
+                "J": "I could still feel it in my pocket, but I ignored it\u2014mostly. 6 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G"
+            },
+            {
+              "number": 21,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "A": "No Change",
+                "B": "art, and",
+                "C": "art and",
+                "D": "art,"
+              },
+              "correct": "B"
+            },
+            {
+              "number": 22,
+              "stem": "If the writer were to delete the underlined portion (adjusting the punctuation as needed), the paragraph would primarily lose:",
+              "choices": {
+                "F": "a detail illustrating how Torres\u2019s approach to cre- ating the Sun Light series was influenced by his personal and cultural history.",
+                "G": "an example clarifying how Torres depicted various types of moonlight in the paintings in his Sun Light series.",
+                "H": "a suggestion that Torres often finds inspiration for his art from a connection with friends and family.",
+                "J": "a description of Torres\u2019s upbringing and the cul- tural traditions that most influenced his artistry."
+              },
+              "correct": "F"
+            },
+            {
+              "number": 23,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "A": "No Change",
+                "B": "portraits, in his signature,",
+                "C": "portraits in his signature",
+                "D": "portraits, in his signature"
+              },
+              "correct": "C"
+            },
+            {
+              "number": 24,
+              "stem": "Which choice provides the most specific description of the appearance of the \u201cstrands\u201d composing the faces in Torres\u2019s portraits?",
+              "choices": {
+                "F": "No Change",
+                "G": "combined in such a way that they",
+                "H": "precisely interlaced to",
+                "J": "artistically used to"
+              },
+              "correct": "H"
+            },
+            {
+              "number": 25,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "A": "No Change",
+                "B": "photographs, which would draw",
+                "C": "photographs, who drew",
+                "D": "photographs that drew 7 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "A"
+            }
+          ]
+        },
+        {
+          "id": "eng-p3",
+          "title": "Passage 3",
+          "paragraphs": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "[See PDF for passage text]"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "stem": "Which transition word or phrase is most logical in context?",
+              "choices": {
+                "F": "No Change",
+                "G": "Consequently,",
+                "H": "Again,",
+                "J": "Then,"
+              },
+              "correct": "J"
+            },
+            {
+              "number": 27,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "A": "No Change",
+                "B": "paint\u2014mostly whites, grays, and blacks\u2014",
+                "C": "paint, (mostly whites, grays, and blacks),",
+                "D": "paint\u2014mostly whites, grays, and blacks,"
+              },
+              "correct": "B"
+            },
+            {
+              "number": 28,
+              "stem": "Which choice is clearest and most precise in context?",
+              "choices": {
+                "F": "No Change",
+                "G": "since",
+                "H": "and",
+                "J": "for )"
+              },
+              "correct": "H"
+            },
+            {
+              "number": 29,
+              "stem": "Given that all the choices are actual quotations from Torres, which one would most effectively conclude the sentence and the essay?",
+              "choices": {
+                "A": "No Change",
+                "B": "\u201cEven if it looks like a lot of effort to create my paintings, they are effortless because it is total joy to make them.\u201d",
+                "C": "\u201cMost of the Cuban population is made up of farmers who plant and harvest their crops on the waning moon.\u201d",
+                "D": "\u201cI started to paint objects and people made out of natural elements, like feathers and basket weaving.\u201d 8 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "A"
+            },
+            {
+              "number": 30,
+              "stem": "Suppose the writer\u2019s primary purpose had been to dis- cuss paintings that represent a key theme in an artist\u2019s work. Would this essay accomplish that purpose?",
+              "choices": {
+                "F": "Yes, because it explains Torres\u2019s philosophy that childhood relationships have the most profound influence on an artist\u2019s paintings.",
+                "G": "Yes, because it explores how Torres\u2019s Sun Light series exemplifies his philosophy about interconnectedness.",
+                "H": "No, because although it discusses major ideas that Torres has explored throughout his artistic career, it doesn\u2019t focus on particular artworks.",
+                "J": "No, because although it describes Torres\u2019s Sun Light portraits in detail, it fails to discuss thematic elements in the series."
+              },
+              "correct": "G"
+            },
+            {
+              "number": 31,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "A": "No Change",
+                "B": "are challenging stereotypes and have helped",
+                "C": "challenge stereotypes and are helping",
+                "D": "challenges stereotypes and is helping"
+              },
+              "correct": "D"
+            },
+            {
+              "number": 32,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "F": "No Change",
+                "G": "hip hop, dip hop is not simply, rap songs translated into ASL, but musical expression",
+                "H": "hip hop\u2014dip hop is not simply rap songs, trans- lated into ASL but musical expression,",
+                "J": "hip hop, dip hop is not simply rap songs translated into ASL but\u2014musical expression"
+              },
+              "correct": "F"
+            },
+            {
+              "number": 33,
+              "stem": "Which choice is clearest and most precise in context?",
+              "choices": {
+                "A": "No Change",
+                "B": "congregate",
+                "C": "compound",
+                "D": "integrate 9 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "D"
+            },
+            {
+              "number": 34,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "F": "No Change",
+                "G": "whom only sign their raps, and those whom",
+                "H": "which only sign their raps, and them that",
+                "J": "who only sign their raps, and them which"
+              },
+              "correct": "F"
+            },
+            {
+              "number": 35,
+              "stem": "Which choice most effectively leads the reader from the preceding paragraph to the information that follows in this paragraph?",
+              "choices": {
+                "A": "No Change",
+                "B": "And this is just one of many styles of rap that have developed over time.",
+                "C": "And dip hop is resonating.",
+                "D": "But each artist is unique."
+              },
+              "correct": "C"
+            },
+            {
+              "number": 36,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "F": "No Change",
+                "G": "are embracing",
+                "H": "embraces",
+                "J": "embrace"
+              },
+              "correct": "H"
+            },
+            {
+              "number": 37,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "A": "No Change",
+                "B": "thirty\u2014",
+                "C": "thirty,",
+                "D": "thirty:"
+              },
+              "correct": "B"
+            }
+          ]
+        },
+        {
+          "id": "eng-p4",
+          "title": "Passage 4",
+          "paragraphs": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "[See PDF for passage text]"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "number": 38,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "F": "No Change",
+                "G": "member, Dionta White,",
+                "H": "member, Dionta White",
+                "J": "member Dionta White, 10 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F"
+            },
+            {
+              "number": 39,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "A": "No Change",
+                "B": "revelatory, he has learned",
+                "C": "revelatory; he\u2019s learning",
+                "D": "revelatory; to learn"
+              },
+              "correct": "C"
+            },
+            {
+              "number": 40,
+              "stem": "Which choice makes the sentence most grammatically acceptable?",
+              "choices": {
+                "F": "No Change",
+                "G": "employees who have earned stipends to",
+                "H": "employees, having earned stipends, to",
+                "J": "employees have earned stipends to END OF TEST 1 DO NOT TURN THE PAGE UNTIL TOLD TO DO SO. 11"
+              },
+              "correct": "J"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "timeMinutes": 60,
+      "questions": [
+        {
+          "number": 1,
+          "stem": "What is the solution of the equation \u221a x \u2212 9 = 8 ?",
+          "choices": {
+            "A": "1",
+            "B": "25",
+            "C": "34",
+            "D": "289 \u2212_ 1 _1"
+          },
+          "imageSrc": "/tests/J08/math/page_12.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 2,
+          "stem": "2 = ? ( ) 64 _1",
+          "choices": {
+            "F": "\u2212 8 _1",
+            "G": "\u2212 128",
+            "H": "8",
+            "J": "128"
+          },
+          "imageSrc": "/tests/J08/math/page_12.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 4,
+          "stem": "When a fair coin is flipped a large number of times, the number of heads should be approximately equal to the number of tails. Assume that the fairness of a particular coin is being investigated. Which of the following results provides the strongest evidence that the coin is not fair?",
+          "choices": {
+            "F": "2 out of 3 flips were heads.",
+            "G": "3 out of 4 flips were heads.",
+            "H": "4 out of 5 flips were heads.",
+            "J": "5 out of 6 flips were heads. 12 ACT-J08 2 DO"
+          },
+          "imageSrc": "/tests/J08/math/page_12.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 5,
+          "stem": "Ana plans to save $200 for a summer skate park pass. She already has $45 and plans to save $15 per week. At this rate of savings, what is the minimum number of weeks after which Ana will have enough money for the skate park pass?",
+          "choices": {
+            "A": "10",
+            "B": "11",
+            "C": "13",
+            "D": "14"
+          },
+          "imageSrc": "/tests/J08/math/page_13.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 6,
+          "stem": "Similar triangles must have the same:",
+          "choices": {
+            "F": "angle measures.",
+            "G": "area.",
+            "H": "perimeter.",
+            "J": "side lengths."
+          },
+          "imageSrc": "/tests/J08/math/page_13.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 7,
+          "stem": "Which of the following expressions is equivalent 2 to (3x \u2212 9) ?",
+          "choices": {
+            "F": "6x \u2212 18 2",
+            "G": "6 x + 81",
+            "H": "9 x 2 \u2212 54x + 81 2",
+            "J": "9 x \u2212 27x + 18"
+          },
+          "imageSrc": "/tests/J08/math/page_13.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 8,
+          "stem": "Next year, there will be 3,432 high school students in a certain district. Each of these students will attend either East High School or West High School but not both. Because of the facilities, the ratio of the number of East High School students to the number of West High School students must be 11 to 13 . How many of these students will attend East High School?",
+          "choices": {
+            "A": "143",
+            "B": "1,573",
+            "C": "2,904",
+            "D": "4,056"
+          },
+          "imageSrc": "/tests/J08/math/page_14.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 9,
+          "stem": "",
+          "choices": {
+            "A": "worker earns a standard hourly wage of $20.10 per hour for the first 40 hours he works in 1 week. For each hour over 40 hours he works in 1 week, he earns _1 1 times his standard hourly wage. Which of the 2 following gives the amount, in dollars, this worker earns for working 54 hours in 1 week? _ 1",
+            "F": "54 (20.10 + (20.10)) 2 _1",
+            "G": "54 (20.10 + ( 1 ) (20.10)) 2 _1",
+            "H": "40 (20.10) + 14 ( ) (20.10) 2 _1",
+            "J": "40 (20.10) + 14 (1 ) (20.10) 2 13 ACT-J08 2 DO"
+          },
+          "imageSrc": "/tests/J08/math/page_14.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 10,
+          "stem": "For the complex variable z , one of the following is a 2 solution of z = \u22129 . Which one?",
+          "choices": {
+            "A": "\u22123",
+            "B": "3",
+            "C": "3i",
+            "D": "9i"
+          },
+          "imageSrc": "/tests/J08/math/page_14.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 11,
+          "stem": "",
+          "choices": {
+            "A": "student modeled a set of paired data with the equation y = 0.25x + 25 . The student\u2019s model and a scatterplot of the paired data are graphed in the standard (x,y) coordinate plane. Among the following possible changes to the student\u2019s equation, which one will most improve the fit to the paired data? y 100 75 50 25 O 25 50 75 100 x",
+            "F": "Increase the slope by 0.75",
+            "G": "Decrease the slope by 0.25",
+            "H": "Increase the y -intercept by 12.5",
+            "J": "Decrease the y -intercept by 12.5"
+          },
+          "imageSrc": "/tests/J08/math/page_15.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 13,
+          "stem": "This table lists the engine size, x liters, and the weight, w kilograms, of each of 5 vehicles. A linear model for w\u02c6 the data in the table is = 375x + 370. The actual weight of the vehicle with the smallest engine size differs from the linear model\u2019s predicted weight of this vehicle by how many kilograms? Engine Weight size (L) (kg) 2.0 1,041 4.3 2,021 3.4 1,670 2.8 1,547 4.0 1,754",
+          "choices": {
+            "F": "79",
+            "G": "296",
+            "H": "370",
+            "J": "671"
+          },
+          "imageSrc": "/tests/J08/math/page_15.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 14,
+          "stem": "Let d be a function of t . The given graph of the function models the distance, d meters, left to hike on a trail t minutes since beginning the hike. It took a total of 13 minutes to hike the 860 -meter trail. One of the following intervals is the domain of the function. Which one? sretem d 860 [ 13]",
+          "choices": {
+            "A": "0, ni _2_ ecnatsid",
+            "B": "0, 66 [ 13] _1 0",
+            "C": "0, 436 [ 2] 0 13 t",
+            "D": "[0, 860] time in minutes 10i + 2"
+          },
+          "imageSrc": "/tests/J08/math/page_15.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 15,
+          "stem": "Which of the following numbers is equal to _ ? 2i (Note: i 2 = \u22121 )",
+          "choices": {
+            "A": "5 \u2212 i",
+            "B": "6",
+            "C": "9i",
+            "D": "11i 15 ACT-J08 2 DO"
+          },
+          "imageSrc": "/tests/J08/math/page_16.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 17,
+          "stem": "The function y = 2 sin (6\u03c0x) is graphed in the standard (x,y) coordinate plane for x radians in the interval 0 \u2264 x \u2264 1 . What are the period and amplitude of the function? y 2 O 1 x \u22122 _ 1",
+          "choices": {
+            "A": "Period: 3 Amplitude: 2 _1",
+            "B": "Period: 3 Amplitude: 4",
+            "C": "Period: 3 Amplitude: 2",
+            "D": "Period: 3 Amplitude: 4"
+          },
+          "imageSrc": "/tests/J08/math/page_16.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 18,
+          "stem": "Let c , h , and q be distinct nonzero real numbers, and let x be a variable. Which of the following gives the solution to c (x \u2212 h) = q ? _q",
+          "choices": {
+            "F": "c \u2212 h _q",
+            "G": "c + h _q _h",
+            "H": "c + c _q _ c",
+            "J": "+ h h 16 ACT-J08 2 nRST DO"
+          },
+          "imageSrc": "/tests/J08/math/page_16.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 19,
+          "stem": "Given with RS = 18 cm, ST = 12 cm, and RT = 27 cm, which of the following statements is true about the angles of this triangle?",
+          "choices": {
+            "A": "The measure of \u2220R is the least.",
+            "B": "The measure of \u2220S is the least.",
+            "C": "The measure of \u2220R is the greatest.",
+            "D": "The measure of \u2220T is the greatest. \u22121"
+          },
+          "imageSrc": "/tests/J08/math/page_17.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 21,
+          "stem": "In the figure shown, a square is circumscribed about a circle with an 8 -inch radius. Diameter A\u203eB is parallel to 2 sides of the square, and C \u203eD is a diagonal of the square. Some regions, bounded by the square, the circle, A \u203eB , and C \u203eD , are shaded. Which of the following is closest to the total area, in square inches, of the shaded regions? C",
+          "choices": {
+            "A": "64",
+            "B": "176",
+            "C": "224",
+            "D": "256 maps the point (0,0) to itself and maps the point (4,\u221216) to the point (1,\u22124) . This dilation maps the point (12,\u221224) to the point:",
+            "F": "(3,\u22126)",
+            "G": "(9,\u221236)",
+            "H": "(15,\u221236)",
+            "J": "(16,\u221220) 17 ACT-J08 2 DO"
+          },
+          "imageSrc": "/tests/J08/math/page_17.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 23,
+          "stem": "",
+          "choices": {
+            "A": "$12.40",
+            "B": "$13.32",
+            "C": "$35.00",
+            "D": "$80.00"
+          },
+          "imageSrc": "/tests/J08/math/page_17.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 24,
+          "stem": "",
+          "choices": {
+            "A": "normal distribution for random variable X is given. Each percentage shown is the percentage of the area under that portion of the curve. 2% 34% 800 900 1,000 1,100 1,200X One of the following values is the value of P (1,100 < X < 1,200) to the nearest 1% . Which one?",
+            "F": "14%",
+            "G": "17%",
+            "H": "18%",
+            "J": "30%"
+          },
+          "imageSrc": "/tests/J08/math/page_18.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 25,
+          "stem": "Consider the repeating decimal 0.\u203e7 412 in expanded form. What is the 323 rd digit to the right of the decimal point?",
+          "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "7 18 ACT-J08 2 DO"
+          },
+          "imageSrc": "/tests/J08/math/page_18.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 26,
+          "stem": "Jabari is walking along a straight sidewalk when he sees a tree directly ahead of him. He estimates that the angle of elevation from his feet to the top of the tree is 25\u00b0 . As he continues walking, he finds that he was about 45 feet from the base of the tree when he estimated the angle of elevation. Based on Jabari\u2019s estimates, which of the following expressions represents the height, in feet, of the tree?",
+          "choices": {
+            "F": "45 sin 25\u00b0",
+            "G": "45 cos 25\u00b0",
+            "H": "45 tan 25\u00b0",
+            "J": "45 cot 25\u00b0"
+          },
+          "imageSrc": "/tests/J08/math/page_18.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 27,
+          "stem": "",
+          "choices": {
+            "A": "0.086",
+            "B": "1.029",
+            "C": "1.350",
+            "D": "1.475"
+          },
+          "imageSrc": "/tests/J08/math/page_19.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 28,
+          "stem": "The expression (x + by) n will be expanded and like terms will be combined. The resulting terms will be arranged in descending powers of x . After these steps are done, the 2 nd term will be 8 x 3 y . What will be the total number of terms?",
+          "choices": {
+            "A": "5",
+            "B": "8",
+            "C": "11",
+            "D": "12 19 ACT-J08 2 DO"
+          },
+          "imageSrc": "/tests/J08/math/page_19.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 29,
+          "stem": "The concentration of a certain medication decreases each hour such that at t = 0 hours, the concentration is approximately equal to 850 mg/L; at t = 6 hours, the concentration is approximately equal to 151 mg/L; and at t = 12 hours, the concentration is approximately equal to 27 mg/L. One of the following identifies the best type of functional model for the data representing this 12-hour interval and gives a valid reason why that model is best. Which one?",
+          "choices": {
+            "F": "Linear, because over equal time intervals, the concentration decreases by equal factors.",
+            "G": "Linear, because over equal time intervals, the concentration decreases by equal differences.",
+            "H": "Exponential, because over equal time intervals, the concentration decreases by equal factors.",
+            "J": "Exponential, because over equal time intervals, the concentration decreases by equal differences."
+          },
+          "imageSrc": "/tests/J08/math/page_19.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 30,
+          "stem": "Given that n is a rational number, which of the _ _\u22124\u221a 14 \u2212 n following statements about the number must 2 be true? _ _\u22124\u221a 14 \u2212 n",
+          "choices": {
+            "A": "is positive. 2 _ _\u22124\u221a 14 \u2212 n",
+            "B": "is negative. 2 _ _\u22124\u221a 14 \u2212 n",
+            "C": "is an irrational number. 2 _ _\u22124\u221a 14 \u2212 n",
+            "D": "is a rational number. 2 2 _ x 2 _ y"
+          },
+          "imageSrc": "/tests/J08/math/page_20.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 31,
+          "stem": "The graph of \u2212 = 1 in the standard ( x,y ) coordinate 9 49 plane has an x -intercept at which of the following points?",
+          "choices": {
+            "F": "( 0,0 )",
+            "G": "( 3,0 )",
+            "H": "( 7,0 )",
+            "J": "( 9,0 ) 20 ACT-J08 2 DO"
+          },
+          "imageSrc": "/tests/J08/math/page_20.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 32,
+          "stem": "One of the following is the equation of this graph in the standard (x,y) coordinate plane. Which one? y 10 5 O 5 10 x x \u2212 4",
+          "choices": {
+            "A": "y = 4 (4) \u2212 2",
+            "B": "y = 4 (4) x + 2 + 4",
+            "C": "y = 4 log (x \u2212 4) \u2212 2 4",
+            "D": "y = 4 log (x + 2) + 4 4"
+          },
+          "imageSrc": "/tests/J08/math/page_20.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 33,
+          "stem": "Event W consists of 14 simple events. Event X consists of 11 simple events, none of which are in event W . Event Y is the intersection of events W and X , and event Z is the union of events W and X . Which of the following statements is true? (Note: Given that event E consists of n simple events, \u23aaE\u23aa = n .)",
+          "choices": {
+            "F": "\u23aaX\u23aa < \u23aaW\u23aa < \u23aaY\u23aa < \u23aaZ\u23aa",
+            "G": "\u23aaX\u23aa < \u23aaW\u23aa < \u23aaZ\u23aa < \u23aaY\u23aa",
+            "H": "\u23aaY\u23aa < \u23aaX\u23aa < \u23aaW\u23aa < \u23aaZ\u23aa",
+            "J": "\u23aaY\u23aa < \u23aaZ\u23aa < \u23aaX\u23aa < \u23aaW\u23aa"
+          },
+          "imageSrc": "/tests/J08/math/page_21.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 34,
+          "stem": "An isosceles triangle, nABC , with A \u203eB \u2245 C \u203eB is shown. Points D , E , and H are the midpoints of A\u203eB , C\u203eB , and A \u203eC , respectively. Points F and G are the midpoints of D\u203eH and E \u203eH , respectively. What is the ratio of the area of nABC to the area of nFGH ? B",
+          "choices": {
+            "D": "64:1 21 ACT-J08 2 DO",
+            "F": "G",
+            "A": "4:1",
+            "B": "8:1",
+            "C": "16:1"
+          },
+          "imageSrc": "/tests/J08/math/page_21.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 35,
+          "stem": "Two perpendicular lines in the standard (x,y) coordinate plane each have nonzero slopes. What is the product of their slopes?",
+          "choices": {
+            "A": "\u22122",
+            "B": "\u22121",
+            "C": "1",
+            "D": "2"
+          },
+          "imageSrc": "/tests/J08/math/page_21.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 36,
+          "stem": "For integers m and n such that \u22123 \u2264 m \u2264 4 and \u221210 \u2264 n \u2264 9, what is the greatest possible value of \u23aam \u2212 n\u23aa ?",
+          "choices": {
+            "F": "5",
+            "G": "7",
+            "H": "12",
+            "J": "14"
+          },
+          "imageSrc": "/tests/J08/math/page_22.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 37,
+          "stem": "",
+          "choices": {
+            "A": "\u2212160",
+            "B": "\u221226",
+            "C": "80",
+            "D": "110"
+          },
+          "imageSrc": "/tests/J08/math/page_22.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 38,
+          "stem": "",
+          "choices": {
+            "A": "company designed a questionnaire to be completed by its employees. The questionnaire has 5 questions with the answer choices of only \u201cyes\u201d or \u201cno.\u201d Given that every question must be answered and an employee can only choose 1 answer to each question, in how many ways can an employee answer all 5 questions on the questionnaire?",
+            "F": "7",
+            "G": "25",
+            "H": "32",
+            "J": "64"
+          },
+          "imageSrc": "/tests/J08/math/page_22.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 39,
+          "stem": "Consider quantities a , b , and m . Given that 40% of m _ 7a is equal to a and that b = , which of the following 10 expressions gives 112% of m in terms of b ?",
+          "choices": {
+            "A": "4b",
+            "B": "12b",
+            "C": "40b",
+            "D": "84b ACT-J08 2 DO"
+          },
+          "imageSrc": "/tests/J08/math/page_23.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 40,
+          "stem": "The sum of the first 15 positive integers is 120 . Which of the following values is the sum of the first 75 positive integers?",
+          "choices": {
+            "F": "600",
+            "G": "1,140",
+            "H": "2,775",
+            "J": "2,850"
+          },
+          "imageSrc": "/tests/J08/math/page_23.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 41,
+          "stem": "What are the equations of all the asymptotes in the standard (x,y) coordinate plane for the function _ 3 x 2 y = f (x) = ? x 2 \u2212 9",
+          "choices": {
+            "A": "x = \u22123 and y = 3",
+            "B": "x = 3 and y = 0",
+            "C": "x = \u22123 , x = 3 , and y = 0",
+            "D": "x = \u22123 , x = 3 , and y = 3 STOP! DO NOT TURN TH DO NOT RE 23 ACT-J08"
+          },
+          "imageSrc": "/tests/J08/math/page_23.jpg",
+          "correct": "D"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "name": "Reading",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "3 3\n1. The main purpose of the passage is to: 6. Based on the passage, which of the following statements\nbest summarizes the role of convex mirrors after flat\nA. provide an overview of famous self-portraits cre-\nmirrors came into use for artists?\nated using flat glass mirrors.\nB. explore trends in the art world that led to the F. Although flat mirrors had obvious advantages for\ndevelopment of self-portraiture. self-portraitists, many artists refused to use them,\nC. describe the relationship and significance of mir- opting instead to use the older, more traditional\nrors to the development of self-portraits. convex mirrors.\nD. explain the history of and manufacturing methods G. Although the convex mirror became a less popular\ninvolved in the development of mirrors. tool for artists after flat mirrors became available,\nit nonetheless remained a well-known symbol of\n2. The main point of the first paragraph (lines 1\u201320) is the artist.\nthat: H. Some artists who began using flat mirrors chose to\nreturn to using convex mirrors for particular types\nF. while mirrors were not wholly responsible for the\nof works, especially narrative paintings.\ndevelopment of self-portraiture, they likely played\nJ. Once convex mirrors were used less often than\nan important role.\nflat mirrors for self-portraits, the convex mirror\nG. mirrors enabled people to see themselves, which\nbecame a symbol of outdated, unfashionable artis-\nlikely had a great social impact.\ntic practices.\nH. flat glass mirrors were invented in Venice around\nthe year 1500.\nJ. before flat mirrors were invented, convex mirrors\nwere the norm and not particularly helpful to most\nself-portraitists.\n3. Based on the passage, one similarity shared by A Man in\nArmour and Lady at the Virginals with a Gentleman is: 7. According to the passage, one development that allowed\nfor the invention of flat mirrors was a new kind of\nA. the featuring of a convex mirror in the paintings. glass that was particularly:\nB. the inclusion of flat glass mirrors in the paintings.\nC. a focus on domestic interiors. A. hard.\nD. the biographical backgrounds of the artists. B. sturdy.\nC. lightweight.\n4. In the context of the passage, the author uses the phrase D. clear.\n\u201cfuel the vanity\u201d (line 19) mainly to:\nF. question Renaissance artists\u2019 commitment to the\ngenre of the self-portrait.\nG. suggest one reason why the availability of mirrors\nmight have resulted in more self-portraits.\nH. dispute the idea that mirrors were a significant\n8. According to the passage, mirrors became widely avail-\ncause of vanity during the Renaissance.\nable in the nineteenth century primarily because of:\nJ. explain why the availability of mirrors affected\nsome artists more than others. F. the discovery of a new type of glass.\nG. the development of mercury and tin as silvering\n5. Which of the following statements most effectively agents.\ncaptures the process by which convex mirrors were H. a more economical silvering technique.\nproduced? J. consumers finally expressing a need for mirrors.\nA. A ball of molten metal was formed, covered with\nglass, allowed to cool, and then cut into individual\npieces.\nB. A ball of molten metal was formed, allowed to\ncool, cut into individual pieces, and then covered\nwith glass.\n9. As it is used in line 87, the word fixing most nearly\nC. A ball of blown glass was formed, cut into individ-\nmeans:\nual pieces, filled with molten metal, and then\nallowed to cool. A. focusing on.\nD. A ball of blown glass was formed, filled with B. adhering to.\nmolten metal, allowed to cool, and then cut into C. stabilizing.\nindividual pieces. D. correcting.\n25 GO ON TO THE NEXT PAGE.\nACT-J08",
+          "questions": [
+            {
+              "number": 1,
+              "stem": "The main purpose of the passage is to:",
+              "choices": {
+                "A": "provide an overview of famous self-portraits cre- ated using flat glass mirrors.",
+                "B": "explore trends in the art world that led to the development of self-portraiture.",
+                "C": "describe the relationship and significance of mir- rors to the development of self-portraits.",
+                "D": "explain the history of and manufacturing methods involved in the development of mirrors."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 2,
+              "stem": "The main point of the first paragraph (lines 1\u201320) is that:",
+              "choices": {
+                "F": "while mirrors were not wholly responsible for the development of self-portraiture, they likely played an important role.",
+                "G": "mirrors enabled people to see themselves, which likely had a great social impact.",
+                "H": "flat glass mirrors were invented in Venice around the year 1500.",
+                "J": "before flat mirrors were invented, convex mirrors were the norm and not particularly helpful to most self-portraitists."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 3,
+              "stem": "Based on the passage, one similarity shared by A Man in Armour and Lady at the Virginals with a Gentleman is:",
+              "choices": {
+                "A": "the featuring of a convex mirror in the paintings.",
+                "B": "the inclusion of flat glass mirrors in the paintings.",
+                "C": "a focus on domestic interiors.",
+                "D": "the biographical backgrounds of the artists."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 4,
+              "stem": "In the context of the passage, the author uses the phrase \u201cfuel the vanity\u201d (line 19) mainly to:",
+              "choices": {
+                "F": "question Renaissance artists\u2019 commitment to the genre of the self-portrait.",
+                "G": "suggest one reason why the availability of mirrors might have resulted in more self-portraits.",
+                "H": "dispute the idea that mirrors were a significant cause of vanity during the Renaissance.",
+                "J": "explain why the availability of mirrors affected some artists more than others."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 5,
+              "stem": "Which of the following statements most effectively captures the process by which convex mirrors were produced?",
+              "choices": {
+                "A": "A ball of molten metal was formed, covered with glass, allowed to cool, and then cut into individual pieces.",
+                "B": "A ball of molten metal was formed, allowed to cool, cut into individual pieces, and then covered with glass.",
+                "C": "A ball of blown glass was formed, cut into individ- ual pieces, filled with molten metal, and then allowed to cool.",
+                "D": "A ball of blown glass was formed, filled with molten metal, allowed to cool, and then cut into individual pieces. 25 ACT-J08 3"
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 6,
+              "stem": "Based on the passage, which of the following statements best summarizes the role of convex mirrors after flat mirrors came into use for artists?",
+              "choices": {
+                "F": "Although flat mirrors had obvious advantages for self-portraitists, many artists refused to use them, opting instead to use the older, more traditional convex mirrors.",
+                "G": "Although the convex mirror became a less popular tool for artists after flat mirrors became available, it nonetheless remained a well-known symbol of the artist.",
+                "H": "Some artists who began using flat mirrors chose to return to using convex mirrors for particular types of works, especially narrative paintings.",
+                "J": "Once convex mirrors were used less often than flat mirrors for self-portraits, the convex mirror became a symbol of outdated, unfashionable artis- tic practices."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 7,
+              "stem": "According to the passage, one development that allowed for the invention of flat mirrors was a new kind of glass that was particularly:",
+              "choices": {
+                "A": "hard.",
+                "B": "sturdy.",
+                "C": "lightweight.",
+                "D": "clear."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 8,
+              "stem": "According to the passage, mirrors became widely avail- able in the nineteenth century primarily because of:",
+              "choices": {
+                "F": "the discovery of a new type of glass.",
+                "G": "the development of mercury and tin as silvering agents.",
+                "H": "a more economical silvering technique.",
+                "J": "consumers finally expressing a need for mirrors."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 9,
+              "stem": "As it is used in line 87, the word fixing most nearly means:",
+              "choices": {
+                "A": "focusing on.",
+                "B": "adhering to.",
+                "C": "stabilizing.",
+                "D": "correcting. 25 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "A",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "genre": "LITERARY NARRATIVE",
+          "title": "Passage II",
+          "source": "",
+          "text": "Passage B by Delia Cai\nLITERARY NARRATIVE: Passage A is adapted from the short The narrator has just arrived with her fianc\u00e9, Ben, to visit her\nstory \u201cAll the Flowers in the Air\u201d by Aarti Monteiro (\u00a92021 by parents, and they\u2019ve stopped at a grocery store on the way\nKweli Journal, Inc.). Passage B is adapted from the novel Cen- home.\ntral Places by Delia Cai (\u00a92023 by Delia Cai).\nInside the H Mart, the instant confrontation with\nPassage A by Aarti Monteiro ninety thousand square feet of food laid out under a\nbattery of flashing screens and fluorescent bulbs and\nWith one more day in Bombay, Rani decided to 50plastic holly makes me want to stop and massage my\nvisit her old neighborhood. She followed the route to temples a little. Ben snaps a few pictures. My dad\nthe train station Siya had laid out and bought a ticket. observes Ben with a bemused expression. \u201cHe\u2019s very\nShe snaked her way through the crowded platform and good,\u201d my dad remarks to me, as if he can tell just by\n5stopped at a group of women. The long train staggered the way that Ben glides through the produce aisle, even\ninto view and the crowd pushed to the edge of the plat- 55though I am sure that Ben is the first photographer, and\nform. Rani felt her heart pulse, anxious about being left journalist, and photojournalist, that my dad has ever\nbehind. Before the train stopped completely, the women met in his entire life. I take the shopping cart from my\nhoisted themselves up and pushed Rani along with dad and follow him around as he gradually loses inter-\n10them. est in watching Ben and then revs into grocery mode,\n60picking out crates of Asian pears and fat persimmons\nThe train didn\u2019t have doors so she gripped the and twelve whole cartons of the soft tofu on sale for\nsticky railing as tightly as she could. Warm air blew ninety-nine cents each. Ben takes a few pictures of\nthrough the car as it crept forward. She watched the a bin overflowing with bok choy before putting his\nhomes and trees as they passed. She\u2019d always found camera away, which I\u2019m relieved about.\n15comfort in the anonymity of cities, how no one noticed\nyou nor cared whether or not you belonged. In this way 65 \u201cIt\u2019s a lot,\u201d I apologize as my dad bobs ahead of us\nBombay reminded her of New York\u2014it wouldn\u2019t wel- in the produce aisles. I think about what else I should\ncome you but it didn\u2019t mind that you were there. preemptively say that I\u2019m sorry for, amid the strange-\nness of trailing after my dad in this random Chicago\nRani had barely seen the Lower Parel sign before suburb H Mart, but Ben squeezes my hand and tells me\n20the current of people pushed her off. She stepped into a 70to stop.\nnarrow vegetable market beneath the tracks. She knew\nshe looked like a tourist but snapped photos anyway: a \u201cYou\u2019re so stressed out.\u201d He chuckles, and ordi-\npile of drying chilies, plump green peppers, flowers narily this would be all it takes to make me roll my eyes\nstrung together. The sellers called after her but she and nod along, but I\u2019m watching my dad closely so we\n25couldn\u2019t understand what they said and kept walking. don\u2019t lose him in the soy sauce aisle. \u201cBreathe,\u201d Ben\n75reminds me. \u201cEverything is going great, okay?\u201d\nShe glanced at her phone to see the directions to\nthe building. She walked up a hill, each curve a current He takes the cart from me and gestures for me to\nmoving her closer to her home until she finally stopped climb onto the end. I want to humor him, so I do, and\nat her old street corner. A high-rise stood in place of the he steers the cart past rows of Spam and cellophane\n30small building where they\u2019d lived. Scaffolding blew in noodles, his eyes softening with satisfaction as I try to\nthe hot wind and the gate was covered in dust. Rani 80tell him to slow down but start laughing instead. Maybe\ncould feel something tangle inside her like weeds. She this was a good idea, bringing my chronically starry-\nused to play foursquare in the parking lot with the eyed fianc\u00e9 home. If anyone could handle this trip, it\nneighborhood kids, walk to the small corner shop with was going to be Ben, Mr. Up for Whatever, and as long\n35her brother\u2014in matching blue and white school uni- as I had him with me, that made me the soon-to-be\nforms\u2014to buy candy. She waited, as if the building 85Mrs. Up for Whatever. And that meant I was truly\nwould turn back into the home she remembered if she coming back to this place as a different person than the\nwas just there long enough. She took a photograph of one who left. How stupid it was to worry about Ben on\nthe grey scaffolding against the bright sky. A passerby this trip when being slightly out of place, I realize, has\n40looked at where her camera pointed and mumbled always been his natural element.\nsomething Rani couldn\u2019t understand.\nShe quickly moved the camera back into her bag,\nthe sun beating down on her. When she was a child, she\nbelonged to the city in a way she never had to think\n45about. The disappointment of returning home is the\nburden of anyone who leaves.\n26 GO ON TO THE NEXT PAGE.\nACT-J08",
+          "questions": [
+            {
+              "number": 10,
+              "stem": "It can reasonably be inferred that the author of Pas- sage A uses the metaphors \u201ccurrent of people\u201d (line 20) and \u201ceach curve a current\u201d (line 27) primarily to:",
+              "choices": {
+                "F": "suggest that Rani is to some degree being com- pelled onward by external forces.",
+                "G": "emphasize the number of people in the crowds traveling alongside Rani.",
+                "H": "indicate that Rani is trying to remind herself to stay present and aware in the moment.",
+                "J": "underscore that the thought of returning home is deeply exciting to Rani."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 11,
+              "stem": "As it is used in Passage A, the phrase \u201claid out\u201d (line 3) most nearly means:",
+              "choices": {
+                "A": "outlined.",
+                "B": "invented.",
+                "C": "projected.",
+                "D": "interpreted."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 12,
+              "stem": "In Passage B, compared to the narrator, the narrator\u2019s father is characterized as being more focused on:",
+              "choices": {
+                "F": "chatting about the narrator\u2019s family.",
+                "G": "selecting various grocery items to buy.",
+                "H": "observing Ben\u2019s interactions with store patrons.",
+                "J": "helping Ben learn how to pick out the best produce."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 13,
+              "stem": "In Passage B, the narrator\u2019s thoughts in response to her father\u2019s remark about Ben\u2019s photography most nearly suggest that the narrator is:",
+              "choices": {
+                "A": "skeptical that her father has any true understanding of photojournalism.",
+                "B": "overjoyed that her father already seems to value Ben\u2019s professional skills.",
+                "C": "proud of being the one to introduce her father to the world of photojournalism.",
+                "D": "bewildered that her father doesn\u2019t ask Ben any questions about photography."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 14,
+              "stem": "As it is used in Passage B, the phrase \u201cchronically starry- eyed\u201d (lines 81\u201382) most nearly means that Ben:",
+              "choices": {
+                "F": "can often dazzle people with his charm.",
+                "G": "is regularly found daydreaming instead of working.",
+                "H": "has a consistently optimistic outlook on life.",
+                "J": "is frequently perceived by others as aloof and shy. 27 ACT-J08"
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 15,
+              "stem": "The passages are structurally similar in that both mainly:",
+              "choices": {
+                "A": "relate events that take place within a single day.",
+                "B": "recount characters\u2019 feelings and thoughts about moments from their past.",
+                "C": "describe a particular event and its long-term effects.",
+                "D": "alternate between relating characters\u2019 memories of the past and events occurring in the present."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 16,
+              "stem": "Which of the following statements best captures a dif- ference in the way the passages explore the themes of home and belonging?",
+              "choices": {
+                "F": "Passage A focuses on how Rani regrets leaving home; Passage B discusses the narrator\u2019s new- found desire to return home.",
+                "G": "Passage A considers how the place that was once home for Rani has changed; Passage B discusses how the narrator realizes that she herself is different.",
+                "H": "Passage A examines the lasting impact on Rani of leaving home as a child; Passage B considers the impact that returning home has on the narrator\u2019s relationship with her parents.",
+                "J": "Passage A focuses on how Rani feels that the people she once knew are different; Passage B examines how the narrator\u2019s hometown has changed."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 17,
+              "stem": "It can most reasonably be inferred from the passages that compared to the narrator of Passage B, Rani in Passage A would be more likely to describe her experi- ence of visiting her former home as:",
+              "choices": {
+                "A": "amusing.",
+                "B": "pleasant.",
+                "C": "stimulating.",
+                "D": "disappointing."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 18,
+              "stem": "Which of the following statements best describes how the tone of the last paragraph of Passage A (lines 42\u201346) compares to the tone of the last paragraph of Passage B (lines 76\u201389)?",
+              "choices": {
+                "F": "The tones are similar in that both reflect the content- ment the characters feel with their circumstances.",
+                "G": "The tones are similar in that both reflect the hesi- tancy and indecision the characters feel about what to do next.",
+                "H": "The tones are different in that Passage A ends with a tone of wistfulness, whereas Passage B ends on a hopeful note.",
+                "J": "The tones are different in that Passage A ends with a tone of acceptance, whereas Passage B ends on a defiant note. 27 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "H",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "genre": "INFORMATIONAL",
+          "title": "Passage III",
+          "source": "",
+          "text": "What Djokic found was strong geologic evidence\nthat the Dresser, now a dry, hot and barren outback\nINFORMATIONAL: This passage is from the article \u201cLife environment, had once been like the steaming pools and\nSprings\u201d by Martin J. Van Kranendonk, David Deamer, and erupting geysers of Yellowstone National Park in the\nTara Djokic (\u00a92017 by Scientific American). 55U.S., an active geothermal field. And everywhere in the\nDresser there are fossilized signs of life intimately\nThe researchers, who are also the authors of the passage, are\nassociated with the old hot spring system. Although the\nhiking back to their truck after spending the day at the Dresser\nDresser was not the actual site where the most primitive\nFormation.\nlife began half a billion years earlier, it was showing us\nHeading up the side of the creek embankment, 60that hydrothermal environments on land were present\nDjokic suddenly stumbles back downhill. Has she lost very early in Earth\u2019s history. Charles Darwin had sug-\nher balance? To stop her from falling, Van Kranendonk gested, back in 1871, that microbial life originated in\nreaches out to stop her and pushes her back uphill, \u201csome warm little pond.\u201d A number of scientists from\n5which prompts a screech, something unintelligible, and different fields now think that the author of On the\nfinally a sputtered cry: \u201cSp- ... p- ... p- ... pppider!\u201d 65Origin of Species had intuitively hit on something\nDjokic has not stumbled at all. She is in flight mode, in important. And the implications of these ideas stretch\nfear for her life as she tries to swat away the thick beyond our own planet: in our search for alien life else-\nspider web enveloping her. Spiders have a deservedly where in the solar system, a land-based theory about\n10bad reputation in Australia. In the dark, it is not a good origins would guide us to different places and planets\nidea to assume that you have found the odd benign 70than would an ocean-based theory.\nspecies.\nTen years before Djokic\u2019s run-in with the spider\nThe reason we are feeling our way around the Pil- web, another of us (Deamer) had shown that volcanic\nbara at night is because we had spent the day enthralled pools could foster the assembly of compartments made\n15by a new discovery Djokic had made in 3.48-billion- of membranes, essential boundaries of all cellular life.\nyear-old sedimentary rocks called the Dresser Forma-\ntion. Some of the rocks are wrinkled orange and white\nlayers, called geyserite, which were created by a volca-\nnic geyser on Earth\u2019s surface. They revealed bubbles\n20formed when gas was trapped in a sticky film, most\nlikely produced by a thin layer of bacterialike microor-\nganisms. The surface rocks and indications of biofilms\nsupport a new idea about one of the oldest mysteries on\nthe planet: how and where life got started. The evidence\n25pointed to volcanic hot springs and pools, on land,\nabout 3.5 billion years ago.\nThis is a far different picture of life\u2019s origins from\nthe one scientists have been sketching since 1977. That\nwas the year the research submarine Alvin discovered\n30hydrothermal vents at the bottom of the Pacific Ocean 19. The primary purpose of the passage is to:\npumping out minerals containing iron and sulfur and\nF. relate the story of how researchers studying the\ngases such as methane and hydrogen sulfide, sur-\nDresser Formation found indications of biofilms in\nrounded by primitive bacteria and large worms. It was a\ngeyserite.\nthriving ecosystem. Biologists have since theorized that\nG. explain how evidence from the Dresser Formation\n35such vents, protected from the cataclysms wracking\nsupports a new idea about where life on Earth\nEarth\u2019s surface about four billion years ago, could have\nbegan.\nprovided the energy, nutrients and a safe haven for life\nH. discuss the strengths and weaknesses of theories\nto begin. But the theory has problems. The big one is\nabout where life on Earth began.\nthat the ocean has a lot of water, and in it the needed\nJ. provide a chronology of the prevailing beliefs\n40molecules might spread out too quickly to interact and\nabout when and where life on Earth began.\nform cell membranes and primitive metabolisms.\n20. Which of the following events mentioned in the passage\nNow we and others believe land pools that repeat-\noccurred last chronologically?\nedly dry out and then get wet again could be much\nbetter places. The pools have heat to catalyze reactions, A. Van Kranendonk reached out to push Djokic back\n45dry spells in which complex molecules called polymers uphill.\ncan be formed from simpler units, wet spells that float B. Djokic discovered indications of biofilms in the\nthese polymers around, and further drying periods that Dresser Formation.\nmaroon them in tiny cavities where they can interact C. Djokic encountered the spiderweb.\nand even become concentrated in compartments of fatty D. The researchers began hiking through the Pilbara\n50acids\u2014the prototypes of cell membranes. at night.\n28 GO ON TO THE NEXT PAGE.\nACT-J08",
+          "questions": [
+            {
+              "number": 19,
+              "stem": "The primary purpose of the passage is to:",
+              "choices": {
+                "F": "relate the story of how researchers studying the Dresser Formation found indications of biofilms in geyserite.",
+                "G": "explain how evidence from the Dresser Formation supports a new idea about where life on Earth began.",
+                "H": "discuss the strengths and weaknesses of theories about where life on Earth began.",
+                "J": "provide a chronology of the prevailing beliefs about when and where life on Earth began."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 20,
+              "stem": "Which of the following events mentioned in the passage occurred last chronologically?",
+              "choices": {
+                "A": "Van Kranendonk reached out to push Djokic back uphill.",
+                "B": "Djokic discovered indications of biofilms in the Dresser Formation.",
+                "C": "Djokic encountered the spiderweb.",
+                "D": "The researchers began hiking through the Pilbara at night. 28 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 21,
+              "stem": "Based on lines 13\u201326 and 71\u201374, what can reasonably be inferred about the relationship between Djokic\u2019s and Deamer\u2019s discoveries?",
+              "choices": {
+                "F": "Djokic found geologic evidence to support what Deamer had shown was possible.",
+                "G": "Deamer found the same geologic evidence in the Dresser a decade earlier than Djokic did.",
+                "H": "Deamer\u2019s research later proved that Djokic had found evidence of early life on Earth.",
+                "J": "Djokic\u2019s discovery undermined Deamer\u2019s research from ten years earlier."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 22,
+              "stem": "Which of the following details from the passage most directly challenges the claim that life originated in the ocean?",
+              "choices": {
+                "A": "Primitive bacteria weren\u2019t found on ocean-based hydrothermal vents until 1977.",
+                "B": "In vast amounts of water, molecules may spread out too quickly to interact.",
+                "C": "Cataclysms wracked the Earth about four billion years ago.",
+                "D": "Hydrothermal vents emit gases such as hydrogen sulfide."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 23,
+              "stem": "Which of the following statements best summarizes the passage\u2019s description of polymers in land pools?",
+              "choices": {
+                "F": "Polymers form during a heated dry spell, and then they float around and interact with each other during wet spells.",
+                "G": "Polymers form and interact in the pools during wet spells, then float around and become fatty acids during dry spells.",
+                "H": "Polymers form during a dry spell, float around during a wet spell, and interact with each other when the pools dry out again.",
+                "J": "Polymers repeatedly dry out and get wet again, which allows them to interact with each other. STOP! DO N 29 ACT-J08"
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 24,
+              "stem": "As it is used in line 11, the word odd most nearly means:",
+              "choices": {
+                "A": "unorthodox.",
+                "B": "eccentric.",
+                "C": "miscellaneous.",
+                "D": "unlikely."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 25,
+              "stem": "In the passage, what evidence mentioned by the authors best supports the claim \u201cit was a thriving ecosystem\u201d (lines 33\u201334)?",
+              "choices": {
+                "F": "Biologists\u2019 theories about hydrothermal vents after the 1977 Alvin discovery",
+                "G": "The minerals, gases, and organisms that the Alvin detected around hydrothermal vents",
+                "H": "The similarities between the ecosystems of hydro- thermal vents and volcanic pools",
+                "J": "How primitive bacteria use iron and sulfur to form cell membranes"
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 26,
+              "stem": "The passage authors include the details about Yellow- stone National Park primarily to:",
+              "choices": {
+                "A": "provide an example of where fossilized signs of life have been found.",
+                "B": "acknowledge where life on Earth likely began.",
+                "C": "portray what the Dresser once looked like.",
+                "D": "emphasize how similar the Dresser\u2019s current cli- mate is to Yellowstone\u2019s."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 27,
+              "stem": "According to the passage, establishing a land-based theory for life\u2019s origins will likely influence future research pertaining to:",
+              "choices": {
+                "F": "prototypes of cell membranes.",
+                "G": "sedimentary rocks in the Pilbara.",
+                "H": "how hydrothermal vents function.",
+                "J": "the search for alien life. END OF TEST 3 NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST. 29"
+              },
+              "correct": "J",
+              "lineRef": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "title": "Passage i",
+          "imageSrc": "/tests/J08/science/passage_passage-i.jpg",
+          "startPage": 30,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "The speed of sound is directly proportional to the fre- quency of the sound wave. Based on the results of Experiment 1, how did the speed of sound vary, if at all, between 0 s and 120 s? The speed of sound:",
+              "choices": {
+                "A": "increased and then decreased.",
+                "B": "increased and then remained constant.",
+                "C": "decreased and then remained constant.",
+                "D": "did not vary."
+              },
+              "correct": "B",
+              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+            },
+            {
+              "number": 2,
+              "stem": "The musical note A6 has a frequency of 1,760 Hz. How many of the frequencies listed in Table 1 are higher than the note A6?",
+              "choices": {
+                "F": "5",
+                "G": "6",
+                "H": "10",
+                "J": "12"
+              },
+              "correct": "H",
+              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+            },
+            {
+              "number": 3,
+              "stem": "Based on the results of Experiments 1 and 2, if the pro- cedures of Experiment 1 had been repeated and the fre- quency of the sound wave at 60 s had been 2,300 Hz, the height of water in the beaker would most likely have been:",
+              "choices": {
+                "A": "less than 10 cm.",
+                "B": "between 12 cm and 14 cm.",
+                "C": "between 14 cm and 16 cm.",
+                "D": "greater than 16 cm. 31 4"
+              },
+              "correct": "C",
+              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+            },
+            {
+              "number": 4,
+              "stem": "In Experiment 1, during which of the following time intervals was the average rate of change in frequency least?",
+              "choices": {
+                "F": "From 0 s to 10 s",
+                "G": "From 20 s to 30 s",
+                "H": "From 40 s to 50 s",
+                "J": "From 60 s to 70 s"
+              },
+              "correct": "J",
+              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+            },
+            {
+              "number": 5,
+              "stem": "In which of the experiments, if either, did the scientist vary the rate of tapping the base of the beaker?",
+              "choices": {
+                "A": "Experiment 1 only",
+                "B": "Experiment 2 only",
+                "C": "Both Experiment 1 and Experiment 2",
+                "D": "Neither Experiment 1 nor Experiment 2"
+              },
+              "correct": "D",
+              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+            },
+            {
+              "number": 6,
+              "stem": "Based on the procedures of Experiment 1 and Experi- ment 2, what was the height of the water when the water had the least concentration of salt?",
+              "choices": {
+                "F": "10 cm",
+                "G": "12 cm",
+                "H": "14 cm",
+                "J": "16 cm 31 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J",
+              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "title": "Passage II",
+          "imageSrc": "/tests/J08/science/passage_passage-ii.jpg",
+          "startPage": 32,
+          "questions": [
+            {
+              "number": 7,
+              "stem": "Based on Figure 1, the greatest number of lightning discharges occurred during which time period, and approximately how many lightning discharges were observed during that time period?",
+              "choices": {
+                "A": "Time period: 4:55 p.m. to 5:00 p.m. Number of discharges: 85",
+                "B": "Time period: 4:55 p.m. to 5:00 p.m. Number of discharges: 100",
+                "C": "Time period: 5:00 p.m. to 5:05 p.m. Number of discharges: 85",
+                "D": "Time period: 5:00 p.m. to 5:05 p.m. Number of discharges: 100"
+              },
+              "correct": "B",
+              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+            },
+            {
+              "number": 8,
+              "stem": "Which of the following lists Storm 2, Storm 4, Storm 6, and Storm 8 in order from the storm with the highest maximum flash rate to the storm with the lowest maxi- mum flash rate?",
+              "choices": {
+                "F": "Storm 4, Storm 2, Storm 8, Storm 6",
+                "G": "Storm 4, Storm 8, Storm 2, Storm 6",
+                "H": "Storm 6, Storm 2, Storm 8, Storm 4",
+                "J": "Storm 6, Storm 8, Storm 2, Storm 4 32 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "H",
+              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+            },
+            {
+              "number": 9,
+              "stem": "For Storm 7, what was the approximate average number of discharges per minute (average flash rate), and what was the approximate difference between the maximum flash rate and the average flash rate?",
+              "choices": {
+                "A": "Average flash rate: 3 Difference: 5",
+                "B": "Average flash rate: 3 Difference: 15",
+                "C": "Average flash rate: 5 Difference: 5",
+                "D": "Average flash rate: 5 Difference: 15"
+              },
+              "correct": "C",
+              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+            },
+            {
+              "number": 10,
+              "stem": "Based on Figure 2, exactly 9 lightning discharges were detected for which range(s) of charge?",
+              "choices": {
+                "F": "15\u221220 C only",
+                "G": "15\u221220 C and 25\u221230 C only",
+                "H": "20\u221225 C and 30\u221235 C only",
+                "J": "20\u221225 C, 25\u221230 C, and 30\u221235 C only 33 4"
+              },
+              "correct": "J",
+              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+            },
+            {
+              "number": 11,
+              "stem": "Based on Figure 1, what was the approximate average flash rate per minute for the 5 min time period starting at 5:25 p.m.?",
+              "choices": {
+                "A": "5 discharges/min",
+                "B": "9 discharges/min",
+                "C": "11 discharges/min",
+                "D": "16 discharges/min"
+              },
+              "correct": "A",
+              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+            },
+            {
+              "number": 12,
+              "stem": "Based on Table 1 and the description of Figure 2, how many lightning discharges from Storm 6 are not repre- sented in Figure 2?",
+              "choices": {
+                "F": "70",
+                "G": "75",
+                "H": "445",
+                "J": "515 33 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "H",
+              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "title": "Passage III",
+          "imageSrc": "/tests/J08/science/passage_passage-iii.jpg",
+          "startPage": 34,
+          "questions": [
+            {
+              "number": 13,
+              "stem": "Based on the Introduction, which of the following state- ments best describes the pancreas? The pancreas is:",
+              "choices": {
+                "A": "a cell, the smallest functional unit of a living organism.",
+                "B": "a cell, a group of tissues that perform a specific function.",
+                "C": "an organ, the smallest functional unit of a living organism.",
+                "D": "an organ, a group of tissues that perform a specific function. 34 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "D",
+              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+            },
+            {
+              "number": 14,
+              "stem": "Based on the explanation given by Student 3, if the release of somatostatin increased, would the release of insulin most likely increase or decrease, and would the release of glucagon most likely decrease or stay approximately the same?",
+              "choices": {
+                "F": "Insulin: increase Glucagon: decrease",
+                "G": "Insulin: increase Glucagon: stay approximately the same",
+                "H": "Insulin: decrease Glucagon: decrease",
+                "J": "Insulin: decrease Glucagon: stay approximately the same"
+              },
+              "correct": "G",
+              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+            },
+            {
+              "number": 15,
+              "stem": "Which of Students 1, 2, and 3 would agree that a BG concentration of 2 mmol/L is not recommended?",
+              "choices": {
+                "A": "Student 2 only",
+                "B": "Students 1 and 3 only",
+                "C": "Students 2 and 3 only",
+                "D": "Students 1, 2, and 3"
+              },
+              "correct": "C",
+              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+            },
+            {
+              "number": 16,
+              "stem": "All 4 student explanations are consistent with which of the following statements about somatostatin? Soma- tostatin is:",
+              "choices": {
+                "F": "an endocrine cell that can regulate hormone release.",
+                "G": "an endocrine cell that cannot regulate hormone release.",
+                "H": "a chemical messenger that can regulate hormone release.",
+                "J": "a chemical messenger that cannot regulate hor- mone release. 35 4"
+              },
+              "correct": "H",
+              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+            },
+            {
+              "number": 17,
+              "stem": "In Figure 1, consider the BG concentration that results in the greatest amount of glucagon released. Are these data consistent with Student 1\u2019s explanation?",
+              "choices": {
+                "A": "Yes; Student 1 indicated that the greatest amount of glucagon is released when BG concentrations are within the set point.",
+                "B": "Yes; Student 1 indicated that the greatest amount of glucagon is released when BG concentrations are greater than the set point.",
+                "C": "No; Student 1 indicated that the greatest amount of glucagon is released when BG concentrations are within the set point.",
+                "D": "No; Student 1 indicated that the greatest amount of glucagon is released when BG concentrations are greater than the set point."
+              },
+              "correct": "D",
+              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+            },
+            {
+              "number": 18,
+              "stem": "Is the explanation given by Student 4 consistent with the definition of the BG set point in the Introduction?",
+              "choices": {
+                "F": "No; Student 4 indicated that the BG set point was not recommended, but based on the Intro- duction, the BG set point results in optimal body functioning.",
+                "G": "No; Student 4 indicated that the BG set point was recommended, but based on the Introduction, the BG set point results in poor body functioning.",
+                "H": "Yes; Student 4 indicated that the BG set point was not recommended, and based on the Introduction, the BG set point results in poor body functioning.",
+                "J": "Yes; Student 4 indicated that the BG set point was recommended, and based on the Introduction, the BG set point results in optimal body functioning. 35 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F",
+              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "title": "Passage IV",
+          "imageSrc": "/tests/J08/science/passage_passage-iv.jpg",
+          "startPage": 36,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "Suppose that in Study 3 a trial had been run in which 0.9 mL of H O had been added. The percentage of 2 2 phenol removed would most likely have been:",
+              "choices": {
+                "A": "less than 5%.",
+                "B": "between 5% and 12%.",
+                "C": "between 12% and 20%.",
+                "D": "greater than 20%."
+              },
+              "correct": "C",
+              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+            },
+            {
+              "number": 20,
+              "stem": "The lowest percentage of phenol removed in Study 1 was approximately how many times as great as the lowest percentage of phenol removed in Study 3? _1 F. 6 _1 G. 4",
+              "choices": {
+                "H": "4",
+                "J": "6"
+              },
+              "correct": "J",
+              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+            },
+            {
+              "number": 21,
+              "stem": "Less than 10% of the phenol was removed in a total of how many trials from Study 2?",
+              "choices": {
+                "A": "1 trial",
+                "B": "2 trials",
+                "C": "3 trials",
+                "D": "4 trials 37 4"
+              },
+              "correct": "D",
+              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+            },
+            {
+              "number": 22,
+              "stem": "Which of the following was an independent variable in Study 2?",
+              "choices": {
+                "F": "pH",
+                "G": "H O added 2 2",
+                "H": "Phenol concentration",
+                "J": "Temperature"
+              },
+              "correct": "G",
+              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+            },
+            {
+              "number": 23,
+              "stem": "Suppose it were found that a typical sample of waste- water had a phenol concentration of 30 mg/L and a pH of 9. Assume that the percentage of phenol removed from a wastewater sample would be the same as for the phenol samples used in the studies. Based on the results of Study 1, after treatment with H O under the 2 2 same conditions as those used in the study, the concen- tration of phenol in the wastewater would most likely be closest to:",
+              "choices": {
+                "A": "10 mg/L.",
+                "B": "15 mg/L.",
+                "C": "25 mg/L.",
+                "D": "30 mg/L."
+              },
+              "correct": "B",
+              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+            },
+            {
+              "number": 24,
+              "stem": "Consider the trial in Study 1 in which the percentage of phenol removed was closest to 60.0%. In Step 2 of that trial, is it more likely that NaOH or HCl was added to the phenol solution?",
+              "choices": {
+                "F": "NaOH; the solution tested in that trial was more basic than the starting phenol solution.",
+                "G": "NaOH; the solution tested in that trial was more acidic than the starting phenol solution.",
+                "H": "HCl; the solution tested in that trial was more basic than the starting phenol solution.",
+                "J": "HCl; the solution tested in that trial was more acidic than the starting phenol solution. 37 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F",
+              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-v",
+          "title": "Passage V",
+          "imageSrc": "/tests/J08/science/passage_passage-v.jpg",
+          "startPage": 38,
+          "questions": [
+            {
+              "number": 25,
+              "stem": "The value of H was greatest in which of the following trials?",
+              "choices": {
+                "A": "Trial 1",
+                "B": "Trial 4",
+                "C": "Trial 7",
+                "D": "Trial 10"
+              },
+              "correct": "C",
+              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+            },
+            {
+              "number": 26,
+              "stem": "",
+              "choices": {
+                "A": "difference between Study 1 and Study 3 is best described by which of the following statements?",
+                "F": "The V tested in Study 1 was greater than that tested in Study 3.",
+                "G": "The V tested in Study 1 was less than that tested in Study 3.",
+                "H": "The R tested in Study 1 was greater than that tested in Study 3.",
+                "J": "The R tested in Study 1 was less than that tested in Study 3. Li+?"
+              },
+              "correct": "G",
+              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+            },
+            {
+              "number": 27,
+              "stem": "In Study 2, what was the value of V for",
+              "choices": {
+                "A": "1.00 \u00d7 103 m/s 103",
+                "B": "2.00 \u00d7 m/s",
+                "C": "1.00 \u00d7 104 m/s 104",
+                "D": "2.00 \u00d7 m/s 39 4 10\u22123"
+              },
+              "correct": "A",
+              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+            },
+            {
+              "number": 28,
+              "stem": "One millitesla (mT) equals tesla (T). In Trial 8, what was H in mT? 10\u22123",
+              "choices": {
+                "F": "31.2 \u00d7 mT",
+                "G": "31.2 mT 103",
+                "H": "31.2 \u00d7 mT",
+                "J": "48.0 \u00d7 103 mT"
+              },
+              "correct": "G",
+              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+            },
+            {
+              "number": 29,
+              "stem": "The mass of an Li+ ion is 1.1 \u00d7 10\u221226 kg and the mass of Na+, 10\u221226 Li+ a sodium ion, is 3.8 \u00d7 kg. Suppose the were traveling at the maximum speed tested in Study 1 Na+ and the were traveling at the maximum speed tested in Study 2. Compared to the kinetic energy of Na+, Li+ the the kinetic energy of the ion would be:",
+              "choices": {
+                "A": "greater.",
+                "B": "the same.",
+                "C": "less.",
+                "D": "sometimes greater and sometimes less. 39 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-vi",
+          "title": "Passage VI",
+          "imageSrc": "/tests/J08/science/passage_passage-vi.jpg",
+          "startPage": 40,
+          "questions": [
+            {
+              "number": 30,
+              "stem": "Seahorses carry their fertilized eggs in a brood pouch while the embryos fully develop. Based on Figure 1, which of male or female seahorses carry the fertilized eggs?",
+              "choices": {
+                "F": "Males; females deposit the sperm into the male\u2019s brood pouch where the male deposits its eggs.",
+                "G": "Males; females deposit the eggs into the male\u2019s brood pouch where the eggs are fertilized by the male\u2019s sperm.",
+                "H": "Females; males deposit the sperm into the female\u2019s brood pouch where the female deposits its eggs.",
+                "J": "Females; males deposit the eggs into the female\u2019s brood pouch where the eggs are fertilized by the female\u2019s sperm. S 41 4"
+              },
+              "correct": "G",
+              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+            },
+            {
+              "number": 31,
+              "stem": "Which of Group 3 and Group 4, if either, experienced no mortality prior to 56 days post-hatch?",
+              "choices": {
+                "A": "Group 3 only",
+                "B": "Group 4 only",
+                "C": "Both Group 3 and Group 4",
+                "D": "Neither Group 3 nor Group 4"
+              },
+              "correct": "C",
+              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+            },
+            {
+              "number": 32,
+              "stem": "Wet mass was measured during which of the grow-out stage and the nursery stage, if either?",
+              "choices": {
+                "F": "Grow-out stage only",
+                "G": "Nursery stage only",
+                "H": "Both the grow-out stage and the nursery stage",
+                "J": "Neither the grow-out stage nor the nursery stage"
+              },
+              "correct": "F",
+              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+            },
+            {
+              "number": 33,
+              "stem": "Consider the statement \u201cBy 98 days post-hatch, seahorses fed a diet of both blended fish and Acetes sp. had a greater average percent survival than did seahorses fed blended fish only.\u201d Is this statement con- sistent with the data shown in Figure 3?",
+              "choices": {
+                "A": "No; Group 2 seahorses had an average percent sur- vival just over 30 percentage points less than that of Group 4.",
+                "B": "No; Group 2 seahorses had an average percent sur- vival just under 30 percentage points less than that of Group 4.",
+                "C": "Yes; Group 2 seahorses had an average percent survival just over 30 percentage points less than that of Group 4.",
+                "D": "Yes; Group 2 seahorses had an average percent survival just under 30 percentage points less than that of Group 4."
+              },
+              "correct": "D",
+              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+            },
+            {
+              "number": 34,
+              "stem": "Based on the data available in Figure 2, was the overall rate of change in average SL greater over the course of the nursery stage or over the course of the grow-out stage?",
+              "choices": {
+                "F": "Nursery stage; the overall rate of change during the nursery stage was greater than 1.0 mm/day, whereas the overall rate of change during the grow-out stage was less than 1.0 mm/day.",
+                "G": "Nursery stage; the overall rate of change during the nursery stage was greater than 0.5 mm/day, whereas the overall rate of change during the grow-out stage was less than 0.5 mm/day.",
+                "H": "Grow-out stage; the overall rate of change during the grow-out stage was greater than 1.0 mm/day, whereas the overall rate of change during the nurs- ery stage was less than 1.0 mm/day.",
+                "J": "Grow-out stage; the overall rate of change during the grow-out stage was greater than 0.5 mm/day, whereas the overall rate of change during the nurs- ery stage was less than 0.5 mm/day. END OF TEST 4 STOP! DO NOT RETURN TO ANY OTHER TEST. 41"
+              },
+              "correct": "F",
+              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scaleTable": {
+    "english": {
+      "40": 36,
+      "37": 35,
+      "38": 35,
+      "39": 35,
+      "36": 34,
+      "35": 33,
+      "34": 32,
+      "33": 30,
+      "32": 29,
+      "31": 28,
+      "30": 27,
+      "29": 26,
+      "27": 25,
+      "28": 25,
+      "26": 24,
+      "24": 23,
+      "25": 23,
+      "23": 22,
+      "21": 21,
+      "22": 21,
+      "19": 20,
+      "20": 20,
+      "18": 19,
+      "17": 18,
+      "16": 16,
+      "14": 15,
+      "15": 15,
+      "13": 14,
+      "12": 13,
+      "11": 12,
+      "9": 11,
+      "10": 11,
+      "7": 10,
+      "8": 10,
+      "6": 9,
+      "5": 8,
+      "4": 7,
+      "3": 5,
+      "2": 4,
+      "1": 2,
+      "0": 1
+    },
+    "math": {
+      "41": 36,
+      "39": 35,
+      "40": 35,
+      "37": 34,
+      "38": 34,
+      "36": 33,
+      "35": 32,
+      "33": 31,
+      "34": 31,
+      "32": 30,
+      "31": 29,
+      "29": 28,
+      "30": 28,
+      "28": 27,
+      "26": 26,
+      "27": 26,
+      "25": 25,
+      "23": 24,
+      "24": 24,
+      "22": 23,
+      "21": 22,
+      "20": 21,
+      "19": 20,
+      "18": 19,
+      "16": 18,
+      "17": 18,
+      "14": 17,
+      "15": 17,
+      "12": 16,
+      "13": 16,
+      "10": 15,
+      "11": 15,
+      "8": 14,
+      "9": 14,
+      "7": 13,
+      "6": 12,
+      "5": 11,
+      "4": 10,
+      "3": 9,
+      "2": 7,
+      "1": 4,
+      "0": 1
+    },
+    "reading": {
+      "26": 36,
+      "27": 36,
+      "25": 35,
+      "24": 34,
+      "23": 33,
+      "22": 32,
+      "21": 30,
+      "20": 29,
+      "19": 28,
+      "18": 26,
+      "17": 25,
+      "16": 24,
+      "15": 23,
+      "14": 22,
+      "13": 20,
+      "12": 19,
+      "11": 17,
+      "10": 16,
+      "9": 14,
+      "8": 13,
+      "7": 12,
+      "6": 11,
+      "5": 10,
+      "4": 9,
+      "3": 7,
+      "2": 5,
+      "1": 3,
+      "0": 1
+    },
+    "science": {
+      "33": 36,
+      "34": 36,
+      "32": 35,
+      "31": 34,
+      "30": 33,
+      "29": 32,
+      "28": 31,
+      "27": 29,
+      "26": 28,
+      "25": 27,
+      "24": 26,
+      "22": 25,
+      "23": 25,
+      "21": 24,
+      "19": 23,
+      "20": 23,
+      "18": 22,
+      "17": 21,
+      "16": 20,
+      "15": 19,
+      "14": 18,
+      "13": 17,
+      "11": 16,
+      "12": 16,
+      "10": 15,
+      "9": 14,
+      "8": 13,
+      "6": 12,
+      "7": 12,
+      "5": 11,
+      "4": 10,
+      "3": 8,
+      "2": 6,
+      "1": 4,
+      "0": 1
+    }
+  }
+}

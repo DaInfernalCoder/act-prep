@@ -1,0 +1,2515 @@
+{
+  "id": "F12",
+  "name": "ACT Form F12",
+  "sections": [
+    {
+      "id": "english",
+      "name": "English",
+      "timeMinutes": 45,
+      "passages": [
+        {
+          "id": "eng-p1",
+          "title": "Passage 1",
+          "paragraphs": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "[See PDF for passage text]"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "number": 1,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "used, throughout her career,",
+                "C": "used throughout her career,",
+                "D": "used throughout her career"
+              },
+              "correct": "D"
+            },
+            {
+              "number": 2,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "but regarding",
+                "H": "yet regarding",
+                "J": "so regarded"
+              },
+              "correct": "F"
+            },
+            {
+              "number": 3,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "I was used to the",
+                "C": "Used to the",
+                "D": "The"
+              },
+              "correct": "B"
+            },
+            {
+              "number": 4,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "For example,",
+                "H": "In contrast,",
+                "J": "Still,"
+              },
+              "correct": "H"
+            },
+            {
+              "number": 5,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "print of the letter, depending on the key that was pressed.",
+                "C": "corresponding letter that matched.",
+                "D": "corresponding letter."
+              },
+              "correct": "D"
+            },
+            {
+              "number": 6,
+              "stem": "Which choice most effectively maintains the narrator\u2019s tone by using exaggeration for emphasis?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "kind of a long time",
+                "H": "a while",
+                "J": "time 2 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F"
+            },
+            {
+              "number": 7,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "neighborhood, empty notebook in hand,",
+                "C": "neighborhood, empty notebook in hand",
+                "D": "neighborhood empty notebook in hand g k"
+              },
+              "correct": "B"
+            },
+            {
+              "number": 8,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "forth for it was",
+                "H": "forth, it was",
+                "J": "forth being"
+              },
+              "correct": "F"
+            },
+            {
+              "number": 9,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "while hand-delivering",
+                "C": "I hand-delivered",
+                "D": "hand-delivering"
+              },
+              "correct": "C"
+            },
+            {
+              "number": 10,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Of course,",
+                "H": "However,",
+                "J": "Instead,"
+              },
+              "correct": "G"
+            },
+            {
+              "number": 11,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "designated",
+                "C": "assigned",
+                "D": "referred 3 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "A"
+            },
+            {
+              "number": 13,
+              "stem": "The essay writer is considering deleting the underlined portion. Should the underlined portion be kept or deleted?",
+              "choices": {
+                "A": "Yes, because it describes the narrator\u2019s most sig- nificant news stories and how they shaped him as a writer.",
+                "B": "Yes, because it focuses on the news stories the nar- rator wrote when he was nine years old.",
+                "C": "No, because it instead focuses on the narrator\u2019s grandmother\u2019s experiences as a news writer and how those experiences shaped her career.",
+                "D": "No, because it instead describes a single story that marked the beginning of the narrator\u2019s interest in news writing. n 4 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "B"
+            },
+            {
+              "number": 16,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "1980s, when",
+                "H": "1980s,",
+                "J": "1980s;"
+              },
+              "correct": "H"
+            },
+            {
+              "number": 17,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "highway, which bisects h C. highway that bisects",
+                "D": "highway, bisecting"
+              },
+              "correct": "A"
+            },
+            {
+              "number": 18,
+              "stem": "Which choice most precisely conveys that the highway crosses through the migration paths and breeding grounds?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "is a part of",
+                "H": "runs along",
+                "J": "follows se 19. A. NO CHANGE",
+                "B": "animals, whose migration routes and breeding areas are here.",
+                "C": "animals, quite a few of them. d D. animals."
+              },
+              "correct": "F"
+            },
+            {
+              "number": 20,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "include a means for allowing",
+                "H": "were to allow",
+                "J": "allow"
+              },
+              "correct": "F"
+            }
+          ]
+        },
+        {
+          "id": "eng-p2",
+          "title": "Passage 2",
+          "paragraphs": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "[See PDF for passage text]"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "number": 21,
+              "stem": "If the writer were to add the phrase \u201ceven in groups\u201d at this point (adjusting the punctuation as needed), the paragraph would primarily gain:",
+              "choices": {
+                "A": "an indication that many animals living near US Highway 93 have grown accustomed to traveling alone, even during migration periods.",
+                "B": "a detail that emphasizes that the culverts and tun- nels were specially designed to accommodate ani- mals\u2019 needs.",
+                "C": "a suggestion that more groups of large animals than groups of small animals have been using the crossings to travel together.",
+                "D": "a concession that traveling alone is dangerous for most animals, even when they are using the crossings."
+              },
+              "correct": "B"
+            },
+            {
+              "number": 22,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "is: a twenty-six-foot-high,",
+                "H": "is, a twenty-six-foot-high",
+                "J": "is a twenty-six-foot-high 5 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J"
+            },
+            {
+              "number": 23,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "with the highway toward",
+                "C": "over the highway to",
+                "D": "on the highway at"
+              },
+              "correct": "C"
+            },
+            {
+              "number": 24,
+              "stem": "Which statement most effectively introduces this paragraph?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "The very highways that allow people to move freely often block the movement of animals.",
+                "H": "So far, these wildlife crossings appear to be doing what they were designed to do.",
+                "J": "Safe, carefully placed fencing seems to help ani- mals use the crossings."
+              },
+              "correct": "H"
+            },
+            {
+              "number": 25,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "that record nearby activities have",
+                "C": "recording animals have",
+                "D": "have recorded and"
+              },
+              "correct": "A"
+            },
+            {
+              "number": 26,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "are seeming",
+                "H": "while seem",
+                "J": "seem"
+              },
+              "correct": "F"
+            },
+            {
+              "number": 27,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "she walks",
+                "C": "they walk",
+                "D": "it walks"
+              },
+              "correct": "B"
+            },
+            {
+              "number": 28,
+              "stem": "",
+              "choices": {
+                "F": "Yes, because the essay makes clear that groups worked together in the 1980s to prevent the redesign of several historic two-lane roads in Montana. st",
+                "G": "Yes, because the essay describes the organized group protests by tribes, engineers, and scientists that led to the animal crossings being built.",
+                "H": "No, because although the essay states that groups worked together to create animal crossings, the essay focuses on describing the benefits of the structures.",
+                "J": "No, because the essay instead focuses on provid- ing data to show the number of animal deaths that a road redesign project has prevented. 6 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J"
+            },
+            {
+              "number": 31,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "same: a playful",
+                "C": "same a playful:",
+                "D": "same a playful"
+              },
+              "correct": "B"
+            },
+            {
+              "number": 32,
+              "stem": "Given that all the choices are accurate, which one best provides a foundation for the essay\u2019s discussion of Zeisel\u2019s artistic focus?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "graphic artists, many of whom were from Poland.",
+                "H": "leading designers of objects for the home.",
+                "J": "prominent French perfume makers."
+              },
+              "correct": "H"
+            },
+            {
+              "number": 33,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "were",
+                "C": "also",
+                "D": "DELETE the underlined portion."
+              },
+              "correct": "B"
+            },
+            {
+              "number": 34,
+              "stem": "Which of the following true statements, if added here, would best connect the preceding sentence to the last sentence in the paragraph?",
+              "choices": {
+                "F": "They didn\u2019t remind her of anything she had cre- ated as an apprentice potter.",
+                "G": "She did, however, appreciate that the designs were not at all flowery or frilly.",
+                "H": "She still appreciated all that she had taken in at the World\u2019s Fair.",
+                "J": "They didn\u2019t express a sense of joy or humanity."
+              },
+              "correct": "J"
+            },
+            {
+              "number": 35,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "emotion, they conveyed,",
+                "C": "emotion they conveyed:",
+                "D": "emotion they conveyed,"
+              },
+              "correct": "A"
+            },
+            {
+              "number": 36,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Zeisel, who was a ceramics designer for nearly eighty years,",
+                "H": "Zeisel, who attended the 1925 World\u2019s Fair in Paris,",
+                "J": "Zeisel"
+              },
+              "correct": "J"
+            },
+            {
+              "number": 37,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "she began creating",
+                "C": "the creation of her",
+                "D": "while creating 7 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "B"
+            },
+            {
+              "number": 38,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "shapes. Still, her pieces were spare.",
+                "H": "shapes, having no embellishments.",
+                "J": "shapes."
+              },
+              "correct": "J"
+            }
+          ]
+        },
+        {
+          "id": "eng-p3",
+          "title": "Passage 3",
+          "paragraphs": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "[See PDF for passage text]"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "number": 39,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "twist, previously,",
+                "C": "twist, similarly,",
+                "D": "twist"
+              },
+              "correct": "D"
+            },
+            {
+              "number": 40,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "along",
+                "H": "in",
+                "J": "at"
+              },
+              "correct": "H"
+            },
+            {
+              "number": 41,
+              "stem": "Given that all the choices are accurate, which one best introduces the series of examples of Zeisel\u2019s designs that follows?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Long after her first ceramics exhibition in the United States, which had been held in 1926,",
+                "C": "While the originals of her early work have become sought-after collectibles,",
+                "D": "Sometimes establishing and teaching ceramics design courses,"
+              },
+              "correct": "A"
+            },
+            {
+              "number": 42,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "each other,",
+                "H": "that,",
+                "J": "it,"
+              },
+              "correct": "G"
+            },
+            {
+              "number": 43,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "they didn\u2019t all look",
+                "C": "were not",
+                "D": "and not"
+              },
+              "correct": "A"
+            },
+            {
+              "number": 44,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "long, and lighthearted search, Zeisel showed",
+                "H": "long and lighthearted search Zeisel showed,",
+                "J": "long and lighthearted search Zeisel showed 8 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F"
+            },
+            {
+              "number": 45,
+              "stem": "The writer is considering adding the following sen- tence to the essay: Many of Zeisel\u2019s first designs to be mass- manufactured had been critically acclaimed by art enthusiasts and museums, but she wanted her dinnerware pieces to be enjoyed by people in the home. If the writer were to add this sentence, it would most logically be placed at:",
+              "choices": {
+                "A": "Point A in Paragraph 1.",
+                "B": "Point B in Paragraph 1.",
+                "C": "Point C in Paragraph 2.",
+                "D": "Point D in Paragraph 3."
+              },
+              "correct": "C"
+            },
+            {
+              "number": 46,
+              "stem": "Given that all the choices are accurate, which one pro- vides the most specific description of the berry\u2019s appearance?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "about the size and shape of an almond,",
+                "H": "cultivated primarily in warm climates,",
+                "J": "grown on a shrub with dense foliage,"
+              },
+              "correct": "G"
+            },
+            {
+              "number": 47,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "dulcificum called, miracle fruit,",
+                "C": "dulcificum called miracle fruit,",
+                "D": "dulcificum, called miracle fruit"
+              },
+              "correct": "A"
+            },
+            {
+              "number": 48,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "lies",
+                "H": "laid",
+                "J": "lie"
+              },
+              "correct": "G"
+            },
+            {
+              "number": 49,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "molecules, which then bind",
+                "C": "molecules, binding them",
+                "D": "molecules to bind 9 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "D"
+            },
+            {
+              "number": 50,
+              "stem": "Which choice best maintains the stylistic pattern estab- lished in the preceding sentence and continued in the sentence that follows?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "An apple juice taste replaces one of tart vinegar.",
+                "H": "Vinegar that is tart tastes like apple juice instead.",
+                "J": "Tart vinegar tastes like apple juice."
+              },
+              "correct": "J"
+            },
+            {
+              "number": 51,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "downgrade.",
+                "C": "diminish.",
+                "D": "constrict."
+              },
+              "correct": "C"
+            },
+            {
+              "number": 52,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "a region in which",
+                "H": "where",
+                "J": "DELETE the underlined portion."
+              },
+              "correct": "J"
+            },
+            {
+              "number": 53,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Consequently,",
+                "C": "Moreover,",
+                "D": "That is,"
+              },
+              "correct": "A"
+            },
+            {
+              "number": 54,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "are attempting d H. has attempted",
+                "J": "attempts"
+              },
+              "correct": "G"
+            }
+          ]
+        },
+        {
+          "id": "eng-p4",
+          "title": "Passage 4",
+          "paragraphs": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "[See PDF for passage text]"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "number": 55,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "forms, additionally, it sells them",
+                "C": "forms, the berries are also sold",
+                "D": "forms, as well as"
+              },
+              "correct": "D"
+            },
+            {
+              "number": 56,
+              "stem": "At this point, the writer is considering adding the fol- lowing true statement: Mozie has said that his favorite foods to eat with miracle fruit include green mangoes and oysters with lemon juice. Should the writer make this addition here?",
+              "choices": {
+                "F": "Yes, because it offers an informed opinion on a subject with which many people may be unfamiliar.",
+                "G": "Yes, because it provides examples of acidic foods that pair well with miracle fruit.",
+                "H": "No, because it is only loosely related to the para- graph\u2019s focus on efforts to expand awareness of and access to miracle fruit.",
+                "J": "No, because it gives the false impression that mira- cle fruit is widely available. 10 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "H"
+            },
+            {
+              "number": 57,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "who\u2019s studied the miracle fruit and it\u2019s",
+                "C": "who\u2019s studied the miracle fruit and its",
+                "D": "whose studied the miracle fruit and its \u2014 58. F. NO CHANGE",
+                "G": "entirely blocking sweet receptors",
+                "H": "blocks sweet receptors entirely",
+                "J": "to block sweet receptors entirely"
+              },
+              "correct": "C"
+            },
+            {
+              "number": 59,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Bartoshuk, and other scientists, continue",
+                "C": "Bartoshuk and other scientists continue,",
+                "D": "Bartoshuk and other scientists continue"
+              },
+              "correct": "D"
+            },
+            {
+              "number": 60,
+              "stem": "Which choice would best conclude the sentence and the essay by highlighting the berry\u2019s main capability?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "they\u2019ve learned that heating or cooking the fruit destroys miraculin\u2019s taste-transforming properties.",
+                "H": "the fruit\u2019s consumers enjoy turning sour foods into \u201cmiraculously\u201d sweet treats.",
+                "J": "many chefs have created tasting menus incorporat- ing miracle berries."
+              },
+              "correct": "H"
+            },
+            {
+              "number": 61,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "flowers, a woman slowly makes",
+                "C": "flowers while slowly making",
+                "D": "flowers, slowly making"
+              },
+              "correct": "B"
+            },
+            {
+              "number": 62,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Flowers ornamenting her hair as",
+                "H": "Approaching the stage as",
+                "J": "As"
+              },
+              "correct": "J"
+            },
+            {
+              "number": 63,
+              "stem": "If the writer were to delete the underlined portion, the paragraph would primarily lose information that:",
+              "choices": {
+                "A": "indicates the reason that the woman\u2019s smile is sad.",
+                "B": "specifies why the story the woman is sharing is considered sad.",
+                "C": "suggests that ancient legends are difficult stories to convey clearly.",
+                "D": "explains why Hawaiian legends are traditionally told through dance. 11 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "A"
+            },
+            {
+              "number": 65,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "a way of trying to help out with",
+                "C": "an attempt to bolster",
+                "D": "an effort to amp up"
+              },
+              "correct": "C"
+            },
+            {
+              "number": 66,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "organizer, Dottie Thompson, and respected hula master",
+                "H": "organizer, Dottie Thompson and respected hula master,",
+                "J": "organizer Dottie Thompson and respected hula master"
+              },
+              "correct": "J"
+            },
+            {
+              "number": 67,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "so that",
+                "C": "when",
+                "D": "DELETE the underlined portion."
+              },
+              "correct": "A"
+            },
+            {
+              "number": 68,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "The festival\u2019s",
+                "H": "They\u2019re",
+                "J": "One\u2019s"
+              },
+              "correct": "G"
+            },
+            {
+              "number": 69,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "has a need",
+                "C": "does need",
+                "D": "needs ,"
+              },
+              "correct": "A"
+            },
+            {
+              "number": 70,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "he had",
+                "H": "so",
+                "J": "DELETE the underlined portion. 12 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J"
+            },
+            {
+              "number": 71,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "events had grown",
+                "C": "events growing",
+                "D": "events,"
+              },
+              "correct": "B"
+            },
+            {
+              "number": 72,
+              "stem": "The writer is considering revising the underlined por- tion to the following: 5,000-seat stadium, Given that the information is accurate, should the writer make this revision?",
+              "choices": {
+                "F": "Yes, because it provides a more specific idea of the number of dancers competing in the festival.",
+                "G": "Yes, because it offers a specific detail that better illustrates how popular the events became.",
+                "H": "No, because it is only loosely related to the sen- tence\u2019s discussion of the events\u2019 popularity.",
+                "J": "No, because it repeats information about festival attendance stated earlier in the essay."
+              },
+              "correct": "G"
+            }
+          ]
+        },
+        {
+          "id": "eng-p5",
+          "title": "Passage 5",
+          "paragraphs": [
+            {
+              "segments": [
+                {
+                  "type": "text",
+                  "text": "[See PDF for passage text]"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "number": 73,
+              "stem": "",
+              "choices": {
+                "A": "Yes, because it describes how the Merrie Monarch Festival helped rekindle widespread interest in hula.",
+                "B": "Yes, because it notes significant events in the his- tory of many traditional Hawaiian art forms.",
+                "C": "No, because it focuses instead on describing the various activities that take place at the Merrie Monarch Festival.",
+                "D": "No, because it focuses instead on explaining the origins of hula and its initial impact on Hawaiian culture. END OF TEST 1 DO NOT TURN THE PAGE UNTIL TOLD TO DO SO. 13"
+              },
+              "correct": "D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "timeMinutes": 60,
+      "questions": [
+        {
+          "number": 2,
+          "stem": "Given p 40 and q p q is equal to the product of \u22124 and what number? \u221213 F.",
+          "choices": {
+            "G": "0\u22127",
+            "H": "07",
+            "J": "13",
+            "K": "120 nABC, \u2220A \u2220C"
+          },
+          "imageSrc": "/tests/F12/math/page_14.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 3,
+          "stem": "In and are congruent, and the measure of \u2220Bis 93.5\u00b0. What is the measure of \u2220A?",
+          "choices": {
+            "A": "43.25\u00b0",
+            "B": "46.75\u00b0",
+            "C": "60\u00b0",
+            "D": "86.5\u00b0",
+            "E": "93.5\u00b0 14 ACT-F12 2 DO"
+          },
+          "imageSrc": "/tests/F12/math/page_14.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 4,
+          "stem": "Ken is paid a regular hourly wage of $15 per hour, before taxes and benefits are deducted, for working up to and including 40 hours in 1 week. For each additional hour he works in a week, Ken is paid 2 times his regular hourly wage. Ken worked 44 hours this week. What was his pay for this week before taxes and benefits were deducted?",
+          "choices": {
+            "F": "$0,630",
+            "G": "$0,660",
+            "H": "$0,720",
+            "J": "$0,930",
+            "K": "$1,320"
+          },
+          "imageSrc": "/tests/F12/math/page_14.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 5,
+          "stem": "What is the length, in inches, of the hypotenuse of a right triangle with a leg that is 7inches long and a leg that is 4 inches long?",
+          "choices": {
+            "A": "\u221a\u20222\u20222",
+            "B": "\u221a\u20223\u20223",
+            "C": "\u221a\u20226\u20225",
+            "D": "0005.5",
+            "E": "0,11"
+          },
+          "imageSrc": "/tests/F12/math/page_14.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 7,
+          "stem": "As shown in the figure below, points A, B, and D lie on (m\u2220ABC) a line. The measure of angleABC is x\u00b0, and m\u2220CBDis (5x+4)\u00b0. C",
+          "choices": {
+            "A": "0",
+            "B": "x \u2212(5x+4) =90 +(5x+4) =90",
+            "C": "x",
+            "D": "x +(5x+4) =180 +(5x+4) =360",
+            "E": "x www.actexam.net 15 ACT-F12 2 DO"
+          },
+          "imageSrc": "/tests/F12/math/page_15.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 8,
+          "stem": "",
+          "choices": {
+            "A": "restaurant currently has an outdoor rectangular dining section measuring 30 feet by 40 feet. The shorter sides will be increased by 10 feet each, resulting in a larger rectangular dining section. What is the positive difference, in square feet, between the areas of the resulting and current dining sections?",
+            "F": "100",
+            "G": "300",
+            "H": "400",
+            "J": "500",
+            "K": "600 \u23aa\u22124\u23aa\u2212\u23aa6 \u2212 29\u23aa?"
+          },
+          "imageSrc": "/tests/F12/math/page_15.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 9,
+          "stem": "What is the value of",
+          "choices": {
+            "A": "\u221231 \u221227 B.",
+            "C": "\u221219",
+            "D": "19",
+            "E": "27"
+          },
+          "imageSrc": "/tests/F12/math/page_15.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 10,
+          "stem": "Christopher works in a clothing store. He earns $7.50 per hour, plus 6% of his sales. Which of the following expressions gives Christopher\u2019s earnings, in dollars, when he works x hours and has y dollars in sales? 75x+6y F.",
+          "choices": {
+            "G": "75x+0.06y 07.5x+6y H.",
+            "J": "07.5x+0.6y 07.5x+0.06y K. \u2194 ___"
+          },
+          "imageSrc": "/tests/F12/math/page_16.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 11,
+          "stem": "F__o_r RT shown below, pointS __i_s on RT, the length of RS is 8cm, and the length of ST is 20cm. What is the dis_ta__nce, in centimeters, between T and the midpoint of RS ? R 8 S 20 T",
+          "choices": {
+            "A": "14",
+            "B": "18",
+            "C": "20",
+            "D": "24",
+            "E": "28"
+          },
+          "imageSrc": "/tests/F12/math/page_16.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 12,
+          "stem": "",
+          "choices": {
+            "A": "conference presenter earned $48.50 for attending a conference and $15.35 per hour for the hours she spent preparing for her presentation. Let y be the amount of money, in dollars, earned by the presenter when she spent x hours preparing for her presentation. Which of the following equations gives the relationship between xand y? =15.35x",
+            "F": "y",
+            "G": "y =33.15x =63.85x",
+            "H": "y",
+            "J": "y =15.35x+48.50 =48.50x+15.35",
+            "K": "y 16 ACT-F12 2 DO"
+          },
+          "imageSrc": "/tests/F12/math/page_16.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 15,
+          "stem": "In the standard (x,y) coordinate plane, what is the slope y=4x+2 of the line represented by the equation ? _1_ A. 2",
+          "choices": {
+            "B": ",2",
+            "C": ",4",
+            "D": ",4x _1_y E. 2"
+          },
+          "imageSrc": "/tests/F12/math/page_17.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 16,
+          "stem": "The trinomial x2 + 11x + 24 can be factored into 2 binomials with positive integer coefficients. Which of the following binomials is 1 of the factors? +1",
+          "choices": {
+            "F": "x",
+            "G": "x +2 +3",
+            "H": "x",
+            "J": "x +4 +5",
+            "K": "x 17 ACT-F12 2 3\u22122 64 DO"
+          },
+          "imageSrc": "/tests/F12/math/page_17.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 17,
+          "stem": "Which of the following matrices is equal to 4 \u22123 ? 0 3\u22128",
+          "choices": {
+            "A": "124 3 164",
+            "B": "\u221212 32 104 C. 4 1 3\u2212_1_ \u2212_3_4 D. \u2212_3_ 0 4 3\u22128 244",
+            "E": "\u221212 0"
+          },
+          "imageSrc": "/tests/F12/math/page_17.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 18,
+          "stem": "Point P(5,\u22121), which is graphed in the standard (x,y) coordinate plane below, will be reflected across the x-axis. What will be the coordinates of the image of P? y x (\u22125,\u22121) O",
+          "choices": {
+            "F": "P(5,\u22121)",
+            "G": "(\u22125, 1) (\u22121,",
+            "H": "5)",
+            "J": "( 5,\u22121)",
+            "K": "( 5, 1) \u2264 + \u2265"
+          },
+          "imageSrc": "/tests/F12/math/page_18.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 19,
+          "stem": "Given that x 2 and x y 6, what is the LEAST value that ycan have? \u22128 A.",
+          "choices": {
+            "B": "\u22124",
+            "C": "0",
+            "D": "4",
+            "E": "8"
+          },
+          "imageSrc": "/tests/F12/math/page_18.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 20,
+          "stem": "",
+          "choices": {
+            "A": "square vegetable garden is built in a rectangular 50-meter-by-40-meter lawn. The lengths of the sides of the garden are 5 meters. What area of the lawn, in square meters, is outside of the vegetable garden?",
+            "F": "1,575",
+            "G": "1,750",
+            "H": "1,800",
+            "J": "1,975",
+            "K": "2,475 www.crackab.com 18 ACT-F12 2 DO"
+          },
+          "imageSrc": "/tests/F12/math/page_18.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 21,
+          "stem": "The distance of the longest jump of each of the participants in a long jump competition is given in the stem-and-leaf plot below. Stem Leaf 6 8 9 7 1 4 7 8 9 8 0 1 2 =73 Key: 7 3 inches What is the probability that a long jump participant chosen at random from the competition will have jumped at least75 inches? _3__ A. 13 _7__ B. 13 _3__ C. 10 _4__ D. 10 _6__ E. 10 \u2194 \u2194 ___ i m\u2220GCA = points C and B lie on GF, 120\u00b0, and m\u2220GBA=50\u00b0. m\u2220CAB? What is (Note: The figure is NOT drawn to scale. The degree measure of \u2220STU is denoted m\u2220STU.)",
+          "choices": {
+            "D": "A E",
+            "G": "20\u00b0",
+            "F": "10\u00b0",
+            "H": "50\u00b0",
+            "J": "60\u00b0",
+            "K": "70\u00b0"
+          },
+          "imageSrc": "/tests/F12/math/page_19.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 23,
+          "stem": "Gabe will use 1 fluid ounce of fertilizer for every 30 square feet of soil. At this rate, how much fertilizer, to the nearest 0.01gallon, will Gabe use for 0.8acres of soil? 1acre=43,560squarefeet; (Note: 1 gallon =128 fluid ounces)",
+          "choices": {
+            "A": "00.07",
+            "B": "00.11",
+            "C": "09.08",
+            "D": "14.18",
+            "E": "24.00 19 ACT-F12 2 DO"
+          },
+          "imageSrc": "/tests/F12/math/page_19.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 24,
+          "stem": "On each of 10 tests, Andreas scored 2 points higher than Mischa. When their average test scores on these 10 tests are compared, how many points higher is Andreas\u2019s average than Mischa\u2019s average?",
+          "choices": {
+            "F": "02",
+            "G": "05",
+            "H": "06",
+            "J": "08",
+            "K": "20"
+          },
+          "imageSrc": "/tests/F12/math/page_19.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 25,
+          "stem": "For a certain basketball player, the probability of success on any given free throw attempt is 0.7. What is the least number of free throw attempts for which the result is expected to be at least 18 successes?",
+          "choices": {
+            "A": "21",
+            "B": "25",
+            "C": "26",
+            "D": "43",
+            "E": "44"
+          },
+          "imageSrc": "/tests/F12/math/page_20.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 26,
+          "stem": "Some consecutive terms of a geometric sequence are below. \u2026 \u2026 , 64, 48, 36, 27, What is the common ratio of this sequence?",
+          "choices": {
+            "F": "\u221216",
+            "G": "\u221212",
+            "H": "0\u22129 _3_",
+            "J": "0 4 _4_",
+            "K": "0 3"
+          },
+          "imageSrc": "/tests/F12/math/page_20.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 28,
+          "stem": "According to the regression line of best fit, what is the predicted number of seeds for a pumpkin weighing 27pounds?",
+          "choices": {
+            "F": "309",
+            "G": "336",
+            "H": "405",
+            "J": "699",
+            "K": "714"
+          },
+          "imageSrc": "/tests/F12/math/page_20.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 29,
+          "stem": "When one of the pumpkins is removed from the group of 23 pumpkins, the average number of seeds per pumpkin for the remaining 22 pumpkins is 10 fewer than it was for all 23 pumpkins. How many seeds are in the removed pumpkin?",
+          "choices": {
+            "A": "224",
+            "B": "434",
+            "C": "454",
+            "D": "516",
+            "E": "664"
+          },
+          "imageSrc": "/tests/F12/math/page_21.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 30,
+          "stem": "An object that weighs 1pound on Earth has a mass of 0.45 kilograms. What is the mass, to the nearest 0.1kilogram, of a pumpkin that weighs the same as the average weight of the 23 pumpkins?",
+          "choices": {
+            "F": "04.5",
+            "G": "10.4",
+            "H": "14.9",
+            "J": "22.2",
+            "K": "51.1 www.actexam.net 21 ACT-F12 2 DO"
+          },
+          "imageSrc": "/tests/F12/math/page_21.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 31,
+          "stem": "Let n be any even number greater than or equal to 4. Which of the 3expressions below must be equal to an even number? _n_, \u221an\u2022 2n, 2 _n_",
+          "choices": {
+            "A": "only 2",
+            "B": "2nonly \u221an\u2022only C. \u221an\u2022only",
+            "D": "2nand _n_, \u221an\u2022",
+            "E": "2n, and 2"
+          },
+          "imageSrc": "/tests/F12/math/page_21.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 32,
+          "stem": "",
+          "choices": {
+            "A": "vertical radio tower stands on level ground. From a point 200feet along level ground from the base of the tower, the angle of elevation to the top of the tower is 50\u00b0. Which of the following values is closest to the height, in feet, of the radio tower? \u22480.77, \u22480.64, \u22481.20) (Note: sin,50\u00b0 cos,50\u00b0 tan,50\u00b0",
+            "F": "150",
+            "G": "170",
+            "H": "240",
+            "J": "260",
+            "K": "310 \u2220ABC"
+          },
+          "imageSrc": "/tests/F12/math/page_22.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 33,
+          "stem": "In the figure below, the measure of is 87\u00b0, the measure of \u2220ABE is 68\u00b0, and the measure of \u2220DBC is \u2220DBE? 52\u00b0. What is the measure of A D E",
+          "choices": {
+            "A": "19\u00b0",
+            "B": "29\u00b0",
+            "C": "33\u00b0",
+            "D": "35\u00b0 C",
+            "E": "54\u00b0 B \u00d710a,"
+          },
+          "imageSrc": "/tests/F12/math/page_22.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 34,
+          "stem": "Consider the number 630.6 where ais an integer. What is scientific notation for this number? \u00d710a\u22122",
+          "choices": {
+            "F": "6.306 \u00d710a\u22121",
+            "G": "6.306 \u00d710a",
+            "H": "6.306 \u00d710a+1",
+            "J": "6.306 \u00d710a+2",
+            "K": "6.306 ACT-F12 2 DO Use the following information to answer questions 35\u201337. RunOnline sells shoes and accessories to members and nonmembers of their club. Members are charged a onetime fee of $40 in order to pay the member price. The nonmember and member prices of certain items are given below. Nonmember Member Item price price Pair of shoes $100 $90 Hat $012 $10 Water bottle $015 $14 Workout bag $027 $20 All given prices include tax and shipping. Last year, RunOnline had a total of 1,000 customers. Of those customers, 25% were members."
+          },
+          "imageSrc": "/tests/F12/math/page_22.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 35,
+          "stem": "Ed and Sarah both bought p pairs of shoes from RunOnline. Ed is a member and Sarah is a nonmember. Ed\u2019s total cost, including the onetime fee, was equal to Sarah\u2019s total cost. What is p?",
+          "choices": {
+            "A": "02",
+            "B": "04",
+            "C": "05",
+            "D": "08",
+            "E": "10"
+          },
+          "imageSrc": "/tests/F12/math/page_23.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 36,
+          "stem": "From RunOnline, a nonmember purchased a total of 5 items: 2 hats, 2 water bottles, and 1 workout bag. Which of the following dollar amounts is closest to the mean cost per item purchased by this nonmember?",
+          "choices": {
+            "F": "$12",
+            "G": "$15",
+            "H": "$16",
+            "J": "$18",
+            "K": "$27"
+          },
+          "imageSrc": "/tests/F12/math/page_23.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 37,
+          "stem": "RunOnline is currently selling 100 water bottles to members each year. It was predicted that for every $0.50 decrease in the member price, RunOnline will sell 10 more water bottles to members each year. RunOnline decides to lower the member price to $10 per water bottle. Based on the prediction and excluding the onetime fee, what will be the total revenue from water bottles sold to members the year following the price reduction?",
+          "choices": {
+            "A": "$1,000",
+            "B": "$1,100",
+            "C": "$1,400",
+            "D": "$1,800",
+            "E": "$2,520 23 ACT-F12 2 DO"
+          },
+          "imageSrc": "/tests/F12/math/page_23.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 38,
+          "stem": "Which of the following expressions is equivalent to (2x)6(10y2) ?",
+          "choices": {
+            "F": "0,020x6y2 0,200x6y2 G.",
+            "H": "0,240x6y2 0,640x6y2 J.",
+            "K": "6,400x6y2"
+          },
+          "imageSrc": "/tests/F12/math/page_24.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 39,
+          "stem": "The vertices of nPQR are given in the standard (x,y) coordinate plane below. What is the area, in square coordinate units, of nPQR? y P(8,10)",
+          "choices": {
+            "A": "18",
+            "B": "21 Q(8,4)",
+            "C": "36 R(1,2)",
+            "D": "40 x",
+            "E": "42 O"
+          },
+          "imageSrc": "/tests/F12/math/page_24.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 41,
+          "stem": "Given that i is the imaginary unit, which of the following numbers is equal to (4 +3i)2?",
+          "choices": {
+            "A": "07",
+            "B": "25",
+            "C": "07 +24i +06i",
+            "D": "08",
+            "E": "25 +24i = x2 \u2212 + = x2 \u2212 \u2212"
+          },
+          "imageSrc": "/tests/F12/math/page_24.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 42,
+          "stem": "Given that f(x) 5x 6 and g(x) 7x 10, g_f(\u22121)+? what is \u221255 F.",
+          "choices": {
+            "G": "\u221224",
+            "H": "20",
+            "J": "21",
+            "K": "50 www.actexam.net 24 ACT-F12 2 DO"
+          },
+          "imageSrc": "/tests/F12/math/page_25.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 44,
+          "stem": "In a 73-member choir of only altos and sopranos, there are 19 more altos than sopranos. What is the ratio of altos to sopranos?",
+          "choices": {
+            "F": "27:46",
+            "G": "27:73",
+            "H": "46:27",
+            "J": "46:73",
+            "K": "54:19"
+          },
+          "imageSrc": "/tests/F12/math/page_25.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 45,
+          "stem": "",
+          "choices": {
+            "A": "02%",
+            "B": "03%",
+            "C": "06%",
+            "D": "08%",
+            "E": "12% _2_,"
+          },
+          "imageSrc": "/tests/F12/math/page_25.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 47,
+          "stem": "",
+          "choices": {
+            "A": "certain rectangle in the standard (x,y) coordinate plane has a length of 7 coordinate units and a width of 5 coordinate units. The point (0,0) is in the interior of this rectangle. Two vertices of this rectangle are at (3,\u22123). (3,2) and What is the x-coordinate of the other 2 vertices? \u22124 A.",
+            "B": "\u22123 \u22122 C.",
+            "D": "08",
+            "E": "10 25 ACT-F12 2 DO"
+          },
+          "imageSrc": "/tests/F12/math/page_26.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 48,
+          "stem": "Two nonvertical parallel lines in the standard (x,y) = + coordinate plane have the equations y m x b and y=m x+b . The 2 lines are not coincident. Which of the following assertions mustbe true? =b I. b \u2260b II. b =m III. m \u2260m IV. m",
+          "choices": {
+            "F": "I only",
+            "G": "III only",
+            "H": "I and III only",
+            "J": "I and IV only",
+            "K": "II and III only"
+          },
+          "imageSrc": "/tests/F12/math/page_26.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 49,
+          "stem": "The function f(x) when graphed in the standard (x,y) coordinate plane has the features below: (\u22123,0). I. One of its intercepts is located at II. f(x) increases for all x>3. x=\u22122. III. f(x) is not defined for One of the following is the graph of f(x). Which one? y y",
+          "choices": {
+            "A": "D. 4 6 3 3 2 \u22126 \u22123 O 1 3 6 x \u22123 \u22123\u22122\u22121 O \u22126 y y",
+            "B": "E. 4 20 \u22124 \u22122 O \u22124 \u22122 O 2 4 x 2 4 x \u22122 \u221210 \u22124 \u221220",
+            "C": "y 8 4 \u22128 \u22124 O 4 8 x \u22124 \u22128 www.crackab.com 26 ACT-F12 2 nPQR = = DO"
+          },
+          "imageSrc": "/tests/F12/math/page_26.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 50,
+          "stem": "In shown below, r 8 meters, p 10 meters, and the measure of \u2220Q is 120\u00b0. The solution of which of the following equations gives the length q in meters? Q 120\u00b0 = p = 10 r 8 P q R (Note: For a triangle with sides of length a, b, and c that are opposite angles \u2220A, \u2220B, and _\u2220_A__ _\u2220_B__ _\u2220_C__ \u2220C, _s_in_ = _s_in_ = _s_in_ respectively, and a b c c2=a2+b2\u22122abcos,\u2220C.) _s_in_ _q_ = _8__ F. 120 10 _si_n_ 1__2_0_\u00b0 _8__",
+          "choices": {
+            "G": "= q 10 _si_n_ __1_0_\u00b0 = _si_n_ _8__\u00b0 H. q 120",
+            "J": "1202=82+102\u22122(8)(10) cos,q q2=82+102\u22122(8)(10)",
+            "K": "cos,120\u00b0"
+          },
+          "imageSrc": "/tests/F12/math/page_27.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 52,
+          "stem": "The original price of an item was decreased by 20%. The 1st reduced price was decreased by 20% and then that 2nd reduced price was decreased by 50%. The price that resulted from these 3 decreases was what percent less than the original price?",
+          "choices": {
+            "F": "10%",
+            "G": "32%",
+            "H": "68%",
+            "J": "90%",
+            "K": "98% 27 ACT-F12 2 DO"
+          },
+          "imageSrc": "/tests/F12/math/page_27.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 53,
+          "stem": "",
+          "choices": {
+            "A": "0.45",
+            "B": "0.75",
+            "C": "1",
+            "D": "1.5",
+            "E": "2.25"
+          },
+          "imageSrc": "/tests/F12/math/page_27.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 54,
+          "stem": "One of the following equations is an equation of the circle graphed in the standard (x,y) coordinate plane below. Which one is it? y",
+          "choices": {
+            "F": "x2+y2=1 x2+y2\u22122x=1 x",
+            "G": "O",
+            "H": "x2+y2\u22122y=1 x2+y2+2x=1 J.",
+            "K": "x2+y2+2y=1"
+          },
+          "imageSrc": "/tests/F12/math/page_28.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 55,
+          "stem": "Aman left his bicycle at his friend\u2019s house last night. Today, he decided to walk from home to his friend\u2019s house, visit, and then ride the bicycle back home along the same route he walked. Aman walked at 3 mph, visited for 1.5 hours, and then rode the bicycle at 8 mph. Aman arrived home 3 hours after he started walking. Which of the following values is closest to the number of miles Aman walked?",
+          "choices": {
+            "A": "2.3",
+            "B": "3.3",
+            "C": "4.1",
+            "D": "4.5",
+            "E": "8.3 C(\u22124,11)"
+          },
+          "imageSrc": "/tests/F12/math/page_28.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 56,
+          "stem": "Points A(8,5) and lie in the_ s_t_andard (x,y) coordinate plane. Point B lies on AC such that AB:BC=1:2. What are the coordinates of B? (\u22128,13) F.",
+          "choices": {
+            "G": "( 0,09)",
+            "H": "( 2,08)",
+            "J": "( 3,06)",
+            "K": "( 4,07) 28 ACT-F12 2 DO"
+          },
+          "imageSrc": "/tests/F12/math/page_28.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 58,
+          "stem": "In the 3equations below, A, B, and C are positive real numbers. Each equation will be graphed in the standard (x,y) coordinate plane. Which of the following equations will result in lines that have a negative slope? I. Ax+By=C Ax\u2212By=C II. III. \u2212Ax\u2212By=C",
+          "choices": {
+            "F": "I only",
+            "G": "II only",
+            "H": "III only",
+            "J": "I and II only",
+            "K": "I and III only _x_ f\u22121(x),"
+          },
+          "imageSrc": "/tests/F12/math/page_29.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 59,
+          "stem": "The function f(x)=52 has an inverse function, > defined for all x 0 by which of the following expressions? ___2___ A. log x 5 ____1____ B. x)2 (log 5",
+          "choices": {
+            "C": "0(log x)2 5 _1_",
+            "D": "log x 5 2",
+            "E": "02 log x 5"
+          },
+          "imageSrc": "/tests/F12/math/page_29.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 60,
+          "stem": "Rectangle P has an area of 24 square inches. RectangleQ has a perimeter of 24inches. The ratio of the area of Rectangle P to the area of Rectangle Q is 2:3. Which of the quantities below can be determined from just the given information? I. The perimeter of Rectangle P II. The area of Rectangle Q III. The ratio of the perimeter of Rectangle P to the perimeter of Rectangle Q",
+          "choices": {
+            "F": "I only",
+            "G": "II only",
+            "H": "III only",
+            "J": "I and II only",
+            "K": "I, II, and III STOP! DO NOT TURN TH www.actexam.net DO NOT RE 29 ACT-F12"
+          },
+          "imageSrc": "/tests/F12/math/page_29.jpg",
+          "correct": "G"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "name": "Reading",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "3 3\n1. The point of view from which the passage is told is 6. According to the passage, the random placement of\nbest described as that of a: colors in the bowl\u2019s glaze creates a surface that:\nA. first person narrator, present in the action, who F. acts as a mirror.\nrelates events as they happen. G. seems to move.\nB. first person narrator, not present in the action, who H. appears cracked in the sunlight.\nrelates events that happened in the past. J. scatters prisms on the walls of a room.\nC. third person narrator, present in the action, who\nrelates the thoughts and feelings of many 7. One main point of the fifth paragraph (lines 53\u201362) is\ncharacters. that:\nD. third person narrator, not present in the action,\nA. Andrea\u2019s bowl sometimes attracts more interest\nwho relates the thoughts and feelings of primarily\nthan does the home for sale itself.\none character.\nB. Andrea\u2019s bowl does not actually belong to her, but\nshe hopes to find its owner.\n2. The passage as a whole can best be described as an C. Andrea is often asked about the bowl when a client\nexploration of the: puts in an offer on a house.\nF. career of a real estate agent and the agent\u2019s typi- D. Andrea sometimes forgets in which room in a\ncally mundane transactions with clients. house she has placed the bowl.\nG. special glaze on a bowl and why the glaze makes\nthe bowl both subtle and noticeable. 8. In the passage, the admiration the bowl receives is\nH. perceived perfection of an object and that object\u2019s directly compared to the admiration received by:\neffect on people. F. a mutt.\nJ. problems that can result from a person\u2019s unyield- G. a plastic frog.\ning focus on obtaining material goods. H. a cherry table.\nJ. the aroma of spring.\n3. The passage most strongly suggests that a useful char-\nacteristic of the bowl, in terms of Andrea\u2019s purpose for 9. The passage suggests that one reason prospective home\nthe object, is the bowl\u2019s: buyers have difficulty sharing their thoughts about the\nbowl is they realize that:\nA. universal appeal.\nB. famous designer. A. they are not visiting the home for the purpose of\nC. ostentatious look. noticing decorative objects.\nD. commercial availability. B. they do not want to reveal that they have the finan-\ncial means to buy the bowl.\n4. In lines 53\u201375, Andrea responds to an inquiry about C. Andrea might start talking about the bowl instead\nher bowl and explains why her bowl was placed in a of discussing the home that is for sale.\nclient\u2019s home with statements that can both best be D. Andrea might find the bowl even more intriguing\ndescribed as: than they do.\nF. vague generalizations. 10. Which of the following statements provides the best\nG. absolute truths.\nsummary of the events portrayed in the sentences in\nH. half-truths.\nlines 77\u201381?\nJ. lies.\nF. The homeowner, first noticing the bowl, explains\nto Andrea that she thinks the bowl is enchanting.\n5. In the passage, Andrea is characterized as believing\nG. Andrea imagines the homeowner\u2019s sudden realiza-\nthat compared to most tricks used by real estate agents\ntion of Andrea\u2019s deliberate and perfect placement\nto impress potential buyers, her trick of placing the\nof the bowl.\nbowl in a home is:\nH. The homeowner tells Andrea that she thinks the\nA. more humorous to potential buyers. bowl had been perfectly placed, even though\nB. more obvious to potential buyers. Andrea had moved a pitcher.\nC. less familiar to potential buyers. J. Andrea determines the reason that the homeowner\nD. less enticing to potential buyers. had not noticed the bowl on the chest.\n31 GO ON TO THE NEXT PAGE.\nACT-F12",
+          "questions": [
+            {
+              "number": 1,
+              "stem": "The point of view from which the passage is told is best described as that of a:",
+              "choices": {
+                "A": "first person narrator, present in the action, who relates events as they happen.",
+                "B": "first person narrator, not present in the action, who relates events that happened in the past.",
+                "C": "third person narrator, present in the action, who relates the thoughts and feelings of many characters.",
+                "D": "third person narrator, not present in the action, who relates the thoughts and feelings of primarily one character."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 2,
+              "stem": "The passage as a whole can best be described as an exploration of the:",
+              "choices": {
+                "F": "career of a real estate agent and the agent\u2019s typi- cally mundane transactions with clients.",
+                "G": "special glaze on a bowl and why the glaze makes the bowl both subtle and noticeable.",
+                "H": "perceived perfection of an object and that object\u2019s effect on people.",
+                "J": "problems that can result from a person\u2019s unyield- ing focus on obtaining material goods."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 3,
+              "stem": "The passage most strongly suggests that a useful char- acteristic of the bowl, in terms of Andrea\u2019s purpose for the object, is the bowl\u2019s:",
+              "choices": {
+                "A": "universal appeal.",
+                "B": "famous designer.",
+                "C": "ostentatious look.",
+                "D": "commercial availability."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 4,
+              "stem": "In lines 53\u201375, Andrea responds to an inquiry about her bowl and explains why her bowl was placed in a client\u2019s home with statements that can both best be described as:",
+              "choices": {
+                "F": "vague generalizations.",
+                "G": "absolute truths.",
+                "H": "half-truths.",
+                "J": "lies."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 5,
+              "stem": "In the passage, Andrea is characterized as believing that compared to most tricks used by real estate agents to impress potential buyers, her trick of placing the bowl in a home is:",
+              "choices": {
+                "A": "more humorous to potential buyers.",
+                "B": "more obvious to potential buyers.",
+                "C": "less familiar to potential buyers.",
+                "D": "less enticing to potential buyers. 3 ACT-F12 3"
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 6,
+              "stem": "According to the passage, the random placement of colors in the bowl\u2019s glaze creates a surface that:",
+              "choices": {
+                "F": "acts as a mirror.",
+                "G": "seems to move.",
+                "H": "appears cracked in the sunlight.",
+                "J": "scatters prisms on the walls of a room."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 7,
+              "stem": "One main point of the fifth paragraph (lines 53\u201362) is that:",
+              "choices": {
+                "A": "Andrea\u2019s bowl sometimes attracts more interest than does the home for sale itself.",
+                "B": "Andrea\u2019s bowl does not actually belong to her, but she hopes to find its owner.",
+                "C": "Andrea is often asked about the bowl when a client puts in an offer on a house.",
+                "D": "Andrea sometimes forgets in which room in a house she has placed the bowl."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 8,
+              "stem": "In the passage, the admiration the bowl receives is directly compared to the admiration received by:",
+              "choices": {
+                "F": "a mutt.",
+                "G": "a plastic frog.",
+                "H": "a cherry table.",
+                "J": "the aroma of spring."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 9,
+              "stem": "The passage suggests that one reason prospective home buyers have difficulty sharing their thoughts about the bowl is they realize that:",
+              "choices": {
+                "A": "they are not visiting the home for the purpose of noticing decorative objects.",
+                "B": "they do not want to reveal that they have the finan- cial means to buy the bowl.",
+                "C": "Andrea might start talking about the bowl instead of discussing the home that is for sale.",
+                "D": "Andrea might find the bowl even more intriguing than they do."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 10,
+              "stem": "Which of the following statements provides the best summary of the events portrayed in the sentences in lines 77\u201381?",
+              "choices": {
+                "F": "The homeowner, first noticing the bowl, explains to Andrea that she thinks the bowl is enchanting.",
+                "G": "Andrea imagines the homeowner\u2019s sudden realiza- tion of Andrea\u2019s deliberate and perfect placement of the bowl.",
+                "H": "The homeowner tells Andrea that she thinks the bowl had been perfectly placed, even though Andrea had moved a pitcher.",
+                "J": "Andrea determines the reason that the homeowner had not noticed the bowl on the chest. 1 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "genre": "SOCIAL SCIENCE",
+          "title": "Passage II",
+          "source": "",
+          "text": "What the Dutch could not have known was that a\nvirus was responsible for the magic of the broken tulip,\nSOCIAL SCIENCE:This passage is from the book The Botany 55 a fact that, as soon as it was discovered, doomed the\nof Desire: A Plant\u2019s-Eye View of the Worldby Michael Pollan. beauty it had made possible. The color of a tulip actu-\nally consists of two pigments working in concert\u2014a\nOriginally cultivated in the Ottoman Empire, tulips were intro- base color that is always yellow or white and a second,\nduced to Europe at the end of the sixteenth century and laid-on color called an anthocyanin; the mix of these\nbecame wildly popular in the seventeenth century.\n60 two hues determines the unitary color we see. The virus\nworks by partially and irregularly suppressing the\nOne crucial element of the beauty of the tulip that\nanthocyanin, thereby allowing a portion of the under-\nintoxicated the Dutch, the Turks, the French, and the\nlying color to show through. It wasn\u2019t until the 1920s,\nEnglish has been lost to us. To them the tulip was a\nafter the invention of the electron microscope, that sci-\nmagic flower because it was prone to spontaneous and\n65 entists discovered the virus was being spread from tulip\n5 brilliant eruptions of color. In a planting of a hundred\nto tulip by Myzus persicae, the peach potato aphid.\ntulips, one of them might be so possessed, opening to\nPeach trees were a common feature of seventeenth-\nreveal the white or yellow ground of its petals painted,\ncentury gardens.\nas if by the finest brush and steadiest hand, with intri-\ncate feathers or flames of a vividly contrasting hue.\nBy the 1920s the Dutch regarded their tulips as\n10 When this happened, the tulip was said to have\n70 commodities to trade rather than jewels to display, and\n\u201cbroken,\u201d and if a tulip broke in a particularly striking\nsince the virus weakened the bulbs it infected (the\nmanner\u2014if the flames of the applied color reached\nreason the offsets of broken tulips were so small and\nclear to the petal\u2019s lip, say, and its pigment was brilliant\nfew in number), Dutch growers set about ridding their\nand pure and its pattern symmetrical\u2014the owner of that\nfields of the infection. Color breaks, when they did\n15 bulb had won the lottery. For the offsets of that bulb\n75 occur, were promptly destroyed, and a certain peculiar\nwould inherit its pattern and hues and command a fan-\nmanifestation of natural beauty abruptly lost its claim\ntastic price. The fact that broken tulips for some\non human affection.\nunknown reason produced fewer and smaller offsets\nthan ordinary tulips drove their prices still higher.\nI can\u2019t help thinking that the virus was supplying\n20 Semper Augustus was the most famous such break.\nsomething the tulip needed, just the touch of abandon\n80 the flower\u2019s chilly formality called for. Maybe that\u2019s\nThe closest we have to a broken tulip today is the\nwhy the broken tulip became such a treasure in\ngroup known as the Rembrandts\u2014so named because\nseventeenth-century Holland: the wayward color loosed\nRembrandt painted some of the most admired breaks of\non a tulip by a good break perfected the flower, even as\nhis time. But these latter-day tulips, with their heavy\nthe virus responsible set about destroying it.\n25 patterning of one or more contrasting colors, look\nclumsy by comparison, as if painted in haste with a\n85 On its face the story of the virus and the tulip\nthick brush. To judge from the paintings we have of the\nwould seem to throw a wrench into any evolutionary\noriginals, the petals of broken tulips could be as fine\nunderstanding of beauty.\nand intricate as marbleized papers, the extravagant\n30 swirls of color somehow managing to seem both bold\nand delicate at once. In the most striking examples\u2014 Excerpt from THE BOTANY OF DESIRE: A PLANT\u2019S-EYE VIEW OF\nTHE WORLD by Michael Pollan, copyright \u00a9 2001 by Michael Pollan.\nsuch as the fiery carmine that Semper Augustus\nUsed by permission of Random House, an imprint and division of Pen-\nsplashed on its pure white ground\u2014the outbreak of guin Random House LLC. All rights reserved.\ncolor juxtaposed with the orderly, linear form of the\n35 tulip could be breathtaking, with the leaping, wayward\npatterns just barely contained by the petal\u2019s edge.\nAnna Pavord recounts the extraordinary lengths to\nwhich Dutch growers would go to make their tulips\nbreak, sometimes borrowing their techniques from\n40 alchemists, who faced what must have seemed a com-\nparable challenge. Over the earth above a bed planted\nwith white tulips, gardeners would liberally sprinkle\npaint powders of the desired hue, on the theory that\n11. The main purpose of the passage is to:\nrainwater would wash the color down to the roots,\n45 where it would be taken up by the bulb. Charlatans sold A. highlight changes in the flower industry from the\nrecipes believed to produce the magic color breaks; seventeenth century through today.\npigeon droppings were thought to be an effective agent, B. examine the way certain plants have been repre-\nas was plaster dust taken from the walls of old houses. sented in art over the centuries.\nUnlike the alchemists, whose attempts to change base C. provide an overview of plant viruses and the way\n50 metals into gold reliably failed, now and then the they affect the flower market.\nwould-be tulip changers would be rewarded with a good D. explain a particular flower variation and how it has\nbreak, inspiring everybody to redouble their efforts. been perceived historically.\nwww.crackab.com\n32 GO ON TO THE NEXT PAGE.\nACT-F12",
+          "questions": [
+            {
+              "number": 11,
+              "stem": "The main purpose of the passage is to:",
+              "choices": {
+                "A": "highlight changes in the flower industry from the seventeenth century through today.",
+                "B": "examine the way certain plants have been repre- sented in art over the centuries.",
+                "C": "provide an overview of plant viruses and the way they affect the flower market.",
+                "D": "explain a particular flower variation and how it has been perceived historically. 2 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "D",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "3 3\n12. The main point of the second paragraph (lines 21\u201336) 17. It can reasonably be inferred from the passage that one\nis that: group of modern multicolored tulips was named after\nRembrandt to:\nF. modern Rembrandt tulips have been painted by\nmany of today\u2019s most famous artists. A. highlight Rembrandt\u2019s status in the Dutch tulip\nG. compared to seventeenth-century broken tulips, trade.\ntoday\u2019s multicolored tulips are less visually B. reassure consumers about the health of the modern\nappealing. tulips.\nH. the tulip break known as Semper Augustus was a C. favorably compare the modern tulips to the broken\nstriking example of the seventeenth-century tulips in Rembrandt\u2019s paintings.\nbroken tulip. D. indicate that the modern tulips are identical to the\nJ. Rembrandt was responsible for painting the most tulips Rembrandt grew.\nfamous tulip breaks of his time.\n13. It can reasonably be inferred from the passage that\nsome seventeenth-century tulip growers believed tulip\nbreaks were mainly caused by:\nA. suppliers\u2019 storage conditions. 18. In the passage, the author compares broken tulips as\nB. diseased tulip bulbs. they are represented in Rembrandt\u2019s paintings to:\nC. certain growing techniques.\nF. peach-tree blossoms.\nD. certain weather patterns.\nG. paint powders sprinkled on the ground.\nH. a painting hastily done with a thick brush.\n14. The information in lines 56\u201363 primarily functions to:\nJ. intricately marbleized papers.\nF. describe the range of potential tulip colors.\nG. explain how the color variation in a broken tulip\noccurs.\nH. argue that yellow and white are the only natural\ntulip colors.\nJ. indicate why broken tulips contain no anthocyanin.\n19. The passage author most likely mentions that peach\ntrees were a staple of seventeenth-century gardens to:\n15. The sixth paragraph (lines 78\u201384) differs from the rest\nof the passage in that it: A. highlight a crop favored by growers who did not\ncultivate tulips.\nA. questions whether the virus that caused broken\nB. emphasize that peach trees are not as popular in\ntulips was harmful to bulbs.\ngardens today.\nB. argues that growers should have dealt with broken\nC. explain how peach potato aphids spread the tulip\ntulips differently.\nvirus.\nC. challenges the idea that broken tulips were\nD. compare tulips to another popular seventeenth-\nbeautiful.\ncentury crop.\nD. presents a personal meditation on broken tulips.\n16. According to the passage, in the seventeenth century,\nthe fact that broken tulip bulbs tended to produce fewer\nand smaller offsets compared to typical tulip bulbs\nresulted in:\n20. As it is used in line 79, the word abandon most nearly\nF. a decrease in the demand for broken tulips.\nmeans:\nG. a fear among growers that broken tulips were\ndiseased. F. uninhibitedness.\nH. an increase in prices for broken tulips. G. relinquishment.\nJ. a desire among growers to plant a wider variety of H. retreat.\ncrops. J. denial.\nwww.actexam.net\n33 GO ON TO THE NEXT PAGE.\nACT-F12",
+          "questions": [
+            {
+              "number": 12,
+              "stem": "The main point of the second paragraph (lines 21\u201336) is that:",
+              "choices": {
+                "F": "modern Rembrandt tulips have been painted by many of today\u2019s most famous artists.",
+                "G": "compared to seventeenth-century broken tulips, today\u2019s multicolored tulips are less visually appealing.",
+                "H": "the tulip break known as Semper Augustus was a striking example of the seventeenth-century broken tulip.",
+                "J": "Rembrandt was responsible for painting the most famous tulip breaks of his time."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 13,
+              "stem": "It can reasonably be inferred from the passage that some seventeenth-century tulip growers believed tulip breaks were mainly caused by:",
+              "choices": {
+                "A": "suppliers\u2019 storage conditions.",
+                "B": "diseased tulip bulbs.",
+                "C": "certain growing techniques.",
+                "D": "certain weather patterns."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 14,
+              "stem": "The information in lines 56\u201363 primarily functions to:",
+              "choices": {
+                "F": "describe the range of potential tulip colors.",
+                "G": "explain how the color variation in a broken tulip occurs.",
+                "H": "argue that yellow and white are the only natural tulip colors.",
+                "J": "indicate why broken tulips contain no anthocyanin."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 15,
+              "stem": "The sixth paragraph (lines 78\u201384) differs from the rest of the passage in that it:",
+              "choices": {
+                "A": "questions whether the virus that caused broken tulips was harmful to bulbs.",
+                "B": "argues that growers should have dealt with broken tulips differently.",
+                "C": "challenges the idea that broken tulips were beautiful.",
+                "D": "presents a personal meditation on broken tulips."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 16,
+              "stem": "According to the passage, in the seventeenth century, the fact that broken tulip bulbs tended to produce fewer and smaller offsets compared to typical tulip bulbs resulted in:",
+              "choices": {
+                "F": "a decrease in the demand for broken tulips.",
+                "G": "a fear among growers that broken tulips were diseased.",
+                "H": "an increase in prices for broken tulips.",
+                "J": "a desire among growers to plant a wider variety of crops. www.actexam.net 3 ACT-F12 3"
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 17,
+              "stem": "It can reasonably be inferred from the passage that one group of modern multicolored tulips was named after Rembrandt to:",
+              "choices": {
+                "A": "highlight Rembrandt\u2019s status in the Dutch tulip trade.",
+                "B": "reassure consumers about the health of the modern tulips.",
+                "C": "favorably compare the modern tulips to the broken tulips in Rembrandt\u2019s paintings.",
+                "D": "indicate that the modern tulips are identical to the tulips Rembrandt grew."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 18,
+              "stem": "In the passage, the author compares broken tulips as they are represented in Rembrandt\u2019s paintings to:",
+              "choices": {
+                "F": "peach-tree blossoms.",
+                "G": "paint powders sprinkled on the ground.",
+                "H": "a painting hastily done with a thick brush.",
+                "J": "intricately marbleized papers."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 19,
+              "stem": "The passage author most likely mentions that peach trees were a staple of seventeenth-century gardens to:",
+              "choices": {
+                "A": "highlight a crop favored by growers who did not cultivate tulips.",
+                "B": "emphasize that peach trees are not as popular in gardens today.",
+                "C": "explain how peach potato aphids spread the tulip virus.",
+                "D": "compare tulips to another popular seventeenth- century crop."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 20,
+              "stem": "As it is used in line 79, the word abandon most nearly means:",
+              "choices": {
+                "F": "uninhibitedness.",
+                "G": "relinquishment.",
+                "H": "retreat.",
+                "J": "denial. 3 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "genre": "HUMANITIES",
+          "title": "Passage III",
+          "source": "",
+          "text": "Passage B by Steve Stoute\nHUMANITIES: Passage A is from the book Foundation: It wasn\u2019t until I was nine years old, late in 1979,\nB-Boys, B-Girls, and Hip-Hop Culture in New York by that I even heard the words \u201chip\u201d and \u201chop\u201d strung\nJoseph G. Schloss. Passage B is from the book The Tanning of together or was able to grasp the notion of what being a\nAmerica: How Hip-Hop Created a Culture That Rewrote the 50 rapper actually meant. That was when, fatefully, I heard\nRules of the New Economyby Steve Stoute. a record that changed my life (and pop culture) forever.\nPassage A by Joseph G. Schloss\nLike it\u2019s yesterday, I can still remember that\nmoment over at my aunt\u2019s home in Brooklyn\u2014where it\nThe term b-boyingrefers to break dancing. seemed there was always a party under way with rela-\n55 tives and neighbors hanging out, a great spread of food,\nIn the first sense of the term, hip-hop refers collec-\nand new, hot music on the record player. Most stereo\ntively to a group of related art forms in different media\nsystems in those days could be adapted for the single\n(visual, sound, movement) that were practiced in Afro-\ntwo-sided records that were smaller and had the big\nCaribbean, African American, and Latino neighbor-\nhole in the middle (45 RPM) as well as the bigger\n5 u ho se o d d s i n in t h N i e s w s e Y n o s r e k , a C l i s t o y r i e n f e th rs e t 1 o 9 7 th 0s e . e T v h e e n t t s e r a m t , w w h h ic en h 60 records with the small holes (331\u2044 3 RPM)\u2014which were\nthe full albums that had several songs on each side.\nthese forms were practiced, the people who practiced\nthem, their shared aesthetic sensibility, and contempo-\nBut as the intro plays to what I recognize as \u201cGood\nrary activities that maintain those traditions.\nTimes\u201d by the group Chic and I\u2019m drawn into the living\nroom because it\u2019s a familiar hit song from the previous\n10 Perhaps the most important aspect of this variety 65 summer, I encounter a record on the turntable that\nof hip-hop is that it is unmediated, in the sense that\ndefies categorization. Instead of the sweet female lead\nmost of the practices associated with it are both taught\nvocals of that disco smash, I hear something totally dif-\nand performed in the context of face-to-face interac-\nferent and spot a baby-blue label on the black vinyl\ntions between human beings. To some degree, this con-\nrecord I\u2019ve never seen before. Even though it\u2019s a\n15 stitutes an intentional rejection of the mass media by its 70 twelve-inch disc, the size of an album, as I listen to the\npractitioners, but to a great extent it is just the natural\nrhyming words being spoken\u2014\u201cSingin\u2019 on \u2019n\u2019 \u2019n\u2019 on \u2019n\u2019\nresult of the practices themselves. Activities like\non / The beat don\u2019t stop until the break of dawn /\nb-boying and graffiti writing are simply not well suited\nSingin\u2019 on \u2019n\u2019 \u2019n\u2019 on \u2019n\u2019 on on \u2019n\u2019 on / Like a hot\nto the mass media. Although in both cases, brief\nbuttered a pop da pop da pop dibbie dibbie pop da pop\n20 attempts were made to bring these forms of expression 75 pop / Ya don\u2019t dare stop\u201d\u2014it hits me that this entire\ninto mainstream contexts (b-boying in a series of low-\nside is one long song.\nbudget \u201cbreaksploition\u201d movies in the early 1980s and\ngraffiti as part of a short-lived gallery trend around the\nAlmost fifteen minutes long as it turns out. Or, to\nsame time), neither developed substantially in those\nbe exact, fourteen minutes and thirty-six seconds of\n25 environments. This, it has been suggested, was not so pure fun laid over the thumping bass beat from the\nmuch because the forms lacked appeal, but because\u2014\n80 break of \u201cGood Times\u201d with sing-along words easy to\non an economic level\u2014b-boying was an advertisement\nremember and repeat. The record, I discover, is by an\nwith no product. This reality is reflected in the phrase\nunknown group, the Sugarhill Gang, and is called\nthat is often used to refer to this branch of hip-hop:\n\u201cRapper\u2019s Delight.\u201d\n30 \u201chip-hop culture,\u201d which suggests something that is\nlived rather than bought and sold.\nFrom then on, nobody ever has to tell me what rap\n85 is. It\u2019s whatever words are spoken, chanted, or talk-\nThe second sense of the term hip-hop refers to a\nsung, or whatever philosophies, stories, or ideas are\nform of popular music that developed, or was devel-\nespoused, by the house party Master of Ceremonies.\noped, out of hip-hop culture. This hip-hop, also known\n35 as \u201crap music,\u201d resulted from the interaction between\nPassage A: FOUNDATION: B-BOYS, B-GIRLS, AND HIP-HOP CUL-\nhip-hop culture and the preexisting music industry. As\nTURE IN NEW YORK by Schloss (2009) 397w from pp.4-5. By permis-\nwe would expect, this hip-hop features elements of both sion of Oxford University Press, USA.\nsensibilities. My students are often surprised when I\npoint out that, even when hip-hop lyrics seem to reject Passage B: \u201cChapter 1: Walk This Way\u201d, copyright \u00a9 2011 by Steve\nStoute, from THE TANNING OF AMERICA by Steve Stoute, with Mim\n40 every aspect of mainstream culture and morality, the Eichler Rivas. Used by permission of Gotham Books, an imprint of Pen-\none thing they almost never reject is a strict 16-bar guin Publishing Group, a division of Penguin Random House LLC.\nverse structure derived from Tin Pan Alley pop music.\nBut this should not be surprising. This hip-hop, in con-\ntrast to hip-hop culture, is deeply intertwined with the\n45 mass media and its needs, largely because it does have\na product: records, CDs, MP3s, and ringtones.\n34 GO ON TO THE NEXT PAGE.\nACT-F12",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "According to Passage A, one reason elements of hip- hop culture such as b-boying are rarely represented in mass media is that these art forms:",
+              "choices": {
+                "A": "have never been brought to the public\u2019s attention.",
+                "B": "are not bought and sold as products.",
+                "C": "do not appeal to young people.",
+                "D": "declined in popularity after the 1970s."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 22,
+              "stem": "Based on information in Passage A, it can reasonably be inferred that the term \u201chip-hop\u201d:",
+              "choices": {
+                "F": "strictly refers to a form of musical expression.",
+                "G": "strictly refers to a current form of cultural expression.",
+                "H": "can refer to more than one form of artistic expression.",
+                "J": "refers to a commercially unsuccessful cultural phenomenon."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 23,
+              "stem": "As it is used in line 38, the word sensibilities most nearly means:",
+              "choices": {
+                "A": "emotions.",
+                "B": "sensitivities.",
+                "C": "perspectives.",
+                "D": "feelings of gratitude."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 24,
+              "stem": "Based on Passage A, which statement best captures the relationship between Tin Pan Alley pop music and rap music?",
+              "choices": {
+                "F": "Rap artists have rejected every aspect of Tin Pan Alley pop.",
+                "G": "Rap artists have been aware of Tin Pan Alley pop but not influenced by it.",
+                "H": "Tin Pan Alley pop developed at the same time as rap.",
+                "J": "Tin Pan Alley pop has influenced many rap artists. Questions 25\u201327 ask about Passage B."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 25,
+              "stem": "Which of the following details does the author of Pas- sage B highlight as one that caused \u201cRapper\u2019s Delight\u201d to stand out as different compared to other songs he knew?",
+              "choices": {
+                "A": "The song\u2019s intro",
+                "B": "The length of the song",
+                "C": "The female vocals",
+                "D": "The fact that the song was on a vinyl record 3 ACT-F12"
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 26,
+              "stem": "In the context of Passage B, the main point of the third paragraph (lines 62\u201376) is that the author was:",
+              "choices": {
+                "F": "struck by the combination of new and established musical elements in the music he was hearing.",
+                "G": "uncomfortable with what he viewed as an unwel- come change to a favorite song.",
+                "H": "more interested in an unfamiliar album label than in the new music that was playing.",
+                "J": "convinced that the new form of music he was hear- ing would become more popular than disco."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 27,
+              "stem": "Based on Passage B, it can reasonably be inferred that the author views his first exposure to rap music as:",
+              "choices": {
+                "A": "memorable but ultimately not very important.",
+                "B": "significant for his childhood but less so for his adulthood.",
+                "C": "a transformative experience.",
+                "D": "a disappointing experience. Questions 28\u201330 ask about both passages."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 28,
+              "stem": "Compared to Passage A, Passage B focuses more on:",
+              "choices": {
+                "F": "early hip-hop\u2019s interaction with the marketplace.",
+                "G": "attempts to move hip-hop art into galleries.",
+                "H": "the mass media.",
+                "J": "the author\u2019s personal experience."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 29,
+              "stem": "Which of the following elements of Passage B is not included in Passage A?",
+              "choices": {
+                "A": "A story involving a particular rap song",
+                "B": "A discussion of the early days of hip-hop",
+                "C": "A mention of the New York City area in the con- text of hip-hop",
+                "D": "An acknowledgment of rap\u2019s interaction with other musical forms"
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 30,
+              "stem": "The authors of both passages would most likely agree with the idea that early rap music:",
+              "choices": {
+                "F": "represented artists\u2019 rejection of the music industry and its practices.",
+                "G": "represented a significant development in American popular culture.",
+                "H": "was more popular than today\u2019s rap music.",
+                "J": "was slow to find an audience. 5 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "genre": "NATURAL SCIENCE",
+          "title": "Passage IV",
+          "source": "",
+          "text": "docile that he and his companions could swim beside\n55 them without concern. He took a tissue sample from\nNATURAL SCIENCE: This passage is from the article \u201cThe one that had recently perished and sent it to the Ameri-\nRise and Fall of the Living Fossil\u201d by Ferris Jabr. can Museum of Natural History in New York City,\nwhere Evon Hekkala, an assistant professor at Fordham\nThe term \u201cliving fossil\u201d refers to creatures that had emerged University studying crocodilian diversity, sequenced its\nlong ago and seemed to have stopped evolving. 60 genome. When she compared the docile croc\u2019s DNA to\nother Nile crocodiles, she noticed some rather striking\nLike all living fossils, crocodiles were thought to\ndifferences. She found similar reports of tame croco-\nhave emerged in the distant past and then stayed largely\ndiles in Mauritania, and she remembered once reading a\nunchanged. The standard theory held that the crocodil-\ndescription by the Greek historian Herodotus of ancient\nian species we know today originated in Africa during\n65 Egyptians using mellow crocodiles in temple rituals.\n5 the Cretaceous (145 to 66 million years ago), when the Could these tame crocs be an entirely distinct species?\nseven continents were much closer together. As the\ncontinents drifted apart, the crocodilians went with\nDNA analysis of 123 African crocodiles\u2014as well\nthem, explaining how they ended up in a band of tropics\nas 57 separate samples from museum specimens,\nencircling the globe. If that were true, then modern\nincluding crocodiles mummified in ancient Egypt\u2014\n10 crocodilian species should be very different from one 70 confirmed her suspicion. In a few sections of their\nanother at the level of genes and molecules, because\nrespective genomes, all the mild-mannered crocs would\nthere would have been more than enough time for sub-\nhave one DNA sequence, and all the typical Nile crocs\nstantial mutations to accumulate. By the 1990s, how-\nanother. They even had different numbers of chromo-\never, molecular analysis revealed that immune system\nsomes. \u201cThat made us very confident that there were\n15 molecules conserved across living crocodilian species 75 actually two different populations and they were not\nwere remarkably similar in structure and behavior.\nmixing their DNA,\u201d Hekkala says. The two different\nspecies had diverged between 3 and 6 million years\nIntrigued by this puzzle, a post-doctoral research\nago: Crocodylus niloticus in the East and the smaller,\nfellow at the University of Washington named Jamie\nless aggressive Crocodylus suchus in the West. The vast\nOaks began collecting DNA samples from all 23 living\n80 majority of mummified crocodiles were C. suchus, sug-\n20 crocodilian species, comparing sections of the genome gesting that ancient Egyptians had recognized the\nwhere mutations were most likely to have appeared.\ndifference.\nAlthough the fossil record had confirmed that ancient\ncrocodilians were more diverse than previously real-\nTogether, Hekkala, Oaks, and other scientists\nized, it also demonstrated that, on the whole, crocodil-\nhelped redraw the map of how crocodilians evolved in\n25 ians were not particularly swift evolvers compared to 85 space and time, and conclusively removed them from\nmammals and other vertebrates. Even accounting for\nthe category of living fossils.\nthis slower-than-average evolution, Oaks did not find\nnearly as many differences between the modern croco-\nFerris Jabr, science writer. Originally published in Nautilus.\ndilian genomes as one would expect had those species\n30 diverged all the way back in the Cretaceous. He con-\ncluded that modern crocodilian species split from their\nlast common ancestor between 8 and 13 million years\nago, not long before ancient hominins split from their\nlast common ancestor with chimpanzees. The living\n35 fossil theory of crocodiles had overestimated their evo-\nlutionary age by about a factor of 10.\nOaks also noticed something odd about the DNA\nsamples he had acquired from the iconic Nile croco-\ndiles (Crocodylus niloticus): they did not match up with\n40 each other. In fact, the variation between them was\ngreat enough to suggest that he was looking at two dis-\ntinct species. If so, then not only were modern croco-\ndiles much too young to be living fossils, but they had\n31. In the context of the passage, how does the analysis of\nalso continued to speciate after diverging from their\ncrocodilian immune system molecules relate to the\n45 basal ancestor\u2014something living fossils are not sup-\nliving fossil theory of crocodilian evolution?\nposed to do. On its own, Oaks\u2019 study was intriguing,\nbut not enough to convince the larger scientific commu- A. The analysis confirms the living fossil theory.\nnity to cleave the Nile crocodile into two species. B. The analysis suggests the living fossil theory is\naccurate.\nUnbeknownst to him, however, a separate team of C. The analysis supports the living fossil theory in\n50 scientists was preparing to corroborate his results. In some ways and does not support the theory in\nthe early 2000s, on an excursion to Chad, the wildlife other ways.\nconservationist Michael Klemens encountered some D. The analysis does not support the living fossil\nodd little crocodiles in a desert oasis. They were so theory.\n36 GO ON TO THE NEXT PAGE.\nACT-F12",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "In the context of the passage, how does the analysis of crocodilian immune system molecules relate to the living fossil theory of crocodilian evolution?",
+              "choices": {
+                "A": "The analysis confirms the living fossil theory.",
+                "B": "The analysis suggests the living fossil theory is accurate.",
+                "C": "The analysis supports the living fossil theory in some ways and does not support the theory in other ways.",
+                "D": "The analysis does not support the living fossil theory. 6 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 32,
+              "stem": "Which of the following statements best summarizes Oaks\u2019s analysis of Nile crocodiles\u2019 DNA as it is pre- sented in the third paragraph (lines 37\u201348)?",
+              "choices": {
+                "F": "It suggested that Nile crocodiles are older than what was previously believed, which does not sup- port the living fossil theory of crocodiles.",
+                "G": "It suggested that different species of crocodiles do not share a basal ancestor, which the scientific community has confirmed.",
+                "H": "It suggested that the analysis was hastily done, which prompted the scientific community to ignore it.",
+                "J": "It suggested that the DNA came from two species, which did not support the living fossil theory of crocodiles."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 33,
+              "stem": "The main purpose of the fifth paragraph (lines 67\u201382) is to:",
+              "choices": {
+                "A": "describe the DNA analysis that confirmed Croco- dylus niloticus and Crocodylus suchus were two distinct species.",
+                "B": "provide information on the mummification of crocodiles that was pertinent to Hekkala\u2019s analysis.",
+                "C": "explain how Hekkala revolutionized DNA analysis by comparing the DNA of 123 different African crocodiles.",
+                "D": "introduce the behavioral differences between Crocodylus niloticus and Crocodylus suchus."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 34,
+              "stem": "As it is used in line 3, the word standard most nearly means:",
+              "choices": {
+                "F": "accepted.",
+                "G": "moderate.",
+                "H": "normal.",
+                "J": "regulated."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 35,
+              "stem": "According to the passage, molecular analysis revealed that immune system molecules from living crocodilian species were similar in:",
+              "choices": {
+                "A": "structure and behavior.",
+                "B": "color and size.",
+                "C": "density and age.",
+                "D": "shape and weight. STOP! DO N 3 ACT-F12"
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 36,
+              "stem": "In the context of the passage, the statement in lines 53\u201355 mainly serves to:",
+              "choices": {
+                "F": "indicate that Klemens and his companions believed that the crocodiles were diseased.",
+                "G": "establish the tameness of the crocodiles in the desert oasis.",
+                "H": "suggest that Klemens and his companions sus- pected they were swimming with Crocodylus niloticus.",
+                "J": "indicate that the crocodiles in the desert oasis had not yet fully matured."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 37,
+              "stem": "According to the passage, after Klemens sent a tissue sample of a perished crocodile to Hekkala, Hekkala then:",
+              "choices": {
+                "A": "estimated the crocodile\u2019s age.",
+                "B": "studied the crocodile\u2019s immune system.",
+                "C": "sequenced the crocodile\u2019s genome.",
+                "D": "identified mutations in the crocodile\u2019s molecular structure."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 38,
+              "stem": "In the context of the passage, the detail that Crocody- lus niloticus and Crocodylus suchus have different numbers of chromosomes provides support for the claim that the two species:",
+              "choices": {
+                "F": "diverged during the Cretaceous.",
+                "G": "had similar diets.",
+                "H": "did not evolve from the same ancestor.",
+                "J": "were not mixing their DNA."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 39,
+              "stem": "According to the passage, Crocodylus niloticus and Crocodylus suchusdiverged between:",
+              "choices": {
+                "A": "1 and 2 million years ago.",
+                "B": "3 and 6 million years ago.",
+                "C": "8 and 13 million years ago.",
+                "D": "66 and 145 million years ago."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 40,
+              "stem": "Based on the passage, the phrase \u201credraw the map\u201d (line 84) is most likely meant to be read:",
+              "choices": {
+                "F": "literally; scientists no longer believed crocodiles originated in Africa.",
+                "G": "literally; scientists no longer believed crocodiles once lived in a band of tropics.",
+                "H": "figuratively; scientists amended the narrative of the natural history of crocodiles.",
+                "J": "figuratively; scientists believe their findings will have broader implications on archaeology. END OF TEST 3 NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST. 7"
+              },
+              "correct": "H",
+              "lineRef": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "title": "Passage i",
+          "imageSrc": "/tests/F12/science/passage_passage-i.jpg",
+          "startPage": 38,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "The rate at which a ZAMS star fuses hydrogen into helium is directly proportional to the core temperature of that star. Based on the table, is the rate of fusion more likely greater for a 3 M ZAMS star or for a sun 9 M ZAMS star? sun",
+              "choices": {
+                "A": "A 3 M star, because the core temperature of a sun 3 M star is higher than that of a 9 M star. sun sun",
+                "B": "A 3 M star, because the core temperature of a sun 3 M star is lower than that of a 9 M star. sun sun",
+                "C": "A 9 M star, because the core temperature of a sun 9 M star is higher than that of a 3 M star. sun sun",
+                "D": "A 9 M star, because the core temperature of a sun 9 M star is lower than that of a 3 M star. sun sun"
+              },
+              "correct": "D",
+              "imageSrc": "/tests/F12/science/passage_passage-i.jpg"
+            },
+            {
+              "number": 2,
+              "stem": "According to the table, as mass increases from 3M sun to 30M , does radius increase or decrease, and does sun core density increase or decrease? radius core density",
+              "choices": {
+                "F": "increase increase",
+                "G": "increase decrease",
+                "H": "decrease increase",
+                "J": "decrease decrease"
+              },
+              "correct": "H",
+              "imageSrc": "/tests/F12/science/passage_passage-i.jpg"
+            },
+            {
+              "number": 3,
+              "stem": "An astronomer observes a ZAMS star with a surface temperature of 27,000 K. Based on the table, this star\u2019s luminosity is most likely closest to which of the fol- lowing values?",
+              "choices": {
+                "A": "00,100 L sun",
+                "B": "00,700 L sun",
+                "C": "05,000 L sun",
+                "D": "20,000 L sun 3 4"
+              },
+              "correct": "A",
+              "imageSrc": "/tests/F12/science/passage_passage-i.jpg"
+            },
+            {
+              "number": 4,
+              "stem": "Based on the table, what is the approximate tempera- ture difference between the surface of the 30 M sun ZAMS star and the surface of the 1.5 M ZAMS star? sun",
+              "choices": {
+                "F": "17,000 K",
+                "G": "36,000 K",
+                "H": "52,000 K",
+                "J": "55,000 K"
+              },
+              "correct": "J",
+              "imageSrc": "/tests/F12/science/passage_passage-i.jpg"
+            },
+            {
+              "number": 5,
+              "stem": "According to the table, what is the mass of the ZAMS star that has a core temperature closest to 25,000,000 K ?",
+              "choices": {
+                "A": "03 M sun",
+                "B": "05 M sun",
+                "C": "09 M sun",
+                "D": "15 M sun"
+              },
+              "correct": "C",
+              "imageSrc": "/tests/F12/science/passage_passage-i.jpg"
+            },
+            {
+              "number": 6,
+              "stem": "Based on the table, what is the mass of 1 cubic meter m3) (1 of material in the core of the 1.5 M ZAMS sun star? m3=1 \u00d7106cm3) (Note: 1",
+              "choices": {
+                "F": "6.2 \u00d7103g \u00d7104g",
+                "G": "9.5",
+                "H": "6.2 \u00d7106g \u00d7107g",
+                "J": "9.5 9 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "imageSrc": "/tests/F12/science/passage_passage-i.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "title": "Passage II",
+          "imageSrc": "/tests/F12/science/passage_passage-ii.jpg",
+          "startPage": 40,
+          "questions": [
+            {
+              "number": 7,
+              "stem": "For which growth season was the amount of rainfall received closest to the region\u2019s average rainfall per season?",
+              "choices": {
+                "A": "Season 5",
+                "B": "Season 6",
+                "C": "Season 8",
+                "D": "Season 14"
+              },
+              "correct": "A",
+              "imageSrc": "/tests/F12/science/passage_passage-ii.jpg"
+            },
+            {
+              "number": 8,
+              "stem": "Season9 and Season 11 had the same amount of rain- fall, but Season9 had more dry spells(30days or more with no rain) than did Season 11. Based on Table 1, did the greater number of dry spells in Season9 more likely have a positive effect or a negative effect on the yield of sorghum?",
+              "choices": {
+                "F": "Positive; for sorghum, the yield for Season 9 was greater than the yield for Season 11.",
+                "G": "Positive; for sorghum, the yield for Season 11 was greater than the yield for Season 9.",
+                "H": "Negative; for sorghum, the yield for Season 9 was greater than the yield for Season 11.",
+                "J": "Negative; for sorghum, the yield for Season 11 was greater than the yield for Season 9."
+              },
+              "correct": "F",
+              "imageSrc": "/tests/F12/science/passage_passage-ii.jpg"
+            },
+            {
+              "number": 9,
+              "stem": "Based on Figure1 and Table1, for the growth season with the least amount of rainfall, which of rapoko or millet had the larger yield, and what was the yield for that crop?",
+              "choices": {
+                "A": "Rapoko; 1,033 MT",
+                "B": "Rapoko; 1,903 MT",
+                "C": "Millet; 102 MT",
+                "D": "Millet; 640 MT 4 4"
+              },
+              "correct": "A",
+              "imageSrc": "/tests/F12/science/passage_passage-ii.jpg"
+            },
+            {
+              "number": 10,
+              "stem": "The rainfall deviation in centimeters for Season 1 was closest to which of the following values?",
+              "choices": {
+                "F": "000,0.225 cm",
+                "G": "000,2.25 cm",
+                "H": "00,22.5 cm",
+                "J": "2,250 cm"
+              },
+              "correct": "G",
+              "imageSrc": "/tests/F12/science/passage_passage-ii.jpg"
+            },
+            {
+              "number": 11,
+              "stem": "Does Figure1 show the variation in an abiotic factor or a biotic factor in the region?",
+              "choices": {
+                "A": "Abiotic; the crops grown in a region are a living factor in an ecosystem.",
+                "B": "Abiotic; the amount of rainfall is a nonliving factor in an ecosystem.",
+                "C": "Biotic; the crops grown in a region are a living factor in an ecosystem.",
+                "D": "Biotic; the amount of rainfall is a nonliving factor in an ecosystem."
+              },
+              "correct": "D",
+              "imageSrc": "/tests/F12/science/passage_passage-ii.jpg"
+            },
+            {
+              "number": 12,
+              "stem": "Suppose a wet season is any growth season in which there is at least 900mm of rainfall. Given the region\u2019s average rainfall and the data in Figure1, how many of the growth seasons, if any, would have been wet seasons?",
+              "choices": {
+                "F": "0",
+                "G": "1",
+                "H": "6",
+                "J": "8 1 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "imageSrc": "/tests/F12/science/passage_passage-ii.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "title": "Passage III",
+          "imageSrc": "/tests/F12/science/passage_passage-iii.jpg",
+          "startPage": 42,
+          "questions": [
+            {
+              "number": 13,
+              "stem": "Based on Figure1, if an incubation time of 60 hr had been tested in Study 1, the average BML for the planarians incubated in the 0.20 mg/L aqueous solu- tion of Drug M would most likely have been: \u03bcg/g.",
+              "choices": {
+                "A": "less than 6",
+                "B": "between 6 \u03bcg/g and 11 \u03bcg/g. \u03bcg/g \u03bcg/g.",
+                "C": "between 11 and 21",
+                "D": "greater than 21 \u03bcg/g."
+              },
+              "correct": "C",
+              "imageSrc": "/tests/F12/science/passage_passage-iii.jpg"
+            },
+            {
+              "number": 14,
+              "stem": "",
+              "choices": {
+                "A": "student hypothesized that, as the concentration of DrugM in the solutions increased, the average BML of the planarians would increase only. The results for how many of the incubation times tested in Study1 are con- sistent with this hypothesis?",
+                "F": "0",
+                "G": "1",
+                "H": "3",
+                "J": "4"
+              },
+              "correct": "G",
+              "imageSrc": "/tests/F12/science/passage_passage-iii.jpg"
+            },
+            {
+              "number": 15,
+              "stem": "Suppose that for planarians, swimming speed is directly proportional to the concentration of a particu- lar protein in the body tissues. Based on the results of Study 2, for the 0.20 mg/L aqueous solution of Drug M, which of the incubation times tested would most likely result in the greatest average concentration of this protein in the body tissues of the planarians?",
+              "choices": {
+                "A": "001 min",
+                "B": "030 min",
+                "C": "060 min",
+                "D": "480 min 4 4"
+              },
+              "correct": "D",
+              "imageSrc": "/tests/F12/science/passage_passage-iii.jpg"
+            },
+            {
+              "number": 16,
+              "stem": "Which of the following statements about the effect of a Drug M concentration of either 0.05 mg/L or 1.80 mg/L on average swimming speed is consistent with the results of Study 2 ? As incubation time increased from 1 min through 480 min, for the planari- ans in a solution having a Drug M concentration of:",
+              "choices": {
+                "F": "0.05 mg/L, the average swimming speed increased only.",
+                "G": "0.05 mg/L, the average swimming speed decreased only.",
+                "H": "1.80 mg/L, the average swimming speed increased and then decreased.",
+                "J": "1.80 mg/L, the average swimming speed decreased and then increased."
+              },
+              "correct": "H",
+              "imageSrc": "/tests/F12/science/passage_passage-iii.jpg"
+            },
+            {
+              "number": 17,
+              "stem": "Which of the following statements comparing the designs of the 2 studies is accurate?",
+              "choices": {
+                "A": "A greater number of incubation times was tested in Study 2 than in Study 1.",
+                "B": "A DrugM concentration of 1.80 mg/L was tested in both studies.",
+                "C": "More time was required to complete Study1 than to complete Study 2.",
+                "D": "In both studies, there were 6 planarians per group."
+              },
+              "correct": "C",
+              "imageSrc": "/tests/F12/science/passage_passage-iii.jpg"
+            },
+            {
+              "number": 18,
+              "stem": "In which of Studies 1 and 2, if either, was the incuba- tion temperature varied from group to group?",
+              "choices": {
+                "F": "Study 1 only",
+                "G": "Study 2 only",
+                "H": "Both Study 1 and Study 2",
+                "J": "Neither Study 1 nor Study 2"
+              },
+              "correct": "J",
+              "imageSrc": "/tests/F12/science/passage_passage-iii.jpg"
+            },
+            {
+              "number": 19,
+              "stem": "Consider the samples that were collected from the organisms in Study 1. Do the cells in these samples have nuclei, and do these cells have ribosomes? nuclei ribosomes",
+              "choices": {
+                "A": "yes yes",
+                "B": "yes no",
+                "C": "no yes",
+                "D": "no no 3 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "imageSrc": "/tests/F12/science/passage_passage-iii.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "title": "Passage IV",
+          "imageSrc": "/tests/F12/science/passage_passage-iv.jpg",
+          "startPage": 44,
+          "questions": [
+            {
+              "number": 20,
+              "stem": "Based on the explanation given by Student1, which of the following plots best shows the predicted relation- ship between the brightness of light and the rotational speed of the CR vanes?",
+              "choices": {
+                "F": "deeps H. deeps lanoitator lanoitator brightness of light brightness of light",
+                "G": "J. deeps deeps lanoitator lanoitator brightness of light brightness of light 4 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F",
+              "imageSrc": "/tests/F12/science/passage_passage-iv.jpg"
+            },
+            {
+              "number": 21,
+              "stem": "Regardless of which student might be correct, for the CR to function as described, which of the following statements about the glass that composes the bulb of the CR must be accurate? The glass must be able to:",
+              "choices": {
+                "A": "prevent light from entering.",
+                "B": "allow light to enter.",
+                "C": "prevent heat from entering.",
+                "D": "allow heat to enter."
+              },
+              "correct": "B",
+              "imageSrc": "/tests/F12/science/passage_passage-iv.jpg"
+            },
+            {
+              "number": 22,
+              "stem": "In the process of thermal transpiration, gas molecules move from a cooler area to a warmer area. Is thermal transpiration more likely occurring in the process described by Student3 or in the process described by Student 4 ?",
+              "choices": {
+                "F": "Student3; that student predicted that air molecules would move from the cooler silver side to the warmer black side.",
+                "G": "Student3; that student predicted that air molecules would move from the cooler black side to the warmer silver side.",
+                "H": "Student4; that student predicted that air molecules would move from the cooler silver side to the warmer black side.",
+                "J": "Student4; that student predicted that air molecules would move from the cooler black side to the warmer silver side."
+              },
+              "correct": "H",
+              "imageSrc": "/tests/F12/science/passage_passage-iv.jpg"
+            },
+            {
+              "number": 23,
+              "stem": "Suppose the set of vanes in the CR shown in the dia- gram has a mass of m. Further suppose the students obtain a CR that is identical to the one shown in the diagram except that the set of vanes has a mass of 10m. If both CRs are placed in the same light, which set of vanes is more likely to rotate faster? The set with a mass of:",
+              "choices": {
+                "A": "m; the set with less mass would be easier to rotate.",
+                "B": "m; the set with less mass would be more difficult to rotate.",
+                "C": "10m; the set with more mass would be easier to rotate.",
+                "D": "10m; the set with more mass would be more diffi- cult to rotate. 4 4"
+              },
+              "correct": "C",
+              "imageSrc": "/tests/F12/science/passage_passage-iv.jpg"
+            },
+            {
+              "number": 24,
+              "stem": "Suppose that the silver sides of the vanes in the CR shown in the diagram had been painted white instead. Further suppose that when placed in light the vanes of this CR still rotated. Would this finding be consistent with the explanation given by Student 3 ?",
+              "choices": {
+                "F": "Yes; the black side of each vane was likely warmer than the white side, so the vanes should still have rotated.",
+                "G": "Yes; the black side of each vane was likely cooler than the white side, so the vanes should still have rotated.",
+                "H": "No; the black side of each vane was likely warmer than the white side, so the vanes should not have rotated.",
+                "J": "No; the black side of each vane was likely cooler than the white side, so the vanes should not have rotated."
+              },
+              "correct": "J",
+              "imageSrc": "/tests/F12/science/passage_passage-iv.jpg"
+            },
+            {
+              "number": 25,
+              "stem": "Suppose that, when a photon is reflected by a surface, it exerts twice as much force as when it is absorbed by a surface. This information is consistent with the explanation given by which student: Student1 or Stu- dent 2 ?",
+              "choices": {
+                "A": "Student1; that student stated that a greater force is exerted on the black sides of the vanes.",
+                "B": "Student1; that student stated that a greater force is exerted on the silver sides of the vanes.",
+                "C": "Student2; that student stated that a greater force is exerted on the black sides of the vanes.",
+                "D": "Student2; that student stated that a greater force is exerted on the silver sides of the vanes."
+              },
+              "correct": "B",
+              "imageSrc": "/tests/F12/science/passage_passage-iv.jpg"
+            },
+            {
+              "number": 26,
+              "stem": "Consider the statement \u201cThe brighter the light in which a CR is placed, the greater the kinetic energy of its vanes.\u201d This statement is consistent with the explana- tions given by which students?",
+              "choices": {
+                "F": "Students 1 and 2 only",
+                "G": "Students 3 and 4 only",
+                "H": "Students 1, 3, and 4 only",
+                "J": "Students 1, 2, 3, and 4 5 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F",
+              "imageSrc": "/tests/F12/science/passage_passage-iv.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-v",
+          "title": "Passage V",
+          "imageSrc": "/tests/F12/science/passage_passage-v.jpg",
+          "startPage": 46,
+          "questions": [
+            {
+              "number": 27,
+              "stem": "What is the order of Pb, Sb, and Sn from the substance with the smallest accepted C to the substance with the p greatest accepted C ? p",
+              "choices": {
+                "A": "Sb, Pb, Sn",
+                "B": "Sb, Sn, Pb",
+                "C": "Pb, Sb, Sn",
+                "D": "Pb, Sn, Sb 6 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "imageSrc": "/tests/F12/science/passage_passage-v.jpg"
+            },
+            {
+              "number": 28,
+              "stem": "How many protons are in an atom of the metal that had an average experimental C of 0.217 J/g\u00b7\u00b0C ? p",
+              "choices": {
+                "F": "013",
+                "G": "025",
+                "H": "050",
+                "J": "100"
+              },
+              "correct": "J",
+              "imageSrc": "/tests/F12/science/passage_passage-v.jpg"
+            },
+            {
+              "number": 29,
+              "stem": "Which of the metals tested in the experiment had the greatest absolute difference between the average experimental C and the accepted C ? p p",
+              "choices": {
+                "A": "Al",
+                "B": "Sb",
+                "C": "Cu",
+                "D": "Pb"
+              },
+              "correct": "A",
+              "imageSrc": "/tests/F12/science/passage_passage-v.jpg"
+            },
+            {
+              "number": 30,
+              "stem": "Based on the results of the experiment and additional information from the passage, did the greatest average \u0394T value more likely result from the trials performed w with Al or from the trials performed with Pb ?",
+              "choices": {
+                "F": "Al; the metal with the greatest C value would p have released the most heat, thereby causing the temperature of the water to change the most.",
+                "G": "Al; the metal with the smallest C value would p have released the most heat, thereby causing the temperature of the water to change the most.",
+                "H": "Pb; the metal with the greatest C value would p have released the most heat, thereby causing the temperature of the water to change the most.",
+                "J": "Pb; the metal with the smallest C value would p have released the most heat, thereby causing the temperature of the water to change the most. 4 4"
+              },
+              "correct": "G",
+              "imageSrc": "/tests/F12/science/passage_passage-v.jpg"
+            },
+            {
+              "number": 31,
+              "stem": "For the 5metals tested in the experiment, as the atomic number increased, the average experimental C : p",
+              "choices": {
+                "A": "increased only.",
+                "B": "decreased only.",
+                "C": "increased and then decreased.",
+                "D": "decreased and then increased."
+              },
+              "correct": "D",
+              "imageSrc": "/tests/F12/science/passage_passage-v.jpg"
+            },
+            {
+              "number": 32,
+              "stem": "Based on the results of the experiment, the percent error for the specific heat of Cu is best calculated using which of the following expressions? \u23aa0.388 \u22120.384\u23aa ______________",
+              "choices": {
+                "F": "\u00d7100% 0.384 \u23aa0.388 \u22120.384\u23aa ______________",
+                "G": "\u00d7100% 0.388 _____0_.3_8_4______",
+                "H": "\u00d7100% \u22120.384\u23aa \u23aa0.388 _____0_.3_8_8______",
+                "J": "\u00d7100% \u22120.384\u23aa \u23aa0.388"
+              },
+              "correct": "J",
+              "imageSrc": "/tests/F12/science/passage_passage-v.jpg"
+            },
+            {
+              "number": 33,
+              "stem": "Based on the experimental procedures, in each trial, a total of approximately how many temperature values were recorded?",
+              "choices": {
+                "A": "120",
+                "B": "220",
+                "C": "240",
+                "D": "440 7 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "A",
+              "imageSrc": "/tests/F12/science/passage_passage-v.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-vi",
+          "title": "Passage VI",
+          "imageSrc": "/tests/F12/science/passage_passage-vi.jpg",
+          "startPage": 48,
+          "questions": [
+            {
+              "number": 30,
+              "stem": "",
+              "choices": {
+                "F": "= Functions",
+                "A": "= Algebra",
+                "G": "= Geometry S = Statistics & Probability IES = Integrating Essential Skills MDL = Modeling 51 Reporting Category* PHM Key N A F G S IES MDL"
+              },
+              "correct": "G",
+              "imageSrc": "/tests/F12/science/passage_passage-vi.jpg"
+            },
+            {
+              "number": 34,
+              "stem": "According to the results of the study, did the injection 2\u2212 of CCP grout reduce the SO content of the ground- 4 water flowing out of the mine? 2\u2212",
+              "choices": {
+                "F": "Yes; SO content was much lower on January 1, 4 1996, than it was on July 1, 1995. 2\u2212",
+                "G": "Yes; SO content was much lower on January 1, 4 1997, than it was on July 1, 1996. 2\u2212",
+                "H": "No; SO content was much higher on January 1, 4 1996, than it was on July 1, 1995. 2\u2212",
+                "J": "No; SO content was much higher on January 1, 4 1997, than it was on July 1, 1996."
+              },
+              "correct": "F",
+              "imageSrc": "/tests/F12/science/passage_passage-vi.jpg"
+            },
+            {
+              "number": 35,
+              "stem": "How many months after the injection of the CCP grout was the next set of water samples collected?",
+              "choices": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5"
+              },
+              "correct": "A",
+              "imageSrc": "/tests/F12/science/passage_passage-vi.jpg"
+            },
+            {
+              "number": 36,
+              "stem": "Consider the description of the chemical interaction that forms ions found in AMD. Which of FeS , H O, 2\u2212 2 2 and SO would be considered a reactant, and wh ich 4 2\u2212 of FeS , H O, and SO would be considered a prod- 2 2 4 uct, in this interaction? reactant(s) product(s) 2\u2212",
+              "choices": {
+                "F": "FeS SO and H O 2 4 2 2\u2212",
+                "G": "FeS and H O SO 2 2 4 2\u2212",
+                "H": "SO FeS and H O 4 2 2 2\u2212",
+                "J": "SO and H O FeS 4 2 2 8 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "imageSrc": "/tests/F12/science/passage_passage-vi.jpg"
+            },
+            {
+              "number": 37,
+              "stem": "Which of the following statements best summarizes the intended role of CCP grout in the coal-mining industry?",
+              "choices": {
+                "A": "To decrease the interactions between groundwater and rock exposed by mining",
+                "B": "To increase the interactions between groundwater and rock exposed by mining",
+                "C": "To prevent any groundwater from entering a mine",
+                "D": "To prevent any groundwater from exiting a mine"
+              },
+              "correct": "C",
+              "imageSrc": "/tests/F12/science/passage_passage-vi.jpg"
+            },
+            {
+              "number": 38,
+              "stem": "Which of the following was a dependent variable in the study?",
+              "choices": {
+                "F": "Time",
+                "G": "Volume of groundwater 2\u2212",
+                "H": "SO content 4",
+                "J": "Number of water samples S 4 4"
+              },
+              "correct": "J",
+              "imageSrc": "/tests/F12/science/passage_passage-vi.jpg"
+            },
+            {
+              "number": 39,
+              "stem": "If the CCP grout injection had occurred on August 1, 1997, instead of on August 1, 1996, the pH of the groundwater flowing out of the mine on July 1, 1997, would most likely have been closest to which of the following?",
+              "choices": {
+                "A": "4.0",
+                "B": "4.5",
+                "C": "5.0",
+                "D": "5.5"
+              },
+              "correct": "B",
+              "imageSrc": "/tests/F12/science/passage_passage-vi.jpg"
+            },
+            {
+              "number": 40,
+              "stem": "According to the description and results of the study, before August 1, 1996, how many samples were col- lected at the location where groundwater flowed out of the mine?",
+              "choices": {
+                "F": "04",
+                "G": "08",
+                "H": "10",
+                "J": "12 END OF TEST 4 STOP! DO NOT RETURN TO ANY OTHER TEST. 9"
+              },
+              "correct": "H",
+              "imageSrc": "/tests/F12/science/passage_passage-vi.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scaleTable": {}
+}
