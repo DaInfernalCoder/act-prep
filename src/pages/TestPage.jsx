@@ -74,9 +74,6 @@ export default function TestPage() {
         </div>
         <Timer />
         <div className="flex items-center gap-3 w-48 justify-end">
-          <span className="text-sm text-gray-400">
-            {answeredCount}<span className="text-gray-300"> / </span>{total}
-          </span>
           <button
             onClick={() => setShowSubmitConfirm(true)}
             className="text-sm font-semibold border border-gray-200 px-3 py-1.5 rounded-lg hover:bg-gray-50 text-gray-700"
@@ -105,8 +102,7 @@ export default function TestPage() {
         {/* Right: question + choices */}
         <div className="w-[460px] flex flex-col overflow-hidden">
           <div className="flex-1 overflow-y-auto p-7">
-            <div className="flex items-center justify-between mb-5">
-              <span className="text-xs font-medium text-gray-400">Item {q.number}</span>
+            <div className="flex items-center justify-end mb-5">
               <button
                 onClick={() => toggleFlag(questionKey)}
                 className={`flex items-center gap-1 text-xs font-semibold px-2.5 py-1 rounded-lg transition-colors ${
