@@ -7,6 +7,7 @@ import TestPage from './pages/TestPage'
 import BreakScreen from './pages/BreakScreen'
 import Results from './pages/Results'
 import ReviewPage from './pages/ReviewPage'
+import TrendsPage from './pages/TrendsPage'
 
 // Load results from Supabase on startup
 async function loadResults() {
@@ -40,6 +41,7 @@ export default function App() {
       {phase === 'break' && <BreakScreen />}
       {phase === 'results' && <Results />}
       {phase === 'review' && <ReviewPage />}
+      {phase === 'trends' && <TrendsPage />}
     </div>
   )
 }

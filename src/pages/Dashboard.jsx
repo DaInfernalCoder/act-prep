@@ -1,16 +1,25 @@
 import { useState } from 'react'
 import { useTestStore } from '../store/useTestStore'
-import { Check, Trash2 } from 'lucide-react'
+import { Check, Trash2, TrendingUp } from 'lucide-react'
 import tests from '../data'
 
 export default function Dashboard() {
-  const { startTest, testResults, clearTestResults } = useTestStore()
+  const { startTest, testResults, clearTestResults, goToTrends } = useTestStore()
 
   return (
     <div className="min-h-screen bg-[#f5f5f5] p-4 md:p-8">
       <div className="max-w-5xl mx-auto">
         <div className="flex items-center justify-between mb-6 md:mb-8">
           <h1 className="text-xl md:text-2xl font-bold text-gray-900">Practice Tests</h1>
+          {testResults.length > 0 && (
+            <button
+              onClick={goToTrends}
+              className="flex items-center gap-1.5 text-sm font-semibold text-gray-600 hover:text-gray-900 transition-colors"
+            >
+              <TrendingUp size={16} />
+              Trends
+            </button>
+          )}
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -24,10 +33,6 @@ export default function Dashboard() {
                 result={result}
                 completed={completed}
                 onStart={() => startTest(test.id)}
-                onReview={() => {
-                  startTest(test.id)
-                  // navigate to review — handled via goToReview after startTest sets activeTestId
-                }}
               />
             )
           })}
@@ -38,14 +43,12 @@ export default function Dashboard() {
 }
 
 function TestCard({ test, result, completed, onStart }) {
-  const { startTest, goToReview, testResults, clearTestResults } = useTestStore()
+  const { startTest, goToReview, clearTestResults } = useTestStore()
   const composite = result?.scores?.composite
   const [showBreakdown, setShowBreakdown] = useState(false)
 
   const handleReview = () => {
-    // Set active test context then jump to review
     startTest(test.id)
-    // goToReview is called after phase sets — use setTimeout to let state settle
     setTimeout(() => useTestStore.getState().goToReview(), 0)
   }
 

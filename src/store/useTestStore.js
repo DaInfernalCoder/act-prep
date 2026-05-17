@@ -186,6 +186,8 @@ export const useTestStore = create(
         }
       },
 
+      goToTrends: () => set({ phase: 'trends' }),
+
       resetToHome: () => set({
         activeTestId: null,
         currentSection: null,
