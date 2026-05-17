@@ -1,0 +1,1357 @@
+{
+  "id": "H31",
+  "name": "ACT Form H31",
+  "sections": [
+    {
+      "id": "english",
+      "name": "English",
+      "timeMinutes": 45,
+      "passages": [
+        {
+          "id": "eng-p1",
+          "title": "Passage 1",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_2.jpg",
+          "startPage": 2,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "that is",
+                "C": "is",
+                "D": "DELETE the underlined portion."
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_2.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 2,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "city\u2019s classical music fans, who have assembled in the basilica to hear the orchestra.",
+                "H": "city of Havana\u2019s classical music fans in the basilica.",
+                "J": "city\u2019s classical music fans. . 2 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_2.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 3,
+              "stem": "Given that all the choices are accurate, which one best introduces the main focus of the paragraph?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "was the first woman in Cuba to graduate with an advanced degree in orchestra conducting.",
+                "C": "knew that classical music was not a genre most people associated with Cuba.",
+                "D": "was committed to bringing each composer\u2019s vision for a given piece to fruition."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 4,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "not be as uptight about what they wore, unlike",
+                "H": "dress down a bit, honestly, compared to",
+                "J": "forget about dressing up as fancily as"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 5,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "stands, Romeu",
+                "C": "stands Romeu,",
+                "D": "stands Romeu"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 6,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "enhance",
+                "H": "inflate",
+                "J": "revise"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 7,
+              "stem": "Which of the following choices most precisely expresses the idea that audiences were enthusiastic about attend- ing Camerata Romeu\u2019s performances?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "assembled at",
+                "C": "turned up at",
+                "D": "flocked to"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 8,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "For example,",
+                "H": "In contrast,",
+                "J": "DELETE the underlined portion."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 9,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "In return,",
+                "C": "While",
+                "D": "As 1 2. F. NO CHANGE",
+                "G": "with",
+                "H": "at",
+                "J": "DELETE the underlined portion. 3 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/english/page_3.jpg",
+              "correct": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "timeMinutes": 60,
+      "questions": [
+        {
+          "number": 1,
+          "stem": "The function fis defined below. =\u23aax\u23aa f(x) What is(are) the output value(s) of f(2) ? _1_ A. 2",
+          "choices": {
+            "B": "2",
+            "C": "\u23aaf\u23aa(2) \u23aa \u23aa _ _2_ _ D. f \u23aa \u23aa _ _2_ _ E. x"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_14.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 2,
+          "stem": "Quinn bought a tractor. He made an initial payment of $900. He then made 36 equal monthly payments. Quinn paid a total amount of $9,000 for the tractor. What was the amount of each of his monthly payments?",
+          "choices": {
+            "F": "$025",
+            "G": "$225",
+            "H": "$250",
+            "J": "$275",
+            "K": "$360 \u2666,"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_14.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 3,
+          "stem": "",
+          "choices": {
+            "A": "new operation, is defined for 2 ordered pairs of _a_c_+__b_d_. \u2666 = integers as follows: (a,b) (c,d) What is ab\u2212cd \u2666(1,2) the value of (4,3) ? \u22125 A.",
+            "B": "\u22122",
+            "C": "01",
+            "D": "02",
+            "E": "10 14 ACT-H31 2 DO"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_14.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 4,
+          "stem": "To determine a student\u2019s overall test score for the semester, Mr. Weintraub omits the lowest test score and calculates the average of the remaining test scores. Holly took all 5 tests and earned the following test scores in Mr. Weintraub\u2019s class this semester: 71, 76, 81, 84, and 95. What overall test score did Holly earn in Mr. Weintraub\u2019s class this semester?",
+          "choices": {
+            "F": "81.0",
+            "G": "81.4",
+            "H": "83.0",
+            "J": "84.0",
+            "K": "85.5"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 5,
+          "stem": "",
+          "choices": {
+            "A": "16,000",
+            "B": "20,625",
+            "C": "30,625",
+            "D": "32,500",
+            "E": "39,375"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 6,
+          "stem": "All 26students in a high school music department are enrolled in choir, band, or both. Of the 26 students, 14 are enrolled in choir and 18 are enrolled in band. How many are enrolled in both choir and band?",
+          "choices": {
+            "F": "04",
+            "G": "06",
+            "H": "14",
+            "J": "20",
+            "K": "26"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 7,
+          "stem": "Jesse has 4shirts, 8 pairs of jeans, and 4coats, which all go together well. How many different outfits consisting of 1 of his 4shirts, 1 of his 8 pairs of jeans, and 1 of his 4 coats are available for Jesse to wear?",
+          "choices": {
+            "A": "012",
+            "B": "016",
+            "C": "032",
+            "D": "064",
+            "E": "128"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 8,
+          "stem": "What is the product of (3x+2) and (3x\u22122) ? 6x2\u22124 F.",
+          "choices": {
+            "G": "9x2\u22124 9x2+4 H.",
+            "J": "9x2\u221212x\u2212 4 9x2+12x\u2212",
+            "K": "4 15 ACT-H31 2 DO"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_15.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 9,
+          "stem": "Zhu has $25 to spend on camping supplies. The table below shows the prices, including tax, of some items. Given that Zhu buys 1 hand broom, 1 rubber mallet, and 2 telescoping forks, what is the greatest number of tent stakes she can buy with her remaining money? Item Price Hand broom $3.45 Rubber mallet $6.00 Telescoping fork $3.25 Tent stake $1.20",
+          "choices": {
+            "A": "07",
+            "B": "08",
+            "C": "09",
+            "D": "10",
+            "E": "11"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_16.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 10,
+          "stem": "There were 425 students in the 10th grade at Hayes _3_ County High School this year. Of these students, 5 were enrolled in geometry. Of the students enrolled in _1_ geometry, earned a grade of A in geometry this year. 5 How many of the geometry students earned a grade of",
+          "choices": {
+            "A": "in geometry this year?",
+            "F": "051",
+            "G": "085",
+            "H": "136",
+            "J": "170",
+            "K": "340 ___"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_16.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 11,
+          "stem": "",
+          "choices": {
+            "A": "108\u00b0 108\u00b0 18\u00b0",
+            "E": "288\u00b0 16 ACT-H31 2 DO",
+            "B": "144\u00b0 C",
+            "C": "160\u00b0",
+            "D": "216\u00b0 D"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_16.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 13,
+          "stem": "Which of the following matrices is equal to 3 ? 0 \u22125",
+          "choices": {
+            "A": "3\u22126 \u2212124 3 \u221234",
+            "B": "\u221215 31 44 C. 3 \u22122 3\u2212_2_ \u2212_1_4 3 3 D. \u2212_5_ 0 3 3\u22126 34 E. 0 \u221215"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_17.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 14,
+          "stem": "",
+          "choices": {
+            "A": "vertical rod 42feet tall casts a shadow 14 feet long, and at the same time a nearby vertical flagpole casts a shadow 42 feet long. How many feet tall is the flagpole?",
+            "F": "014",
+            "G": "028",
+            "H": "042",
+            "J": "070",
+            "K": "126"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_17.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 15,
+          "stem": "Which of the following (x,y) pairs is the solution for x+2y=8 \u22122x+y=14 the system of equations and ?",
+          "choices": {
+            "A": "(\u22124,6) (\u22121,4.5) B.",
+            "C": "( 1,3.5)",
+            "D": "( 6,1)",
+            "E": "( 8,0)"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_17.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 16,
+          "stem": "Which of the following expressions is equivalent to x2\u221213x+30 ? \u221215)(x \u22122)",
+          "choices": {
+            "F": "(x",
+            "G": "(x \u221215)(x +2) \u221210)(x \u22123)",
+            "H": "(x",
+            "J": "(x \u221210)(x +3) +10)(x \u22123)",
+            "K": "(x 17 ACT-H31 2 x2 + y2 = DO"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_17.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 17,
+          "stem": "",
+          "choices": {
+            "A": "(0\u22123,0) and (03,0) (0\u22126,0)",
+            "B": "and (06,0)",
+            "C": "(\u221212,0) and (12,0) (\u221218,0)",
+            "D": "and (18,0)",
+            "E": "(\u221236,0) and (36,0)"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 18,
+          "stem": "",
+          "choices": {
+            "A": "certain company manufactured 1,000 vacuums and recorded the number of those vacuums sold within 5months. The company\u2019s findings are summarized in the table below. What is the probability 1 of the 1,000 vacuums was sold 3 or 4 months after it was manufactured? Month No. of vacuums sold 1 56 3 301 4 297 5 103",
+            "F": "0.297",
+            "G": "0.301",
+            "H": "0.598",
+            "J": "0.701",
+            "K": "0.827 ___ ___"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 19,
+          "stem": "I_n_ _the_ _f_igure below, B lies on AC, E__ _lies __o_n DF, i AC DF, nEBF is isosceles with BE \u2245 BF, and \u2220CBF measures 34\u00b0. What is the measure of \u2220BED ?",
+          "choices": {
+            "A": "107\u00b0 34\u00b0",
+            "B": "112\u00b0",
+            "C": "124\u00b0 ?",
+            "D": "134\u00b0",
+            "E": "146\u00b0 D E F"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 20,
+          "stem": "Let y be an irrational number. Which of the following statements about the value of 5yis true?",
+          "choices": {
+            "F": "It is rational.",
+            "G": "It is irrational.",
+            "H": "It is imaginary.",
+            "J": "It is undefined.",
+            "K": "It is neither irrational nor rational."
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 21,
+          "stem": "",
+          "choices": {
+            "A": "030",
+            "B": "045",
+            "C": "066",
+            "D": "090",
+            "E": "120 18 ACT-H31 2 = (\u22125z) + = \u22122z2 + + DO what is (h+g)(z) ?",
+            "F": "\u22125z0+16",
+            "G": "\u22127z2+2z+16",
+            "H": "\u22122z2\u22123z+16",
+            "J": "\u22125z3+16",
+            "K": "\u22125z4+16"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_18.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 23,
+          "stem": "",
+          "choices": {
+            "A": "0.20",
+            "B": "0.39",
+            "C": "0.58",
+            "D": "0.64",
+            "E": "0.98"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_19.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 24,
+          "stem": "",
+          "choices": {
+            "A": "certain right circular cone has a volume of 616 cubic meters. Given that the cone has a height of 5meters, which of the following gives the radius of the base of the cone, in meters? (Note: The volume of a right circular cone with radius _1_\u03c0r2h.) rand height his 3 \u2022_6\u2022_1_\u20226_\u2022",
+            "F": "0 \u221a 5 \u2022 _6\u2022 \u20226_(\u20223_ \u2022 _)\u2022 _1_",
+            "G": "0 \u221a 5\u03c0 _1_1_6_1_6_2 H. 5\u03c0 2 \u2022 _6\u2022 \u20226_(\u20223_ \u2022 _)\u2022 _1_",
+            "J": "2 \u221a 5\u03c0 \u2022 _6\u2022 _1_ \u20226_(\u20223_ \u2022 _)\u2022",
+            "K": "\u03c0 \u221a 5\u03c0"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_19.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 25,
+          "stem": "3[sin2(2\u03b8) +cos2(2\u03b8)] =?",
+          "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "6 19 ACT-H31 2 = + DO"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_19.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 26,
+          "stem": "In the equation w 6m 9, w represents the total weight, in ounces, of a carton of cookies where each cookie weighs the same amount, and m represents the number of cookies in the carton. Which of the following quantities is represented by 9 in the equation?",
+          "choices": {
+            "F": "The number of cartons",
+            "G": "The number of cookies in the carton",
+            "H": "The weight, in ounces, of 1 cookie",
+            "J": "The weight, in ounces, of 9 cookies",
+            "K": "The weight, in ounces, of the empty carton"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_20.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 28,
+          "stem": "The first 3elements of a square grid pattern are shown \u00d71 in order from left to right below, where a 1 square is the smallest square shown in any grid. What is the total number of 1 \u00d7 1 squares in the first 6 elements?",
+          "choices": {
+            "F": "068",
+            "G": "071",
+            "H": "091",
+            "J": "139",
+            "K": "140"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_20.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 29,
+          "stem": "The length of Rectangle A is equal to the length of RectangleB. The width of RectangleA is 6meters less than the width of RectangleB. If it can be determined, how many meters less is the perimeter of RectangleA than the perimeter of Rectangle B ?",
+          "choices": {
+            "A": "06",
+            "B": "12",
+            "C": "24",
+            "D": "36",
+            "E": "Cannot be determined from the given information 20 ACT-H31 2 DO"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_20.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 33,
+          "stem": "Rectangle EFGH with vertices at (2,3), and (\u22121,\u22121) is shown in the standard (x,y) coordinate plane below. The quadrants of the coordinate plane are labeled. What percent of the rectangle\u2019s area lies in Quadrant IV ? y II I 08_1_% A.",
+          "choices": {
+            "E": "25%",
+            "C": "x 3 O D. 9 III IV"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_22.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 35,
+          "stem": "Which of the following values is closest to the slope of the line of best fit (with the least sum of squared residuals) for the data represented by the scatterplot in the standard (x,y) coordinate plane below? y 25 \u2212_1_ A. 4 20 \u2212_1_",
+          "choices": {
+            "B": "15 2 10",
+            "C": "0 5 _1_ D. 3 0",
+            "E": "1 0 5 10 15 20 25 30 x i2 = \u22121,"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_22.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 36,
+          "stem": "Given which of the following expressions is equivalent to (9i\u22122)(3 \u22125i) ?",
+          "choices": {
+            "F": "37i",
+            "G": "4i+ 1 37i\u221251 H.",
+            "J": "37i+39 \u221245i\u2212",
+            "K": "6 ACT-H31 2 DO"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_22.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 37,
+          "stem": "For what value of x, if any, is the function below undefined? _(\u2212 + _1_)_(_x_ __2__) f(x) = (x+2)",
+          "choices": {
+            "A": "\u22122 \u22121 B.",
+            "C": "1",
+            "D": "2",
+            "E": "f is defined for all real numbers."
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_23.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 38,
+          "stem": "The Chocolate Mousse Lodge sells gift boxes of chocolates. The actual cardboard box is free, and there is a fixed cost for each gourmet chocolate and another fixed cost for each premiere chocolate in each gift box.",
+          "choices": {
+            "A": "gift box with 5 gourmet chocolates and 10 premiere chocolates costs $30.35, and a gift box with 6 gourmet chocolates and 6 premiere chocolates costs $22.68. What is the cost of a gift box with 2 gourmet chocolates and 1 premiere chocolate?",
+            "F": "$1.53",
+            "G": "$2.56",
+            "H": "$4.60",
+            "J": "$5.27",
+            "K": "$5.80"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_23.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 39,
+          "stem": "Which of the following expressions is NOT equivalent _1_ 1_4_9_23 to ? 415 _1_",
+          "choices": {
+            "A": "_4 \u22126+3 \u22122",
+            "B": "4 _1__ C. 42 _4__3 D. 45 _1_",
+            "E": "_424+3"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_23.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 41,
+          "stem": "In the figure below, k and k are parallel lines, and W and X are points on k and k , respectively. In the same plane, point Z lies between k and k , and some angle measures are given. What is the degree measure of \u2220XZW ? (Note: The figure is NOT drawn to scale.) W k 1 147\u00b0",
+          "choices": {
+            "A": "053\u00b0",
+            "B": "060\u00b0 Z ?",
+            "C": "070\u00b0 37\u00b0",
+            "D": "092\u00b0 k 2",
+            "E": "110\u00b0 X"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_24.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 42,
+          "stem": "What are all the values of z that make the equation below true? z2+z+3 =0 \u22123,and",
+          "choices": {
+            "F": "0 \u22122,and \u22121 G.",
+            "H": "1,and 2 \u22122iand",
+            "J": "2i _\u2212_1_ \u2212__i_\u221a__\u20221_\u20221_ _\u2212_1_ +__i_\u221a__\u20221_\u20221_",
+            "K": "and"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_24.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 43,
+          "stem": "",
+          "choices": {
+            "A": "240 x O",
+            "B": "340",
+            "C": "432",
+            "D": "480",
+            "E": "580"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_24.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 44,
+          "stem": "Let function f be defined by f(x)=4x+3. Let function g be defined by g(x) = \u22124x2 + 10x + 1. The graphs of y = f(x) and y = g(x) intersect at one of the following (x,y) points. Which one?",
+          "choices": {
+            "F": "(1, 7)",
+            "G": "(7, 1) 1 _1_2",
+            "H": "1, 2 1_1_, 2",
+            "J": "1 2 1_1_,\u22121 2 K. 2 24 ACT-H31 2 DO"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_24.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 45,
+          "stem": "Each of the following sets contains the side lengths, in inches, of a right triangle EXCEPT one set. Which one? 5_1_, _2_, _3_6 A. 2 3 4 5_3_, _4_, _5_6 B. 7 7 7 5_5__, _1_3_6",
+          "choices": {
+            "C": "1, 12 12 5_6__, _8__, _1_0_6 D. 11 11 11 5 _1_5_, _1_7_6",
+            "E": "2, 4 4 f(x)=\u2212_1_x\u22125"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 46,
+          "stem": "Consider the function f defined by with 3 \u22126 \u2264x\u22649. domain What is the range of f? \u221242 \u2264 \u2264",
+          "choices": {
+            "F": "f(x) 3",
+            "G": "\u22128 \u2264 f(x) \u2264\u22123 \u22126 \u2264 \u2264\u22123",
+            "H": "f(x)",
+            "J": "\u22126 \u2264 f(x) \u2264 3 \u22126 \u2264 \u2264",
+            "K": "f(x) 9"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 47,
+          "stem": "For \u221a\u2022\u2212\u20221 =i, and for certain real numbers a and b, the \u2212i)+(8+6i)=a+biis equation (10 true. What is the value of ab?",
+          "choices": {
+            "A": "086",
+            "B": "090",
+            "C": "108",
+            "D": "112",
+            "E": "126 \u2194 \u2194"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 48,
+          "stem": "In the figure below, AB is parallel to CE; \u2194 \u2194 \u2194 m\u2220ABF =30\u00b0; and lines AG, BF, and CE intersect at",
+          "choices": {
+            "D": "If it can be determined, what is m\u2220ADC ?",
+            "A": "B 30\u00b0 D",
+            "C": "? E",
+            "F": "030\u00b0 F G",
+            "G": "060\u00b0",
+            "H": "075\u00b0",
+            "J": "150\u00b0",
+            "K": "Cannot be determined from the given information"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 49,
+          "stem": "Which of the following values is equal to the x7 \u2212 x6 \u2212 2x4 + 2x3 + \u2212 remainder when x 1 is divided x\u22121 by ? \u22128 A.",
+          "choices": {
+            "B": "\u22121",
+            "C": "0",
+            "D": "2",
+            "E": "8 25 ACT-H31 2 DO"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_25.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 50,
+          "stem": "For a certain normally distributed data set, the mean is 100, and the standard deviation is 20. Given that 68% of the data are within 1 standard deviation of the mean, 68% of the data are within which of the following intervals?",
+          "choices": {
+            "F": "(000, 068)",
+            "G": "(068, 132)",
+            "H": "(080, 100)",
+            "J": "(080, 120)",
+            "K": "(100, 120)"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_26.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 51,
+          "stem": "One of the following is a hyperbola graphed in the standard (x,y) coordinate plane. Which one? (Note: All key features of the graphs are shown.)",
+          "choices": {
+            "A": "y D. y x x O O y y",
+            "B": "E. x x O O",
+            "C": "y x O"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_26.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 52,
+          "stem": "Let a, b, c, and d be real numbers greater than or equal to 2. Four functions are listed below. f(x) =abx g(x) =ax+b h(x) =ax2+bx+c k(x) =ax3+bx2+cx +d The values of which of the listed functions will exceed the values of all the other listed functions as x approaches infinity? =abx",
+          "choices": {
+            "F": "f(x)",
+            "G": "g(x) =ax +b =ax2+bx +c",
+            "H": "h(x)",
+            "J": "k(x) =ax3+ bx2+cx +d",
+            "K": "Cannot be determined from the given information 26 ACT-H31 2 DO Use the following information to answer questions 53\u201355. Shakir and Julia have completed a typing class. The table below gives their typing speeds in words per minute (wpm) on different days during the 99-day class. (Note: The typing speed of each student in the class was measured at the end of each of the days in the table.) Day of class Shakir (wpm) Julia (wpm) 01st 25 35 49th 45 40 99th 55 55"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_26.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 53,
+          "stem": "To the nearest 1%, what is the percent increase in Julia\u2019s typing speed from the 1st day of class to the 99th day of class?",
+          "choices": {
+            "A": "14%",
+            "B": "20%",
+            "C": "36%",
+            "D": "57%",
+            "E": "64%"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_27.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 54,
+          "stem": "Which of the statements below, if any, must be true about Julia\u2019s typing speed from the 49th day through the 99th day? I. Julia\u2019s typing speed on at least one day was 50 wpm. II. Julia\u2019s typing speed on at least one day was increased by 1 wpm from the previous day. III. Julia\u2019s maximum typing speed during the 99-day class was 55 wpm.",
+          "choices": {
+            "F": "I only",
+            "G": "II only",
+            "H": "III only",
+            "J": "I, II, and III",
+            "K": "None"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_27.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 55,
+          "stem": "Which of the following values is closest to the average rate of change of Shakir\u2019s typing speed, in words per minute per day, from the 1st day of class to the 99th day of class?",
+          "choices": {
+            "A": "00.202",
+            "B": "00.306",
+            "C": "03.3",
+            "D": "15",
+            "E": "20 27 ACT-H31 2 DO"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_27.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 56,
+          "stem": "Rectangle ABCD is graphed in the standard (x,y) coordinate plane below. y 4 A(\u22122,2) B(0,2) 2 \u22124 \u22122 O 2 4 x \u22122 D(\u22122,\u22122) C(0,\u22122) \u22124 Rectangle ABCD undergoes a dilation with a center of _3_.",
+          "choices": {
+            "A": "and a scale factor of One of the following is the 2 graph of the image of rectangle ABCD under this dilation. Which one?",
+            "F": "y J. y 4 4 O O \u22124 \u22122 2 4 x \u22124 \u22122 2 4 x \u22122 \u22122 \u22124 \u22124 y y",
+            "G": "K. 4 4 \u22124 \u22122 O 2 4 x \u22124 \u22122 O 2 4 x \u22122 \u22122 \u22124 \u22124 y H. 4 2 \u22124 \u22122 O 2 4 x \u22122 \u22124"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_28.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 57,
+          "stem": "",
+          "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "7",
+            "D": "8",
+            "E": "9 28 ACT-H31 2 (0,\u22123), (\u22122,0), DO"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_28.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 58,
+          "stem": "",
+          "choices": {
+            "A": "parabola that contains the points and (3,0) is shown in the standard (x,y) coordinate plane below. y 4 2 \u22124 \u22122 O 2 4 x \u22122 \u22124 The function f has the graph of this parabola translated 3 coordinate units right. Which of the following is the output of f(x) ? \u2212_1__(x",
+            "F": "\u22129)(x \u22123) 12 _1_(x \u22126)(x \u22121) G. 2 _1_(x",
+            "H": "\u22125)(x) 2 _1_x(x +5) J. 2 _1_(x",
+            "K": "+1)(x +6) 2"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_29.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 60,
+          "stem": "The real numbers a and b are unknown. It is known a<0, b<0, _a_ <1. a\u2212bmust that and Therefore, be: b",
+          "choices": {
+            "F": "less than 0.",
+            "G": "less than or equal to 0.",
+            "H": "less than or equal to 1.",
+            "J": "greater than 0.",
+            "K": "greater than or equal to 1. STOP! DO NOT TURN TH DO NOT RE 29 ACT-H31"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/math/page_29.jpg",
+          "correct": "J"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "name": "Reading",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "3 3\nWe agreed that it probably wasn\u2019t anything seri- 6. In the context of the passage, Cora\u2019s statement \u201cI could\n85ous, nothing a mechanic couldn\u2019t sort with the turn of a sense her breath crossing the ocean and almost capsiz-\nwrench. We stayed standing there. I looked around me. ing before returning to dry land\u201d (lines 15\u201317) most\nFunny I couldn\u2019t remember that tiny bicycle. No one nearly describes Cora\u2019s mother literally:\nother than me had been a child in this house.\nF. traveling across an ocean.\nG. whispering softly.\nH. exhaling deeply.\nJ. nearly falling down.\n1. The point of view from which the passage is told is best\ndescribed as that of a:\nA. third person limited narrator who primarily relates\nCora\u2019s thoughts about a series of events that hap- 7. Which of the following statements provides the best\npened in the past. paraphrase of the sentence in lines 32\u201334?\nB. third person omniscient narrator who primarily A. Cora was dismayed to realize that, having the\nreports on Cora\u2019s and Cora\u2019s mother\u2019s thoughts choice of something to build, someone would\nand actions as they occur. choose to create something so big and plain.\nC. first person narrator who primarily reports on her B. Cora was disheartened to learn that a second apart-\nmother\u2019s actions as they occur. ment block would be built at the former site of one\nD. first person narrator who primarily relates her of her childhood friend\u2019s homes.\nthoughts surrounding an event that happened in C. Cora was panicked to discover that most people\u2019s\nthe past. aesthetic preferences were unlike her own.\nD. Cora was frightened to see that one huge, white\n2. What is the main theme of the passage? building could define an entire street.\nF. Driving feels more satisfying at the age of eigh-\nteen than it does at any other age.\nG. No matter how many objects a person saves, he or\n8. It can most reasonably be inferred from the passage that\nshe will not be able to accurately remember the\ncompared to the condition of the inner workings of\npast.\nCora\u2019s car at the time Cora uncovers it, the condition\nH. Distance from a once well-known place invites\nof the car\u2019s exterior was:\nprocessing and conceptualizing that place upon\nreturning to it. F. much better.\nJ. A parent-and-child bond never feels as strong as G. just as mediocre.\nwhen the child arrives home after a long absence. H. slightly worse.\nJ. much worse.\n3. Based on the passage, Cora can most nearly be charac-\nterized as:\nA. underhanded and vengeful. 9. In the passage, what main reason does Cora provide to\nB. ruminative and analytical. support her claim that cars are not her obsession?\nC. carefree and whimsical.\nA. She has not owned a car during the three years that\nD. empathetic and hardworking.\nshe has been gone from Porto Alegre.\nB. She did not care whether her car was covered\n4. In the passage, Cora suggests that an adult holding onto\nwhile it was stored in her mother\u2019s garage.\nthe youthful habit of driving without a destination is\nC. She did not choose to put her hands on the steering\nseen by others as:\nwheel when she sat in her car.\nF. peculiar and immature. D. She would not be able to name any given model of\nG. adventuresome and bold. car that drives by.\nH. intellectual and worldly.\nJ. wasteful and dull.\n5. In the passage, Cora\u2019s mother\u2019s actions when first enter- 1 0. As it is used in line 81, the phrase \u201cthere was some\ning the garage can best be described as an attempt to: notion of compensation in it\u201d most nearly suggests that\nCora believes her mother smiled when giving bad news\nA. appear busy as she waits to approach Cora.\nto:\nB. determine whether Cora is in the garage.\nC. investigate a corner of the garage that she has typi- F. appear to be telling the truth.\ncally ignored. G. soften the message.\nD. read and memorize what was written on the H. playfully tease.\ndust-covered boxes. J. show spite.\n31 GO ON TO THE NEXT PAGE.\nACT-H31",
+          "questions": [
+            {
+              "number": 1,
+              "stem": "The point of view from which the passage is told is best described as that of a:",
+              "choices": {
+                "A": "third person limited narrator who primarily relates Cora\u2019s thoughts about a series of events that hap- pened in the past.",
+                "B": "third person omniscient narrator who primarily reports on Cora\u2019s and Cora\u2019s mother\u2019s thoughts and actions as they occur.",
+                "C": "first person narrator who primarily reports on her mother\u2019s actions as they occur.",
+                "D": "first person narrator who primarily relates her thoughts surrounding an event that happened in the past."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 2,
+              "stem": "What is the main theme of the passage?",
+              "choices": {
+                "F": "Driving feels more satisfying at the age of eigh- teen than it does at any other age.",
+                "G": "No matter how many objects a person saves, he or she will not be able to accurately remember the past.",
+                "H": "Distance from a once well-known place invites processing and conceptualizing that place upon returning to it.",
+                "J": "A parent-and-child bond never feels as strong as when the child arrives home after a long absence."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 3,
+              "stem": "Based on the passage, Cora can most nearly be charac- terized as:",
+              "choices": {
+                "A": "underhanded and vengeful.",
+                "B": "ruminative and analytical.",
+                "C": "carefree and whimsical.",
+                "D": "empathetic and hardworking."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 4,
+              "stem": "In the passage, Cora suggests that an adult holding onto the youthful habit of driving without a destination is seen by others as:",
+              "choices": {
+                "F": "peculiar and immature.",
+                "G": "adventuresome and bold.",
+                "H": "intellectual and worldly.",
+                "J": "wasteful and dull."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 5,
+              "stem": "In the passage, Cora\u2019s mother\u2019s actions when first enter- ing the garage can best be described as an attempt to:",
+              "choices": {
+                "A": "appear busy as she waits to approach Cora.",
+                "B": "determine whether Cora is in the garage.",
+                "C": "investigate a corner of the garage that she has typi- cally ignored.",
+                "D": "read and memorize what was written on the dust-covered boxes. 31 ACT-H31 3"
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 6,
+              "stem": "In the context of the passage, Cora\u2019s statement \u201cI could sense her breath crossing the ocean and almost capsiz- ing before returning to dry land\u201d (lines 15\u201317) most nearly describes Cora\u2019s mother literally:",
+              "choices": {
+                "F": "traveling across an ocean.",
+                "G": "whispering softly.",
+                "H": "exhaling deeply.",
+                "J": "nearly falling down."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 7,
+              "stem": "Which of the following statements provides the best paraphrase of the sentence in lines 32\u201334?",
+              "choices": {
+                "A": "Cora was dismayed to realize that, having the choice of something to build, someone would choose to create something so big and plain.",
+                "B": "Cora was disheartened to learn that a second apart- ment block would be built at the former site of one of her childhood friend\u2019s homes.",
+                "C": "Cora was panicked to discover that most people\u2019s aesthetic preferences were unlike her own.",
+                "D": "Cora was frightened to see that one huge, white building could define an entire street."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 8,
+              "stem": "It can most reasonably be inferred from the passage that compared to the condition of the inner workings of Cora\u2019s car at the time Cora uncovers it, the condition of the car\u2019s exterior was:",
+              "choices": {
+                "F": "much better.",
+                "G": "just as mediocre.",
+                "H": "slightly worse.",
+                "J": "much worse."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 9,
+              "stem": "In the passage, what main reason does Cora provide to support her claim that cars are not her obsession?",
+              "choices": {
+                "A": "She has not owned a car during the three years that she has been gone from Porto Alegre.",
+                "B": "She did not care whether her car was covered while it was stored in her mother\u2019s garage.",
+                "C": "She did not choose to put her hands on the steering wheel when she sat in her car.",
+                "D": "She would not be able to name any given model of car that drives by. 1 0. As it is used in line 81, the phrase \u201cthere was some notion of compensation in it\u201d most nearly suggests that Cora believes her mother smiled when giving bad news to:",
+                "F": "appear to be telling the truth.",
+                "G": "soften the message.",
+                "H": "playfully tease.",
+                "J": "show spite. 31 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "D",
+              "lineRef": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "title": "Passage i",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg",
+          "startPage": 38,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "Based on Table 1, at 36 months after planting, which Ca2+ soil depth\u201410 cm or 50 cm\u2014had the lower concentration? Ca2+",
+              "choices": {
+                "A": "10 cm; the concentration at a soil depth of 10 cm was 0.2 meq/L less than that at a soil depth of 50 cm.",
+                "B": "10 cm; the Ca2+ concentration at a soil depth of 10 cm was 0.4 meq/L less than that at a soil depth of 50 cm. Ca2+",
+                "C": "50 cm; the concentration at a soil depth of 50 cm was 0.2 meq/L less than that at a soil depth of 10 cm.",
+                "D": "50 cm; the Ca2+ concentration at a soil depth of 50 cm was 0.4 meq/L less than that at a soil depth of 10 cm. 38 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
+            },
+            {
+              "number": 2,
+              "stem": "Based on Figure 1, the electrical conductivity for a soil depth of 50 cm at 1 month after planting was approxi- mately how much greater than the electrical conductiv- ity for a soil depth of 10 cm at 36 months after planting?",
+              "choices": {
+                "F": "07 dS/m",
+                "G": "09 dS/m",
+                "H": "12 dS/m",
+                "J": "14 dS/m"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
+            },
+            {
+              "number": 3,
+              "stem": "According to Table 1, at a soil depth of 50 cm, between which of the following times after planting did the Ca2+ concentration increase?",
+              "choices": {
+                "A": "Between 1 month and 12 months",
+                "B": "Between 12 months and 24 months",
+                "C": "Between 24 months and 36 months",
+                "D": "Between 36 months and 48 months"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
+            },
+            {
+              "number": 4,
+              "stem": "In the study, was electrical conductivity a dependent variable or an independent variable, and was time after planting a dependent variable or an independent variable? electrical conductivity time after planting",
+              "choices": {
+                "F": "dependent dependent",
+                "G": "dependent independent",
+                "H": "independent dependent",
+                "J": "independent independent 39 4"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
+            },
+            {
+              "number": 5,
+              "stem": "Consider the statement \u201cAt 12 months after planting, the soil depth that had the lowest electrical conductivity Ca2+ was also the depth that had the lowest concentra- tion.\u201d Is this statement consistent with the data shown in Figure 1 and Table 1 ?",
+              "choices": {
+                "A": "Yes; at 12 months after planting, the electrical Ca2+ conductivity and the concentration were both the lowest at a depth of 50 cm.",
+                "B": "Yes; at 12 months after planting, the electrical conductivity and the Ca2+ concentration were both the lowest at a depth of 90 cm.",
+                "C": "No; at 12 months after planting, the electrical con- ductivity was lowest at a depth of 50 cm, but the Ca2+ concentration was lowest at a depth of 90 cm.",
+                "D": "No; at 12 months after planting, the electrical con- ductivity was lowest at a depth of 90 cm, but the Ca2+ concentration was lowest at a depth of 50 cm."
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
+            },
+            {
+              "number": 6,
+              "stem": "Consider the claim \u201cAs the soil depth increased from 10 cm to 50 cm and then to 90 cm, the Ca2+ concentra- tion increased and then decreased.\u201d This claim is con- sistent with the data shown in Table 1 for which of 1 month and 24 months after planting, if either?",
+              "choices": {
+                "F": "1 month only",
+                "G": "24 months only",
+                "H": "Both 1 month and 24 months",
+                "J": "Neither 1 month nor 24 months 39 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_38.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "title": "Passage II",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_42.jpg",
+          "startPage": 40,
+          "questions": [
+            {
+              "number": 7,
+              "stem": "Based on the description of Experiment 1, when was the graphene separated from the sample liquid by centrifugation?",
+              "choices": {
+                "A": "Immediately before placing the sample in the water bath",
+                "B": "Immediately after removing the sample from the water bath",
+                "C": "Immediately before the percent recovery of the cadmium was determined",
+                "D": "Immediately after the percent recovery of the cad- mium was determined"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_42.jpg"
+            },
+            {
+              "number": 8,
+              "stem": "Suppose that in Experiment 2 a solution at a pH of 7.5 had been tested. Based on the results of Experiment 2, the percent recovery of cadmium for that solution would most likely have been:",
+              "choices": {
+                "F": "between 48% and 80%.",
+                "G": "between 80% and 88%.",
+                "H": "between 88% and 95%.",
+                "J": "between 95% and 100%."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_42.jpg"
+            },
+            {
+              "number": 9,
+              "stem": "Based on the results of Experiment 1, when 5.0 mg of graphene was added to the solution, the percent recov- ery of cadmium was closest to which of the following values?",
+              "choices": {
+                "A": "70%",
+                "B": "80%",
+                "C": "90%",
+                "D": "100% 40 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_42.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-v",
+          "title": "Passage V",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_46.jpg",
+          "startPage": 46,
+          "questions": [
+            {
+              "number": 5,
+              "stem": "The mass of biodiesel produced was determined, and, based on the mass of extracted oil, the percent yield of biodiesel was calculated. The results are shown in the table. Coffee Extraction Mass of Percent bean temperature extracted oil yield of type Sample (\u00b0C) (g) biodiesel S1 22 3.5 099",
+              "choices": {
+                "A": "2.7 g.",
+                "F": "Yes; as the extraction temperature increased, the percent yield of biodiesel increased only.",
+                "G": "No; as the extraction temperature increased, the percent yield of biodiesel decreased only.",
+                "H": "No; as the extraction temperature increased, the percent yield of biodiesel increased and then decreased.",
+                "J": "No; as the extraction temperature increased, the percent yield of biodiesel decreased and then increased. 3 1. Consider the Type A SCG sample for which the extraction temperature was the same as the tempera- ture at which stirring occurred in Step 4. The mass of extracted oil from this sample was:",
+                "B": "3.3 g.",
+                "C": "3.5 g.",
+                "D": "4.7 g. 46 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H31/science/page_46.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scaleTable": {
+    "english": {
+      "74": 36,
+      "75": 36,
+      "71": 35,
+      "72": 35,
+      "73": 35,
+      "69": 34,
+      "70": 34,
+      "68": 33,
+      "67": 32,
+      "66": 31,
+      "65": 30,
+      "64": 29,
+      "62": 28,
+      "63": 28,
+      "61": 27,
+      "59": 26,
+      "60": 26,
+      "56": 25,
+      "57": 25,
+      "58": 25,
+      "53": 24,
+      "54": 24,
+      "55": 24,
+      "50": 23,
+      "51": 23,
+      "52": 23,
+      "48": 22,
+      "49": 22,
+      "44": 21,
+      "45": 21,
+      "46": 21,
+      "47": 21,
+      "41": 20,
+      "42": 20,
+      "43": 20,
+      "39": 19,
+      "40": 19,
+      "37": 18,
+      "38": 18,
+      "35": 17,
+      "36": 17,
+      "33": 16,
+      "34": 16,
+      "30": 15,
+      "31": 15,
+      "32": 15,
+      "27": 14,
+      "28": 14,
+      "29": 14,
+      "25": 13,
+      "26": 13,
+      "23": 12,
+      "24": 12,
+      "20": 11,
+      "21": 11,
+      "22": 11,
+      "17": 10,
+      "18": 10,
+      "19": 10,
+      "14": 9,
+      "15": 9,
+      "16": 9,
+      "12": 8,
+      "13": 8,
+      "10": 7,
+      "11": 7,
+      "8": 6,
+      "9": 6,
+      "6": 5,
+      "7": 5,
+      "5": 4,
+      "3": 3,
+      "4": 3,
+      "2": 2,
+      "0": 1,
+      "1": 1
+    },
+    "math": {
+      "59": 36,
+      "60": 36,
+      "57": 35,
+      "58": 35,
+      "55": 34,
+      "56": 34,
+      "54": 33,
+      "52": 32,
+      "53": 32,
+      "51": 31,
+      "49": 30,
+      "50": 30,
+      "47": 29,
+      "48": 29,
+      "46": 28,
+      "43": 27,
+      "44": 27,
+      "45": 27,
+      "40": 26,
+      "41": 26,
+      "42": 26,
+      "38": 25,
+      "39": 25,
+      "36": 24,
+      "37": 24,
+      "34": 23,
+      "35": 23,
+      "33": 22,
+      "32": 21,
+      "30": 20,
+      "31": 20,
+      "28": 19,
+      "29": 19,
+      "26": 18,
+      "27": 18,
+      "23": 17,
+      "24": 17,
+      "25": 17,
+      "19": 16,
+      "20": 16,
+      "21": 16,
+      "22": 16,
+      "15": 15,
+      "16": 15,
+      "17": 15,
+      "18": 15,
+      "12": 14,
+      "13": 14,
+      "14": 14,
+      "10": 13,
+      "11": 13,
+      "8": 12,
+      "9": 12,
+      "7": 11,
+      "6": 10,
+      "5": 9,
+      "4": 8,
+      "3": 7,
+      "2": 5,
+      "1": 3,
+      "0": 1
+    },
+    "reading": {
+      "38": 36,
+      "39": 36,
+      "40": 36,
+      "37": 35,
+      "36": 34,
+      "35": 33,
+      "34": 32,
+      "33": 31,
+      "32": 30,
+      "31": 28,
+      "30": 27,
+      "29": 25,
+      "27": 24,
+      "28": 24,
+      "26": 23,
+      "24": 22,
+      "25": 22,
+      "23": 21,
+      "22": 20,
+      "21": 19,
+      "19": 18,
+      "20": 18,
+      "18": 17,
+      "17": 16,
+      "16": 15,
+      "14": 14,
+      "15": 14,
+      "13": 13,
+      "11": 12,
+      "12": 12,
+      "9": 11,
+      "10": 11,
+      "8": 10,
+      "7": 9,
+      "6": 8,
+      "5": 7,
+      "4": 6,
+      "3": 5,
+      "2": 3,
+      "1": 2,
+      "0": 1
+    },
+    "science": {
+      "40": 36,
+      "39": 35,
+      "38": 34,
+      "37": 33,
+      "36": 31,
+      "35": 30,
+      "34": 29,
+      "33": 28,
+      "32": 27,
+      "31": 26,
+      "29": 25,
+      "30": 25,
+      "27": 24,
+      "28": 24,
+      "25": 23,
+      "26": 23,
+      "24": 22,
+      "22": 21,
+      "23": 21,
+      "21": 20,
+      "19": 19,
+      "20": 19,
+      "17": 18,
+      "18": 18,
+      "15": 17,
+      "16": 17,
+      "14": 16,
+      "13": 15,
+      "11": 14,
+      "12": 14,
+      "10": 13,
+      "9": 12,
+      "8": 11,
+      "7": 10,
+      "6": 9,
+      "5": 8,
+      "4": 7,
+      "3": 6,
+      "2": 4,
+      "1": 3,
+      "0": 1
+    }
+  }
+}

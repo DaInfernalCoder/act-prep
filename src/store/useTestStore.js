@@ -1,5 +1,4 @@
 import { create } from 'zustand'
-import { persist } from 'zustand/middleware'
 
 const SECTION_ORDER = ['english', 'math', 'reading']
 const SECTION_TIMES = { english: 45 * 60, math: 60 * 60, reading: 35 * 60 }
@@ -117,7 +116,7 @@ export const useTestStore = create(
         mindsetNotes: { ...state.mindsetNotes, [key]: note }
       })),
 
-      saveResults: (testData) => {
+      saveResults: async (testData) => {
         const { activeTestId, answers, errorTags, mindsetNotes, testResults } = get()
         const scores = computeScores(testData, answers)
         const result = {
@@ -129,6 +128,24 @@ export const useTestStore = create(
           answers,
         }
         set({ testResults: [...testResults, result] })
+
+        // Save to Supabase
+        try {
+          const { supabase } = await import('../lib/supabase')
+          const { data: { user } } = await supabase.auth.getUser()
+          if (user) {
+            await supabase.from('act_test_results').insert({
+              user_id: user.id,
+              test_id: activeTestId,
+              scores,
+              answers,
+              error_tags: errorTags,
+              mindset_notes: mindsetNotes,
+            })
+          }
+        } catch (e) {
+          console.error('Cloud save failed:', e)
+        }
         return result
       },
 
@@ -141,14 +158,7 @@ export const useTestStore = create(
         timeRemaining: null,
         phase: 'dashboard',
       }),
-    }),
-    {
-      name: 'act-prep-store',
-      partialize: (state) => ({
-        testResults: state.testResults,
-        // Don't persist in-progress test - require fresh start
-      }),
-    }
+    })
   )
 )
 

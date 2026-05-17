@@ -1,0 +1,2980 @@
+{
+  "id": "G20",
+  "name": "ACT Form G20",
+  "sections": [
+    {
+      "id": "english",
+      "name": "English",
+      "timeMinutes": 45,
+      "passages": [
+        {
+          "id": "eng-p1",
+          "title": "Passage 1",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_2.jpg",
+          "startPage": 2,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "game between the Grizzlies, ctexCa. gamme, be.twneen tehe Gtrizzlies,",
+                "D": "game, between the Grizzlies"
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_2.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 2,
+              "stem": "Given that all the choices are accurate, which one is most relevant to the discussion of Palmer making history?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "or for any major US men\u2019s professional sports league.",
+                "H": "whose regular season runs from October to June.",
+                "J": "which contained twenty-nine teams at the time."
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_2.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 3,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "amateur, and professional games, for years",
+                "C": "amateur, and professional games for years,",
+                "D": "amateur and professional games for years,"
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_2.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 4,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "she had the knowledge,",
+                "H": "was knowledgeable,",
+                "J": "knowledgeable, 2 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_2.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 5,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "underwent the dawn of her career at",
+                "C": "started refereeing for",
+                "D": "first did ref stuff for"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 6,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "and soon afterward began",
+                "H": "soon afterward beginning",
+                "J": "soon afterward began"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 7,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "they\u2019re",
+                "C": "there",
+                "D": "it\u2019s"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 8,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "extended to",
+                "H": "ascended to",
+                "J": "gripped"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 9,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "basketball Palmer officiated",
+                "C": "basketball, she officiated",
+                "D": "basketball she officiated ctexam.net n"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 10,
+              "stem": "The writer is considering deleting the underlined sen- tence. Should the sentence be kept or deleted?",
+              "choices": {
+                "F": "Kept, because it is consistent with the paragraph\u2019s focus on the start of Palmer\u2019s career.",
+                "G": "Kept, because it establishes when Palmer began to referee basketball games.",
+                "H": "Deleted, because it repeats information that was presented earlier in the essay.",
+                "J": "Deleted, because it is unrelated to the essay\u2019s dis- cussion of Palmer\u2019s occupation."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 11,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "is required to call fouls and regulate",
+                "C": "calls fouls and regulates",
+                "D": "call fouls and regulate"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 12,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "from",
+                "H": "on",
+                "J": "DELETE the underlined portion."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 13,
+              "stem": "If the writer were to delete the underlined portion, the essay would primarily lose details that:",
+              "choices": {
+                "A": "help explain why the NBA is challenging for referees.",
+                "B": "specify some of Palmer\u2019s attributes as a referee.",
+                "C": "identify other referees\u2019 traits that Palmer admired.",
+                "D": "establish that Palmer won over her critics. 3 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_3.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 14,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "gender; because",
+                "H": "gender;",
+                "J": "gender"
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 15,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Otherwise, she , C. That said, she",
+                "D": "She"
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 16,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "More than 1,600 flights a day depart or arrive at",
+                "H": "It has more than 1,600 flights a day,",
+                "J": "With more than 1,600 flights a day, ctexam.net"
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 17,
+              "stem": "The writer wants to provide specific information about the extent of the area affected by the airport\u2019s noise. Given that all the choices are accurate, which one best accomplishes that goal?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "could be heard up to eighteen miles away.",
+                "C": "wasn\u2019t going to go away on its own.",
+                "D": "continued day and night."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "correct": "B"
+            }
+          ]
+        },
+        {
+          "id": "eng-p2",
+          "title": "Passage 2",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+          "startPage": 4,
+          "questions": [
+            {
+              "number": 18,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "conduct a methodical investigation of the auditory nuisance.",
+                "H": "figure out what was up with the racket.",
+                "J": "get the full scoop."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 19,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "changed when",
+                "C": "changed, and",
+                "D": "changed, yet"
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 20,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "noise, reaching the airport\u2019s neighbors",
+                "H": "noise reaching the airport\u2019s neighbors,",
+                "J": "noise reaching the airport\u2019s neighbors 4 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_4.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 21,
+              "stem": "Given that all the choices are true, which one most effectively introduces this paragraph?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "became part of a long history of immense land- scape engineering projects in the Netherlands.",
+                "C": "knew that at Schiphol, a plane lands or takes off, on average, once every minute.",
+                "D": "understood how disruptive the airport\u2019s noise could be to nearby residents."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 22,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "artist, Paul de Kort,",
+                "H": "artist, Paul de Kort",
+                "J": "artist Paul de Kort"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 23,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "have consisted",
+                "C": "consists",
+                "D": "consist"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 24,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "standing ten feet tall and running",
+                "H": "stand ten feet tall and running",
+                "J": "standing ten feet tall and run"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 25,
+              "stem": "Which choice most specifically describes the collective ctexam.net physical appearance of the groups of ridges?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "a unique aspect when viewed from above.",
+                "C": "an unmistakably human-made form.",
+                "D": "a lively visual dynamism."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 26,
+              "stem": "Which of the following alternatives to the underlined portion would NOT be acceptable?",
+              "choices": {
+                "F": "ridges, which made",
+                "G": "ridges, making",
+                "H": "ridges to make",
+                "J": "ridges make"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
+              "correct": ""
+            },
+            {
+              "number": 27,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Most importantly,",
+                "C": "To demonstrate,",
+                "D": "Specifically, 5 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_5.jpg",
+              "correct": ""
+            },
+            {
+              "number": 28,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "noisiness stemming from airplanes,",
+                "H": "airplanes\u2019 noise effects,",
+                "J": "airplane noise,"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_6.jpg",
+              "correct": ""
+            },
+            {
+              "number": 29,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "solution, as a neighborhood-friendly way,",
+                "C": "solution; as a neighborhood-friendly way",
+                "D": "solution, as a neighborhood-friendly way Question 30 asks about the preceding passage as a whole."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_6.jpg",
+              "correct": ""
+            },
+            {
+              "number": 30,
+              "stem": "The writer is considering adding the following sen- tence to the essay: Particularly, jet engines produce thunderous rumbling when running at high power for takeoff. If the writer were to add this sentence, it would most logically be placed at: ctexam.net",
+              "choices": {
+                "F": "Point A in Paragraph 1.",
+                "G": "Point B in Paragraph 2.",
+                "H": "Point C in Paragraph 3.",
+                "J": "Point D in Paragraph 5."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_6.jpg",
+              "correct": ""
+            },
+            {
+              "number": 31,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Furthermore, the",
+                "C": "Therefore, the",
+                "D": "The"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_6.jpg",
+              "correct": ""
+            },
+            {
+              "number": 32,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "It is when the",
+                "H": "That is, the",
+                "J": "When the 6 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_6.jpg",
+              "correct": ""
+            },
+            {
+              "number": 33,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "C. metallidurans also received an assessment of its hardiness performed by Kashefi and Brown.",
+                "C": "the bacterium also had an assessment of its hardi- ness done by Kashefi and Brown.",
+                "D": "the bacterium also got its hardiness assessed by Kashefi and Brown."
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
+              "correct": ""
+            },
+            {
+              "number": 34,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "extremophile, and",
+                "H": "extremophile:",
+                "J": "extremophile"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
+              "correct": ""
+            }
+          ]
+        },
+        {
+          "id": "eng-p3",
+          "title": "Passage 3",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
+          "startPage": 7,
+          "questions": [
+            {
+              "number": 35,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "isolated",
+                "C": "severed",
+                "D": "exiled"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
+              "correct": ""
+            },
+            {
+              "number": 36,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "sustenance was available,",
+                "H": "grub was in the vicinity,",
+                "J": "eats were in the house, s ctexam.net"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
+              "correct": ""
+            },
+            {
+              "number": 37,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "with producing gold isn\u2019t cost-effective\u2014",
+                "C": "for producing gold isn\u2019t cost-effective\u2014",
+                "D": "for producing gold isn\u2019t cost-affective\u2014"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
+              "correct": ""
+            },
+            {
+              "number": 38,
+              "stem": "The best placement for the underlined portion would be:",
+              "choices": {
+                "F": "where it is now.",
+                "G": "after the word yields.",
+                "H": "after the word only.",
+                "J": "after the word granules (and before the period)."
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
+              "correct": ""
+            },
+            {
+              "number": 39,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Brown thinking",
+                "C": "Brown to think",
+                "D": "Brown think 7 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_7.jpg",
+              "correct": ""
+            },
+            {
+              "number": 40,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "For instance, s, H. Likewise,",
+                "J": "In effect,"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_8.jpg",
+              "correct": ""
+            },
+            {
+              "number": 41,
+              "stem": "If the writer were to delete the underlined portion (adjusting the punctuation as needed), the essay would primarily lose:",
+              "choices": {
+                "A": "a suggestion that toxins are not as damaging to waterways as was once believed.",
+                "B": "an indication of how C. metallidurans could reduce pollution levels.",
+                "C": "a suggestion about how C. metallidurans could be genetically engineered in laboratories.",
+                "D": "an indication that C. metallidurans can metabolize arsenic and uranium more efficiently than it can metabolize gold chloride. s 42. F. NO CHANGE",
+                "G": "resource, and such",
+                "H": "resource; such",
+                "J": "resource. Such"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_8.jpg",
+              "correct": ""
+            },
+            {
+              "number": 43,
+              "stem": "",
+              "choices": {
+                "A": "Yes, because it suggests potential applications of st Kashefi and Brown\u2019s process for creating gold.",
+                "B": "Yes, because it identifies key developments in alchemy\u2019s history that led to Kashefi and Brown\u2019s process for creating gold.",
+                "C": "No, because it focuses on how C. metallidurans created gold in Kashefi and Brown\u2019s experiment and potential practical uses of the bacterium.",
+                "D": "No, because it mainly details C. metallidurans\u2019s evolution and why the bacterium can metabolize various toxins. 8 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_8.jpg",
+              "correct": ""
+            },
+            {
+              "number": 46,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Burnley, a town in Lancashire, England,",
+                "H": "Burnley, a town in Lancashire, England",
+                "J": "Burnley a town in Lancashire, England,"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_9.jpg",
+              "correct": ""
+            },
+            {
+              "number": 47,
+              "stem": "Which choice most effectively introduces the subject of the essay?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "mingle with the haunting steel hum of the Singing Ringing Tree.",
+                "C": "create a perfect backdrop for all types of art.",
+                "D": "can be heard."
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_9.jpg",
+              "correct": ""
+            },
+            {
+              "number": 48,
+              "stem": "If the writer were to delete the underlined portion (ending the sentence with a period), the essay would primarily lose:",
+              "choices": {
+                "F": "a description of the process the artists went through in choosing where to place the sculpture.",
+                "G": "specific information that establishes Burnley as a town surrounded by rolling fields.",
+                "H": "a detail that helps convey where in Burnley the sculpture is located.",
+                "J": "an indication of the difficulty involved in crafting ctexathme sculp.turne. et"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_9.jpg",
+              "correct": ""
+            },
+            {
+              "number": 49,
+              "stem": "Given that all the choices are accurate, which one cre- ates a sentence that expands upon the ideas presented in the last sentence of the previous paragraph?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Boasting a population of more than 86,000 people,",
+                "C": "Located 22 miles north of Manchester,",
+                "D": "Named for the river Burn,"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_9.jpg",
+              "correct": ""
+            },
+            {
+              "number": 50,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "themself",
+                "H": "itself",
+                "J": "DELETE the underlined portion. 9 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_9.jpg",
+              "correct": ""
+            },
+            {
+              "number": 51,
+              "stem": "At this point, the writer is considering adding the fol- lowing true information: On average, the month of January has proven to be the windiest month in Burnley. Should the writer make this addition here?",
+              "choices": {
+                "A": "Yes, because it provides a brief overview of how the weather in Burnley changes from season to season.",
+                "B": "Yes, because it strengthens the writer\u2019s claim that Burnley is particularly windy.",
+                "C": "No, because it deviates from the discussion of how Tonkin and Liu conceived of the sculpture.",
+                "D": "No, because it fails to describe the wind conditions elsewhere in the region."
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 52,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "incorporate",
+                "H": "absorb",
+                "J": "lump"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 53,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "that is",
+                "C": "being",
+                "D": "DELETE the underlined portion. ctexam.net"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 54,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Despite this,",
+                "H": "Fortunately,",
+                "J": "DELETE the underlined portion."
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
+              "correct": ""
+            }
+          ]
+        },
+        {
+          "id": "eng-p4",
+          "title": "Passage 4",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
+          "startPage": 10,
+          "questions": [
+            {
+              "number": 55,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "produce the same musical effect.",
+                "C": "of produced the same musical affect.",
+                "D": "of produced the same musical effect."
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 56,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "axis, the layering",
+                "H": "axis; layers",
+                "J": "axis and layers"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 57,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "creating the sculpture, only 25 actually generating",
+                "C": "create the sculpture, only 25 actually generating",
+                "D": "create the sculpture, only 25 actually generate 10 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 58,
+              "stem": "Which choice most precisely indicates what the Singing Ringing Tree creates every day?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "something new and fresh",
+                "H": "a unique song",
+                "J": "something"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 59,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "vision, the sculpture\u2019s eerie,",
+                "C": "vision, the sculpture\u2019s eerie",
+                "D": "vision the sculpture\u2019s eerie Question 60 asks about the preceding passage as a whole."
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 60,
+              "stem": "Suppose the writer\u2019s primary purpose had been to describe the creation of a commissioned piece of public art. Would this essay accomplish that purpose?",
+              "choices": {
+                "F": "Yes, because it explains that the Singing Ringing Tree was inspired by the panpipe.",
+                "G": "Yes, because it explains why and how the Singing Ringing Tree was built.",
+                "H": "No, because it instead highlights architects Tonkin and Liu and their individual accomplishments.",
+                "J": "No, because it instead focuses on Burnley\u2019s improving economy. ctexam.net"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 61,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "has punctuated",
+                "C": "is punctuating",
+                "D": "punctuate"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 62,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "It is at once cozy",
+                "H": "It is, at once cozy,",
+                "J": "It is at once cozy,"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 63,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "slowly and pausing to admire",
+                "C": "slowly and pause to admiring",
+                "D": "slowly, pausing to admire"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 64,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "titles, such as \u201cPoes\u00eda\u201d (Poetry),",
+                "H": "titles such as, \u201cPoes\u00eda\u201d (Poetry),",
+                "J": "titles such as, \u201cPoes\u00eda\u201d (Poetry) 11 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 65,
+              "stem": "Given that all the choices are accurate, which one pro- vides the most relevant information at this point in the essay?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "an east\u2013west avenue in Mexico City that is home to several camera supply stores,",
+                "C": "a street in Mexico City lined with bookstores,",
+                "D": "a busy street in Mexico City,"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 66,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "who emigrated from e H. who immigrated of",
+                "J": "whom emigrated of"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 67,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "at all despite there being so many Spanish speak- ers in New York City.",
+                "C": "for Spanish speakers.",
+                "D": "anywhere."
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 68,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "(in the range of 20,000 as an estimated total)",
+                "H": "(around 20,000 total or thereabouts) ctexJa. (imn ra.ngne earountd the of 20,000)"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 69,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "to preserving also the lineage and",
+                "C": "to preserve the lineage and also",
+                "D": "preserving the lineage and also"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 70,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Every one of the stickers bear",
+                "H": "Each of the stickers bear",
+                "J": "Each sticker bears"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 71,
+              "stem": "The best placement of the underlined portion would be:",
+              "choices": {
+                "A": "where it is now.",
+                "B": "after the word that.",
+                "C": "after the word they.",
+                "D": "after the word leave. 12 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_12.jpg",
+              "correct": ""
+            }
+          ]
+        },
+        {
+          "id": "eng-p5",
+          "title": "Passage 5",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_13.jpg",
+          "startPage": 13,
+          "questions": [
+            {
+              "number": 72,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Arriba this is",
+                "H": "Arriba,",
+                "J": "Arriba"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_13.jpg",
+              "correct": ""
+            },
+            {
+              "number": 73,
+              "stem": "Which choice most effectively concludes the essay by demonstrating that Librer\u00eda Donceles is successful in connecting visitors to their roots?",
+              "choices": {
+                "A": "Yes, because it demonstrates the overall signifi- ctexacamnce of .Henlgueera\u2019s Ltibrer\u00eda Donceles project.",
+                "B": "Yes, because it describes projects that Helguera completed in both Mexico City and New York City.",
+                "C": "No, because it instead focuses on one project Helguera created during his career.",
+                "D": "No, because it instead explores Helguera\u2019s cultural background. END OF TEST 1 DO NOT TURN THE PAGE UNTIL TOLD TO DO SO. 13 rackab.com"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/english/page_13.jpg",
+              "correct": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "timeMinutes": 60,
+      "questions": [
+        {
+          "number": 1,
+          "stem": "Which of the following expressions is equivalent to a(5 \u2212 a) \u2212 8(a + 6) ?",
+          "choices": {
+            "A": "\u22124a 0\u2212 48",
+            "B": "\u22124a 0+ 06",
+            "C": "0\u2212a2 \u2212 3a \u2212 48",
+            "D": "0\u2212a2 \u2212 3a + 06",
+            "E": "\u22124a3 \u2212 48"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_14.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 2,
+          "stem": "Because of rising expenses, a motel manager raises the room rate of $80.00 by 20% to get the new room rate www.actexam for the motel. What is the new room rate?",
+          "choices": {
+            "F": "$ 016.00",
+            "G": "$ 080.20",
+            "H": "$ 082.00",
+            "J": "$ 096.00",
+            "K": "$100.00 31 4 2"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_14.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 3,
+          "stem": "Which of the following matrices is equal to 5 ? 3 4 35 4 2 A. 3 4 35 2 4 B. 3 20 3 104 1",
+          "choices": {
+            "C": "15 4 36 4 7 D. 8 9 3 4 5 10",
+            "E": "15 20"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_14.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 4,
+          "stem": "",
+          "choices": {
+            "A": "retail sales associate\u2019s daily commission during 1 week was $30 on Monday and Tuesday and $60 on Wednesday, Thursday, and Friday. What was the associate\u2019s average daily commission for these 5 days?",
+            "F": "$45",
+            "G": "$46",
+            "H": "$48",
+            "J": "$49",
+            "K": "$50 14 ACT-G20 www.crackab.com 2 DO"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_14.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 5,
+          "stem": "What value of x makes the equation below true? \u2212x + 6 = 3x \u2212 10 \u22124 A.",
+          "choices": {
+            "B": "\u22122 \u22121 C.",
+            "D": "1",
+            "E": "4"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_15.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 6,
+          "stem": "Fred\u2019s cell phone service costs $25.00 per month and includes 100 minutes. For any minutes used after the 100 minutes, he is charged $0.10 per minute. Fred has budgeted $33.00 per month for his cell phone service. What is the maximum number of minutes Fred could use in 1 month without exceeding his budget?",
+          "choices": {
+            "F": "108",
+            "G": "132",
+            "H": "180",
+            "J": "330",
+            "K": "430 _9_"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_15.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 7,
+          "stem": "The function f(c) = c + 32 gives the temperature, 5 f(c) degrees Fahrenheit, that corresponds to c degrees Celsius. To the nearest 0.1\u00b0F, what Fahrenheit temperature corresponds to 13.0\u00b0C ?",
+          "choices": {
+            "A": "33.8\u00b0F www.actexam",
+            "B": "45.0\u00b0F",
+            "C": "46.8\u00b0F",
+            "D": "55.4\u00b0F",
+            "E": "81.0\u00b0F _1_"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_15.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 9,
+          "stem": "F__o_r RT shown below, point S_ _i_s on RT , the length of RS is 6 cm, and the length of ST is 20 cm. What is the dis_ta__n ce, in centimeters, between T and the midpoint of RS ? R 6 S 20 T",
+          "choices": {
+            "A": "13",
+            "B": "16",
+            "C": "20",
+            "D": "23",
+            "E": "26 15 ACT-G20 www.crackab.com 2 DO"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_15.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 10,
+          "stem": "The graph below shows the average daily consumption, in thousands of barrels, of oil for Uzbekistan ,for the years 2003 through 2013. noitpmusnoc 160 )slerrab 140 120 fo 100 yliad sdnasuoht( 80 60 egareva 40 20 0 03 04 05 06 07 08 09 10 11 12 13 year From what year to the following year did the average daily consumption decrease the most?",
+          "choices": {
+            "F": "2003 to 2004",
+            "G": "2004 to 2005",
+            "H": "2006 to 2007",
+            "J": "2009 to 2010",
+            "K": "2012 to 2013"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_16.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 11,
+          "stem": "",
+          "choices": {
+            "A": "$ 0,973.75",
+            "B": "$1,332.50",
+            "C": "$1,405.00",
+            "D": "$1,588.75",
+            "E": "$1,947.50"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_16.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 12,
+          "stem": "Mary throws a stone from the edge of a cliff. While the stone is in flight, the equation h = 300 \u2212 30t \u2212 16t2 gives the height above the ground, h feet, of the stone at any given time t seconds after being thrown. What is the height, in feet, of the stone exactly 3 seconds after Mary throws the stone?",
+          "choices": {
+            "F": "066",
+            "G": "114",
+            "H": "162",
+            "J": "246",
+            "K": "354"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_16.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 13,
+          "stem": "What is the median of the data set below? 4, 8, 14, 4, 20",
+          "choices": {
+            "A": "04",
+            "B": "08",
+            "C": "10",
+            "D": "14",
+            "E": "16 16 ACT-G20 www.crackab.com 2 DO"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_16.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 14,
+          "stem": "Rafael has made a scale model of City Park, shown below, i_n_ _w hich 3 lengths are given in inches. On the model, BC represents_ _a_n actual length of 90 feet in the park. On the model, DE represents what actual length, in feet, in the park? A 3 G 4 C B",
+          "choices": {
+            "F": "067.5",
+            "G": "072 F",
+            "H": "112.5 E",
+            "J": "120 5",
+            "K": "150 D ___"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_17.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 15,
+          "stem": "In the figure below, point C is on AD, and 2 angle measures of nABC are given. What is the measure of \u2220BCD ? D",
+          "choices": {
+            "C": "095\u00b0 65\u00b0 30\u00b0",
+            "A": "B",
+            "B": "085\u00b0",
+            "D": "105\u00b0",
+            "E": "115\u00b0 www.actexam"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_17.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 16,
+          "stem": "The number a is positive and even. The number b is \u2212 negative and odd. The number a b is:",
+          "choices": {
+            "F": "positive and even.",
+            "G": "positive and odd.",
+            "H": "negative and even.",
+            "J": "negative and odd.",
+            "K": "zero."
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_17.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 17,
+          "stem": "The isosceles triangle shown below has congruent legs that are each 10 centimeters long. The perimeter of the triangle is 32 centimeters. What is the length, in centimeters, of the altitude that splits the triangle into 2 congruent right triangles?",
+          "choices": {
+            "A": "\u221a\u20224\u20224",
+            "B": "6 10 10 ?",
+            "C": "7",
+            "D": "8",
+            "E": "10 _a_2a__4"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_17.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 18,
+          "stem": "For all nonzero values of a, the expression is a6 equal to:",
+          "choices": {
+            "F": "0",
+            "G": "1",
+            "H": "a a2 J. a12 K. 17 ACT-G20 www.crackab.com 2 DO"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_17.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 19,
+          "stem": "",
+          "choices": {
+            "A": "cos 12 \u221211_8__ 2",
+            "B": "csc 12 \u221211_8__ 2 12 ft",
+            "C": "sec 8 ft 12 \u22121 1_8__ 2 ?",
+            "D": "sin 12 \u221211_8__ 2",
+            "E": "tan 12"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_18.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 20,
+          "stem": "Marcy is making toys to sell at the local school fair. Each toy costs Marcy $2.25 to make, and she will sell them for $4.05 each. What is the minimum number of toys she can make and sell to earn a profit of at least $81.00 ?",
+          "choices": {
+            "F": "13",
+            "G": "16",
+            "H": "20",
+            "J": "36",
+            "K": "45 www.actexam = + = x2 \u2212"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_18.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 21,
+          "stem": "Given functions f(x) 4x 3 and g(x) 2, what is _g(\u22123)+? the value of f \u221283 A.",
+          "choices": {
+            "B": "\u221241 \u221229 C.",
+            "D": "31",
+            "E": "79 = + = + unit. What is the value of 2z + w ? \u221228 F.",
+            "G": "28i +",
+            "H": "11 12i",
+            "J": "11 + 17i +",
+            "K": "14 24i x2 \u2212 \u2212 ="
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_18.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 23,
+          "stem": "If 5x 6 0, what is the sum of the 2 possible values of x ? \u22125 A.",
+          "choices": {
+            "B": "\u22121",
+            "C": "01",
+            "D": "05",
+            "E": "06 18 ACT-G20 www.crackab.com 2 DO"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_18.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 24,
+          "stem": "Kate is going to buy meat (beef and chicken) for a party. Beef costs $3.00 per pound, chicken costs $2.00 per pound, and Kate has a budget of $90.00 to spend on meat for the party. The shaded region in one of the following graphs represents all and only the possible combinations of beef and chicken Kate can buy while staying within her budget. Which one? (Note: Do not consider tax.) y y",
+          "choices": {
+            "F": ")sdnuop( J. )sdnuop( 80 80 60 60 nekcihc 40 nekcihc 40 20 20 0 0 0 20406080 x 0 20406080 x beef (pounds) beef (pounds)",
+            "G": "y K. y )sdnuop( )sdnuop( 80 80 60 60 nekcihc 40 nekcihc 40 20 20 0 0 0 20406080 x 0 20406080 x beef (pounds) beef (pounds) y",
+            "H": ")sdnuop( www.actexam 80 60 nekcihc 40 20 0 0 20406080 x beef (pounds)"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_19.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 25,
+          "stem": "Each student in a particular classroom was given a string that was 72 inches long. Each student cut his or her string into pieces of equal length. Which of the following CANNOT be the length, in inches, of any student\u2019s pieces? _1__ A. 16 _1_ B. 2",
+          "choices": {
+            "C": "01",
+            "D": "16",
+            "E": "36 19 ACT-G20 www.crackab.com 2 =\u22129(x +1)2 +81 DO"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_19.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 26,
+          "stem": "The graph of the function f(x) has its vertex at point (\u22121,81) and intersects the x-axis at (\u22124,0) points and (a,0). What is the value of a ? \u2212_8_1_ F. 5 _5__ G. 81",
+          "choices": {
+            "H": "2",
+            "J": "3",
+            "K": "81 _1_ _1_"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_20.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 28,
+          "stem": "What is the least positive number that has a remainder of 4 when divided by 6 and a remainder of 5 when www.actexam divided by 7 ?",
+          "choices": {
+            "F": "22",
+            "G": "33",
+            "H": "40",
+            "J": "42",
+            "K": "59"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_20.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 29,
+          "stem": "Joe, Tom, and Alexis are planning to participate in a 3-person relay for charity. The plan is for Joe to jog his 3 miles at 4 miles per hour (mph), Tom to jog his 3 miles at 5 mph, and then Alexis to jog her 3 miles at 6 mph. In how many hours and minutes does this 3-person team plan to complete the 9-mile relay?",
+          "choices": {
+            "A": "0 hours 36 minutes",
+            "B": "1 hour 48 minutes",
+            "C": "1 hour 51 minutes",
+            "D": "2 hours 15 minutes",
+            "E": "2 hours 25 minutes"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_20.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 32,
+          "stem": "The graph in the standard (x,y) coordinate plane below has 5 lines of symmetry that all intersect at the origin. What is the smallest positive clockwise rotation about the origin that can be applied to this graph with the result being this graph? y www.actexam x",
+          "choices": {
+            "F": "072\u00b0",
+            "G": "090\u00b0",
+            "H": "120\u00b0",
+            "J": "144\u00b0",
+            "K": "216\u00b0"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_21.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 33,
+          "stem": "The following linear functions are defined either with an equation, a graph, or a table of values. Which of the following functions has the greatest slope?",
+          "choices": {
+            "A": "f(x) = 15 D. x j(x) 0\u22126 0 04 05 14 10",
+            "B": "g(x) = 8x + 7",
+            "E": "k(x) (0,5) C. x h(x) 00 06 03 00 (\u22121,1) 11 \u221216 x O 21 ACT-G20 www.crackab.com 2 nPQR DO"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_21.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 34,
+          "stem": "The vertices of are given in the standard (x,y) coordinate plane below. What is the area, in square nPQR coordinate units, of ? y P(8,12) Q(10,8)",
+          "choices": {
+            "F": "06",
+            "G": "10",
+            "H": "12",
+            "J": "20 R(8,2) x",
+            "K": "48 O _5_"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_22.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 35,
+          "stem": "The function y = f(x) = is graphed in the standard x (x,y) coordinate plane below. y y= _5_ 20 x 10 \u22124 \u22122 O 2 4 x \u221210 \u221220 www.actexam One of the following statements is FALSE. Which one?",
+          "choices": {
+            "A": "f(x) decreases for all x > 0. <",
+            "B": "f(x) decreases for all x 0.",
+            "C": "The graph of f(x) has a horizontal asymptote at = y 0.",
+            "D": "The graph of f(x) has a vertical asymptote at x = 0.",
+            "E": "The graph of f(x) has an intercept at (0,0)."
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_22.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 36,
+          "stem": "All students in a high school responded either \u201cYes\u201d or \u201cNo\u201d to the question \u201cAre you studying enough?\u201d The table below gives the number of students in each grade who responded. Two numbers in the table are represented by x and y. 9th 10th 11th 12th Yes 85 92 79 102 No 65 x y 056 The probability that a randomly selected student from this high school is in 11th grade given that the student _7_5__ responded \u201cNo\u201d is . One of the following is the 267 value of x. Which one?",
+          "choices": {
+            "F": "071",
+            "G": "075",
+            "H": "100",
+            "J": "113",
+            "K": "146 ACT-G20 www.crackab.com 2 DO Use the following information to answer questions 37\u201339. Josie has decided to make a new lampshade for her bedroom lamp. She will order materials from a website that offers 4 different print designs and 4 different color schemes that can be used with each design. The top and bottom edges of Josie\u2019s current lampshade are parallel circles with diameters of length 6 inches and 8 inches, as pictured below. The centers of the 2 circles are directly above and below one another. 6 8"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_22.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 37,
+          "stem": "What is the ratio of the area of the circle modeled by the top edge of the lampshade to the area of the circle modeled by the bottom edge of the lampshade?",
+          "choices": {
+            "A": "03:7",
+            "B": "03:4",
+            "C": "09:16",
+            "D": "04:3",
+            "E": "16:9 www.actexam"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_23.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 38,
+          "stem": "In order to design her lampshade, Josie must select 1 print design and 1 color scheme from the website. She will also choose 1 fabric: burlap, linen, or silk. How many different possible lampshade designs does she have to choose from?",
+          "choices": {
+            "F": "07",
+            "G": "11",
+            "H": "12",
+            "J": "24",
+            "K": "48"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_23.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 39,
+          "stem": "Which of the following 2-dimensional shapes, when rotated about its vertical symmetry line, will form the shape of this lampshade?",
+          "choices": {
+            "A": "Circle",
+            "B": "Octagon",
+            "C": "Pentagon",
+            "D": "Rectangle",
+            "E": "Isosceles trapezoid"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_23.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 40,
+          "stem": "The points K, L, M, and N are on a number line in that order such that KM = 15 units, LN = 26 units, and = KN 32 units. The coordinate of L is 0, and the coordinate of K is negative. What is the coordinate of M ?",
+          "choices": {
+            "F": "06",
+            "G": "09",
+            "H": "11",
+            "J": "15",
+            "K": "17 23 ACT-G20 www.crackab.com 2 DO"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_23.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 41,
+          "stem": "The figure below shows 3 rectangles where a, b, c, d, e, and f are side lengths measured in meters. Which of the following expressions must give the area of the shaded region, in square meters? b d",
+          "choices": {
+            "A": "ab \u2212 cd a \u2212 c",
+            "B": "ab ef f e",
+            "C": "cd \u2212 ef +",
+            "D": "cd ef",
+            "E": "ab \u2212 cd + ef"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_24.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 42,
+          "stem": "Rectangular pyramids A (left) and B (right) are shown below with dimensions given in feet. 12 _1_2_ x www.actexam x x _1_2_ 12 x",
+          "choices": {
+            "A": "B Let a and b be the volumes of A and B, respectively. Which of the following equations is true? = _1_",
+            "F": "a b 3 = _2_",
+            "G": "a b 3 =",
+            "H": "a b = _3_",
+            "J": "a b 2 =",
+            "K": "a 3b"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_24.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 43,
+          "stem": "Maya\u2019s digital music library has a total of 249 songs. Her library has 64 songs that are remixes and 85 hip-hop songs. Of the hip-hop songs in her library, 25 are remixes. How many songs in her library are NEITHER remixes NOR hip-hop songs?",
+          "choices": {
+            "A": "075",
+            "B": "100",
+            "C": "125",
+            "D": "139",
+            "E": "224 24 ACT-G20 www.crackab.com 2 DO"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_24.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 44,
+          "stem": "Which of the following expressions is equivalent to x(x \u2212 2) + (2 \u2212 x) ? + \u2212",
+          "choices": {
+            "F": "(x 1)(x 2)",
+            "G": "(x + 1)(2 \u2212 x) \u2212 \u2212",
+            "H": "(x 2)(2 x)",
+            "J": "(x \u2212 1)(2 \u2212 x) \u2212 \u2212",
+            "K": "(x 1)(x 2) _2_ _2_ + _a_ ___b_ \u2260 \u2260"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_25.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 45,
+          "stem": "For all a 0 and b 0, the expression simplifies _3__ ab to: _4_ A. 3 +",
+          "choices": {
+            "B": "4(a b) +",
+            "C": "6(a b) _2_(a_ + b__) _ _ D. 3 __4_a_b_ __ E. 3(a + b) giwven bewlow, twhe firs.t anumbcer its exam"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_25.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 46,
+          "stem": "In the ordered pairs time, in hours, and the second number is distance, in miles, traveled in that time. A(0.25,1), B(0.2,0.5), C(2,7), D(0.5,8), E(0.75,9) Which of these ordered pairs represent speeds less than 4 miles per hour?",
+          "choices": {
+            "F": "A and B only",
+            "G": "B and C only",
+            "H": "A, B, and C only",
+            "J": "C, D, and E only",
+            "K": "A, B, C, D, and E"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_25.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 47,
+          "stem": "",
+          "choices": {
+            "A": "square dartboard is red and white, as shown below. Each 4-inch-long side of the red square is parallel to 2 sides of the white square and is 3 inches from the closest side of the white square. A dart will be thrown randomly and will land on the dartboard. What is the probability that the dart will land on the red square? _1__ A. 10 white 3 _1_ B. 7 red _2_ 3 3",
+            "C": "4 5 _4__ 3 D. 25 _1_6_ E. 49 25 ACT-G20 www.crackab.com 2 nPQR \u2220P DO"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_25.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 49,
+          "stem": "log 25 = ? 5 _1_ A. 5",
+          "choices": {
+            "B": "02",
+            "C": "05",
+            "D": "25",
+            "E": "0525"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_26.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 50,
+          "stem": "Let A be the greatest whole number that is less than \u221a\u20224\u20222\u2022\u20220. Let B be the least whole number that is greater than \u221a\u20225\u20226. What is A \u2212 B ?",
+          "choices": {
+            "F": "12",
+            "G": "13",
+            "H": "14",
+            "J": "18",
+            "K": "19"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_26.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 51,
+          "stem": "The product of 2 real numbers is a nonzero rational number. Which of the following statements CANNOT be true?",
+          "choices": {
+            "A": "pump is used to move water in and out of a tank. The = pump is turned on at t 0 seconds when there are 20 gallons in the tank. The function V(t) represents the volume, in gallons, of water in the tank t seconds after the pump is turned on. Shown below is the graph of V(t), which is a periodic function with a period of 9 seconds. The 1st period of V(t) is shown as a solid line, and the rest is shown as dashed. The pump remains on for 1 hour. V(t) 60 )snollag( 50 V(t) 40 30 emulov 20 10 O time (seconds) www.actexam",
+            "B": "Both numbers are rational.",
+            "C": "Both numbers are integers.",
+            "D": "One number is positive, and the other is negative.",
+            "E": "One number is rational, and the other is irrational. 26 ACT-G20 www.crackab.com 2 DO Use the following information to answer questions 52\u201354."
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_26.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 52,
+          "stem": "How many periods does the pump complete in 1 hour?",
+          "choices": {
+            "F": "006",
+            "G": "054",
+            "H": "360",
+            "J": "400",
+            "K": "540"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_27.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 53,
+          "stem": "One of the following values is the volume, in gallons, of water in the tank after 51 seconds. Which one?",
+          "choices": {
+            "A": "20",
+            "B": "30",
+            "C": "40",
+            "D": "50",
+            "E": "60"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_27.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 54,
+          "stem": "",
+          "choices": {
+            "A": "2nd tank has 30 gallons in it when its pump is turned = on at t 0 seconds. In terms of gallons of water moved over time, this pump behaves the same as the other pump. One of the following functions represents the volume, in gallons, of water in the 2nd tank t seconds after the pump is turned on. Which one?",
+            "F": "V(t) + 10 +",
+            "G": "V(t) 30",
+            "H": "V(t + 10)",
+            "J": "10 \u00b7 V(t)",
+            "K": "30 \u00b7 V(t) 27 ACT-G20 www.crackab.com 2 DO"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_27.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 55,
+          "stem": "To estimate the number of bass in a small lake, a biology class caught and tagged 32 bass from the lake. The next day the class caught 60 bass from the lake and found that 9 of those bass were tagged. Assuming the 60 bass caught are representative of the entire population of bass in the lake, which of the following is closest to the number of bass in the entire population?",
+          "choices": {
+            "A": "092",
+            "B": "101",
+            "C": "213",
+            "D": "273",
+            "E": "327 y2 = + = \u2212"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_28.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 56,
+          "stem": "The graphs of x 8 and y 3x 3 are shown in the standard (x,y) coordinate plane below. The 2 graphs intersect at points A and B. The solution of which of the following equations gives the x-coordinate of point A ? y A www.actexam x O B \u221a\u20223\u2022x \u2022\u2212\u2022\u20223\u2022 =\u2212\u221a\u2022x\u2022+\u2022\u20228\u2022 F.",
+          "choices": {
+            "G": "\u221a\u20223\u2022x \u2022\u2212\u2022\u20223\u2022 = \u221a\u2022x\u2022+\u2022\u20228\u2022 2 \u22129 =x+8",
+            "H": "9x",
+            "J": "3x \u22123 =\u2212\u221a\u2022x\u2022+\u2022\u20228\u2022 \u22123 = \u221a\u2022x\u2022+\u2022\u20228\u2022",
+            "K": "3x"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_28.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 57,
+          "stem": "The first 3 elements of a pattern are shown below. Each element is composed of small squares that are 8 mm wide and 8 mm long. Each element after the 1st element is a square that is 8 mm wider and 8 mm longer than the previous element. What is the area, in square centimeters, of the 4th element?",
+          "choices": {
+            "A": "16",
+            "B": "20",
+            "C": "25",
+            "D": "40",
+            "E": "64 28 ACT-G20 www.crackab.com 2 DO"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_28.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 59,
+          "stem": "The ellipse in the standard (x,y) coordinate plane below is centered at the origin. The endpoints of the major and minor axes of the ellipse are labeled. Which of the following equations determines this ellipse? wy ww.actexam (0,5) x (\u22128,0) O (8,0) (0,\u22125) \u2212 8)2 + \u2212 5)2 =",
+          "choices": {
+            "A": "(x (y 1 + 8)2 + + 5)2 =",
+            "B": "(x (y 1 _x_ 2 _y__ 2 _ + =1 C. 8 5 _x_ 2 _y__ 2 _ + =1 D. 16 10 _x_ 2 _y__ 2 _ + =1 E. 64 25 \u2212 > +"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_29.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 60,
+          "stem": "Given a b a b for real numbers a and b, which of the inequalities below must be true? > I. a 0 II. b < 0 < III. b a",
+          "choices": {
+            "F": "I only",
+            "G": "II only",
+            "H": "I and III only",
+            "J": "II and III only",
+            "K": "I, II, and III STOP! DO NOT TURN TH DO NOT RE 29 ACT-G20 www.crackab.com"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/math/page_29.jpg",
+          "correct": "G"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "name": "Reading",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "genre": "LITERARY NARRATIVE",
+          "title": "Passage i",
+          "source": "",
+          "text": "whole idea of accessibility, this feeling that she could\n40 wrap her arms around the world. In fact, my mother\nLITERARY NARRATIVE: This passage is from the short story says that one of the first things that happened to her\n\u201cPinch Hitter\u201d by Rochelle Spencer. when she first came to New York was that she saw, in a\nway so accidental it felt like magic, Jackie Robinson on\nIn the first paragraph, the narrator is reflecting on a story her the subway after a game.\nboyfriend once told her about his father\u2019s prize baseball card.\n45 In those days, my mother and her brother Richard\nAnd when he spoke like this, even if I couldn\u2019t\nwould go into the city to meet their father, who worked\nfind the words, I thought I knew exactly what he meant.\ntwo jobs, after he finished his first shift as a janitor at\nWhenever he spoke like this, I was convinced that sto-\none of the local department stores. During those slips of\nries were powerful, that they let us reinvent ourselves,\ntime, they\u2019d go out for ice cream, play chess, listen to\n5 that they allowed us to become something stronger and 50 the Dodgers game on the radio. My mother, Malinda\ngreater than what we are.\nLee, was young enough where these moments still\nseemed precious to her, but Richard had discovered\nBut now that I am older, I realize this isn\u2019t always\ngirls, and they consumed his thoughts. And perhaps\nthe case\u2014stories don\u2019t awlwaysw heal. wToday., Ia makce myt exam.net\nthat\u2019s why Richard failed to notice the group of\nliving as a reporter, and after nearly a decade of inter-\n55 people\u2014chattering disparate threads woven together\n10 viewing people about their discarded dreams, I recog- only by a famous baseball player\u2014while my mother\nnize that not everyone gains strength from telling their\nsaw nothing else.\nstories. Certainly, this was true of even my own mother\nand her story of how she\u2019d met Jackie Robinson. She\u2019d\nSo my mother, curious, ran up to a man on the out-\ntold this story hundreds of times over the years for no\nskirts of the crowd and asked who was at its center.\n15 other reason than she simply enjoyed telling it. She\nliked to exaggerate all the events leading up to the great\n60 The man only half-turned, his eyes fixed on the\noccasion except for one: the moment she actually saw\ngreatness in front of him. \u201cThat, sweetheart, is Jackie\nJackie Robinson\u2014that part never changed, never\nRobinson.\u201d\naltered, not once.\nAt that moment, Malinda Lee caught a glimpse of\n20 The summer my mother moved to New York was Robinson, saw the soft sky blue of his uniform. And\nthe same summer Sugar Ray Robinson regained the\n65 somehow, through that throng, Robinson turned and\nmiddleweight title and the Dodgers won the World\nheld her stare. Then Robinson, my mother swears,\nSeries. It was 1955, and to my mother, the entire world\nreached through that enormous crowd and shook her\nseemed accessible. That summer, she arrived from\nhand. Robinson gave my mother\u2019s hand a squeeze\u2014a\n25 Trinidad accompanied by a hot breeze sprinkled, she warm, rushed gesture my mother later described as the\nclaims, with the scent of oranges. And because my\n70 only real handshake she has ever known. But as soon as\nmother is one of those people who has been beautiful\ntheir palms touch, four police officers came and, acting\nall of her life, she assumed that sweet breeze was made\nas bodyguards, escorted Robinson through the station.\njust for her, to tickle her bronze skin and high\nStill, for the rest of her life, my mother would talk\n30 cheekbones. about the feel of that handshake. She would say it had\n75 made her feel important, like she too was someone who\nThat summer, all of Brooklyn left their windows\nmattered, like she too was someone who could change\nopen. Bed-Stuy was moving from a mostly Jewish-\nthings.\nItalian neighborhood to a mostly black one, and the\nsounds of Sinatra, Ray Charles, and Dodgers announcer\nNow on the rare times when my mother and I were\n35 Ray Barber drifted from kitchen to street. There were actually getting along, when we were out working in\nplaces\u2014libraries, the corners of basements\u2014where you\n80 the garden and the sweat and the dirt and the sunshine\ncould be cool and alone, but people really talked to you\nmade us feel a little more free with each other, she\u2019d\nhere, and that\u2019s how my mother first developed this\nretell this story. She\u2019d embellish, of course, but still I\n30 GO ON TO THE NEXT PAGE.\nACT-G20\nwww.crackab.com",
+          "questions": [
+            {
+              "number": 1,
+              "stem": "In the passage, lines 20\u201377 can most nearly be described as reflecting the perspective of:",
+              "choices": {
+                "A": "a young girl recalling the moment her mother met Jackie Robinson.",
+                "B": "a young girl recounting an exciting moment during her first summer in New York.",
+                "C": "an adult woman telling her daughter about an important moment in her life.",
+                "D": "an adult woman telling a story she has heard many times."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 2,
+              "stem": "Based on the passage, compared to how the narrator once felt about the power of stories, she now feels: www.acte",
+              "choices": {
+                "F": "more certain that people often embellish the sto- ries they tell.",
+                "G": "more certain that people use stories to reinvent themselves.",
+                "H": "less certain that people gain strength from telling stories.",
+                "J": "less certain that people tell stories to help others heal."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 3,
+              "stem": "The statement \u201cthat part never changed, never altered, not once\u201d (lines 18\u201319) most nearly serves to:",
+              "choices": {
+                "A": "emphasize that the unchanged part of the mother\u2019s story was dull compared to the embellished parts.",
+                "B": "highlight the significance of the unchanged part of the mother\u2019s story and give it credibility.",
+                "C": "provide evidence of the mother\u2019s commitment to keeping the details of her stories consistent.",
+                "D": "distinguish between stories that the mother told truthfully and stories that she lied about."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 4,
+              "stem": "One main purpose of the third paragraph (lines 20\u201330) is to:",
+              "choices": {
+                "F": "indicate that Malinda Lee felt special because she saw both Sugar Ray Robinson and the Dodgers win titles right after she arrived in New York.",
+                "G": "convey the optimism that Malinda Lee felt during the summer of 1955.",
+                "H": "establish that while Malinda Lee was excited to experience New York, she didn\u2019t want to forget Trinidad.",
+                "J": "depict what Malinda Lee saw on the streets of New York in 1955. 3 ACT-G20 www.crac"
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 5,
+              "stem": "According to the passage, when Malinda Lee noticed the crowd of people surrounding Robinson, her brother was most likely:",
+              "choices": {
+                "A": "playing chess with their father.",
+                "B": "listening to the Dodgers on the radio.",
+                "C": "still exiting the stadium.",
+                "D": "thinking about girls."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 6,
+              "stem": "According to the passage, when Robinson shook her hand, the narrator\u2019s mother felt:",
+              "choices": {
+                "F": "proud that the onlookers knew she mattered.",
+                "G": "that he was too rushed to really see her.",
+                "H": "restricted by the enormous crowd.",
+                "J": "that she could change things."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 7,
+              "stem": "Based on the last paragraph, how does the experience of sharing the story about Robinson affect the relation- ship between the narrator and her mother?",
+              "choices": {
+                "A": "It deepens the narrator\u2019s love of their playful and productive relationship.",
+                "B": "It intensifies the mother\u2019s sadness about not being the narrator\u2019s hero.",
+                "C": "It reinforces the narrator\u2019s contempt for her dra- matic and difficult mother.",
+                "D": "It invites genuine feeling into their relatively strained relationship. exam.net"
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 8,
+              "stem": "In the last paragraph, the narrator\u2019s descriptions of her mother\u2019s voice most strongly suggest that her mother:",
+              "choices": {
+                "F": "tells the story energetically and then becomes solemn and introspective afterward.",
+                "G": "finds that telling her story about the moment she met Robinson puts her in a playful mood.",
+                "H": "nearly sings while telling her story but becomes sarcastic after she\u2019s done.",
+                "J": "performs her story as if she were onstage and then is disappointed that her daughter isn\u2019t impressed."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 9,
+              "stem": "The metaphor used in lines 55\u201356 to describe the people surrounding Robinson most strongly suggests that the people:",
+              "choices": {
+                "A": "were a group of friends who were congratulating Robinson after watching the baseball game.",
+                "B": "had little in common beyond their appreciation for Robinson.",
+                "C": "shared interwoven lives within a close-knit neighborhood.",
+                "D": "often gathered to discuss their favorite baseball players."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 10,
+              "stem": "As it is used in line 81, the word free most nearly means:",
+              "choices": {
+                "F": "independent.",
+                "G": "immodest.",
+                "H": "discrete.",
+                "J": "relaxed. 1 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "J",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "genre": "SOCIAL SCIENCE",
+          "title": "Passage II",
+          "source": "",
+          "text": "unique mortar recipe: pozzolana, lime, and seawater.\n55 That mixture, which she says must have been arrived at\nSOCIAL SCIENCE: This passage is from the article \u201cBuilt to by careful experimentation, results in the growth of a\nLast\u201d by Nikhil Swaminathan. durable binding substance throughout the concrete mix-\nture. \u201cPliny the Elder says that they needed something\nThe Romans started building with concrete regu- that lasts a long time and gets stronger with age,\u201d\nlarly beginning in the third century B.C., but the earliest 60 Jackson explains, quoting the ancient Roman scholar\nuses go back roughly a thousand years further, to and natural historian. Because seawater is part of the\nancient Greece. Concrete is made of chunks of rubble reaction, placing this mortar in the Mediterranean pro-\n5 held together by mortar. Today, mortar is typically motes greater adhesion rather than causing the concrete\nmade by mixing gravel, sand, and binders such as lime to crack.\nand cement. According to Marie Jackson, a research\nengineer at the University of California, Berkeley, and 65 According to Oleson, the Romans relied on the\nROMACONS (Roman Maritime Concrete Study) col- pozzolana for maritime construction for two centuries,\n10 laborator, modern concrete begins to break apart under- beginning about 40 B.C. He suggests that its presence in\nwater. The material used by the Romans for maritime ports as far east as Caesarea and Alexandria shows that\nconstruction, however, actually gets stronger over time. the ash was exported throughout the empire from the\n70 Bay of Naples.\nIn the first century B.C., the architect and engineer\nVitruvius wrote an expansive work on Roman building \u201cROMACONS has managed to document the evo-\n15 methods called De Architectura. In it, he describes a lution of this [maritime concrete] industry and the type\nsubstance found near Baia, a resort town on the Bay of of materials used, and to document the trade across the\nNaples, and around Mount Vesuvius, that \u201cwhen mixed Mediterranean, a trade that previously was not known,\u201d\nwith lime and rubble, not only lends strength to build- 75 Oleson explains. He posits that, for example, a grain\nings of other kinds, but even when piers of it are con- ship arriving in Rome\u2019s Portus from Alexandria might\n20 structed in the sea, they set hard under water.\u201d have been sent back with pozzolana stored in sacks for\nballast, which would then be used in port construction\nThe ROMACONS team set out to confirm what back east.\nVitruvius had written by studying the concrete used to\nbuild harbors dotting the Mediterranean, including 80 The reactivity of Bay of Naples pozzolana was\nCaesarea, Portus (onew of Rwome\u2019ws grea.t aharbcors)t, exwaell kmnown in. anntiqueity, tsays Lynne Lancaster, a clas-\n25 Pompeiopolis in modern-day Turkey, and Hersonissos sics professor at Ohio University. She has documented\nin northern Crete. The researchers took cores, measur- shorter-range trade within the Roman Empire in her\ning four inches in diameter and up to 20 feet long, from research, including the export of lightweight volcanic\nvarious parts of each harbor, many of which are now 85 rocks from Sardinia for use in building vaults in\nsubmerged. Carthage. What the ROMACONS project has identified,\nLancaster says, \u201cis a Mediterranean-wide trade that is\n30 Jackson was then enlisted to investigate the con- being used to build the ports, which in turn is used to\ncrete\u2019s physical characteristics and material makeup. increase the trade. This contributes more to the eco-\nShe found that its compressive strength, meaning the 90 nomics and infrastructure of the Roman Empire.\u201d\nweight it can bear, was much lower than that of modern\nconcrete, so it wasn\u2019t suitable for tall aboveground\nFrom the article \u201cBuilt to Last\u201d by Nikhil Swaminathan (\u00a92014 by\n35 architecture. When she compared the trace elemental Archaeology Magazine). Used with permission.\ncomposition of the mortars in the cores, however, she\nconfirmed Vitruvius\u2019 assertion. All the samples con-\ntained volcanic ash that came either from Mount\nVesuvius or Campi Flegrei, volcanoes located east and\n40 west of Naples, respectively. The same ash was also\nfound in a sample sent to the team from Quarteira on\nthe coast of southern Portugal.\nThe specific type of ash is known as pozzolana\nafter Pozzuoli, the town near Campi Flegrei where it\n45 was originally used, but John Oleson, a classical\narchaeologist at the University of Victoria in British\n11. The main purpose of the passage is to:\nColumbia, says you can find it throughout the Bay of\nNaples. \u201cIf you\u2019re rowing a boat along the coast near A. show how the ROMACONS research helped\nBaia, parts of the coastline are made up of this poz- improve the composition of modern concrete.\n50 zolana,\u201d he explains. B. describe the composition and origin of pozzolana.\nC. compare modern concrete to Roman maritime\nJackson credits the Romans with noticing that, concrete.\nover time, the ash consolidated into a volcanic rock D. provide an overview of the ROMACONS project\ncalled tuff. With that insight they formulated their and its findings.\n32 GO ON TO THE NEXT PAGE.\nACT-G20\nwww.crackab.com",
+          "questions": [
+            {
+              "number": 11,
+              "stem": "The main purpose of the passage is to:",
+              "choices": {
+                "A": "show how the ROMACONS research helped improve the composition of modern concrete.",
+                "B": "describe the composition and origin of pozzolana.",
+                "C": "compare modern concrete to Roman maritime concrete.",
+                "D": "provide an overview of the ROMACONS project and its findings. 2 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 12,
+              "stem": "Based on the passage, the statement that Roman mar- itime concrete gets stronger over time can best be cate- gorized as:",
+              "choices": {
+                "F": "a fact supported by Jackson\u2019s analysis of Roman maritime concrete\u2019s physical characteristics and material makeup.",
+                "G": "a fact that the passage author presents as a result of his own research on Roman maritime concrete.",
+                "H": "an opinion of Jackson\u2019s that has yet to be tested by the ROMACONS team.",
+                "J": "an opinion of the passage author\u2019s that is sup- ported by Oleson\u2019s and Jackson\u2019s remarks about Roman maritime concrete."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 13,
+              "stem": "According to the passage, both typical modern mortar and the mortar used to create Roman maritime con- crete may contain:",
+              "choices": {
+                "A": "seawater.",
+                "B": "lime.",
+                "C": "tuff.",
+                "D": "cement."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 14,
+              "stem": "Based on the passage, twhe studwy conwducted. bay Jaccksont e and the ROMACONS team was directly inspired by:",
+              "choices": {
+                "F": "Vitruvius\u2019s De Architectura.",
+                "G": "Pliny the Elder\u2019s historical notes.",
+                "H": "Oleson\u2019s discovery of pozzolana.",
+                "J": "Lancaster\u2019s research in ancient vault-building."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 15,
+              "stem": "It can reasonably be inferred that the \u201ccores\u201d (line 26) mentioned in the passage most directly refer to:",
+              "choices": {
+                "A": "rock produced from volcanic ash.",
+                "B": "volcanic ash that came from Mount Vesuvius or Campi Flegrei.",
+                "C": "samples of concrete from harbors built in the Mediterranean.",
+                "D": "chunks of concrete collected from the ruins of ancient Greek houses. 3 ACT-G20 www.crac"
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 16,
+              "stem": "The main point of the eighth paragraph (lines 71\u201379) is that, by documenting aspects of the maritime concrete industry, the ROMACONS project has helped reveal:",
+              "choices": {
+                "F": "proof that the Roman civilization invented concrete.",
+                "G": "the presence of pozzolana along the coast near Baia.",
+                "H": "new information about Roman trade across the Mediterranean.",
+                "J": "evidence that the Romans built ports throughout the Bay of Naples."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 17,
+              "stem": "According to the passage, Roman maritime concrete\u2019s lower compressive strength makes the concrete:",
+              "choices": {
+                "A": "unsuitable for use in tall, aboveground architecture.",
+                "B": "relatively easy to transport.",
+                "C": "unable to withstand the pressure of being sub- merged in deep water.",
+                "D": "time-consuming to produce."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 18,
+              "stem": "Based on the passage, the Romans formulated their unique mortar recipe after observing that pozzolana:",
+              "choices": {
+                "F": "could be found on the coast of southern Portugal.",
+                "G": "consolidated into volcanic rock over time.",
+                "H": "binds easily to gravel.",
+                "J": "was used in port construction throughout the Bay of Naples."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 19,
+              "stem": "According to the passage, Jackson believes that the exam.net Romans\u2019 process of formulating their unique mortar recipe involved:",
+              "choices": {
+                "A": "specialized training.",
+                "B": "sheer luck.",
+                "C": "careful experimentation.",
+                "D": "unfortunate accidents."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 20,
+              "stem": "Which of the following pieces of evidence does Oleson use to support the idea that the ash used in Roman maritime concrete was exported throughout the empire?",
+              "choices": {
+                "F": "The ash was found in ports in Caesarea and Alexandria.",
+                "G": "The ash was named for Pozzuoli, the town where it was originally used.",
+                "H": "The ash makes up parts of the coastline throughout the Bay of Naples.",
+                "J": "The ash had been used for port construction in Greece. 3 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "F",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "genre": "HUMANITIES",
+          "title": "Passage III",
+          "source": "",
+          "text": "Passage B by Allison Malafronte\nHUMANITIES: Passage A is from the article \u201cIn Plain Sight\u201d by Jennifer McChristian\u2019s style is a dynamic combi-\nVirginia Campbell. Passage B is from the article \u201cJennifer 50 nation of traditional impressionism with contemporary\nMcChristian: A Journey of Evolving Vision and Ability\u201d by subject matter, inspired by her travels and observations\nAllison Malafronte. of the world. When talking about her style, she men-\ntions the contrast between her earlier work and her cur-\n\u201cPlein air\u201d refers to the act of painting in outdoor daylight.\nrent work, which is more expressive and narrative in\n55 nature\u2014a sure sign that she is continuing to evolve as\nPassage A by Virginia Campbell\nan artist and reach a new level of ability, confidence,\nand understanding.\nJennifer McChristian sees and feels Los Angeles\nlight with the sensitivity of the original California\nLike many painters from the Los Angeles area,\nplein-air painters, but she is very much a modern, urban\nMcChristian began her career in commercial art, cutting\nartist. Like earlier painters of city scenes, such as\n60 her teeth as an animator and learning drawing and\n5 Edward Hopper or artists of the Ashcan School, she is\ndesign skills that would serve her future fine-art work\npossessed of an eye that finds interest in places that\nwell. \u201cWhen I was working in animation, it was pre-\nwould be written off as ordinary or ugly by those\ndominantly a traditional medium,\u201d McChristian recalls.\nattuned to more conventionally compelling or beautiful\n\u201cComputers were only just beginning to infiltrate the\nscenes.\n65 industry, and every story element still had to be\ndesigned and drawn by hand. By consistently drawing, I\n10 \u201cI like mundane-ness,\u201d says McChristian. \u201cI don\u2019t\nwas sharpening my hand-eye coordination, judging pro-\nfeel that I need to travel to find something to paint. I\u2019m\nportions, and regularly exercising the creative side of\nconfident that anywhere I go, I can find a painting.\nmy brain. Drawing on a regular basis is guaranteed to\nAnything is worth painting. I\u2019m impartial. I love any\n70 strengthen your painting skills and is a necessary foun-\nkind of subject matter.\u201d\ndation for representational art.\u201d\n15 A small oil on panel titled In Between makes the\nWhen it comes to subject matter, McChristian is\nartist\u2019s point. The painting creates visual poetry out of\ndrawn to both traditional plein air motifs\u2014including\nthe dappled light in a narrow, overlooked space between\nthe deserts, mountains, and coastal seascapes of Cali-\ntwo city houses. We can imagine that these houses have\nwww.acte 7 x 5 foarniam\u2014and .monre uerbant cityscapes, European street\nfront and back yards to which some degree of attention\nscenes, and interiors, which often include figurative\n20 has been paid, but this green space is more of a no-\nelements and suggestive storylines. In addition to her\nman\u2019s land where an old charcoal grill and pieces of\nevolving stylistic approach, McChristian\u2019s motivation\ngutter are stashed. The geometry of this neglected\nfor painting has also changed over the years, and with\nworld is eased up as the lines of perspective are inter-\n80 that her paint handling and thought process. \u201cWhen I\nrupted with bright splashes of green and slanting blue\nfirst entered the fine-art world, I was intent on creating\n25 shadows.\ndetailed, representational depictions,\u201d she says. \u201cNow I\nfind myself simplifying to focus on the core essence of\nMcChristian\u2019s contention that anything is worth\nmy subject, concentrating more on the feelings evoked\npainting is argued even more forcefully in another\n85 from a subtle combination of nostalgia and suggestive\nsmall oil on panel, Santa Fe Ave., which shows a mar-\nelements. As I\u2019ve continued to grow, I\u2019ve been playing\nginal slice of Los Angeles. This is one of those places\nwith the idea of becoming more abstract, saying more\n30 you end up when your online directions turn out to be\nwith less. I\u2019ve also become more engaged spiritually,\nwrong. It is the kind of indefinable space that seldom\nanalytically, and emotionally with the process of\nmakes its way onto canvas, but McChristian has reaped\n90 painting.\u201d\na harvest of curiosity out of it. A traffic cone, utility\npoles, what looks like a factory in the background, all\n35 framed by the underbelly of a bridge. The empty street, Passage A: From Southwest Art. Copyright \u00a9 2009 by F+W Media, Inc.\nAll rights reserved. Used with permission.\nwith no cars to be seen, suggests activity that has been\ninexplicably suspended. Passage B: From American Artist. Copyright \u00a9 2012 by Interweave\nPress, a division of F+W Media, Inc. All rights reserved. Used with\n\u201cI like the post-apocalyptic feel of the deserted permission.\nstreet. I loved the traffic cone not just for the dash of\n40 color but because it implies the activity of working, but\nit\u2019s not going on right now. I prefer places that aren\u2019t\nwell known because I want people to have the feeling\nthat they\u2019ve been there without their actually having\nbeen there. I want them to make the painting their\n45 own,\u201d she says. \u201cIt\u2019s always a composition that makes\nme stop the car and get out and really look,\u201d she adds.\nOnce out of the car, the artist sees the place\u2019s true\npotential.\n34 GO ON TO THE NEXT PAGE.\nACT-G20\nwww.crackab.com",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "The main purpose of the third paragraph of Passage A (lines 15\u201325) is to:",
+              "choices": {
+                "A": "emphasize that McChristian\u2019s art features unusual geometry and colors.",
+                "B": "provide an example of a specific painting that inspired McChristian\u2019s work.",
+                "C": "establish that McChristian has changed her approach to paintings.",
+                "D": "underscore that McChristian\u2019s subject matter is often mundane."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 22,
+              "stem": "Based on Passage A, the space depicted in In Between can best be described as:",
+              "choices": {
+                "F": "mostly neglected with a few discarded objects in it.",
+                "G": "vibrantly green with trees and a well-tended garden.",
+                "H": "narrow and filled with objects that suggest that it is frequently used.",
+                "J": "mostly overgrown with no indication that people live nearby."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 23,
+              "stem": "According to Passage A, McChristian is similar to the original California plein air painters in the way that she: www.acte",
+              "choices": {
+                "A": "considers herself a modern, urban artist.",
+                "B": "sees and feels Los Angeles light.",
+                "C": "paints scenes found in downtown Los Angeles.",
+                "D": "selects and arranges objects in her paintings."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 24,
+              "stem": "Passage A indicates that because McChristian wants her viewers to make her paintings their own, she prefers to create paintings of places that:",
+              "choices": {
+                "F": "make people feel as if they have been to the place in the painting although they likely have not.",
+                "G": "are well-known, such as famous beaches and roadways.",
+                "H": "are unfamiliar and cause people to feel distanced from the subject matter.",
+                "J": "have not been painted before, so people feel as if they are having a new experience. Questions 25\u201327 ask about Passage B."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 25,
+              "stem": "In Passage B, the main idea of the second paragraph (lines 58\u201371) is that McChristian\u2019s experience in animation:",
+              "choices": {
+                "A": "occurred just as computers were infiltrating the industry.",
+                "B": "taught her that painting is harder than drawing.",
+                "C": "inspired her to use computers in her later works.",
+                "D": "helped her hone her painting skills. 3 ACT-G20 www.crac"
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 26,
+              "stem": "Based on Passage B, compared to McChristian\u2019s paint- ings from when she first entered the fine art world, her later paintings have been more focused on:",
+              "choices": {
+                "F": "realistic depictions of a subject.",
+                "G": "the core essence of a subject.",
+                "H": "portraying human interaction.",
+                "J": "traditional subject matter."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 27,
+              "stem": "As it is used in line 61, the word serve most nearly means:",
+              "choices": {
+                "A": "provide.",
+                "B": "suffice.",
+                "C": "attend.",
+                "D": "aid. Questions 28\u201330 ask about both passages."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 28,
+              "stem": "Which of the following statements best reflects the dif- ference between the main purposes of the passages?",
+              "choices": {
+                "F": "Passage A discusses McChristian\u2019s unusual subject matter, whereas Passage B primarily discusses how her painting has developed.",
+                "G": "Passage A focuses on the differences between two of McChristian\u2019s paintings, whereas Passage B contends that her art is becoming more abstract.",
+                "H": "Passage A argues that McChristian\u2019s art is under- valued, whereas Passage B explains how drawing exam.net affected her paintings.",
+                "J": "Passage A describes the appeal of McChristian\u2019s paintings, whereas Passage B discusses the artists that influenced her work."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 29,
+              "stem": "The passages are similar in that they both make use of:",
+              "choices": {
+                "A": "quotations from art critics describing McChristian\u2019s style.",
+                "B": "quotations from McChristian regarding her paintings.",
+                "C": "detailed descriptions of landscape paintings by McChristian.",
+                "D": "comparisons between McChristian\u2019s commercial art and her fine art."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 30,
+              "stem": "Based on the passages, which of the following state- ments best describes the relationship between McChristian\u2019s art and travels?",
+              "choices": {
+                "F": "McChristian doesn\u2019t need to travel to find some- thing to paint, but travel has inspired her paintings.",
+                "G": "McChristian can find a subject to paint anywhere, but most of her paintings are set in places far from her home.",
+                "H": "McChristian prefers to travel outside the United States to paint, but most of her art portrays scenes near Los Angeles.",
+                "J": "McChristian usually paints scenes near Los Ange- les, but she painted her most famous works while visiting Europe. 5 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "F",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "genre": "NATURAL SCIENCE",
+          "title": "Passage IV",
+          "source": "",
+          "text": "output of 1 only if both the first \u2018and\u2019 second inputs are\n1. All other input combinations (0 and 1; 1 and 0; 0 and\nNATURAL SCIENCE: This passage is from Seven Elements 0) will result in an output of 0. A computer, at a funda-\nThat Changed the World: An Adventure of Ingenuity and Dis- mental level, is simply a number of these transistor-\ncovery by John Browne. 60 based logic gates linked together to produce a complex\noutput. The capability and complexity of the computer\nIn the late 1940s, William Shockley and his team rises as more and more gates are connected.\nin the solid state physics group at Bell Labs were\nexploring the unusual electrical properties of a group of Transistors allow this to happen because they are\nelements called semiconductors. Bell\u2019s telephone net- very small, very cheap and use only a little power.\n5 works were still operated using mechanical switches 65 Those features allow enormous numbers of them to be\nand signals were amplified using vacuum tubes. These put together in one computer. It is, however, their speed\nwere slow and unreliable and so the director of research that makes computers really useful. A transistor\u2019s on-\nwas tasked with finding an electronic alternative. off switching function is controlled by a small electric\nShockley thought the answer could be found in semi- current. Its small size and the speed of the electrons\n10 conductors, from which he hoped to create an amplify- 70 enable it to be turned on and off well over 100 billion\ning and switching device. Although its theoretical basis times each second. If you used your finger, it would\nseemed flawless, it did not work. His colleague John take around 2,000 years to turn a light switch on and off\nBardeen, a brilliant theoretical physicist, then set his as many times. Silicon\u2019s semiconducting properties\nmind to the problem. He realised that electrons were make it ideal for making these switches, although other\n15 becoming trapped at the surface of the semiconductor, 75 semiconductors, such as germanium, were originally\nstopping current flowing through the device. Working used and today transistors can be made of many differ-\nwith Walter Brattain, whose skilled hands matched and ent alloys. None of them, however, rival silicon\u2019s com-\ncomplemented Bardeen\u2019s brain, Bardeen was able to bination of high performance and low cost.\novercome the surface trapping and, in doing so, turned\n20 Shockley\u2019s idea into a practical reality, the world\u2019s first The first commercial applications of the transistor\ntransistor. 80 were not, however, computers, but technologies that\nused its other function as an amplifier. The first of these\nAt the end of June 1948, Bell Labs announced the was a hearing aid produced by Sonotone in 1952. The\ninvention of the transistor by Shockley, Bardeen and same principle was applied in radios, amplifying the\nBrattain; they would lwater wwin thwe Nob.ela Prizce int exelaectrommagnet.icn wavees retceived from transmitting sta-\n25 Physics for this breakthrough. At the press conference, 85 tions. The small size of the transistor dramatically\nthey explained that the transistor had the potential to reduced the size and cost of radios, making them\nreplace the vacuum tube, the device then used to make portable and opening up their ownership to a vast new\nradios and rudimentary computers. Like the vacuum market.\ntube, the transistor could amplify electrical signals and\n30 act as an on-off switch, but do so much faster, in a From \u201cSeven Elements that Changed the World\u201d by John Browne\nmuch smaller volume, using much less power. At the (\u00a92014 by John Browne). Used with permission.\ntime, the media thought all this unimportant and made\nlittle fuss. The New York Times \u2018carried the big news on\npage 46, buried at the end of a column of radio\n35 chitchat.\u2019 The potential for the transistor to change the\nworld had yet to be realised by the wider public. After\nall, journalists must have wondered, what impact could\nthese devices and their abstract functions have on our\neveryday lives? Even today, few people make a connec-\n40 tion between these minute pieces of silicon and the\ncomplex functioning of the computers, with which we\ncreate images, manage communications and generate\nsounds.\nAny computational problem can be broken down\n45 into a set of simple logical steps, such as the decision to\ncombine two numbers or choose one or the other. These\nsteps are controlled by \u2018logic gates\u2019, which are the 31. The main purpose of the passage is to:\nbasic building blocks of digital circuits. Logic gates are\nA. argue that the structural features of the transistor\nmade from transistors and other simple components,\nbecame a model for later inventions.\n50 and they use transistors as switches to send signals.\nB. discuss the unintended consequences that resulted\nMost logic gates have two on-off switches which\nfrom the invention of the transistor.\ntogether act as inputs. Each switch can either be off or\nC. describe the invention of the transistor and its\non, known as \u20180\u2019 or \u20181\u2019, and the logic gate\u2019s output is\nsignificance.\ndetermined by these two inputs as well as the type of\nD. analyze the processes that allow a transistor to\n55 logic gate. For example, an \u2018AND\u2019 gate will give an\nwork.\n36 GO ON TO THE NEXT PAGE.\nACT-G20\nwww.crackab.com",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "The main purpose of the passage is to:",
+              "choices": {
+                "A": "argue that the structural features of the transistor became a model for later inventions.",
+                "B": "discuss the unintended consequences that resulted from the invention of the transistor.",
+                "C": "describe the invention of the transistor and its significance.",
+                "D": "analyze the processes that allow a transistor to work. 6 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "C",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "3 3\n32. In the second paragraph (lines 22\u201343), which of the 36. Which of the following statements is the best para-\nfollowing does the author use to support his claim phrase for the author\u2019s point in lines 39\u201343?\nthat the media found the invention of the transistor\nF. Currently, many people exhibit an overdependence\nunimportant?\non technology.\nF. Comments from journalists who questioned the G. At present, most people do not appreciate the full\nimportance of transistors impact of transistors.\nG. A description of the press conference following H. The vulnerability of technology today is due to its\nthe presentation of the Nobel Prize in Physics overreliance on transistors.\nH. Claims about the minimal radio coverage of the J. Since the invention of transistors, journalists have\ninvention of transistors made significant progress in their understanding of\nJ. Information regarding the placement of a news technology.\nitem about transistors in the New York Times\n37. According to the passage, what is the relationship\nbetween transistors and logic gates?\nA. Transistors were replaced by logic gates.\nB. Logic gates use electricity generated by transistors.\nC. Logic gates are made in part from transistors.\n33. The passage indicates that, compared to transistors,\nD. Transistors are made up of a series of logic gates.\nvacuum tubes and mechanical switches:\nA. require fewer repairs. 38. According to the passage, transistors\u2019 size, cost, and\nB. rely more on semiconductors. power requirements are significant because these\nC. are more effective for amplification. qualities:\nD. work less quickly.\nF. demonstrate the accuracy of the predictions of\nShockley and his team.\nG. vindicate the proponents of silicon semiconductors.\nH. compensate for the relatively low speed of transis-\ntors\u2019 switching functions.\n34. The main idea of the last paragraph is that: J. allow a large number of interconnected transistors\nto be contained in one computer.\nF. hearing aids were twhe firswt prodwucts so.lda thatc usedt exam.net\ntransistors.\n39. The author refers to the manual operation of a light\nG. radios continue to be the product most associated\nswitch (lines 71\u201373) mainly to emphasize the:\nwith transistors.\nH. amplification was the first commercial application A. small amount of electric power that transistors\nof transistors. require to function.\nJ. computer designers were hesitant at first to make B. high speed at which transistors can be turned on\nuse of transistors. and off.\nC. resistance of many people to the changes brought\non by transistors.\nD. speed at which transistors became integrated into\nmany technologies.\n35. The passage indicates that one role Bardeen played in 40. According to the passage, the fact that transistors\nthe early development of the transistor was to: allowed radios to be made smaller and less expensively\nresulted in a:\nA. identify why the semiconductor wasn\u2019t performing\nproperly. F. wider recognition of the importance of transistors.\nB. suggest replacing vacuum tubes with G. change in radio programming to appeal to new\nsemiconductors. audiences.\nC. convince Shockley that the theoretical basis of his H. significant increase in the number of potential\nplan was flawed. radio buyers.\nD. persuade Shockley to bring Walter Brattain into J. similar process being adopted in the manufactur-\nthe project. ing of hearing aids.\nEND OF TEST 3\nSTOP! DO NOT TURN THE PAGE UNTIL TOLD TO DO SO.\nDO NOT RETURN TO A PREVIOUS TEST.\n37\nACT-G20\nwww.crackab.com",
+          "questions": [
+            {
+              "number": 32,
+              "stem": "In the second paragraph (lines 22\u201343), which of the following does the author use to support his claim that the media found the invention of the transistor unimportant?",
+              "choices": {
+                "F": "Comments from journalists who questioned the importance of transistors",
+                "G": "A description of the press conference following the presentation of the Nobel Prize in Physics",
+                "H": "Claims about the minimal radio coverage of the invention of transistors",
+                "J": "Information regarding the placement of a news item about transistors in the New York Times"
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 33,
+              "stem": "The passage indicates that, compared to transistors, vacuum tubes and mechanical switches:",
+              "choices": {
+                "A": "require fewer repairs.",
+                "B": "rely more on semiconductors.",
+                "C": "are more effective for amplification.",
+                "D": "work less quickly."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 34,
+              "stem": "The main idea of the last paragraph is that:",
+              "choices": {
+                "F": "hearing aids were twhe firswt prodwucts so.lda thatc usedt e transistors.",
+                "G": "radios continue to be the product most associated with transistors.",
+                "H": "amplification was the first commercial application of transistors.",
+                "J": "computer designers were hesitant at first to make use of transistors."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 35,
+              "stem": "The passage indicates that one role Bardeen played in the early development of the transistor was to:",
+              "choices": {
+                "A": "identify why the semiconductor wasn\u2019t performing properly.",
+                "B": "suggest replacing vacuum tubes with semiconductors.",
+                "C": "convince Shockley that the theoretical basis of his plan was flawed.",
+                "D": "persuade Shockley to bring Walter Brattain into the project. STOP! DO N 3 ACT-G20 www.crac 3"
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 36,
+              "stem": "Which of the following statements is the best para- phrase for the author\u2019s point in lines 39\u201343?",
+              "choices": {
+                "F": "Currently, many people exhibit an overdependence on technology.",
+                "G": "At present, most people do not appreciate the full impact of transistors.",
+                "H": "The vulnerability of technology today is due to its overreliance on transistors.",
+                "J": "Since the invention of transistors, journalists have made significant progress in their understanding of technology."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 37,
+              "stem": "According to the passage, what is the relationship between transistors and logic gates?",
+              "choices": {
+                "A": "Transistors were replaced by logic gates.",
+                "B": "Logic gates use electricity generated by transistors.",
+                "C": "Logic gates are made in part from transistors.",
+                "D": "Transistors are made up of a series of logic gates."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 38,
+              "stem": "According to the passage, transistors\u2019 size, cost, and power requirements are significant because these qualities:",
+              "choices": {
+                "F": "demonstrate the accuracy of the predictions of Shockley and his team.",
+                "G": "vindicate the proponents of silicon semiconductors.",
+                "H": "compensate for the relatively low speed of transis- tors\u2019 switching functions.",
+                "J": "allow a large number of interconnected transistors to be contained in one computer. exam.net"
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 39,
+              "stem": "The author refers to the manual operation of a light switch (lines 71\u201373) mainly to emphasize the:",
+              "choices": {
+                "A": "small amount of electric power that transistors require to function.",
+                "B": "high speed at which transistors can be turned on and off.",
+                "C": "resistance of many people to the changes brought on by transistors.",
+                "D": "speed at which transistors became integrated into many technologies."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 40,
+              "stem": "According to the passage, the fact that transistors allowed radios to be made smaller and less expensively resulted in a:",
+              "choices": {
+                "F": "wider recognition of the importance of transistors.",
+                "G": "change in radio programming to appeal to new audiences.",
+                "H": "significant increase in the number of potential radio buyers.",
+                "J": "similar process being adopted in the manufactur- ing of hearing aids. END OF TEST 3 NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST. 7 ckab.com"
+              },
+              "correct": "H",
+              "lineRef": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "title": "Passage I",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg",
+          "startPage": 38,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "According to Figure 3, the average Rn concentration in June 2008 at Site 3 was closest in value to the average Rn concentration in July 2009 at which of the follow- ing sites?",
+              "choices": {
+                "A": "Site 1",
+                "B": "Site 4",
+                "C": "Site 5",
+                "D": "Site 8 3 www.crac 4"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+            },
+            {
+              "number": 2,
+              "stem": "Which of the following expressions best shows the direction of the flow of soil gas through the apparatus shown in Figure 2 ?",
+              "choices": {
+                "F": "Teflon tube \u2192 pump \u2192 Rn detector \u2192 \u2192",
+                "G": "Teflon tube Rn detector pump",
+                "H": "Pump \u2192 Rn detector \u2192 Teflon tube \u2192 \u2192",
+                "J": "Pump Teflon tube Rn detector"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+            },
+            {
+              "number": 3,
+              "stem": "Consider the site having the second-largest vertical displacement in Figure 1. According to Figure 3, the average Rn concentration at that site in Decem- ber 2008 was approximately:",
+              "choices": {
+                "A": "04 kBq/m3.",
+                "B": "08 kBq/m3.",
+                "C": "12 kBq/m3.",
+                "D": "16 kBq/m3."
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+            },
+            {
+              "number": 4,
+              "stem": "Based on Figure 3, the average Rn concentration increased between June 2008 and December 2008 at how many of the sites?",
+              "choices": {
+                "F": "3",
+                "G": "4",
+                "H": "5",
+                "J": "6"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+            },
+            {
+              "number": 5,
+              "stem": "Which of the following statements best summarizes the 4\u22128 December 2008 data for Sites ? As distance from the epicenter increased, average Rn concentration: exam.net",
+              "choices": {
+                "A": "increased only.",
+                "B": "decreased only.",
+                "C": "increased, then decreased.",
+                "D": "decreased, then increased."
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+            },
+            {
+              "number": 6,
+              "stem": "Based on the description of the sites, what was the minimum possible distance along the fault line between Site 1 and Site 5 ?",
+              "choices": {
+                "F": "025 km",
+                "G": "075 km",
+                "H": "100 km",
+                "J": "175 km"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+            },
+            {
+              "number": 7,
+              "stem": "Assume that for each Teflon tube, the top of the tube was 1 cm above the surface of the soil and the other end of the tube was at the bottom of the hole. What was the length, in centimeters, of each tube?",
+              "choices": {
+                "A": "79 cm",
+                "B": "80 cm",
+                "C": "81 cm",
+                "D": "Cannot be determined from the given information 9 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_38.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "title": "Passage II",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg",
+          "startPage": 40,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "Based on Trials as v increased, h:",
+              "choices": {
+                "F": "increased only.",
+                "G": "decreased only.",
+                "H": "increased and then decreased.",
+                "J": "decreased and then increased."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg"
+            },
+            {
+              "number": 9,
+              "stem": "What was the absolute value of the difference between the projectile\u2019s speed in Trial 1 and the projectile\u2019s speed in Trial 10 ?",
+              "choices": {
+                "A": "02 m/s",
+                "B": "06 m/s",
+                "C": "08 m/s",
+                "D": "10 m/s"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg"
+            },
+            {
+              "number": 10,
+              "stem": "Suppose that a trial had been performed in which M was 1.00 kg and m was 0.060 kg. If the resulting value of h were 0.020 m, v would most likely have been clos- est to which of the following?",
+              "choices": {
+                "F": "06 m/s",
+                "G": "10 m/s",
+                "H": "16 m/s",
+                "J": "20 m/s www.acte 4 www.crac 4 9\u221212"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg"
+            },
+            {
+              "number": 11,
+              "stem": "What was the independent variable in Trials ?",
+              "choices": {
+                "A": "M",
+                "B": "m",
+                "C": "h",
+                "D": "v"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg"
+            },
+            {
+              "number": 12,
+              "stem": "The maximum gravitational potential energy, GPE, of the wooden block containing the projectile is given by the equation: GPE = (M + m) \u00d7 g \u00d7 h where g is the acceleration due to gravity at Earth\u2019s surface. For which trial was GPE greatest?",
+              "choices": {
+                "F": "Trial 4",
+                "G": "Trial 6",
+                "H": "Trial 8",
+                "J": "Trial 12"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg"
+            },
+            {
+              "number": 13,
+              "stem": "In Trial 1, what was M in grams ?",
+              "choices": {
+                "A": "000,1.00",
+                "B": "00,10.0",
+                "C": "0,100",
+                "D": "1,000 exam.net 1 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_40.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "title": "Passage III",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg",
+          "startPage": 42,
+          "questions": [
+            {
+              "number": 14,
+              "stem": "For which of the following moons is the semimajor axis closest to 1 billion meters?",
+              "choices": {
+                "F": "Enceladus",
+                "G": "Dione",
+                "H": "Titan",
+                "J": "Iapetus"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg"
+            },
+            {
+              "number": 15,
+              "stem": "Based on Figures 1 and 3, the majority of the moons in Groups 1\u22124 have orbits that are which shape: circular or elliptical?",
+              "choices": {
+                "A": "Circular, because most of the plotted moons have = an orbit for which e 0.",
+                "B": "Circular, because most of the plotted moons have < < an orbit for which 0 e 1.",
+                "C": "Elliptical, because most of the plotted moons have = an orbit for which e 0.",
+                "D": "Elliptical, because most of the plotted moons have < < an orbit for which 0 e 1. 4 www.crac 4"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg"
+            },
+            {
+              "number": 16,
+              "stem": "There is a Group 4 moon with an orbital energy more similar to those of Group 1 moons than to those of the other Group 4 moons. What is the approximate orbital energy of this moon? 1026",
+              "choices": {
+                "F": "J",
+                "G": "1028 J 1030",
+                "H": "J",
+                "J": "1032 J"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg"
+            },
+            {
+              "number": 17,
+              "stem": "Based on Figures 2 and 3, for which of the ranges listed below are there no moons plotted? +10\u00b0 +30\u00b0 I. i between and II. a between 5 \u00d7 109 m and 10 \u00d7 109 m III. e between 0.5 and 0.7",
+              "choices": {
+                "A": "II only",
+                "B": "III only",
+                "C": "I and II only",
+                "D": "I, II, and III"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg"
+            },
+            {
+              "number": 18,
+              "stem": "Based on Figures 2 and 4, each moon that has an incli- +30\u00b0 nation angle greater than has an orbital energy that is within which of the following ranges of values? exam.net 1022 1024",
+              "choices": {
+                "F": "J to J",
+                "G": "1022 J to 1026 J 1024 1026",
+                "H": "J to J",
+                "J": "1024 J to 1028 J"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg"
+            },
+            {
+              "number": 19,
+              "stem": "Suppose a new moon is discovered in orbit around Saturn and it is classified as a Group 3 moon. Based on Figure 3, which of the following pairs of values for a and e, respectively, most likely corresponds to the orbit of this moon? a (m) e",
+              "choices": {
+                "A": "11 \u00d7 109 0.15 \u00d7 109",
+                "B": "11 0.45",
+                "C": "17 \u00d7 109 0.15 \u00d7 109",
+                "D": "17 0.45 3 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_42.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "title": "Passage IV",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg",
+          "startPage": 44,
+          "questions": [
+            {
+              "number": 20,
+              "stem": "Which of the following statements was most likely the exhaypotmhesis fo.r Sntudye t 2 ?",
+              "choices": {
+                "F": "Males choose mates on the basis of the peak fre- quency of the potential mates\u2019 calls.",
+                "G": "Males choose mates on the basis of the loudness of the potential mates\u2019 calls.",
+                "H": "Females choose mates on the basis of the peak fre- quency of the potential mates\u2019 calls.",
+                "J": "Females choose mates on the basis of the loudness of the potential mates\u2019 calls."
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+            },
+            {
+              "number": 21,
+              "stem": "Suppose that the reproductive fitness of male R. mehe- lyi increases as the male attracts more females. Which of the following statements regarding peak frequency and reproductive fitness is consistent with the results of Study 2 ? Male R. mehelyi that emit calls with a peak frequency of:",
+              "choices": {
+                "A": "104 kHz are more likely to attract more females and have lower reproductive fitness than are male R. mehelyi that emit calls with a peak frequency of 112 kHz.",
+                "B": "104 kHz are more likely to attract more females and have higher reproductive fitness than are male R. mehelyi that emit calls with a peak frequency of 112 kHz.",
+                "C": "112 kHz are more likely to attract more females and have lower reproductive fitness than are male R. mehelyi that emit calls with a peak frequency of 104 kHz.",
+                "D": "112 kHz are more likely to attract more females and have higher reproductive fitness than are male R. mehelyi that emit calls with a peak frequency of 104 kHz. 4 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+            },
+            {
+              "number": 22,
+              "stem": "Consider the design of Study 2. Which of the follow- ing procedures was most likely done to eliminate pref- erence based on the direction the call came from?",
+              "choices": {
+                "F": "The calls were played at different volumes.",
+                "G": "The calls were randomly assigned to the speakers.",
+                "H": "Only female R. mehelyi calls were played.",
+                "J": "Only male R. mehelyi calls were played."
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+            },
+            {
+              "number": 23,
+              "stem": "Based on Table 1, the total number of bat landings in the compartment that played a call with a peak fre- quency of 104 kHz was approximately how many times as great as the total number of bat landings in the com- partment that played a call with a peak frequency of 112 kHz ? _1_ A. 4 _1_ B. 2",
+              "choices": {
+                "C": "2",
+                "D": "4"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+            },
+            {
+              "number": 24,
+              "stem": "Based on the description and the results of Study 2, which of the following expressions shows how to cal- culate the number of times a female R. mehelyi did NOT land in one of the compartments?",
+              "choices": {
+                "F": "(2 \u00d7 61) + (225 + 460) \u00d7 \u2212 +",
+                "G": "(2 61) (225 460)",
+                "H": "(12 \u00d7 61) + (225 + 460) \u00d7 \u2212 + 4w60) ww.acte",
+                "J": "(12 61) (225 4 www.crac 4"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+            },
+            {
+              "number": 25,
+              "stem": "In Study 1, which of the following procedures was likely performed to ensure that a given peak frequency measurement was not influenced by the Doppler effect?",
+              "choices": {
+                "A": "Measuring the mass of each bat",
+                "B": "Collecting bats from a single cave",
+                "C": "Placing the bat equidistant from 2 speakers",
+                "D": "Recording bats while they were stationary"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+            },
+            {
+              "number": 26,
+              "stem": "For humans, the audible range of sound is 20\u221220,000 Hertz (Hz). Based on Figure 1, would a human likely be able to hear a call emitted at a peak frequency from a 24 g R. mehelyi ?",
+              "choices": {
+                "F": "Yes; 107 kHz is in the audible range of sound for humans.",
+                "G": "Yes; 109 kHz is in the audible range of sound for humans.",
+                "H": "No; 107 kHz is not in the audible range of sound for humans.",
+                "J": "No; 109 kHz is not in the audible range of sound exafomr huma.nsn. et 5 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_44.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-v",
+          "title": "Passage V",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg",
+          "startPage": 46,
+          "questions": [
+            {
+              "number": 27,
+              "stem": "Suppose that, before the experiment, a scientist had predicted that Variety X mushrooms would have a Mn2+ greater concentration of than Variety Y mush- rooms. Are the results of the experiment consistent with this prediction? Mn2+",
+              "choices": {
+                "A": "No; the concentration of was 30.5 mg/kg for Variety X and 43.5 mg/kg for Variety Y. Mn2+",
+                "B": "No; the concentration of was 37.5 mg/kg for Variety X and 96.5 mg/kg for Variety Y. Mn2+",
+                "C": "Yes; the concentration of was 43.5 mg/kg for Variety X and 30.5 mg/kg for Variety Y. Mn2+",
+                "D": "Yes; the concentration of was 96.5 mg/kg for Variety X and 37.5 mg/kg for Variety Y."
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+            },
+            {
+              "number": 28,
+              "stem": "Based on the results of the experiment, which mush- room variety more likely had the higher measured absorbance for zinc: Variety W or Variety Y ?",
+              "choices": {
+                "F": "Variety W; a higher concentration corresponds to a higher absorbance.",
+                "G": "Variety W; a lower concentration corresponds to a higher absorbance.",
+                "H": "Variety Y; a higher concentration corresponds to a higher absorbance.",
+                "J": "Variety Y; a lower concentration corresponds to a higher absorbance."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+            },
+            {
+              "number": 29,
+              "stem": "Suppose that 0.25 g of dried Variety W mushrooms were mixed with 0.25 g of dried Variety X mushrooms and tested using the procedures of the experiment. Based on Table 1, the cwoncenwtrationw of co.ppaer inc thits e mixture would most likely have been:",
+              "choices": {
+                "A": "less than 37.5 mg/kg.",
+                "B": "between 37.5 mg/kg and 49.5 mg/kg.",
+                "C": "between 49.5 mg/kg and 96.5 mg/kg.",
+                "D": "greater than 96.5 mg/kg. 4 www.crac 4"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+            },
+            {
+              "number": 30,
+              "stem": "Was the pH of the liquid added to the mushrooms in Step 2 more likely less than 7.0 or greater than 7.0 ?",
+              "choices": {
+                "F": "Less than 7.0; the liquid was an acid.",
+                "G": "Less than 7.0; the liquid was a base.",
+                "H": "Greater than 7.0; the liquid was an acid.",
+                "J": "Greater than 7.0; the liquid was a base."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+            },
+            {
+              "number": 31,
+              "stem": "Based on the description of the AAS, how many differ- ent wavelengths of light were passed through the flame when each of the mushroom varieties was tested?",
+              "choices": {
+                "A": "01",
+                "B": "04",
+                "C": "07",
+                "D": "28"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+            },
+            {
+              "number": 32,
+              "stem": "Based on the description of the AAS, the detector directly measured the:",
+              "choices": {
+                "F": "volume of nitric acid in solution.",
+                "G": "mass of dried mushrooms in the flame.",
+                "H": "concentration of metal ions in solution.",
+                "J": "light that passed through the flame."
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+            },
+            {
+              "number": 33,
+              "stem": "Consider the cadmium ion as shown in Table 1. When this ion is formed from a neutral cadmium atom, does the number of protons increase or stay the same, and does the number of electrons increase or decrease? exam.net protons electrons",
+              "choices": {
+                "A": "increase increase",
+                "B": "increase decrease",
+                "C": "stay the same increase",
+                "D": "stay the same decrease 7 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_46.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-vi",
+          "title": "Passage VI",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg",
+          "startPage": 48,
+          "questions": [
+            {
+              "number": 34,
+              "stem": "Which of the following statements regarding the MRCAs of snakes is consistent with the phylogenetic trees of all 3 students? Snakes share a more recent MRCA with:",
+              "choices": {
+                "F": "birds than with the other groups of organisms.",
+                "G": "turtles than with the other groups of organisms.",
+                "H": "lizards than with the other groups of organisms.",
+                "J": "crocodiles than with the other groups of organisms."
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+            },
+            {
+              "number": 35,
+              "stem": "The phylogenetic tree constructed by which of the stu- dents supports the hypothesis that turtles are more closely related to archosaurs than to squamates?",
+              "choices": {
+                "A": "Student 2 only",
+                "B": "Student 3 only",
+                "C": "Students 1 and 2 only",
+                "D": "Students 1 and 3 only 8 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+            },
+            {
+              "number": 36,
+              "stem": "Tuatara (a reptile native to New Zealand) share a more recent MRCA with squamates than with archosaurs. Which of the following proposed phylogenetic trees is most consistent with this information?",
+              "choices": {
+                "F": "snakes H. snakes lizards lizards tuatara crocodiles crocodiles birds birds tuatara turtles turtles",
+                "G": "snakes J. snakes lizards lizards tuatara crocodiles crocodiles birds birds tuatara turtles turtles"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+            },
+            {
+              "number": 37,
+              "stem": "Suppose that the length of a horizontal line segment from a group of organisms to its nearest node is directly proportional to the length of time that group of organisms has existed. Based on this information, how many of the phylogenetic trees, if any, suggest that tur- tles have existed for a longer length of time than have birds?",
+              "choices": {
+                "A": "0 www.acte",
+                "B": "1",
+                "C": "2",
+                "D": "3 S 4 www.crac 4"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+            },
+            {
+              "number": 38,
+              "stem": "Student 3\u2019s phylogenetic tree includes how many common ancestors of turtles and birds?",
+              "choices": {
+                "F": "1",
+                "G": "2",
+                "H": "3",
+                "J": "4"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+            },
+            {
+              "number": 39,
+              "stem": "An amino acid can be abbreviated by a single letter. Suppose that, for a certain protein, an ancestor has the amino acid sequence DVLDSL and a descendant group has the sequence KVNDSL. Were these sequences more likely analyzed by Student 2 or by Student 3, and how many substitutions are present in the descendant group? Student Substitutions",
+              "choices": {
+                "A": "2 2",
+                "B": "2 4",
+                "C": "3 2",
+                "D": "3 4"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+            },
+            {
+              "number": 40,
+              "stem": "Which of the students analyzed sequences of nucleic acids?",
+              "choices": {
+                "F": "Student 2 only exam.net",
+                "G": "Student 3 only",
+                "H": "Students 1 and 2 only",
+                "J": "Students 1 and 3 only END OF TEST 4 STOP! DO NOT RETURN TO ANY OTHER TEST. 9 ckab.com"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G20/science/page_48.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scaleTable": {
+    "english": {
+      "74": 36,
+      "75": 36,
+      "72": 35,
+      "73": 35,
+      "71": 34,
+      "70": 33,
+      "69": 32,
+      "68": 31,
+      "67": 30,
+      "66": 29,
+      "65": 28,
+      "64": 27,
+      "62": 26,
+      "63": 26,
+      "60": 25,
+      "61": 25,
+      "57": 24,
+      "58": 24,
+      "59": 24,
+      "54": 23,
+      "55": 23,
+      "56": 23,
+      "51": 22,
+      "52": 22,
+      "53": 22,
+      "48": 21,
+      "49": 21,
+      "50": 21,
+      "45": 20,
+      "46": 20,
+      "47": 20,
+      "43": 19,
+      "44": 19,
+      "41": 18,
+      "42": 18,
+      "39": 17,
+      "40": 17,
+      "36": 16,
+      "37": 16,
+      "38": 16,
+      "33": 15,
+      "34": 15,
+      "35": 15,
+      "29": 14,
+      "30": 14,
+      "31": 14,
+      "32": 14,
+      "26": 13,
+      "27": 13,
+      "28": 13,
+      "24": 12,
+      "25": 12,
+      "20": 11,
+      "21": 11,
+      "22": 11,
+      "23": 11,
+      "16": 10,
+      "17": 10,
+      "18": 10,
+      "19": 10,
+      "14": 9,
+      "15": 9,
+      "12": 8,
+      "13": 8,
+      "10": 7,
+      "11": 7,
+      "8": 6,
+      "9": 6,
+      "6": 5,
+      "7": 5,
+      "5": 4,
+      "3": 3,
+      "4": 3,
+      "2": 2,
+      "0": 1,
+      "1": 1
+    },
+    "math": {
+      "60": 36,
+      "58": 35,
+      "59": 35,
+      "57": 34,
+      "56": 33,
+      "55": 32,
+      "53": 31,
+      "54": 31,
+      "51": 30,
+      "52": 30,
+      "50": 29,
+      "48": 28,
+      "49": 28,
+      "45": 27,
+      "46": 27,
+      "47": 27,
+      "42": 26,
+      "43": 26,
+      "44": 26,
+      "39": 25,
+      "40": 25,
+      "41": 25,
+      "37": 24,
+      "38": 24,
+      "35": 23,
+      "36": 23,
+      "33": 22,
+      "34": 22,
+      "32": 21,
+      "30": 20,
+      "31": 20,
+      "28": 19,
+      "29": 19,
+      "25": 18,
+      "26": 18,
+      "27": 18,
+      "22": 17,
+      "23": 17,
+      "24": 17,
+      "18": 16,
+      "19": 16,
+      "20": 16,
+      "21": 16,
+      "15": 15,
+      "16": 15,
+      "17": 15,
+      "11": 14,
+      "12": 14,
+      "13": 14,
+      "14": 14,
+      "9": 13,
+      "10": 13,
+      "7": 12,
+      "8": 12,
+      "6": 11,
+      "5": 10,
+      "4": 9,
+      "3": 8,
+      "2": 6,
+      "1": 4,
+      "0": 1
+    },
+    "reading": {
+      "39": 36,
+      "40": 36,
+      "38": 35,
+      "37": 33,
+      "36": 32,
+      "35": 31,
+      "34": 30,
+      "33": 29,
+      "32": 28,
+      "31": 27,
+      "30": 26,
+      "29": 25,
+      "28": 24,
+      "26": 23,
+      "27": 23,
+      "24": 22,
+      "25": 22,
+      "22": 21,
+      "23": 21,
+      "21": 20,
+      "20": 19,
+      "19": 18,
+      "17": 17,
+      "18": 17,
+      "16": 16,
+      "15": 15,
+      "13": 14,
+      "14": 14,
+      "12": 13,
+      "10": 12,
+      "11": 12,
+      "8": 11,
+      "9": 11,
+      "7": 10,
+      "6": 9,
+      "5": 8,
+      "4": 6,
+      "3": 5,
+      "2": 4,
+      "1": 2,
+      "0": 1
+    },
+    "science": {
+      "40": 36,
+      "39": 35,
+      "38": 34,
+      "37": 33,
+      "36": 32,
+      "35": 31,
+      "34": 30,
+      "33": 28,
+      "32": 27,
+      "30": 26,
+      "31": 26,
+      "29": 25,
+      "26": 24,
+      "27": 24,
+      "28": 24,
+      "24": 23,
+      "25": 23,
+      "22": 22,
+      "23": 22,
+      "21": 21,
+      "19": 20,
+      "20": 20,
+      "17": 19,
+      "18": 19,
+      "16": 18,
+      "14": 17,
+      "15": 17,
+      "13": 16,
+      "12": 15,
+      "11": 14,
+      "10": 13,
+      "9": 12,
+      "8": 11,
+      "7": 10,
+      "6": 9,
+      "5": 8,
+      "4": 7,
+      "3": 6,
+      "2": 4,
+      "1": 3,
+      "0": 1
+    }
+  }
+}

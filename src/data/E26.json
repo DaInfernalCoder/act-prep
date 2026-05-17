@@ -1,0 +1,2677 @@
+{
+  "id": "E26",
+  "name": "ACT Form E26",
+  "sections": [
+    {
+      "id": "english",
+      "name": "English",
+      "timeMinutes": 45,
+      "passages": [
+        {
+          "id": "eng-p1",
+          "title": "Passage 1",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_2.jpg",
+          "startPage": 2,
+          "questions": [
+            {
+              "number": 2,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "such,",
+                "H": "them,",
+                "J": "this,"
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_2.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 3,
+              "stem": "Which choice best suggests that the effect of the cold air on Yueming was immediate?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "pulled",
+                "C": "lured",
+                "D": "drew"
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_2.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 4,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "one: The History of Chinatown,",
+                "H": "one, The History of Chinatown,",
+                "J": "one The History of Chinatown"
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_2.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 5,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "snow was working,",
+                "C": "snow working,",
+                "D": "snow working ctexam.net 2 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_2.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 6,
+              "stem": "Which choice indicates there is another, specific type of work depicted in the mural?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "gripping it with an enormous hand,",
+                "H": "in the center of the image,",
+                "J": "others hard at work,"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_3.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 7,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "off guard, incongruous,",
+                "C": "off guard incongruous,",
+                "D": "off guard incongruous"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_3.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 8,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "the city of Philadelphia\u2019s urban",
+                "H": "in-town vehicular car",
+                "J": "DELETE the underlined portion."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_3.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 9,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "tomorrow. After this visit, their",
+                "C": "tomorrow, after this visit, their",
+                "D": "tomorrow. Their"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_3.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 10,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Yueming had to",
+                "H": "Her having to",
+                "J": "To"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_3.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 11,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "with",
+                "C": "of",
+                "D": "in"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_3.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 12,
+              "stem": "Which choice connects Yueming in a figurative way to the mural described in the essay?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "paint herself instead into",
+                "H": "not leave",
+                "J": "take"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_3.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 13,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "direction, which belonged",
+                "C": "direction that belonged",
+                "D": "direction belonging"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_3.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 14,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "its\u2019",
+                "H": "its",
+                "J": "DELETE the underlined portion. ctexam.net 3 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_3.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 15,
+              "stem": "The writer wants to divide this paragraph into two in order to separate the statement indicating Yueming\u2019s plans for herself from the details about her immediate surroundings. The best place to begin the new para- graph would be at:",
+              "choices": {
+                "A": "Point A.",
+                "B": "Point B.",
+                "C": "Point C.",
+                "D": "Point D."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_4.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 16,
+              "stem": "If the writer were to delete the words \u201cinvaluable\u201d and \u201cfirsthand\u201d from the preceding sentence, the sentence would primarily lose:",
+              "choices": {
+                "F": "a description of the kinds of sea life that are sought out by scientists on marine dives.",
+                "G": "a tone of appreciation for the difficulties scientists often encounter during a marine dive.",
+                "H": "an indication of one benefit of marine dives and how significant it is to scientists.",
+                "J": "a suggestion that most marine dives are conducted by scientists."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_4.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 17,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "have lead",
+                "C": "have led",
+                "D": "has lead"
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_4.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 18,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "as aides to scientists\u2019 underwater studies.",
+                "H": "since divers\u2019 time underwater is limited.",
+                "J": "DELETE the underlined portion and end the sen- tence with a period."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_4.jpg",
+              "correct": "J"
+            }
+          ]
+        },
+        {
+          "id": "eng-p2",
+          "title": "Passage 2",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_4.jpg",
+          "startPage": 4,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "topography being functions that",
+                "C": "topography, which",
+                "D": "topography ctexam.net 4 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_4.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 20,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "cascade",
+                "H": "flood",
+                "J": "gush"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_5.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 21,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "equipment, however,",
+                "C": "equipment however,",
+                "D": "equipment however"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_5.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 22,
+              "stem": "Given that all the choices are accurate, which one pro- vides the best transition between the preceding sen- tence and the next sentence?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "operate equally smoothly in tethered or untethered modes.",
+                "H": "perform in mere minutes tasks that take scientists hours.",
+                "J": "move in harmony with the creatures it would study."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_5.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 23,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "by doing so, they push the robot",
+                "C": "then, the robot is pushed",
+                "D": "this pushes the robot"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_5.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 24,
+              "stem": "At this point, the writer is considering adding the fol- lowing accurate information: rotate like windmill blades to Should the writer make this addition here?",
+              "choices": {
+                "F": "Yes, because it explains how the engineers came up with the design for the legs.",
+                "G": "Yes, because it provides a description that helps clarify how the legs work.",
+                "H": "No, because it introduces a comparison to wind- mills that is not developed in the rest of the essay.",
+                "J": "No, because it blurs the paragraph\u2019s focus on the robot\u2019s ability to move from land to water."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_5.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 25,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "as it is for",
+                "C": "but also",
+                "D": "or s 26. F. NO CHANGE",
+                "G": "a possibility exists for subtle changes in course to be made simply by AQUA2",
+                "H": "subtle changes in course can be made by AQUA2 simply",
+                "J": "subtle changes in course can be made simply by AQUA2 ctexam.net 5 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_5.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 27,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "still, as it gently, paddles",
+                "C": "still as it gently paddles,",
+                "D": "still as it gently paddles"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_6.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 28,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "superhuman power . H. unique ability",
+                "J": "weird trick ky n os"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_6.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 29,
+              "stem": "Which choice best maintains the word pattern of the previous example involving Barbados coral reefs? le",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "silty lake beds in Canada, ic",
+                "C": "silty Canadian lake beds,",
+                "D": "Canada\u2019s silty lake beds, Question 30 asks about the preceding passage as a whole."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_6.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 30,
+              "stem": "For the sake of logic and cohesion, Paragraph 3 should be placed:",
+              "choices": {
+                "F": "where it is now.",
+                "G": "after Paragraph 1.",
+                "H": "after Paragraph 4.",
+                "J": "after Paragraph 5."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_6.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 31,
+              "stem": "Given that all the choices are true, which one provides the most specific description of plant life in Biscayne National Park?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "colorful orchids, rare cacti, and mangrove forests.",
+                "C": "many species that are difficult to find in the wild.",
+                "D": "four distinct ecosystems. ctexam.net 6 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_6.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 32,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "However Lancelot Jones, one of two year-round residents, of the islands,",
+                "H": "However, Lancelot Jones, one of two year-round residents of the islands,",
+                "J": "However Lancelot Jones, one of two year-round residents of the islands"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_7.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 33,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Jones had lived on Porgy Key his entire life,",
+                "C": "Porgy Key always was a home for Jones,",
+                "D": "Jones had always lived on Porgy Key,"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_7.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 34,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "presidents, who were including",
+                "H": "presidents, including",
+                "J": "presidents; including",
+                "B": "Likewise, in m C. Thus, in",
+                "D": "In g: 36. F. NO CHANGE"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_7.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 37,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "land; because",
+                "C": "land,",
+                "D": "land"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_7.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 38,
+              "stem": "Which of the following sequences of sentences makes this paragraph most logical?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "1, 3, 2",
+                "H": "3, 1, 2",
+                "J": "2, 1, 3"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_7.jpg",
+              "correct": "F"
+            }
+          ]
+        },
+        {
+          "id": "eng-p3",
+          "title": "Passage 3",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_7.jpg",
+          "startPage": 7,
+          "questions": [
+            {
+              "number": 39,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "alone. Some Florida residents",
+                "C": "alone; some Florida residents,",
+                "D": "alone, some Florida residents ctexam.net 7 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_7.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 40,
+              "stem": "At this point, the writer is considering adding the fol- lowing true statement: Biscayne National Park is similar to Grand Canyon National Park in that both parks were initially designated national monuments. Should the writer make this addition here?",
+              "choices": {
+                "F": "Yes, because it explains why Biscayne National Park was a national monument at first.",
+                "G": "Yes, because it compares Biscayne National Park to another national park.",
+                "H": "No, because it presents information that is only loosely related to the rest of the essay.",
+                "J": "No, because it repeats information that is dis- cussed earlier in the essay."
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_8.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 41,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "one\u2019s",
+                "C": "there",
+                "D": "his"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_8.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 42,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Service, was Lancelot Jones,",
+                "H": "Service, was Lancelot Jones",
+                "J": "Service was Lancelot Jones"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_8.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 43,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Even though he",
+                "C": "Because he",
+                "D": "He"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_8.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 44,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "that he requested in exchange.",
+                "H": "for teaching the class.",
+                "J": "DELETE the underlined portion and end the sen- tence with a period. Question 45 asks about the preceding passage as a whole."
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_8.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 45,
+              "stem": "The writer wants to add the following sentence to the essay: The park idea gained momentum. The sentence would most logically be placed at:",
+              "choices": {
+                "A": "Point A in Paragraph 1.",
+                "B": "Point B in Paragraph 2.",
+                "C": "Point C in Paragraph 4.",
+                "D": "Point D in Paragraph 5. ctexam.net 8 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_8.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 46,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "because NASA technicians, who were",
+                "H": "NASA technicians",
+                "J": "DELETE the underlined portion."
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_9.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 47,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "was attempting to be excavating",
+                "C": "were attempted to excavate",
+                "D": "were attempting to excavate"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_9.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 48,
+              "stem": "If the writer were to delete the preceding sentence, the paragraph would primarily lose information that:",
+              "choices": {
+                "F": "establishes that flickers are persistent and helps explain how the fuel tank came to have over two hundred punctures.",
+                "G": "describes the physical features that allow flickers to strike metal and explains how they locate hollow spots.",
+                "H": "indicates why the flickers were initially attracted to the fuel tank and what eventually drove them away.",
+                "J": "identifies the components of a space shuttle\u2019s fuel tank and the particular parts the flickers damaged."
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_9.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 49,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "bird\u2019s persistence are",
+                "C": "birds\u2019 persistence are",
+                "D": "birds\u2019 persistences is"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_9.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 50,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "As opposed to lacking",
+                "H": "Because they lack",
+                "J": "Just as they lack"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_9.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 51,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Florida, though;",
+                "C": "Florida, though,",
+                "D": "Florida though ctexam.net 9 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_9.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 52,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Although solid metal didn\u2019t",
+                "H": "By using solid metal to",
+                "J": "If solid metal didn\u2019t"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_10.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 53,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "there",
+                "C": "it\u2019s",
+                "D": "its\u2019"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_10.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 54,
+              "stem": "The writer wants to divide this paragraph into two in order to separate the information about flickers\u2019 drum- ming behavior from the discussion about NASA\u2019s con- cerns regarding the flickers. The best place to begin the new paragraph would be at the beginning of Sentence:",
+              "choices": {
+                "F": "3.",
+                "G": "4.",
+                "H": "5.",
+                "J": "6."
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_10.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 55,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Likewise,",
+                "C": "That is,",
+                "D": "Indeed,"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_10.jpg",
+              "correct": "B"
+            }
+          ]
+        },
+        {
+          "id": "eng-p4",
+          "title": "Passage 4",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_10.jpg",
+          "startPage": 10,
+          "questions": [
+            {
+              "number": 56,
+              "stem": "Which choice most effectively emphasizes that BIRD considered the conclusion it reached to be hypothetical?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "speculated",
+                "H": "contended",
+                "J": "realized"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_10.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 57,
+              "stem": "Which of the following alternatives to the underlined portion would NOT be acceptable?",
+              "choices": {
+                "A": "long, which might give",
+                "B": "long; this might give",
+                "C": "long and giving",
+                "D": "long, giving"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_10.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 58,
+              "stem": "At this point, the writer is considering adding the fol- lowing true statement: Flickers are particularly fond of ants, which contain an acid that the birds use to preen their feathers. Should the writer make this addition here?",
+              "choices": {
+                "F": "Yes, because it emphasizes how likely the flickers would be to leave the area if they thought ants were scarce.",
+                "G": "Yes, because it demonstrates how carefully the BIRD team researched the flickers\u2019 habits.",
+                "H": "No, because it suggests that the plan adopted by NASA would eliminate flickers\u2019 favorite source of food.",
+                "J": "No, because it detracts from the paragraph\u2019s focus on BIRD\u2019s strategies for deterring flickers. ctexam.net 10 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_10.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 59,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "incidentally,",
+                "C": "however,",
+                "D": "DELETE the underlined portion. Question 60 asks about the preceding passage as a whole."
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_11.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 60,
+              "stem": "Suppose the writer\u2019s primary purpose had been to describe a typical space shuttle launch. Would this essay accomplish that purpose?",
+              "choices": {
+                "F": "Yes, because it describes the process the BIRD team goes through before a launch to identify pos- sible interferences from wildlife.",
+                "G": "Yes, because it details how NASA inspected the Discovery prior to its successful launch.",
+                "H": "No, because its primary subjects are the unique nesting habits and warm-weather habitat of the northern flicker.",
+                "J": "No, because it focuses on a single incident in which wildlife affected the course of a launch. l 61. A. NO CHANGE",
+                "B": "their",
+                "C": "that",
+                "D": "its"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_11.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 62,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "expressive emotions",
+                "H": "feelings of emotion",
+                "J": "emotions ctexam.net 11 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_11.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 63,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "1920s (and up until the onset of World War II),",
+                "C": "1920s, and up until the onset of World War II",
+                "D": "1920s and up until the onset of World War II"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_12.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 64,
+              "stem": "At this point, the writer is considering adding the fol- lowing phrase: with its splashes of color, stark lines, and dis- torted objects, Given that the information is accurate, should the writer make this addition here?",
+              "choices": {
+                "F": "Yes, because it describes features of Expressionist art with which the reader might be unfamiliar.",
+                "G": "Yes, because it explains why representational modes were no longer preferred.",
+                "H": "No, because it repeats information found else- where in the essay.",
+                "J": "No, because it detracts from the paragraph\u2019s focus on who influenced Bausch\u2019s specific style of dance."
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_12.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 65,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "and grew",
+                "C": "growing",
+                "D": "grew"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_12.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 66,
+              "stem": "Which choice most closely maintains the pattern estab- lished in the sentence?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "how it identified itself",
+                "H": "its identity",
+                "J": "an identity"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_12.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 67,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "artists, whose",
+                "C": "artists, who\u2019s",
+                "D": "artists\u2019"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_12.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 68,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "resume",
+                "H": "renew",
+                "J": "recur ctexam.net 12 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_12.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 69,
+              "stem": "The best placement for the underlined portion would be:",
+              "choices": {
+                "A": "where it is now.",
+                "B": "after the word emotions.",
+                "C": "after the word subtle.",
+                "D": "after the word stationary."
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_13.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 70,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "having laid",
+                "H": "lain down",
+                "J": "laying"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_13.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 71,
+              "stem": "Which choice is grammatically correct and indicates that the stage, rather than the dancer, was covered with soil?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "stage, that was",
+                "C": "stage, having been",
+                "D": "stage"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_13.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 72,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "were informing",
+                "H": "informed",
+                "J": "inform"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_13.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 73,
+              "stem": "",
+              "choices": {
+                "A": "Yes, because the essay describes Bausch\u2019s particu- lar choreographic style and frames it within the backdrop of her life in Germany.",
+                "B": "Yes, because the essay explains how American and European forms of dance were influenced by shift- ing national identities.",
+                "C": "No, because the essay mainly focuses on Bausch\u2019s Tanztheater and the international acclaim it received.",
+                "D": "No, because the essay illustrates why Bausch\u2019s style is relevant today rather than explaining how it was shaped. END OF TEST 1 DO NOT TURN THE PAGE UNTIL TOLD TO DO SO. ctexam.net 13"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/english/page_13.jpg",
+              "correct": "D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "timeMinutes": 60,
+      "questions": [
+        {
+          "number": 1,
+          "stem": "Given and",
+          "choices": {
+            "A": "\u221242 0\u22126 B.",
+            "C": "0 6",
+            "D": "11",
+            "E": "18"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_14.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 2,
+          "stem": "Each student attending the East Central High School preprom dinner must choose 1 item from each of 3categories: entr\u00e9e, side dish, and beverage. There are 3 entr\u00e9e choices, 4 side dish choices, and 2 beverage choices. How many different dinner combinations for each student are possible?",
+          "choices": {
+            "F": "08",
+            "G": "09",
+            "H": "12",
+            "J": "14",
+            "K": "24"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_14.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 4,
+          "stem": "Sam works at Glendale Hospital and earns $12 per hour for the first 40 hours and $18 per hour for every additional hour he works each week. Last week, Sam earned $570. To the nearest whole number, how many hours did he work?",
+          "choices": {
+            "F": "32",
+            "G": "35",
+            "H": "38",
+            "J": "45",
+            "K": "48 ___ ___ ___"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_15.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 5,
+          "stem": "In the figu_r_e_ below, AB is congruent to BC, and AE intersects BF at C. What is the measure of \u2220B? B ? C",
+          "choices": {
+            "A": "026\u00b0",
+            "B": "038\u00b0",
+            "C": "052\u00b0",
+            "D": "128\u00b0",
+            "E": "154\u00b0"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_15.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 6,
+          "stem": "The dimensions, in feet, of a standard tennis court are shown in the figure below. All lines that meet in the figure do so at right angles. Which of the following values is closest to the area, in square feet, of the 1 service box shown shaded? 78 4.5 21 18 13.5 27 36 13.5 18 21 4.5",
+          "choices": {
+            "F": "0,284",
+            "G": "0,527",
+            "H": "0,567",
+            "J": "1,053",
+            "K": "1,134"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_15.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 7,
+          "stem": "In scientific notation, what is the product of 3 and 0.000,000,72 ? \u00d710 \u22127",
+          "choices": {
+            "A": "2.16 \u22126",
+            "B": "2.16 \u00d710 \u00d710 \u22128",
+            "C": "2.4 \u22127",
+            "D": "2.4 \u00d710 \u00d710 \u22127",
+            "E": "6.9 www.actexam.net www.actexam.net 15 ACT-E26 2 =(4x+3)2, =? DO"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_15.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 8,
+          "stem": "If f(x) then f(1)",
+          "choices": {
+            "F": "07",
+            "G": "14",
+            "H": "19",
+            "J": "25",
+            "K": "49"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_16.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 10,
+          "stem": "The expression is equivalent to:",
+          "choices": {
+            "F": "7x2\u221218 7x2+3x\u221218 G.",
+            "H": "10x2\u221218 10x2\u22123x\u221218 J.",
+            "K": "10x2+3x\u221218 _5_"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_16.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 12,
+          "stem": "Coach Shannon is buying packages of granola bars, juice boxes, and apples as snacks for her soccer team. The table below gives the number of snacks per package and the price per package. Snacks per Price per Snack type package package Granola bars 3 $2.50 Juice boxes 4 $3.00 Apples 5 $4.50 What is the minimum total price of the snacks, all bought in whole packages, Coach Shannon buys so that each of the 15 girls on the team gets at least 1 snack of each type?",
+          "choices": {
+            "F": "$30.00",
+            "G": "$35.00",
+            "H": "$38.00",
+            "J": "$42.00",
+            "K": "$50.00"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_17.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 13,
+          "stem": "Given functions f(x)=5x+1 and g(x)=x2\u22122, what is the value of f_g(\u22123)+?",
+          "choices": {
+            "A": "\u2212198 0\u221254 B.",
+            "C": "0\u221239",
+            "D": "0 36",
+            "E": "194"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_17.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 16,
+          "stem": "",
+          "choices": {
+            "A": "scale drawing of a proposed trapezoidal landscape design is shown in the figure below, with the given dimensions in meters. The trapezoid consists of a right triangle and a square divided into 3 isosceles right triangles. The unshaded regions will be white rock; the shaded triangular regions will be black rock. What is the area, in square meters, that will be black rock? 10 10 14",
+            "F": "20",
+            "G": "25",
+            "H": "45",
+            "J": "60",
+            "K": "70"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_18.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 17,
+          "stem": "One construction sign flashes every 6 seconds, and another construction sign flashes every 10 seconds. At a certain instant, the 2 signs flash at the same time. How many seconds elapse until the 2signs next flash www.crackab.com at the same time?",
+          "choices": {
+            "A": "04",
+            "B": "08",
+            "C": "16",
+            "D": "30",
+            "E": "60"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_18.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 18,
+          "stem": "Which of the following expressions is equivalent to 4x2+8x\u221212 ?",
+          "choices": {
+            "F": "(4x\u22123)(x +4) (4x+3)(x \u22124) G.",
+            "H": "4(x \u22123)(x \u22121) \u22123)(x +1)",
+            "J": "4(x",
+            "K": "4(x +3)(x \u22121)"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_18.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 19,
+          "stem": "",
+          "choices": {
+            "A": "2 feet 0 inches",
+            "B": "2 feet 4 inches",
+            "C": "2 feet 6 inches",
+            "D": "3 feet 0 inches",
+            "E": "3 feet 6 inches www.crackab.com www.actexam.net 18 ACT-E26 2 DO Use the following information to answer questions 20\u201322. Jocelyn wants to become a member of 1 of 3 gyms. The onetime sign-up fee, the monthly fee, and the late fee for each gym are shown in the table below. Monthly fees are due on the 1st day of each month for each gym. A onetime late fee is added to the monthly fee if the monthly fee is paid after the 1st day of that particular month. Felix, a coworker of Jocelyn\u2019s, became a member of PowerPeople on March 1. Sign-up Monthly Gym fee fee Late fee PowerPeople $35 $50 $05 FirmFactory $00 $65 $10 TrimTime $25 $60 $10"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_18.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 20,
+          "stem": "Given that Jocelyn becomes a member of TrimTime on July1 and that she pays all monthly fees on time, what total amount will Jocelyn have paid to the gym by September 2 of that year?",
+          "choices": {
+            "F": "$085",
+            "G": "$145",
+            "H": "$180",
+            "J": "$205",
+            "K": "$215"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_19.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 21,
+          "stem": "Before October1, Felix had paid all 7 of his monthly gym fees on time. He will make his next gym payment on October 4. What total amount must Felix pay on October 4 so that his gym account will be paid in full?",
+          "choices": {
+            "A": "$50",
+            "B": "$55",
+            "C": "$70",
+            "D": "$75",
+            "E": "$90 to the mean of all the sign-up fees in the table. What is the sign-up fee for Good-As-New?",
+            "F": "$08",
+            "G": "$15",
+            "H": "$20",
+            "J": "$30",
+            "K": "$58 www.actexam.net 19 ACT-E26 2 DO"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_19.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 23,
+          "stem": "The dimensions, in inches, of 2 rectangular prisms are shown in the figure below. The volume of the large prism is the same as the volume of how many of the small prisms? 3z z y 2y x 2x",
+          "choices": {
+            "A": "02",
+            "B": "04",
+            "C": "06",
+            "D": "07",
+            "E": "12"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_20.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 24,
+          "stem": "For what real number value of x is the equation _1_ =2xtrue? 643 _1_ F. 3",
+          "choices": {
+            "G": "2",
+            "H": "4",
+            "J": "6",
+            "K": "8"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_20.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 25,
+          "stem": "Suppose that the 8 identical faces of a regular octahedron, like the one shown below, are numbered from 11 through 18, with 1number per face, and each face is equally likely to land down when the octahedron is tossed. What is the probability that, on 1 toss of this octahedron, the number on the face landing down is a prime number or an even number?",
+          "choices": {
+            "A": "0 _1_",
+            "B": "18 8 15 2 1 _1_ C. 4 _1_ D. 2 _7_ E. 8 www.actexam.net 20 ACT-E26 2 ___ \u2192 nRST DO"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_20.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 26,
+          "stem": "In below, U is a point on RT such that SU is an angle bisector of \u2220RST. What is m\u2220R? R ? U x\u00b0 (3x)\u00b0 S x\u00b0",
+          "choices": {
+            "F": "043.75\u00b0",
+            "G": "050\u00b0 (x + 5)\u00b0",
+            "H": "070\u00b0",
+            "J": "090\u00b0",
+            "K": "100\u00b0 T"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_21.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 27,
+          "stem": "",
+          "choices": {
+            "A": "$065.00",
+            "B": "$097.50",
+            "C": "$102.50",
+            "D": "$110.50",
+            "E": "$208.00 36x\u22121=6"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_21.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 28,
+          "stem": "What real value of xsatisfies the equation ? _1_ F. 2",
+          "choices": {
+            "G": "1 _3_ H. 2",
+            "J": "2",
+            "K": "3"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_21.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 30,
+          "stem": "What is the area, in square coordinate units, of ABCD?",
+          "choices": {
+            "F": "16",
+            "G": "24",
+            "H": "32",
+            "J": "48",
+            "K": "64"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_22.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 31,
+          "stem": "What is the perimeter, in coordinate units, of ABCD?",
+          "choices": {
+            "A": "004\u221a\u20225 004\u221a\u20225+4\u221a\u20221\u20223 B.",
+            "C": "004\u221a\u20221\u20223",
+            "D": "016",
+            "E": "144"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_22.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 32,
+          "stem": "What are the coordinates of the image of point B resulting from a rotation of 180\u00b0 about the origin?",
+          "choices": {
+            "F": "(\u221210, 0) (0\u22126,",
+            "G": "0)",
+            "H": "(0\u22122, 0) 0,\u22126)",
+            "J": "(0",
+            "K": "(0 6, 0)"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_22.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 34,
+          "stem": "The rectangular top surface of a patio is 4 feet longer than it is wide and has an area of 192 square feet. What is the width, in feet, of the rectangular top surface of the patio?",
+          "choices": {
+            "F": "12",
+            "G": "16",
+            "H": "24",
+            "J": "46",
+            "K": "48"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_23.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 35,
+          "stem": "In the standard (x,y) coordinate plane, what is the slope (\u22122,\u22122) of the line that contains and has a y-intercept of 1 ?",
+          "choices": {
+            "A": "\u22121 _2_ B. 3",
+            "C": "1 _3_ D. 2",
+            "E": "3"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_23.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 36,
+          "stem": "Veronica delivers 27 copies of the News Report and Oakland Street. No house receives more than 1 copy of each newspaper. How many houses receive both newspapers?",
+          "choices": {
+            "F": "02",
+            "G": "05",
+            "H": "07",
+            "J": "09",
+            "K": "11 \u23aa\u22123\u23aa+\u23aa\u22125\u23aa(7 \u22123) =? 37. \u221241 A.",
+            "B": "\u221223",
+            "C": "23",
+            "D": "32",
+            "E": "35"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_23.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 38,
+          "stem": "Julia, an archaeology student, needs to dig 6 cylindrical pits at an archaeological site. Each pit will be 8feet in diameter and 6 feet deep. Since she needs to work slowly and carefully, Julia can remove dirt at an average rate of 3 cubic feet per hour. Which of the following values is closest to the number of hours it will take Julia to dig all 6 pits? (Note: The volume, V, of a cylinder with radius r and V=\u03c0r2h; \u03c0\u22483.14.) height his",
+          "choices": {
+            "F": "100",
+            "G": "200",
+            "H": "400",
+            "J": "600",
+            "K": "800 www.actexam.net 23 ACT-E26 2 DO"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_23.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 39,
+          "stem": "Hector counted the number of blue candies in each of 14 packages and summarized his data in the frequency bar graph below. 6 segakcap 5 4 fo 6 3 rebmun 2 4 2 3 4 5 6 number of blue candies What is the median of the numbers of blue candies in the 14 packages?",
+          "choices": {
+            "A": "4.0",
+            "B": "4.2",
+            "C": "4.5",
+            "D": "5.0",
+            "E": "6.0"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_24.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 40,
+          "stem": "In certain years, July, a month with 31 days, has exactly 4 Mondays and 4 Fridays. The first of July in those years will be on:",
+          "choices": {
+            "F": "Tuesday.",
+            "G": "Wednesday.",
+            "H": "Thursday.",
+            "J": "Saturday.",
+            "K": "Sunday."
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_24.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 41,
+          "stem": "Ms. Siochi has a rectangular lot with a perimeter of 100 meters. She paid $2,420.00 for fencing to install along the entire perimeter. She chose standard fencing for 3 sides of the lot and decorative fencing for 1 of the 20-meter sides. Ms.Siochi paid $1.00 more per meter for the decorative fencing than for the standard fencing. How much did Ms. Siochi pay per meter for the decorative fencing?",
+          "choices": {
+            "A": "$22.40",
+            "B": "$23.40",
+            "C": "$24.00",
+            "D": "$25.00",
+            "E": "$26.00"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_24.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 42,
+          "stem": "Students use dowel rods to learn about equations. They lay several rods, some of which are red and some of which are white, end to end. The length of each red rod is R centimeters, and the length of each white rod is W centimeters. The students determine that the total length of 2 red rods and 7 white rods is the same as the total length of 4 red rods and 3 white rods. Based on this relationship, which of the following equations must be true? 0R=2W F.",
+          "choices": {
+            "G": "0R=3W 3R=5W H.",
+            "J": "7R=9W 9R=7W K. www.actexam.net www.actexam.net 24 ACT-E26 2 i=\u221a\u2022\u2212\u20221, +2i)2=? DO"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_24.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 43,
+          "stem": "For (2",
+          "choices": {
+            "A": "\u221216",
+            "B": "00",
+            "C": "08i +2i",
+            "D": "04",
+            "E": "04 +4i \u03b8such cos,\u03b8\u22600 sin,\u03b8\u22600,"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_25.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 45,
+          "stem": "The map below shows the 5 villages and the 7 roads on Gull Island. All residential mailboxes on Gull Island are located along these roads. During a mail run, the island\u2019s mail carrier travels on each road exactly once, but she may pass through a village more than once. The carrier starts her run in 1 of the 5 villages and ends her run in 1 of the 4 remaining villages. One of the following pairs of villages gives the starting point and ending point for the mail run. Which one? Ripley Marcus Portville Willa Baytown starting point ending point",
+          "choices": {
+            "A": "Baytown Marcus",
+            "B": "Baytown Ripley",
+            "C": "Marcus Portville",
+            "D": "Portville Willa",
+            "E": "Ripley Willa"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_25.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 46,
+          "stem": "Which of the following sets is the range of the 1 _x_2_\u2212_ _5_x_+_ =3 + _6_ function f(x) ? x2+5x\u22126",
+          "choices": {
+            "F": "(0, 3)",
+            "G": "[0, \u221e) (\u2212\u221e, \u221e) H.",
+            "J": "[\u22123, \u221e) \u221e)",
+            "K": "[3, www.actexam.net 25 ACT-E26 2 DO"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_25.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 47,
+          "stem": "Mr. Schulte has a fair 12-sided die, with the sides numbered from 1 through 12. On both Monday and Tuesday, Mr. Schulte will roll the die 1 time. If the side that lands faceup is numbered with a prime number, Mr. Schulte will collect the homework that day\u2014otherwise, he will not collect the homework. What is the probability that Mr. Schulte will collect homework on both Monday and Tuesday? (Note: 1 is NOT a prime number.) 1_5__22",
+          "choices": {
+            "A": "0 12 1_6__22",
+            "B": "0 12 1_7__22",
+            "C": "0 12 1_5__2",
+            "D": "2 12 1_6__2",
+            "E": "2 12"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_26.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 48,
+          "stem": "The table below gives the number of Jerry\u2019s Construction workers needed to frame a specific type of house in certain selected numbers of days. Given that all the workers work at the same rate, how many workers will it take to frame this specific type of house in 10 days? Workers Days 02 15 ? 10 06 05 30 01",
+          "choices": {
+            "F": "03",
+            "G": "04",
+            "H": "07",
+            "J": "10",
+            "K": "12"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_26.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 49,
+          "stem": "Considering only positive integer factors, which of the following integers has an odd number of distinct factors?",
+          "choices": {
+            "A": "16",
+            "B": "20",
+            "C": "23",
+            "D": "27",
+            "E": "35 www.crackab.com www.actexam.net 26 ACT-E26 2 DO"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_26.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 50,
+          "stem": "",
+          "choices": {
+            "A": "solution is 5% alcohol and 95% water. A second solution is 20% alcohol and 80% water. If 2gallons of the first solution are mixed with 1 gallon of the second solution, the resulting solution is what percent alcohol?",
+            "F": "10% 12_1_% G. 2",
+            "H": "15%",
+            "J": "25%",
+            "K": "30%"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_27.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 51,
+          "stem": "In the standard (x,y) coordinate plane, the graph of the = + 0.5\u03c0) equation y 3 sin(2x has what amplitude and period? amplitude period",
+          "choices": {
+            "A": "3 0\u03c0 2\u03c0",
+            "B": "3",
+            "C": "3 4\u03c0 0\u03c0",
+            "D": "6",
+            "E": "6 2\u03c0"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_27.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 52,
+          "stem": "",
+          "choices": {
+            "A": "pet shop always has 54hamsters that are either solid- colored or multicolored in the front of the store for customers to see. Any additional hamsters are kept in an area at the back of the store. Which of the following ratios of solid-colored hamsters to multicolored hamsters is possible for the hamsters in the front of this pet shop?",
+            "F": "1:54",
+            "G": "2:7",
+            "H": "3:2",
+            "J": "6:1",
+            "K": "6:9"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_27.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 54,
+          "stem": "Quadrilateral ABCD is a parallelogram. Which of the following statements about ABCDmustbe true?",
+          "choices": {
+            "F": "The diagonals bisect each other.",
+            "G": "The diagonals are perpendicular.",
+            "H": "The diagonals are congruent.",
+            "J": "All 4 sides are congruent.",
+            "K": "All 4 interior angles are congruent. m\u22121mustbe:"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_28.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 55,
+          "stem": "For all msuch that 0 <m<1, the value of",
+          "choices": {
+            "A": "greater than m.",
+            "B": "equal to m.",
+            "C": "less than m, but greater than 0.",
+            "D": "equal to 0.",
+            "E": "less than 0."
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_28.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 56,
+          "stem": "Bill and Nate are participating in a fund-raising event in which they run or walk a distance of 30 miles. A graph representing their progress during the first hour is shown in the standard (x,y) coordinate plane below. y 12 10 )selim 8 ni( ecnatsid 6 Bill 4 Nate 2 O time (in hours) Assume that Bill continues to travel at the same speed until he reaches the finish line. One of the following phrases describes how Nate will need to change his average speed for the remainder of the event in order to finish at exactly the same time as Bill. Which one?",
+          "choices": {
+            "F": "Decrease it by 2 mph",
+            "G": "Decrease it by 2.5 mph",
+            "H": "Increase it by 2 mph",
+            "J": "Increase it by 2.5 mph",
+            "K": "Increase it by 4 mph www.actexam.net 28 ACT-E26 2 DO"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_28.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 57,
+          "stem": "The math club is selling T-shirts as a fund-raiser. There is a linear relationship between x, the number of T-shirts sold, and y, the profit in dollars from selling the T-shirts. When the club sells 6 shirts, it makes a profit of $10; when it sells 10 shirts, it makes a profit of $20. Which of the following equations gives the relationship between xand y? = _2_x +",
+          "choices": {
+            "A": "y 2 5 = _2_x + _3_8_",
+            "B": "y 5 5 = _5_x +",
+            "C": "y 4 2 = _5_x +",
+            "D": "y 5 2 = _5_x \u2212",
+            "E": "y 5 2"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_29.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 58,
+          "stem": "For the following system of equations 2x\u2212y=32, 2x+y=08, y=? \u22123 F.",
+          "choices": {
+            "G": "\u22121",
+            "H": "1",
+            "J": "2",
+            "K": "3"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_29.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 59,
+          "stem": "Nineteen students are eligible to play doubles tennis. What is the maximum number of different 2-person teams possible?",
+          "choices": {
+            "A": "009",
+            "B": "038",
+            "C": "076",
+            "D": "171",
+            "E": "342"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/math/page_29.jpg",
+          "correct": "D"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "name": "Reading",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "3 3\n1. The point of view from which the passage is told can 6. According to the narrator, focusing on a distant goal\nbest be described as that of a first person narrator who: while walking in the prairie is not recommended\nbecause:\nA. is uncomfortable when he must traverse a large\nsection of unfamiliar prairie. F. distant objects often move in and out of sight.\nB. has an experience that leads to a deeper apprecia- G. there is the potential to miss small objects nearby.\ntion of the prairie. H. walkers need to be aware of their immediate\nC. visits the prairie in order to experience life as early surroundings.\nsettlers might have. J. doing so makes progress difficult to measure.\nD. has traded arduous hikes in the woods for leisurely\nwalks in the prairie.\n7. When Jacobs\u2019 Mound disappears from the narrator\u2019s\nsight, he shifts his focus to:\n2. How does the narrator see the power of the wider\nprairie differing, if at all, from the power of Jacobs\u2019 A. clouds in the sky.\nMound? B. rocks and patches of grass.\nC. fences and highways.\nF. The prairie\u2019s power comes from its apparent limit-\nD. birds flying overhead.\nlessness; the power of Jacobs\u2019 Mound comes from\nits hold on the imagination.\nG. The prairie\u2019s power comes from its unpopulous- 8. According to the narrator, what is the main difference\nness; the power of Jacobs\u2019 Mound comes from its between walking in wooded areas and walking in the\nsize. prairie?\nH. The prairie\u2019s power comes from its flat terrain; the\nF. Wooded areas provide walkers with comforting\npower of Jacobs\u2019 Mound comes from its height.\nenclosures that the prairie lacks.\nJ. Both places derive power from their size.\nG. It takes longer to navigate wooded areas than it\ndoes to navigate the prairie.\n3. The main idea of the sixth paragraph (lines 60\u201369) is\nH. The flora and fauna are more diverse on the prairie\nthat:\nthan in the woods.\nA. few people other than the narrator have visited the J. The sun is much stronger on the prairie than in the\nsummit of Jacobs\u2019 Mound. woods.\nB. the air at the top of Jacobs\u2019 Mound is noticeably\ndifferent from the air at the bottom.\n9. Which of the following statements best expresses how\nC. Jacobs\u2019 Mound gives the impression of being away\nthe narrator first feels when he reaches the summit of\nfrom civilization.\nJacobs\u2019 Mound?\nD. the summit of Jacobs\u2019 Mound exists in a special\nplace between the earth and the sky. A. He is triumphant that he has reached a place few\nother people have been.\n4. Based on the passage, which of the following can most B. He is somewhat surprised that the summit is not as\nreasonably be inferred about the narrator? large as he had believed it would be.\nC. He is overwhelmed by the brightness of the sun\nF. He traveled to the area specifically to climb\nand the smell of the grass.\nJacobs\u2019 Mound.\nD. He is pleased to see thrushes nesting on the\nG. He has already climbed Independence Rock and\nmound.\nPompey\u2019s Pillar.\nH. He prefers open, unpopulated areas to crowded\nurban areas. 10. The narrator most likely includes the William Quayle\nJ. He believes urban development is annoying but anecdote at the end of the passage to:\nnecessary.\nF. reveal the extent of his amazement that he has\nfinally reached the summit of Jacobs\u2019 Mound.\n5. As it is used in line 23, the phrase petrified sea refers\nG. help illustrate why he was drawn to Jacobs\u2019\nto:\nMound in the first place.\nA. Jacobs\u2019 Mound. H. give an example of the type of person who once\nB. the sky. lived on the prairie.\nC. the prairie. J. further convey his sense of wonder at the sheer\nD. the highway. size of the prairie.\nwww.actexam.net\n31 GO ON TO THE NEXT PAGE.\nACT-E26",
+          "questions": [
+            {
+              "number": 1,
+              "stem": "The point of view from which the passage is told can best be described as that of a first person narrator who:",
+              "choices": {
+                "A": "is uncomfortable when he must traverse a large section of unfamiliar prairie.",
+                "B": "has an experience that leads to a deeper apprecia- tion of the prairie.",
+                "C": "visits the prairie in order to experience life as early settlers might have.",
+                "D": "has traded arduous hikes in the woods for leisurely walks in the prairie."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 2,
+              "stem": "How does the narrator see the power of the wider prairie differing, if at all, from the power of Jacobs\u2019 Mound?",
+              "choices": {
+                "F": "The prairie\u2019s power comes from its apparent limit- lessness; the power of Jacobs\u2019 Mound comes from its hold on the imagination.",
+                "G": "The prairie\u2019s power comes from its unpopulous- ness; the power of Jacobs\u2019 Mound comes from its size.",
+                "H": "The prairie\u2019s power comes from its flat terrain; the power of Jacobs\u2019 Mound comes from its height.",
+                "J": "Both places derive power from their size."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 3,
+              "stem": "The main idea of the sixth paragraph (lines 60\u201369) is that:",
+              "choices": {
+                "A": "few people other than the narrator have visited the summit of Jacobs\u2019 Mound.",
+                "B": "the air at the top of Jacobs\u2019 Mound is noticeably different from the air at the bottom.",
+                "C": "Jacobs\u2019 Mound gives the impression of being away from civilization.",
+                "D": "the summit of Jacobs\u2019 Mound exists in a special place between the earth and the sky."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 4,
+              "stem": "Based on the passage, which of the following can most reasonably be inferred about the narrator?",
+              "choices": {
+                "F": "He traveled to the area specifically to climb Jacobs\u2019 Mound.",
+                "G": "He has already climbed Independence Rock and Pompey\u2019s Pillar.",
+                "H": "He prefers open, unpopulated areas to crowded urban areas.",
+                "J": "He believes urban development is annoying but necessary."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 5,
+              "stem": "As it is used in line 23, the phrase petrified sea refers to:",
+              "choices": {
+                "A": "Jacobs\u2019 Mound.",
+                "B": "the sky.",
+                "C": "the prairie.",
+                "D": "the highway. www.actexa 3 ACT-E26 3"
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 6,
+              "stem": "According to the narrator, focusing on a distant goal while walking in the prairie is not recommended because:",
+              "choices": {
+                "F": "distant objects often move in and out of sight.",
+                "G": "there is the potential to miss small objects nearby.",
+                "H": "walkers need to be aware of their immediate surroundings.",
+                "J": "doing so makes progress difficult to measure."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 7,
+              "stem": "When Jacobs\u2019 Mound disappears from the narrator\u2019s sight, he shifts his focus to:",
+              "choices": {
+                "A": "clouds in the sky.",
+                "B": "rocks and patches of grass.",
+                "C": "fences and highways.",
+                "D": "birds flying overhead."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 8,
+              "stem": "According to the narrator, what is the main difference between walking in wooded areas and walking in the prairie?",
+              "choices": {
+                "F": "Wooded areas provide walkers with comforting enclosures that the prairie lacks.",
+                "G": "It takes longer to navigate wooded areas than it does to navigate the prairie.",
+                "H": "The flora and fauna are more diverse on the prairie than in the woods.",
+                "J": "The sun is much stronger on the prairie than in the woods."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 9,
+              "stem": "Which of the following statements best expresses how the narrator first feels when he reaches the summit of Jacobs\u2019 Mound?",
+              "choices": {
+                "A": "He is triumphant that he has reached a place few other people have been.",
+                "B": "He is somewhat surprised that the summit is not as large as he had believed it would be.",
+                "C": "He is overwhelmed by the brightness of the sun and the smell of the grass.",
+                "D": "He is pleased to see thrushes nesting on the mound."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 10,
+              "stem": "The narrator most likely includes the William Quayle anecdote at the end of the passage to:",
+              "choices": {
+                "F": "reveal the extent of his amazement that he has finally reached the summit of Jacobs\u2019 Mound.",
+                "G": "help illustrate why he was drawn to Jacobs\u2019 Mound in the first place.",
+                "H": "give an example of the type of person who once lived on the prairie.",
+                "J": "further convey his sense of wonder at the sheer size of the prairie. am.net 1 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "genre": "SOCIAL SCIENCE",
+          "title": "Passage II",
+          "source": "",
+          "text": "55 The commerce of coins opened up new dimensions for\nnew segments of the population.\nSOCIAL SCIENCE: This passage is adapted from The History\nof Money by Jack Weatherford (\u00a91997 by Jack McIver The wealth of Croesus and his ancestors arose not\nWeatherford). from conquest but from trade. During his reign\n(560\u2013546 BC), Croesus created new coins of pure gold\nOf the many great civilizations that flourished and 60 and silver rather than electrum. Using their newly\nwithered in ancient Anatolia, the Lydian does not rank invented coins as a standardized medium of exchange,\namong the best known. The Lydians formed a small the Lydian merchants traded in the daily necessities of\nkingdom in the seventh century BC, but at its height, life\u2014grain, oil, leather, pottery, and wood\u2014as well as\n5 the Lydian kingdom was little more than an overgrown in luxury goods such as perfumes, cosmetics, jewelry,\ncity-state spread out from Sardis. The Lydian kings 65 musical instruments, glazed ceramics, bronze figurines,\nwere not celebrated in myth or song as great warriors, mohair, purple cloth, marble, and ivory.\nconquerors, builders, or even lovers. Only one name of\nancient Lydia is commonly known today\u2014Croesus. He The variety and abundance of commercial goods\n10 ascended to the Lydian throne in 560 BC to rule a king- quickly led to another innovation: the retail market.\ndom that was already rich. His ancestors had made a Rather than leaving buyers to seek out the home of\nfirm economic basis for the kingdom\u2019s wealth by manu- 70 someone who might have oil or jewelry to sell, the\nfacturing some of the best perfumes and cosmetics of kings of Sardis set up an innovative new system in\nthe ancient world; yet these goods alone could not have which anyone, even a stranger, with something to sell\n15 raised Croesus to the level of wealth that myth accords could come to a central market. Numerous small shops\nhim. For that, he depended on another invention of his lined the market, and each merchant specialized in par-\nancestors\u2014coins, a new and revolutionary form of 75 ticular goods. One sold meat, and another offered grain.\nmoney. One sold jewelry, another cloth. One sold musical\ninstruments, another pots. This market system began in\nSomething similar to money and something resem- the late seventh century BC, but its descendants can\n20 bling markets can be found in Mesopotamia, China, clearly be seen in the later Greek agora, in the medieval\nEgypt, and many other parts of the world, but they did 80 market squares of northern Europe, and in suburban\nnot actually use coins until the rise of Lydia and the shopping malls of the contemporary United States.\nsubsequent minting of the first coins, between 640 and\n630 BC. The genius of the Lydian kings can be seen in With the conquest of Lydia by Cyrus, the reign of\n25 their recognition of the need for very small and easily Croesus ended, and the Lydian kingdom disappeared\ntransported ingots worth no more than a few days\u2019 labor from the pages of history. The impact of that small and\nor a small part of a farmer\u2019s harvest. By making these 85 relatively unknown kingdom has remained vastly dis-\nsmall ingots in a standardized size and weight, and by proportionate to its geographic size and relatively\nstamping on them an emblem that verified their worth minor role in ancient history.\n30 to even the illiterate, the kings of Lydia exponentially\nexpanded the possibilities of commercial enterprise.\nThe Lydians made the first coins of electrum, a\nnaturally occurring mixture of gold and silver. They\nmade the electrum into oval slugs several times thicker\n35 than modern coins, or about the size of the end digit of\nan adult\u2019s thumb. To ensure their authenticity, the king 11. The main idea of the passage is that:\nhad each one stamped with the emblem of a lion\u2019s head.\nA. the system of coins and trade created by Lydians\nThe stamping also flattened the lumps, beginning their\nradically transformed commerce.\ntransition from an oval nugget to a flat, circular coin.\nB. the development of currency can be traced chrono-\nlogically from 640 BC to 560 BC.\n40 By making the nuggets the same weight and thus\nC. money was invented when Croesus became king of\napproximately the same size, the king eliminated one of\nLydia.\nthe most time-consuming steps in commerce: the need\nD. the coins minted in Lydia are the first gold coins\nto weigh the gold each time a transaction was made.\nknown to exist.\nNow merchants could assess the value by tale, or by\n45 simply counting the number of coins. Such standardiza-\n12. According to the passage, one outcome of stamping\ntion greatly reduced the opportunity for cheating on the\nLydian coins with the emblem of a lion\u2019s head was that\namount or quality of gold and silver in an exchange.\nthe coins:\nOne did not need to be an expert in handling a scale or\nin judging the purity of metal in order to buy a basket F. became easier to distinguish from currency used in\n50 of wheat, a pair of sandals, or an amphora of olive oil. the common marketplace.\nThe use of coins that had been weighed and stamped in G. were no longer clearly marked as property of the\nthe royal workshop made it possible for commerce to king.\nproceed much more rapidly and honestly, and it allowed H. varied more in size and weight.\npeople to participate even if they did not own a scale. J. became flatter and more circular.\nwww.crackab.com\nwww.actexam.net\n32 GO ON TO THE NEXT PAGE.\nACT-E26",
+          "questions": [
+            {
+              "number": 11,
+              "stem": "The main idea of the passage is that:",
+              "choices": {
+                "A": "the system of coins and trade created by Lydians radically transformed commerce.",
+                "B": "the development of currency can be traced chrono- logically from 640 BC to 560 BC.",
+                "C": "money was invented when Croesus became king of Lydia.",
+                "D": "the coins minted in Lydia are the first gold coins known to exist."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 12,
+              "stem": "According to the passage, one outcome of stamping Lydian coins with the emblem of a lion\u2019s head was that the coins:",
+              "choices": {
+                "F": "became easier to distinguish from currency used in the common marketplace.",
+                "G": "were no longer clearly marked as property of the king.",
+                "H": "varied more in size and weight.",
+                "J": "became flatter and more circular. am.net 2 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 13,
+              "stem": "What is the \u201cinnovative new system\u201d referred to in line 71?",
+              "choices": {
+                "A": "The sale of goods by a producer to a merchant and then to a consumer",
+                "B": "The sale of goods over long distances",
+                "C": "The use of scales in the marketplace for business transactions",
+                "D": "The sale of many types of goods in one marketplace"
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 14,
+              "stem": "The author most likely uses the term overgrown city- state(lines 5\u20136) in order to:",
+              "choices": {
+                "F": "emphasize the importance of Lydia.",
+                "G": "indicate the rapid growth of Sardis.",
+                "H": "make the point that Lydia was small.",
+                "J": "identify the government structure of Lydia."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 15,
+              "stem": "The passage states that when Croesus ascended the throne, Lydia was already:",
+              "choices": {
+                "A": "celebrated in myths.",
+                "B": "past the peak of its political power.",
+                "C": "at war with Sardis.",
+                "D": "in a firm economic position."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 16,
+              "stem": "As it is used in line 15, the word accords most nearly means:",
+              "choices": {
+                "F": "confines.",
+                "G": "assigns.",
+                "H": "owes.",
+                "J": "measures."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 17,
+              "stem": "According to the passage, which of the following is true of electrum?",
+              "choices": {
+                "A": "It is naturally occurring.",
+                "B": "It was worth more than gold under Croesus\u2019s rule.",
+                "C": "It is easier to stamp than silver or gold.",
+                "D": "It is heavier than silver. www.actexam.net www.actexa 3 ACT-E26"
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 18,
+              "stem": "Which of the following cause-effect relationships is referred to in the passage?",
+              "choices": {
+                "F": "Instituting scales in the marketplace led to greater honesty in transactions.",
+                "G": "Introducing standardized coins into commerce made it more inclusive of a wide range of people.",
+                "H": "Stamping designs on coins initially led some buyers to confuse coins with jewelry.",
+                "J": "Lydia\u2019s conquering of neighboring countries allowed Lydia to replace their monetary systems."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 19,
+              "stem": "In the passage, wood is mentioned as an example of a:",
+              "choices": {
+                "A": "material that coins were made of prior to the reign of Croesus.",
+                "B": "material from which Croesus first made coins.",
+                "C": "daily necessity of life during the reign of Croesus.",
+                "D": "precious material Lydia imported for use by the wealthy class."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 20,
+              "stem": "Which of the following statements best paraphrases the last sentence of the passage?",
+              "choices": {
+                "F": "Lydia played a minor role in ancient history, in spite of its rulers\u2019 attempts to achieve glory.",
+                "G": "The world before Lydia and the one after Lydia are vastly different, due to the greed of Croesus.",
+                "H": "Despite its size and historical status, Lydia has had an enormous influence on the world.",
+                "J": "The kings of Lydia made decisions about com- merce that relegated their kingdom to a minor role in history. am.net 3 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "H",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "genre": "HUMANITIES",
+          "title": "Passage III",
+          "source": "",
+          "text": "50 rhythm with which a weeping woman would dab her\neyes with her sleeve. The lifelikeness is indeed a thrill.\nHUMANITIES:PassageA is adapted from the article \u201cThe Ten- But the reason that we can enjoy the realism is that in\nsion of Modern Bunraku\u201d by Theodora Skipitares (\u00a92004 by other respects, most respects, these figures are not at all\nPerforming Arts Journal, Inc.). PassageB is adapted from the like us. The Awaji puppets are about three feet tall, to\narticle \u201cLifelike\u201d by Joan Acocella (\u00a92009 by Cond\u00e9 Nast). 55 start with. Furthermore, to get around, they need three\nmen, with rods and springs, manipulating them. The\nPassage A by Theodora Skipitares\npuppeteers are clothed and masked in black, but that\ndoesn\u2019t mean that we don\u2019t see them.\nEven before I began using puppets in my perfor-\nmances in 1982, I had always felt connected to the\nAll this, maybe, we could shut out, and enter fully\nJapanese Bunraku theatre. The structure of the Bunraku\n60 into the illusion, but there is another thing stopping us:\ntheatre as a series of three splits or fragments of the\nthe fixity of the puppets\u2019 faces. Awaji dramas, like their\n5 conventions of Western theatre (text, music, and Bunraku counterparts, often concern the furthest out-\npuppet) seemed to me a new way to organize a perfor-\ndistricts of human emotion. In one of the offerings at\nmance. The puppet, along with the manipulator, was a\nJapan Society, \u201cHidakagawa Iriai Zakura\u201d (1759), a\nseparate entity, and so was the narrator, as was the\n65 woman becomes so jealous that she turns into a green\nmusician (the latter two on a platform to one side).\nsea monster. Such dramatic events are preceded by\n10 Bunraku presented a total, though divided, spectacle. long, histrionic speeches, but, as the characters deliver\nOne\u2019s focus could go back and forth between the\ntheir orations, their faces, eerily, do not move. The\nmanipulator or the puppet, the manipulation or the\nemotion is displaced from the face and thereby gains in\nresulting gesture.\n70 subtlety and force.\nJapanese puppet drama developed at a rapid pace\nAs for the characters\u2019 words, those, too, are dis-\n15 in the 1700s. Male puppeteers were hidden from the placed\u2014to a chanter. This person, considered the star\npublic by a curtain while they held (one-man) puppets,\nof the puppetry team, sits to the side of the stage, where\nabout two feet tall, above their heads. The narrator and\nhe tells the story and, when necessary, speaks the dia-\nmusician were also hidden. In 1703, a group of pup-\n75 logue. The crux, however, is not the words but the\npeteers created a sensation when they appeared in full\nsinging. The chanter sobs; he gasps; he calls on Heaven\n20 view of the audience, separated only by a translucent to witness his grief. (And he does so in male and\ncurtain. The curtain itself was eliminated two years\nfemale, old and young, high-status and low-status\nlater. In 1728, the narrator and musician were given\nvoices.) When the woman in \u201cHidakagawa\u201d describes\ntheir own auxiliary stage, the yuka. Since then, one\n80 her jealousy, the chanter runs the gamut of vocal\nunusual feature of the Japanese puppet theatre is that\nexpressiveness: head notes and belly notes, squeals and\n25 the manipulator makes no attempt to conceal the fact grunts, trills and runs without end. Meanwhile, the lady\nthat he is manipulating the puppets. Unlike puppet per-\nfor whom he is speaking stands there with an unmoving\nformances from other countries, this Japanese form\nface, white and lustrous, like a pearl. We seem, here, to\ndoes not require the illusion that the puppets are\n85 get everything that art can give: the abstemious and the\nmoving and talking on their own.\nunleashed, the Gothic and the Baroque. The logic is not\nlogical; it is lyrical, musical.\n30 In 1983, I began to use a modified Bunraku perfor-\nmance style for certain life-size human figures. I spent\nplenty of time trying to make them super-realistic, so\nthat their skin looked lifelike, their eyes blinked \u201cnatu-\nrally,\u201d and their hands could actually grab objects.\n35 What I didn\u2019t understand then about Bunraku theatre\nwas that its greatness lay in the constant tension, and\nthe attempt to strike a balance between realism and\nnonrealism. Bunraku was not trying to persuade the\nQuestions 21\u201324 ask about Passage A.\naudience it was watching reality, rather than a play.\n40 And I was very much interested in creating a flat sur-\nface of reality. Looking back, I feel that I was barely\n21. The author of Passage A suggests that changes in\nexploring the full potential of the Japanese form.\nBunraku that occurred in the early 1700s led to which\nof the following effects?\nPassage B by Joan Acocella\nA. They made Bunraku more popular in countries\nJapanese puppetry takes its great power from the beyond Japan.\nfact that it is very realistic and very artificial at the B. They differentiated Bunraku from the puppetry of\n45 same time. As was proved again by the Awaji Puppet other countries.\nTheatre Company\u2019s recent season at Japan Society, C. They created the illusion that Bunraku puppets\nwhat strikes you first is the realism. The puppeteers moved and talked on their own.\nseem to have spent five centuries (that is the genre\u2019s D. They brought about a shift in the kinds of stories\nestimated age, at minimum) working out the precise that were recounted in Bunraku theater.\nwww.actexam.net\n34 GO ON TO THE NEXT PAGE.\nACT-E26",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "The author of Passage A suggests that changes in Bunraku that occurred in the early 1700s led to which of the following effects?",
+              "choices": {
+                "A": "They made Bunraku more popular in countries beyond Japan.",
+                "B": "They differentiated Bunraku from the puppetry of other countries.",
+                "C": "They created the illusion that Bunraku puppets moved and talked on their own.",
+                "D": "They brought about a shift in the kinds of stories that were recounted in Bunraku theater. am.net 4 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 22,
+              "stem": "One main function of the last paragraph of PassageA (lines 30\u201342) is to:",
+              "choices": {
+                "F": "explain the author\u2019s perspective on the Japanese methods used to create puppets.",
+                "G": "suggest that puppets are inevitably unrealistic in their appearance.",
+                "H": "describe a shortcoming in the author\u2019s early under- standing of Bunraku.",
+                "J": "assert that the complexity of Bunraku comes from its depiction of a flat surface of reality."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 23,
+              "stem": "In PassageA, how does the author explain her interest in Bunraku?",
+              "choices": {
+                "A": "She indicates that she had always felt a connection to Bunraku.",
+                "B": "She suggests that her own experimentation with puppet performances led her to Bunraku.",
+                "C": "She states that she had always appreciated the long history of Bunraku.",
+                "D": "She describes how performances at Japan Society inspired her to explore Bunraku."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 24,
+              "stem": "The author of PassageA identifies Bunraku theater as combining what three fragments of Western theater?",
+              "choices": {
+                "F": "Puppet, manipulator, and musician",
+                "G": "Music, auxiliary stage, and puppet",
+                "H": "Narrator, puppet, and text",
+                "J": "Text, music, and puppet Questions 25\u201327 ask about Passage B."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 25,
+              "stem": "In Passage B, how does the statement that \u201cAwaji dramas, like their Bunraku counterparts, often concern the furthest outdistricts of human emotion\u201d (lines 61\u201363) figure into the author\u2019s discussion?",
+              "choices": {
+                "A": "It is a generalization the author mentions but does not discuss further in the passage.",
+                "B": "It is an assertion the author makes to emphasize the disparity between the intensity of the story and the stillness of the puppets\u2019 faces.",
+                "C": "It is a widely held assumption the author mentions as part of her claim that most people fail to see the hidden strength of Japanese puppetry.",
+                "D": "It is an opinion the author supports with several examples of Japanese puppetry from the 1700s to today."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 26,
+              "stem": "It can reasonably be inferred from PassageB that the chanter is often considered the star of Awaji theater mainly because the:",
+              "choices": {
+                "F": "chanter\u2019s dynamic singing conveys the intensity and drama of the story.",
+                "G": "chanter occupies the stage along with the puppets and interacts with them.",
+                "H": "chanter\u2019s responsibilities include directing and coordinating the other puppeteers.",
+                "J": "chanter composes the text that ultimately gives meaning to the puppets\u2019 gestures. www.actexa 3 ACT-E26"
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 27,
+              "stem": "In the first paragraph of PassageB (lines the author provides the example of the weeping woman most likely to:",
+              "choices": {
+                "A": "suggest that the Awaji Puppet Theatre Company focuses on plays that are sad.",
+                "B": "indicate that the Awaji Puppet Theatre Company has existed for five centuries.",
+                "C": "emphasize the range of emotions that Awaji pup- pets are visibly able to express.",
+                "D": "explain the artistic precision that makes the Awaji puppets\u2019 gestures seem realistic. Questions 28\u201330 ask about both passages."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 28,
+              "stem": "Regarding the perspectives from which the passage authors write, the two passages are:",
+              "choices": {
+                "F": "similar; both authors indicate that they are writing from the perspective of a spectator of puppet theater.",
+                "G": "similar; both authors indicate that they are writing from the perspective of a practitioner of puppet theater.",
+                "H": "different; the author of PassageA writes from the perspective of a practitioner of puppet theater and the author of PassageB from that of a spectator.",
+                "J": "different; the author of PassageA writes from the perspective of a spectator of puppet theater and the author of Passage B from that of a practitioner."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 29,
+              "stem": "Which of the following statements regarding the gender of the puppeteers in Japanese theater can most reasonably be inferred from the passages?",
+              "choices": {
+                "A": "Traditionally, the performers have been male.",
+                "B": "Women began taking part in performances in the early 1700s.",
+                "C": "Japanese theater is unique in that it has always incorporated both male and female performers.",
+                "D": "Men hold the puppets, but women speak and sing."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 30,
+              "stem": "The passages are similar in that both authors reach the conclusion that the form of Japanese puppetry they discuss:",
+              "choices": {
+                "F": "reached the height of its popularity in Japan in the 1700s.",
+                "G": "is difficult to fully appreciate without years of study.",
+                "H": "derives strength from its balance of realism and artificiality.",
+                "J": "is at its best when used to tell complex fictional stories. am.net 5 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "H",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "3 3\n31. One main purpose of the passage is to: 36. The author speculates that primates may be pushed to\nlive in large groups due in part to:\nA. contrast the structure of a hyena\u2019s brain with the\nstructure of a human\u2019s brain. F. territory disputes with hyenas.\nB. argue that studies of hyenas have revealed more G. an innate desire to stay close to their relatives.\nabout brain function than have studies of primates. H. the presence of predators.\nC. discuss what the study of hyenas has revealed J. a lack of suitable shelter.\nabout the evolution of social intelligence.\nD. compare the evolutionary histories of the four\nspecies in the hyena family.\n37. In the passage, the author discusses female baboons\n32. The author cites brain imaging studies in the fifth para- primarily to illustrate how:\ngraph (lines 24\u201329) primarily to support the passage\u2019s\nA. female primates have higher social intelligence\npoint that:\nthan do male primates.\nF. the frontal cortex is the center of social intelligence. B. limited sources of food cause animals to be\nG. most of a human\u2019s extra neurons are located in the aggressive toward one another.\nfrontal cortex. C. primates learn the hierarchy of their social group\nH. the majority of research on the social brain from their mothers.\nhypothesis is focused on primates. D. increased social intelligence can give animals an\nJ. it\u2019s possible to reconstruct the three-dimension evolutionary advantage.\nstructure of the hyena brain from a CT scan of a\nskull.\n33. When the author states that hyenas \u201cfollow the same\n38. Which of the following theories about the evolution of\nrulesas primates\u201d (line 83), he most likely means that:\nthe human brain is presented in the passage?\nA. the hyena\u2019s diet closely resembles that of primates.\nF. During the early stages in the evolution of the\nB. primates and hyenas who live in large groups have\nhuman brain, growth in the frontal cortex was\nlarge frontal cortices.\ninhibited by the structure of the skull.\nC. primates and hyenas tend to form long-term\nG. After developing the ability to produce sophisti-\nalliances with other species.\ncated thought, the human brain began to produce\nD. the structure of the hyena skull is identical to that\nextra neurons.\nof the primate skull.\nH. Because natural selection favors social intelli-\ngence, the human frontal cortex began to increase\n34. Based on the passage, Holekamp\u2019s research most\nin size.\ndirectly challenges which of the following arguments\nJ. Humans first developed a frontal cortex when they\nmade by some primatologists?\nbegan to form long-term alliances to better com-\nF. Primates with a high social rank have more babies pete with rivals.\nthan do high-ranking members of other animal\nspecies.\nG. Primates are the only animals that live in large\ngroups. 39. According to the passage, when does a spotted hyena\nH. Primates are favored by natural selection because\nfirst learn its place in the hierarchy of its clan?\nthey are better equipped to locate patchy sources\nof food. A. While participating in its first fight over prey\nJ. Primates are the only animals worth studying for B. While living in the communal den\nsocial brain hypothesis research. C. When patrolling the clan\u2019s territory for the first\ntime\n35. According to the passage, when Holekamp and her col- D. Shortly after leaving the communal den\nleagues analyzed hyena skulls, they determined that:\nA. subtle differences in hyena skulls enable hyenas to\nrecognize fellow clan members.\n40. According to the passage, compared to other species of\nB. hyenas with larger skulls tend to have a smaller\nhyenas, spotted hyenas:\nfrontal cortex.\nC. the structure of the hyena brain varies among the F. are more likely to be carnivores.\ndifferent hyena species. G. are less likely to be territorial.\nD. the structure of the hyena brain has changed little H. have smaller frontal cortices.\nover the centuries. J. live in more complex societies.\nEND OF TEST 3\nSTOP! DO NOT TURN THE PAGE UNTIL TOLD TO DO SO.\nDO NOT RETURN TO A PREVIOUS TEST.\nwww.actexam.net\n37\nACT-E26",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "One main purpose of the passage is to:",
+              "choices": {
+                "A": "contrast the structure of a hyena\u2019s brain with the structure of a human\u2019s brain.",
+                "B": "argue that studies of hyenas have revealed more about brain function than have studies of primates.",
+                "C": "discuss what the study of hyenas has revealed about the evolution of social intelligence.",
+                "D": "compare the evolutionary histories of the four species in the hyena family."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 32,
+              "stem": "The author cites brain imaging studies in the fifth para- graph (lines 24\u201329) primarily to support the passage\u2019s point that:",
+              "choices": {
+                "F": "the frontal cortex is the center of social intelligence.",
+                "G": "most of a human\u2019s extra neurons are located in the frontal cortex.",
+                "H": "the majority of research on the social brain hypothesis is focused on primates.",
+                "J": "it\u2019s possible to reconstruct the three-dimension structure of the hyena brain from a CT scan of a skull."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 33,
+              "stem": "When the author states that hyenas \u201cfollow the same rulesas primates\u201d (line 83), he most likely means that:",
+              "choices": {
+                "A": "the hyena\u2019s diet closely resembles that of primates.",
+                "B": "primates and hyenas who live in large groups have large frontal cortices.",
+                "C": "primates and hyenas tend to form long-term alliances with other species.",
+                "D": "the structure of the hyena skull is identical to that of the primate skull."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 34,
+              "stem": "Based on the passage, Holekamp\u2019s research most directly challenges which of the following arguments made by some primatologists?",
+              "choices": {
+                "F": "Primates with a high social rank have more babies than do high-ranking members of other animal species.",
+                "G": "Primates are the only animals that live in large groups.",
+                "H": "Primates are favored by natural selection because they are better equipped to locate patchy sources of food.",
+                "J": "Primates are the only animals worth studying for social brain hypothesis research."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 35,
+              "stem": "According to the passage, when Holekamp and her col- leagues analyzed hyena skulls, they determined that:",
+              "choices": {
+                "A": "subtle differences in hyena skulls enable hyenas to recognize fellow clan members.",
+                "B": "hyenas with larger skulls tend to have a smaller frontal cortex.",
+                "C": "the structure of the hyena brain varies among the different hyena species.",
+                "D": "the structure of the hyena brain has changed little over the centuries. STOP! DO N www.actexa 3 ACT-E26 3"
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 36,
+              "stem": "The author speculates that primates may be pushed to live in large groups due in part to:",
+              "choices": {
+                "F": "territory disputes with hyenas.",
+                "G": "an innate desire to stay close to their relatives.",
+                "H": "the presence of predators.",
+                "J": "a lack of suitable shelter."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 37,
+              "stem": "In the passage, the author discusses female baboons primarily to illustrate how:",
+              "choices": {
+                "A": "female primates have higher social intelligence than do male primates.",
+                "B": "limited sources of food cause animals to be aggressive toward one another.",
+                "C": "primates learn the hierarchy of their social group from their mothers.",
+                "D": "increased social intelligence can give animals an evolutionary advantage."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 38,
+              "stem": "Which of the following theories about the evolution of the human brain is presented in the passage?",
+              "choices": {
+                "F": "During the early stages in the evolution of the human brain, growth in the frontal cortex was inhibited by the structure of the skull.",
+                "G": "After developing the ability to produce sophisti- cated thought, the human brain began to produce extra neurons.",
+                "H": "Because natural selection favors social intelli- gence, the human frontal cortex began to increase in size.",
+                "J": "Humans first developed a frontal cortex when they began to form long-term alliances to better com- pete with rivals."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 39,
+              "stem": "According to the passage, when does a spotted hyena first learn its place in the hierarchy of its clan?",
+              "choices": {
+                "A": "While participating in its first fight over prey",
+                "B": "While living in the communal den",
+                "C": "When patrolling the clan\u2019s territory for the first time",
+                "D": "Shortly after leaving the communal den"
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 40,
+              "stem": "According to the passage, compared to other species of hyenas, spotted hyenas:",
+              "choices": {
+                "F": "are more likely to be carnivores.",
+                "G": "are less likely to be territorial.",
+                "H": "have smaller frontal cortices.",
+                "J": "live in more complex societies. END OF TEST 3 NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST. am.net 7"
+              },
+              "correct": "J",
+              "lineRef": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "title": "Passage I",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_38.jpg",
+          "startPage": 38,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "According to Figure1, for how many of the tempera- tures tested was the average duration of the egg stage longer than 1 week?",
+              "choices": {
+                "A": "1",
+                "B": "2",
+                "C": "4",
+                "D": "5 am.net 8 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_38.jpg"
+            },
+            {
+              "number": 2,
+              "stem": "According to Figures 1 and 2, as the temperature increased from 20\u00b0C through 27\u00b0C, on average, did the duration of the adult stage increase or decrease, and did the number of eggs produced per female per day increase or decrease? duration of number of eggs produced adult stage per female per day",
+              "choices": {
+                "F": "increase increase",
+                "G": "decrease decrease",
+                "H": "increase decrease",
+                "J": "decrease increase"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_38.jpg"
+            },
+            {
+              "number": 3,
+              "stem": "Consider the statement \u201cThe temperature that resulted in the shortest average duration of the egg stage was also the temperature that resulted in the longest aver- age duration of the adult stage.\u201d Is this statement con- sistent with the results shown in Figure 1 ?",
+              "choices": {
+                "A": "Yes; that temperature was 20\u00b0C.",
+                "B": "Yes; that temperature was 30\u00b0C.",
+                "C": "No; on average, the duration of the egg stage was shortest at 20\u00b0C, whereas the duration of the adult stage was longest at 30\u00b0C.",
+                "D": "No; on average, the duration of the egg stage was shortest at 30\u00b0C, whereas the duration of the adult stage was longest at 20\u00b0C. www.actexa 3 4"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_38.jpg"
+            },
+            {
+              "number": 4,
+              "stem": "Based on Figure 1, at 26\u00b0C, the nymph stage would most likely last:",
+              "choices": {
+                "F": "fewer than 5 days.",
+                "G": "between 5 days and 11 days.",
+                "H": "between 11 days and 13 days.",
+                "J": "more than 13 days."
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_38.jpg"
+            },
+            {
+              "number": 5,
+              "stem": "Based on Figure2, at a temperature of 25\u00b0C, an adult female B.argentifolii will produce, on average, a total of how many eggs over the first 7 days of her adult stage?",
+              "choices": {
+                "A": "28",
+                "B": "54",
+                "C": "63",
+                "D": "77"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_38.jpg"
+            },
+            {
+              "number": 6,
+              "stem": "Based on Figure 2, the average number of eggs pro- duced per female per day was how many times as great at 35\u00b0C as it was at 20\u00b0C ? _1_ F. 5 _1_ G. 2",
+              "choices": {
+                "H": "2",
+                "J": "5 am.net 9 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_38.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "title": "Passage II",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_40.jpg",
+          "startPage": 40,
+          "questions": [
+            {
+              "number": 7,
+              "stem": "According to Table1, among the 5 PAs, as the molecu- lar mass increases, the BP at 101.3 kPa:",
+              "choices": {
+                "A": "decreases only.",
+                "B": "increases only.",
+                "C": "decreases, then increases.",
+                "D": "varies, but with no general trend."
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_40.jpg"
+            },
+            {
+              "number": 8,
+              "stem": "According to Tables 1 and 2, the PA that has a flash point of \u22121\u00b0C at 101.3 kPa has a molecular mass of:",
+              "choices": {
+                "F": "059 amu.",
+                "G": "073 amu.",
+                "H": "087 amu.",
+                "J": "101 amu."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_40.jpg"
+            },
+            {
+              "number": 9,
+              "stem": "Based on Table 2, the vapor pressure of 1-pentanamine at 11\u00b0C would most likely be:",
+              "choices": {
+                "A": "less than 0.1 kPa.",
+                "B": "between 0.1 kPa and 1 kPa.",
+                "C": "between 1 kPa and 10 kPa.",
+                "D": "greater than 10 kPa. www.actexa 4 4"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_40.jpg"
+            },
+            {
+              "number": 10,
+              "stem": "Consider the PA ethanamine, CH CH NH . Based on 3 2 2 Table 1, the molecular mass of ethanamine is closest to which of the following?",
+              "choices": {
+                "F": "31 amu",
+                "G": "45 amu",
+                "H": "59 amu",
+                "J": "73 amu"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_40.jpg"
+            },
+            {
+              "number": 11,
+              "stem": "Consider the PA 1-octanamine, CH (CH ) NH . Based 3 2 7 2 on Tables 1 and 2, the temperature at which the vapor pressure of 1-octanamine equals 100 kPa would most likely be:",
+              "choices": {
+                "A": "less than 102\u00b0C.",
+                "B": "between 102\u00b0C and 131\u00b0C.",
+                "C": "between 131\u00b0C and 154\u00b0C.",
+                "D": "greater than 154\u00b0C."
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_40.jpg"
+            },
+            {
+              "number": 12,
+              "stem": "Which of the PAs listed in Table1 would exist in the \u221265\u00b0C liquid state at and 101.3 kPa ?",
+              "choices": {
+                "F": "1-propanamine only",
+                "G": "1-pentanamine only",
+                "H": "1-propanamine and 1-butanamine only",
+                "J": "1-pentanamine and 1-butanamine only am.net 1 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_40.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "title": "Passage III",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_42.jpg",
+          "startPage": 42,
+          "questions": [
+            {
+              "number": 13,
+              "stem": "Based on the results of the studies, which of the sor- bents would be most effective in cleaning up an ocean spill of heavy crude oil, and which of the sorbents would be most effective in cleaning up an ocean spill of light crude oil? heavy crude oil light crude oil",
+              "choices": {
+                "A": "milkweed milkweed",
+                "B": "cotton kenaf",
+                "C": "kenaf polypropylene",
+                "D": "polypropylene polypropylene"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_42.jpg"
+            },
+            {
+              "number": 14,
+              "stem": "Which procedure was most likely intended to simulate the effect of waves in the ocean?",
+              "choices": {
+                "F": "Pouring seawater into a beaker",
+                "G": "Adding oil to a beaker of seawater",
+                "H": "Shaking a beaker of seawater for 10 min",
+                "J": "Removing a sample of sorbent from a beaker of seawater"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_42.jpg"
+            },
+            {
+              "number": 15,
+              "stem": "Consider the results of both studies for an oil mass of 30g. Which of the sorbents soaked up a greater mass of light crude oil than of heavy crude oil at that oil mass?",
+              "choices": {
+                "A": "Cotton only",
+                "B": "Milkweed and kenaf only",
+                "C": "Cotton and polypropylene only",
+                "D": "All 4 sorbents"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_42.jpg"
+            },
+            {
+              "number": 16,
+              "stem": "In each study, after heavy crude oil or light crude oil was added to a beaker of seawater, the oil floated on the surface of the seawater. This information is consis- tent with which of the following statements comparing the density of seawater with the density of heavy crude oil and with the density of light crude oil? Seawater is:",
+              "choices": {
+                "F": "less dense than heavy crude oil and less dense than light crude oil.",
+                "G": "more dense than heavy crude oil and more dense than light crude oil.",
+                "H": "less dense than heavy crude oil but more dense than light crude oil.",
+                "J": "more dense than heavy crude oil but less dense than light crude oil. www.actexa 4 4"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_42.jpg"
+            },
+            {
+              "number": 17,
+              "stem": "According to the results of Study 2, in the beakers con- taining 20 g or more of light crude oil in seawater, did 1 g of any of the natural sorbents soak up more oil than did 1 g of synthetic sorbent?",
+              "choices": {
+                "A": "Yes; 1 g of milkweed and 1 g of cotton each soaked up more oil than did 1 g of kenaf.",
+                "B": "Yes; 1 g of milkweed and 1 g of cotton each soaked up more oil than did 1 g of polypropylene.",
+                "C": "No; 1g of milkweed and 1 g of cotton each soaked up less oil than did 1 g of kenaf.",
+                "D": "No; 1g of milkweed and 1 g of cotton each soaked up less oil than did 1 g of polypropylene."
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_42.jpg"
+            },
+            {
+              "number": 18,
+              "stem": "Consider the statement \u201cAs the mass of oil added to 500mL of seawater increased, the mass of oil soaked up by 1 g of sorbent always increased.\u201d This statement is consistent with the results of Study 1 for which of the sorbents?",
+              "choices": {
+                "F": "Milkweed only",
+                "G": "Polypropylene only",
+                "H": "Milkweed and cotton only",
+                "J": "Kenaf and polypropylene only"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_42.jpg"
+            },
+            {
+              "number": 19,
+              "stem": "Suppose that, in Study1, 0.5 g of dry cotton and 0.5 g of dry polypropylene had been thoroughly mixed and then added to a 1 L beaker containing 500 mL of sea- water and 50 g of heavy crude oil. The number of grams of oil soaked up by the 1 g sorbent mixture would most likely have been:",
+              "choices": {
+                "A": "less than 8.",
+                "B": "between 8 and 16.",
+                "C": "between 16 and 26.",
+                "D": "greater than 26. am.net 3 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_42.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "title": "Passage IV",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_44.jpg",
+          "startPage": 44,
+          "questions": [
+            {
+              "number": 20,
+              "stem": "Based on the results of Experiment 2, if 6 drops of methyl violet are added to a 5% by mass nitric acid solution, what will be the color of the resulting solu- tion at 25\u00b0C ?",
+              "choices": {
+                "F": "Blue",
+                "G": "Blue-violet",
+                "H": "Violet",
+                "J": "Yellow-green am.net 4 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_44.jpg"
+            },
+            {
+              "number": 21,
+              "stem": "Based on the results of Experiment1, for each of the 4acids, as acid concentration increased from 10% by mass through 50% by mass, the surface tension at 25\u00b0C:",
+              "choices": {
+                "A": "increased only.",
+                "B": "decreased only.",
+                "C": "increased, then decreased.",
+                "D": "decreased, then increased."
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_44.jpg"
+            },
+            {
+              "number": 22,
+              "stem": "",
+              "choices": {
+                "A": "student predicted that, if a formic acid solution and an acetic acid solution have the same acid concentra- tion by mass and are both at 25\u00b0C, the formic acid solution has a greater surface tension than does the acetic acid solution. The results of which experiment better support or refute this prediction?",
+                "F": "Experiment 1\u2019s results better support this prediction.",
+                "G": "Experiment 1\u2019s results better refute this prediction.",
+                "H": "Experiment 2\u2019s results better support this prediction.",
+                "J": "Experiment 2\u2019s results better refute this prediction."
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_44.jpg"
+            },
+            {
+              "number": 23,
+              "stem": "Based on the results of Experiment 3, the pH of a 2.5% by mass formic acid solution at 25\u00b0C would most likely have been closest to which of the following?",
+              "choices": {
+                "A": "1.8",
+                "B": "2.0",
+                "C": "2.2",
+                "D": "2.4 www.actexa 4 4"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_44.jpg"
+            },
+            {
+              "number": 24,
+              "stem": "Suppose that 6 drops of methyl violet are added to an aqueous solution of an acid with a pH of 2.5 at 25\u00b0C. Based on the results of Experiments 2 and 3, the color of the resulting solution at 25\u00b0C will most likely be:",
+              "choices": {
+                "F": "blue.",
+                "G": "blue-violet.",
+                "H": "violet.",
+                "J": "yellow-green."
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_44.jpg"
+            },
+            {
+              "number": 25,
+              "stem": "Which of the following factors was kept the same for all the acid solutions in Experiment 2 but was NOT kept the same for all the acid solutions in Experiment1 and in Experiment 3 ?",
+              "choices": {
+                "A": "Acid concentration",
+                "B": "pH",
+                "C": "Surface tension",
+                "D": "Temperature"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_44.jpg"
+            },
+            {
+              "number": 26,
+              "stem": "Based on the results of Experiment 3, which is the stronger acid, nitric acid or acetic acid?",
+              "choices": {
+                "F": "Nitric acid, because at each concentration the nitric acid solution had the lower pH.",
+                "G": "Nitric acid, because at each concentration the nitric acid solution had the higher pH.",
+                "H": "Acetic acid, because at each concentration the acetic acid solution had the lower pH.",
+                "J": "Acetic acid, because at each concentration the acetic acid solution had the higher pH. am.net 5 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_44.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-v",
+          "title": "Passage V",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_46.jpg",
+          "startPage": 46,
+          "questions": [
+            {
+              "number": 27,
+              "stem": "Based on the apparatus diagram, Figure 1, and Figure 2, each of the 2 beams tested must have been longer than:",
+              "choices": {
+                "A": "200 cm.",
+                "B": "250 cm.",
+                "C": "300 cm.",
+                "D": "350 cm."
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_46.jpg"
+            },
+            {
+              "number": 28,
+              "stem": "Consider the difference between d for a beam in the",
+              "choices": {
+                "H": "increased for both beams.",
+                "F": "increased for the concrete beam but decreased for the steel beam.",
+                "G": "decreased for the concrete beam but increased for the steel beam.",
+                "J": "decreased for both beams. www.actexa 4 4"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_46.jpg"
+            },
+            {
+              "number": 29,
+              "stem": "For the studies to be performed as described, which of the following criteria must have been satisfied during any given trial?",
+              "choices": {
+                "A": "The beam must have been perfectly rigid.",
+                "B": "The supports must have been fixed in position.",
+                "C": "The applied force must have been less than the weight of the beam.",
+                "D": "The maximum deflection must have been mea- sured prior to applying the force."
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_46.jpg"
+            },
+            {
+              "number": 30,
+              "stem": "In how many studies was the concrete beam tested, and in how many studies, if any, was only the concrete beam tested? concrete tested only concrete tested",
+              "choices": {
+                "F": "1 0",
+                "G": "2 1",
+                "H": "2 2",
+                "J": "3 2"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_46.jpg"
+            },
+            {
+              "number": 31,
+              "stem": "Suppose that in Study 3 the 2 beams had been tested in the H configuration. How would the results most likely have compared with the data shown in Figure3? For each beam, the graph of d versus F would have been a straight line whose slope was:",
+              "choices": {
+                "A": "negative, and the line would have been steeper than the corresponding line graphed in Figure 3.",
+                "B": "negative, and the line would have been less steep than the corresponding line graphed in Figure 3.",
+                "C": "positive, and the line would have been steeper than the corresponding line graphed in Figure 3.",
+                "D": "positive, and the line would have been less steep than the corresponding line graphed in Figure 3."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_46.jpg"
+            },
+            {
+              "number": 32,
+              "stem": "Can it be determined on the basis of Study 2 whether the maximum deflection of the steel beam depended on the strength of the applied force?",
+              "choices": {
+                "F": "Yes, because F was held constant in Study 2.",
+                "G": "Yes, because F was varied in Study 2.",
+                "H": "No, because F was held constant in Study 2.",
+                "J": "No, because F was varied in Study 2."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_46.jpg"
+            },
+            {
+              "number": 33,
+              "stem": "Suppose that a doorway is to be supported by one of the two beams tested in the studies. The doorway is 150cm wide, and the beam must be able to support a force of at least 1 kN. However, d for the beam must never exceed 0.5 mm. Which beam, when oriented in which configuration, CANNOT be used to support this doorway?",
+              "choices": {
+                "A": "The concrete beam in the H configuration",
+                "B": "The concrete beam in the I configuration",
+                "C": "The steel beam in the H configuration",
+                "D": "The steel beam in the I configuration am.net 7 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_46.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-vi",
+          "title": "Passage VI",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_48.jpg",
+          "startPage": 48,
+          "questions": [
+            {
+              "number": 30,
+              "stem": "",
+              "choices": {
+                "H": "___ 5 Combine the totals of these columns and p *Reporting Categories PHM = Preparing for Higher Math N = Number & Quantity",
+                "A": "= Algebra",
+                "F": "= Functions",
+                "G": "= Geometry S = Statistics & Probability IES = Integrating Essential Skills MDL = Modeling www.actexa 51 Reporting Category* PHM Key N A F G S IES MDL"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_48.jpg"
+            },
+            {
+              "number": 34,
+              "stem": "Based on Student 3\u2019s predictions, which of the vari- ables listed below does NOT affect f? I. k II. M III. A",
+              "choices": {
+                "F": "II only",
+                "G": "III only",
+                "H": "I and II only",
+                "J": "I and III only am.net 8 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_48.jpg"
+            },
+            {
+              "number": 35,
+              "stem": "According to the predictions of Student 1 and Stu- dent 2, respectively, as cube mass increases, does the cube\u2019s average speed during a cycle increase or decrease? Student 1 Student 2",
+              "choices": {
+                "A": "increase increase",
+                "B": "increase decrease",
+                "C": "decrease increase",
+                "D": "decrease decrease"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_48.jpg"
+            },
+            {
+              "number": 36,
+              "stem": "Based on Student 2\u2019s predictions, which of the changes listed below would cause fto decrease? I. Increasing k II. Decreasing M III. Decreasing A",
+              "choices": {
+                "F": "I only",
+                "G": "II only",
+                "H": "I and III only",
+                "J": "II and III only"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_48.jpg"
+            },
+            {
+              "number": 37,
+              "stem": "Based on Student 1\u2019s predictions, as k increases, the cube\u2019s average kinetic energy will:",
+              "choices": {
+                "A": "increase, because v will increase.",
+                "B": "increase, because v will decrease.",
+                "C": "decrease, because v will increase.",
+                "D": "decrease, because v will decrease. S www.actexa 4 4 = ="
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_48.jpg"
+            },
+            {
+              "number": 38,
+              "stem": "Suppose that M 1 kg for Cube R and that M 2 kg for Cube S. Based on Student 3\u2019s predictions, for given values of k and A, the average acceleration will be greater for which cube?",
+              "choices": {
+                "F": "R, because average acceleration increases as cube mass increases.",
+                "G": "R, because average acceleration increases as cube mass decreases.",
+                "H": "S, because average acceleration increases as cube mass increases.",
+                "J": "S, because average acceleration increases as cube mass decreases."
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_48.jpg"
+            },
+            {
+              "number": 39,
+              "stem": "Consider 2 springs, Spring X and Spring Y. Spring X has a smaller k than does Spring Y. Student 1 would probably agree that the cube will take a longer time to complete a cycle if it is attached to which spring?",
+              "choices": {
+                "A": "Spring X, because it is the stiffer spring.",
+                "B": "Spring X, because it is the less stiff spring.",
+                "C": "Spring Y, because it is the stiffer spring.",
+                "D": "Spring Y, because it is the less stiff spring."
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_48.jpg"
+            },
+            {
+              "number": 40,
+              "stem": "Based on the information given, what total distance will the cube travel during 1 complete cycle?",
+              "choices": {
+                "F": "1A",
+                "G": "2A",
+                "H": "3A",
+                "J": "4A END OF TEST 4 STOP! DO NOT RETURN TO ANY OTHER TEST. am.net 9"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E26/science/page_48.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scaleTable": {}
+}

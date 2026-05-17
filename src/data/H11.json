@@ -1,0 +1,1755 @@
+{
+  "id": "H11",
+  "name": "ACT Form H11",
+  "sections": [
+    {
+      "id": "english",
+      "name": "English",
+      "timeMinutes": 45,
+      "passages": [
+        {
+          "id": "eng-p1",
+          "title": "Passage 1",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_2.jpg",
+          "startPage": 2,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "place, a three-story, forty-five-ton,",
+                "C": "place a three-story, forty-five-ton,",
+                "D": "place a three-story, forty-five-ton"
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_2.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 2,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "marked as",
+                "H": "had been",
+                "J": "DELETE the underlined portion. a e. e"
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_2.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 3,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "it started with builders pouring",
+                "C": "builders started by pouring",
+                "D": "to start, builders poured e 4. F. NO CHANGE",
+                "G": "house, which stands three stories tall. t. H. house, in Iowa City, Iowa.",
+                "J": "house. 2 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_2.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 5,
+              "stem": "Given that all the choices are accurate, which one pro- vides information that most clearly emphasizes the goal of preserving and relocating the house?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "like the many fireplaces for sale in the city\u2019s archi- tectural salvage warehouse.",
+                "C": "and carried to the yard in front of the house.",
+                "D": "to be reinstalled at the new location."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_3.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 6,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Driving in from a nearby town, the",
+                "H": "When the",
+                "J": "The"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_3.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 7,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "The dolly having been wedged under the building,",
+                "C": "Then in this process here,",
+                "D": "Following the first step,"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_3.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 8,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "temporary\u2014and moveable\u2014platform,",
+                "H": "temporary, and moveable platform",
+                "J": "temporary and moveable, platform"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_3.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 9,
+              "stem": "Given that all the choices are accurate, which one best links the preceding sentence to the information that follows in this paragraph?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "like a gigantic monstrosity interrupting the typi- cally peaceful scene on the street.",
+                "C": "like an ancient castle that looked like it would topple over in the lightest breeze.",
+                "D": "as if it were just another car in traffic. 1 2. The best placement for the underlined portion would be: y,",
+                "G": "after the word While.",
+                "H": "after the word journey (and before the comma).",
+                "J": "after the word waiting (and before the period). n, 3 GO ON TO THE NEXT PAGE.",
+                "F": "where it is now."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_3.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 13,
+              "stem": "At this point, the writer is considering adding the fol- lowing accurate statement: During this process, many people who had watched the house\u2019s journey became bored and left. Should the writer make this addition here?",
+              "choices": {
+                "A": "Yes, because it outlines how preservationists con- vinced several groups to join a particular cause.",
+                "B": "evoke",
+                "C": "emit",
+                "D": "eject 4 GO ON TO THE NEXT PAGE.",
+                "G": "Coincidentally, on",
+                "H": "Nevertheless, on",
+                "J": "However, on 1 7. A. NO CHANGE"
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_4.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 24,
+              "stem": "",
+              "choices": {
+                "F": "Point A in Paragraph 4.",
+                "G": "Point B in Paragraph 4.",
+                "H": "Point C in Paragraph 5.",
+                "J": "Point D in Paragraph 5. 6 GO ON TO THE NEXT PAGE.",
+                "B": "Lured",
+                "C": "Vexed",
+                "D": "Petitioned Question 30 asks about the preceding passage as a whole. 3 0. The writer is considering adding the following accu- rate sentence to the essay:",
+                "A": "total of forty-two insects were captured on the lighted mushrooms; twelve were captured on the control mushrooms. If the writer were to add this sentence, it would most logically be placed at:"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_6.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 31,
+              "stem": "Given that all the choices are accurate, which provides information about Ibadan that is most relevant to the essay\u2019s discussion of the problems associated with water hyacinth?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "After permanently moving there in 2009,",
+                "C": "There, business analyst",
+                "D": "There, 7 GO ON TO THE NEXT PAGE.",
+                "G": "Although business",
+                "H": "Since business",
+                "J": "Business 3 7. A. NO CHANGE",
+                "F": "inlets, with sweeping beds of ivy-like leaves sprouting"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_7.jpg",
+              "correct": ""
+            },
+            {
+              "number": 38,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "came together as a group of people to form",
+                "H": "formed all together",
+                "J": "formed 8 GO ON TO THE NEXT PAGE.",
+                "A": "NO CHANGE",
+                "B": "who were familiar with distribution practices.",
+                "C": "buying and selling various products.",
+                "D": "who knew about the process. 4 4. F. NO CHANGE"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_8.jpg",
+              "correct": ""
+            }
+          ]
+        },
+        {
+          "id": "eng-p2",
+          "title": "Passage 2",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_9.jpg",
+          "startPage": 9,
+          "questions": [
+            {
+              "number": 45,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "where,",
+                "C": "while,",
+                "D": "when, 9 GO ON TO THE NEXT PAGE.",
+                "G": "Christmas Island\u2019s",
+                "H": "their",
+                "J": "these 5 1. A. NO CHANGE",
+                "F": "NO CHANGE"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_9.jpg",
+              "correct": ""
+            },
+            {
+              "number": 52,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "is saving",
+                "H": "saves",
+                "J": "save 5 9. A. NO CHANGE",
+                "A": "where it is now.",
+                "B": "and it is",
+                "C": "but is",
+                "D": "DELETE the underlined portion. 10 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 60,
+              "stem": "Suppose the writer\u2019s primary purpose had been to explain how a natural phenomenon has benefited humans. Would this essay accomplish that purpose?",
+              "choices": {
+                "F": "Yes, because the essay describes how the Christ- mas Island red crabs\u2019 breeding migration has increased tourism on Christmas Island.",
+                "G": "Yes, because the essay provides an overview of how the Christmas Island red crabs\u2019 breeding migration affects other wildlife on the island.",
+                "H": "No, because instead the essay provides an over- view of the Christmas Island red crabs\u2019 breeding migration and the projects park rangers have undertaken to safeguard it.",
+                "J": "No, because instead the essay describes the eco- logical impact of the Christmas Island red crabs\u2019 breeding migration and how this impact has increased the responsibilities of park rangers on the island."
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 61,
+              "stem": "Which choice most closely maintains the word pattern established by the other two examples in the sentence?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "off the coast of Tobago, brain coral colored gray,",
+                "C": "gray brain coral located off Tobago\u2019s coast,",
+                "D": "gray brain coral off the coast of Tobago, 6 2. F. NO CHANGE",
+                "G": "organisms, seemingly",
+                "H": "organisms that seem",
+                "J": "organisms seeming 11 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 63,
+              "stem": "",
+              "choices": {
+                "A": "By the time she finished, she had photographed individuals from thirty separate species.",
+                "B": "another photo was of",
+                "C": "she photographed",
+                "D": "DELETE the underlined portion. 7 0. F. NO CHANGE",
+                "G": "world, Siberian actinobacteria;",
+                "H": "world\u2014Siberian actinobacteria;",
+                "J": "world; Siberian actinobacteria 12 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 71,
+              "stem": "Given that all the choices are accurate, which one pro- vides the most detailed description of the creosote bush?",
+              "choices": {
+                "A": "Yes, because it focuses on the challenges Sussman overcame while working on her Oldest Living Things project.",
+                "B": "Yes, because it focuses on how Sussman located and photographed her subjects for The Oldest Living Things project.",
+                "C": "No, because it instead discusses Sussman\u2019s approach to photography in general, not a specific project.",
+                "D": "No, because it instead describes the oldest organ- isms in the world, which Sussman located. END OF TEST 1 DO NOT TURN THE PAGE UNTIL TOLD TO DO SO. 13",
+                "G": "was able to survive",
+                "H": "have survived",
+                "J": "has lived Question 75 asks about the preceding passage as a whole. 7 5. Suppose the writer\u2019s primary purpose had been to describe the process an artist used to create a work of art. Would this essay accomplish that purpose?"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/english/page_13.jpg",
+              "correct": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "timeMinutes": 60,
+      "questions": [
+        {
+          "number": 3,
+          "stem": "Dawn randomly selected 6books from the teen library, read them, and then rated them as follows: 40, 60, 10, 80, 30, and 40. Based on the sample data, what is the best estimate of Dawn\u2019s average rating of all the books in the library?",
+          "choices": {
+            "A": "10",
+            "B": "40",
+            "C": "43",
+            "D": "45",
+            "E": "80 14 ACT-H11 2 DO"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_14.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 4,
+          "stem": "On a digital music player there are 153 rap songs, 72 country songs, 14 jazz songs, and 121 rock songs. Given that the player is set to randomly shuffle the song selection, what is the probability, rounded to the nearest thousandth, the 1st song played will be a country song?",
+          "choices": {
+            "F": "0.003",
+            "G": "0.014",
+            "H": "0.200",
+            "J": "0.250",
+            "K": "0.720"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_15.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 5,
+          "stem": "",
+          "choices": {
+            "A": "01",
+            "B": "10",
+            "C": "27",
+            "D": "33",
+            "E": "71"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_15.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 6,
+          "stem": "What is the length, in inches, of the hypotenuse of a right triangle with a leg that is 8inches long and a leg that is 3 inches long? \u221a\u20222\u20222 F.",
+          "choices": {
+            "G": "\u221a\u20225\u20225 \u221a\u20227\u20223 H.",
+            "J": "00,5.5",
+            "K": "0,11 = = \u221220, +"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_15.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 7,
+          "stem": "Given x 100 and y x y is equal to the product of \u22125 and what number? \u221224 A.",
+          "choices": {
+            "B": "\u221216",
+            "C": "16",
+            "D": "24",
+            "E": "400 15 ACT-H11 2 \u2297 a\u2297b=a2b. a=5 DO"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_15.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 8,
+          "stem": "The operation is defined by If and a\u2297b=100, what is the value of b?",
+          "choices": {
+            "F": "000,2",
+            "G": "000,4",
+            "H": "00,20",
+            "J": "0,500",
+            "K": "2,500 \u2194 ___"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_16.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 9,
+          "stem": "F__o_r RT shown below, pointS__i_s on RT, the length of RS is 6cm, and the length of ST is 16cm. What is the dis_ta__nce, in centimeters, between T and the midpoint of RS ?",
+          "choices": {
+            "A": "11 R 6 S 16 T",
+            "B": "14",
+            "C": "16",
+            "D": "19",
+            "E": "22"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_16.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 10,
+          "stem": "Matrices Aand Bare given below. A=3\u22122 64 B=38 54 \u22128 \u22124 3 1 A\u2212B? Which of the following matrices is 3\u221210 24",
+          "choices": {
+            "F": "\u22124 1 3\u221210 14",
+            "G": "\u22124 2 36 114",
+            "H": "\u221212 4 36 44",
+            "J": "\u221212 11 310 \u221214",
+            "K": "\u22122 4"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_16.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 11,
+          "stem": "One of the lines graphed in the standard (x,y) coordinate plane below has a negative slope and a negative y-intercept. Which one? y m n p x",
+          "choices": {
+            "A": "m O",
+            "B": "n",
+            "C": "p q",
+            "D": "q",
+            "E": "r r"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_16.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 12,
+          "stem": "In a certain isosceles triangle, the measure of the vertex angle is 34\u00b0. What is the measure of each of the 2 base angles?",
+          "choices": {
+            "F": "017\u00b0",
+            "G": "034\u00b0",
+            "H": "068\u00b0",
+            "J": "073\u00b0",
+            "K": "112\u00b0 16 ACT-H11 2 DO"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_16.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 13,
+          "stem": "This month, Reed sold 40 figurines in 2 sizes. The large figurines sold for $12 each, and the small figurines sold for $4 each. The amount of money he received from the sales of the large figurines was equal to the amount of money he received from the sales of the small figurines. How many large figurines did Reed sell this month?",
+          "choices": {
+            "A": "10",
+            "B": "16",
+            "C": "20",
+            "D": "24",
+            "E": "30"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_17.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 14,
+          "stem": "The 7th term and the 8th term of an arithmetic sequence are 4 and 12, respectively. What is the 2nd term of this sequence?",
+          "choices": {
+            "F": "\u221244 \u221236 G.",
+            "H": "08",
+            "J": "20",
+            "K": "28"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_17.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 15,
+          "stem": "The Cross High School girls\u2019 softball team currently has a record of 14wins, 11losses, and 0ties. What is the least number of its remaining 12 games the team must win to finish the season winning more than 50% of all the team\u2019s games?",
+          "choices": {
+            "A": "03",
+            "B": "05",
+            "C": "06",
+            "D": "07",
+            "E": "12"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_17.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 16,
+          "stem": "An object is launched vertically at 49 meters per second from a 980-meter high platform. The equation for the object\u2019s height, h, at time tseconds after launch h(t)=\u22124.9t2+49t+980, is where h is in meters. What will be the height, in meters, of the object 6 seconds after launch?",
+          "choices": {
+            "F": "0,980.0",
+            "G": "1,097.6",
+            "H": "1,274.0",
+            "J": "1,332.8",
+            "K": "1,450.4"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_17.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 17,
+          "stem": "The 1st term of Pattern A is 2. The rule to find each subsequent term is to multiply the previous term by 2 and then subtract 1. The 1stterm of PatternB is 2. The rule to find each subsequent term is to subtract 1 from the previous term and then multiply by 2. What is the sum of the 4th terms of Pattern A and Pattern B ?",
+          "choices": {
+            "A": "00",
+            "B": "04",
+            "C": "11",
+            "D": "18",
+            "E": "19 17 ACT-H11 2 DO"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_17.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 18,
+          "stem": "Which of the following binomials is a factor of x2\u2212x\u2212156 ? \u221213",
+          "choices": {
+            "F": "x",
+            "G": "x \u221212 +02",
+            "H": "x",
+            "J": "x +13 +78",
+            "K": "x"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_18.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 20,
+          "stem": "Let y be an irrational number. Which of the following statements about the value of 15ymust be true?",
+          "choices": {
+            "F": "It is rational.",
+            "G": "It is irrational.",
+            "H": "It is imaginary.",
+            "J": "It is undefined.",
+            "K": "It is neither irrational nor rational."
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_18.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 21,
+          "stem": "One of the following equations represents the line of best fit shown in the scatterplot below. Which one? y 1.8 1.6 1.4 1.2 1.0 0.8",
+          "choices": {
+            "A": "y =\u22121.7x\u22120.1 0.6 =\u22120.1x+1.7",
+            "B": "y 0.4",
+            "C": "y =\u22120.1x\u22121.7 0.2 = 0.1x+1.7",
+            "D": "y O",
+            "E": "y = 1.7x\u22120.1 2 4 6 8 10x coordinate plane. What is the midpoint of GH ?",
+            "F": "(4,10)",
+            "G": "(6,08)",
+            "H": "(6,10)",
+            "J": "(8,08)",
+            "K": "(8,10) 18 ACT-H11 2 DO"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_18.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 23,
+          "stem": "",
+          "choices": {
+            "A": "Cone",
+            "B": "Cylinder",
+            "C": "Sphere",
+            "D": "Triangular prism",
+            "E": "Triangular pyramid"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_19.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 24,
+          "stem": "The sum of 2numbers is 22. The sum of the squares of the 2 numbers is 260. What is the product of the 2 numbers?",
+          "choices": {
+            "F": "0,105",
+            "G": "0,112",
+            "H": "0,121",
+            "J": "0,224",
+            "K": "5,720"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_19.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 25,
+          "stem": "Trapezoid A and Trapezoid B are congruent and graphed in the standard (x,y) coordinate plane below. One of the following transformations or sequences of transformations would map Trapezoid A onto TrapezoidB. Which one? y A x O B =x",
+          "choices": {
+            "A": "Reflection over the line y",
+            "B": "Reflection over the line y =\u2212x",
+            "C": "Rotation of 180\u00b0 around the origin",
+            "D": "Reflection over the y-axis and then a reflection over the x-axis",
+            "E": "Reflection over the x-axis and then a translation to the left 19 ACT-H11 2 DO"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_19.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 26,
+          "stem": "",
+          "choices": {
+            "A": "circle with its center at (5,4) and a radius of 3 coordinate units is graphed in the standard (x,y) coordinate plane. One point on the circle has a y-coordinate greater than that of any other point on the circle. What is the y-coordinate of that point?",
+            "F": "03",
+            "G": "07",
+            "H": "08",
+            "J": "09",
+            "K": "13"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_20.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 27,
+          "stem": "For real constants a, b, and c, the graph in the standard (x,y) coordinate plane below is represented by an equation in one of the following forms. Which one? = _a_ y",
+          "choices": {
+            "A": "y x =ax",
+            "B": "y =ax +b",
+            "C": "y x O =ax2+bx +c",
+            "D": "y =\u23aaax +b\u23aa+c",
+            "E": "y"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_20.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 28,
+          "stem": "Jared is driving home. He is currently 231 miles away from home. His car\u2019s fuel tank holds 16gallons and is _3_ full of fuel. Given that his car travels 22miles per 4 gallon of fuel and he doesn\u2019t stop for fuel, how many gallons of fuel will be in his tank when he gets home?",
+          "choices": {
+            "F": "01.5",
+            "G": "04",
+            "H": "05.5",
+            "J": "10",
+            "K": "10.5"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_20.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 29,
+          "stem": "In the figure below, 5 right triangles share a common vertex, O. The legs of each of these triangles are shown dashed, and their lengths are labeled in feet. The point on each triangle that is farthest from O is labeled A, B, C, D, or E. A circle centered at O with a radius of 10 feet will be drawn. Which of the following points is outside of this circle? B 6 A 7 4 8 7 C 9 O 6",
+          "choices": {
+            "A": "A 10 8",
+            "B": "B E",
+            "C": "C 1",
+            "D": "D",
+            "E": "E D 20 ACT-H11 2 DO"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_20.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 30,
+          "stem": "Albert won a contest for which he will be paid $1.00 on the 1st day, $2.00 on the 2nd day, $3.00 on the 3rdday, and so on for 1 year (365 days). What is the total amount of money Albert will be paid in contest winnings? n _(_ t + t _n_) = _ 1_ __ (Note: For arithmetic series, S , S is the n 2 n sum of the first nterms of a sequence such that t is the 1 1st term and t is the nth term.) n",
+          "choices": {
+            "F": "$000,730.00",
+            "G": "$033,397.50",
+            "H": "$066,612.50",
+            "J": "$066,795.00",
+            "K": "$133,225.00"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_21.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 31,
+          "stem": "Tables of values for the 2functions f and g are shown below. What is the value of g_f(5)+? x f(x) x g(x) \u22126 7 \u22124 5 \u22124 \u22126 \u22123 3 3 5 4 \u22125 \u22126 5 4 5",
+          "choices": {
+            "A": "\u221224 0\u22126 B.",
+            "C": "0\u22125",
+            "D": "0 4",
+            "E": "0 7"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_21.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 32,
+          "stem": "In the figure below, line l is parallel to line m, and line n intersects the parallel lines. What is the value of x? n l (3x + 5)\u00b0",
+          "choices": {
+            "F": "05",
+            "G": "10 (x + 15)\u00b0",
+            "H": "17.5 m",
+            "J": "40",
+            "K": "50"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_21.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 33,
+          "stem": "Which of the following expressions is equal to _2\u221a\u20227 +1+_\u221a\u20227 \u22121+\u2212_\u221a\u20227 \u22121+?",
+          "choices": {
+            "A": "12",
+            "B": "96 \u22122 \u22124\u221a\u20227 C.",
+            "D": "01 +2\u221a\u20227 \u22122\u221a\u20227",
+            "E": "14 21 ACT-H11 2 i2=\u22121, \u22122i(3 +4i) \u22123(2 +5i) =? DO"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_21.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 34,
+          "stem": "Given",
+          "choices": {
+            "F": "\u221214 \u221221i \u221203i",
+            "G": "0 1",
+            "H": "02 \u221221i +09i",
+            "J": "02",
+            "K": "14 +09i"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_22.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 35,
+          "stem": "At an ice-cream shop, patrons can purchase a single scoop of 1 ice-cream flavor and 1 topping for $2.99. The owner recorded the number of different ice-cream flavors and 1-topping combinations that were purchased, as shown in the table below. To the nearest 0.01, what is the probability that a randomly selected patron purchased a scoop of vanilla ice cream topped with sprinkles? Sprinkles Syrup Fruit Total Vanilla 077 038 060 175 Chocolate 107 055 021 183 Swirl 118 110 059 287 Total 302 203 140 645",
+          "choices": {
+            "A": "0.12",
+            "B": "0.25",
+            "C": "0.27",
+            "D": "0.44",
+            "E": "0.47 ="
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_22.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 36,
+          "stem": "The equation y f(x) is graphed in the standard (x,y) coordinate plane below. y 5 4 3 2 1 O \u22124 \u22123 \u22122 \u22121 1 2 3 4 x =? One of the following defines f. f(x) 55 x<\u22122 for",
+          "choices": {
+            "F": "3 for x=\u22122 x>\u22122 2 for 55 x\u2264\u22122 for",
+            "G": "3 for x=\u22122 x>\u22122 2 for 55 x<\u22122 for",
+            "H": "3 for x=\u22122 x\u2265\u22122 2 for 55 x\u2264\u22122 for",
+            "J": "3 for x=\u22122 x\u2265\u22122 2 for 55 x=\u22122 for",
+            "K": "3 for x=\u22122 x=\u22122 2 for ACT-H11 2 DO"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_22.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 39,
+          "stem": "The positive integer 134,678 contains exactly 6 digits. Including this integer, how many 6-digit positive integers contain the digits 1, 3, 4, 6, 7, and 8 ?",
+          "choices": {
+            "A": "0000,6",
+            "B": "000,29",
+            "C": "00,720",
+            "D": "04,032",
+            "E": "40,320"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_23.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 40,
+          "stem": "What is the least common denominator for _x__ + 2__ _x_2_\u2212_ _ + _9_ ? x2\u22121 7x\u22127 \u22121)",
+          "choices": {
+            "F": "0(x",
+            "G": "0(x \u22121)(x +1) \u22121)(x \u22121)",
+            "H": "7(x",
+            "J": "7(x \u22121)(x +1) \u22123)(x +2)(x +3)",
+            "K": "0(x 23 ACT-H11 2 DO"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_23.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 41,
+          "stem": "Thomas wanted to test whether his coin was unfair. To do this, he flipped the coin 6 times and counted the number of heads and tails. Four of the flips resulted in heads, and two resulted in tails. One of the following statements is a correct conclusion based on Thomas\u2019s test. Which one?",
+          "choices": {
+            "A": "The coin is unfair, because there were more than the expected number of heads.",
+            "B": "The coin is unfair, because there were fewer than the expected number of tails.",
+            "C": "The coin is fair, because some flips resulted in heads and some resulted in tails.",
+            "D": "The coin is fair, because the flips resulted in approximately the same number of heads and tails.",
+            "E": "Not enough flips were performed to accurately predict whether the coin is unfair. ___ ___ nABC"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_24.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 42,
+          "stem": "In below, BD is the altitude from B to AC, the measure of \u2220A is 60\u00b0, AD = 10 m, and DC = 2 m. nABC What is the area, in square meters, of ? B 60\u00b0",
+          "choices": {
+            "A": "10 D 2 C",
+            "F": "060",
+            "G": "060\u221a\u20222 060\u221a\u20223 H.",
+            "J": "120 120\u221a\u20223 K. 24 ACT-H11 2 _1_ab(sin,C), DO"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_24.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 43,
+          "stem": "The area of any triangle is given by where 2 a and b are the lengths of any 2 sides, and C is the interior angle formed by those 2 sides. Which of the following is closest to the area, in square feet, of a triangle with side lengths of 6.2ft, 10.0ft, and 14.0ft, and with angle measures of 23\u00b0, 39\u00b0, and 118\u00b0 ? \u2248 \u22480.63; \u22480.88) (Note: sin,23\u00b0 0.39; sin,39\u00b0 sin,118\u00b0",
+          "choices": {
+            "A": "20",
+            "B": "27",
+            "C": "31",
+            "D": "38",
+            "E": "43"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_25.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 44,
+          "stem": "What are the slope and y-intercept of the line that 1_4_,0 2 goes through (0,8) and in the standard (x,y) 3 coordinate plane? slope y-intercept \u22126",
+          "choices": {
+            "F": "(0,8) \u22126 1_4_,0 2 G. 3 _1_ 1_4_,0 2 H. 6 3",
+            "J": "6 (0,8) 1_4_,0 2",
+            "K": "6 3"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_25.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 45,
+          "stem": "What are the solutions of (x+1)2+1 =0 ? \u22121 \u00b11 A. _\u2212_1_ \u00b1__\u221a__\u20223_ B. 2 \u00b1i",
+          "choices": {
+            "C": "0",
+            "D": "\u22121 \u00b1i _\u2212_1_ \u00b1__i_\u221a__\u20223_ E. 2 25 ACT-H11 2 DO Use the following information to answer questions 46\u201348.",
+            "A": "small company has 12 employees and 5 job titles. The job title, number of employees with that title, and monthly salary of each employee with that title are given in the table below. Monthly salary Number of of each Job title employees employee Supervisor 1 $7,500 Software Engineer 5 $6,000 Hardware Engineer 3 $5,500 Accountant 2 $4,500 Assistant 1 $3,000"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_25.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 46,
+          "stem": "What percent of employees in this company have a monthly salary greater than $5,000 ?",
+          "choices": {
+            "F": "25%",
+            "G": "40%",
+            "H": "60%",
+            "J": "75%",
+            "K": "90%"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_26.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 47,
+          "stem": "Rodrigo and Kim are both employees with the company. Rodrigo has a job title of Hardware Engineer and Kim has a different job title. The absolute value of the difference between Rodrigo\u2019s monthly salary and Kim\u2019s monthly salary is greater than $800. Let x represent Kim\u2019s monthly salary, in dollars. Which of the following statements shows all and only the possible values of x?",
+          "choices": {
+            "A": "x <4,700 >4,700",
+            "B": "x",
+            "C": "x >6,300 <x <6,300",
+            "D": "4,700",
+            "E": "x <4,700 or x >6,300"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_26.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 48,
+          "stem": "Next year, the monthly salary of each employee with the title of Software Engineer will be increased to $6,500. No other monthly salaries will be increased or decreased, and the number of employees with each job title will remain the same. Which of the following dollar amounts is closest to the change in the mean of the 12 monthly salaries from before the increase to after the increase?",
+          "choices": {
+            "F": "$042",
+            "G": "$083",
+            "H": "$100",
+            "J": "$208",
+            "K": "$500 26 ACT-H11 2 DO"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_26.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 49,
+          "stem": "In the standard (x,y) coordinate plane, the graph of y=5x2 is reflected over the x-axis and then translated to the right 3 coordinate units. The graph of which of the following equations is the result of these 2 transformations? =\u22125(x \u22123)2",
+          "choices": {
+            "A": "y =\u22125(x +3)2",
+            "B": "y =\u22125x2+3",
+            "C": "y = _1_x2+3",
+            "D": "y 5 = 5x2\u22123",
+            "E": "y x4\u22129 =0"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_27.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 50,
+          "stem": "What are the real solutions for the equation ?",
+          "choices": {
+            "F": "\u00b1\u221a\u20223 \u00b1\u221a\u20223\u2022i G.",
+            "H": "\u00b1\u221a\u20223, \u00b1\u221a\u20223\u2022i \u00b13 J.",
+            "K": "\u00b19"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_27.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 51,
+          "stem": "To the nearest 0.1 second, how many seconds will it take a car to travel a distance of 100feet given that it is traveling at 45 miles per hour? =5,280 (Note: 1 mile feet)",
+          "choices": {
+            "A": "01.2",
+            "B": "01.5",
+            "C": "03.3",
+            "D": "27.0",
+            "E": "52.8"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_27.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 52,
+          "stem": "The interior diameter and interior height of a cylindrical container are given in inches in the figure below. Water will be poured into the empty container at a rate of 40\u03c0cubic inches per minute. At this rate, in exactly how many minutes will the container be completely filled? 16 10 (Note: The volume of a cylinder with radius r and \u03c0r2h.) height his",
+          "choices": {
+            "F": "16",
+            "G": "20",
+            "H": "24",
+            "J": "40",
+            "K": "64 27 ACT-H11 2 _3_x_3_4"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_27.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 53,
+          "stem": "xis = _1_ DO For what real value of true? _34+7 9 A. 05",
+          "choices": {
+            "B": "07 C. 17",
+            "D": "22 E. 24 54. Craig writes a check for $18. When he records the check in his check register, he accidentally adds $18 to his balance instead of subtracting $18, which causes a discrepancy between what Craig\u2019s check register shows and what it should show. Because of his mistake, Craig\u2019s check register shows: F. $36 less than it should.",
+            "G": "$18 less than it should. H. $09 more than it should.",
+            "J": "$18 more than it should. K. $36 more than it should. ___"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_28.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 55,
+          "stem": "CE nCDE In the figure shown below, is shared by ABCE. nCDE D a_n_d_ rectangle The height of from to CE BC = AE = is 4 cm, and 15 cm. The area of ABCDE pentagon is 200 square centimeters. Which of the following _v_a_lues is closest to the length, in CE centimeters, of ? D",
+          "choices": {
+            "C": "11.8 D. 12.8",
+            "A": "10.5",
+            "B": "15 15 11.3",
+            "E": "13.1 B A"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_28.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 56,
+          "stem": "In the standard (x,y) coordinate plane below, a circle with radius 2 coordinate units is centered at the origin. Point A is on the circle and on the terminal side of a 150\u00b0 angle in standard position. What are the coordinates of A? y 1 \u2212_\u221a__\u20223_,_1_ 2 F. A 1 1 _\u221a__\u20223_,\u2212_1_ 2 G. 150\u00b0 \u22121 O",
+          "choices": {
+            "H": "1 x (2,1) \u22121",
+            "J": "_1,\u2212\u221a\u20223+",
+            "K": "_\u2212\u221a\u20223,1+ 28 ACT-H11 2 DO"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_28.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 57,
+          "stem": "The line plot below shows the number of miles Bob framed each day for a new sidewalk. After he finished _1_ framing, he poured concrete for mile of sidewalk 2 each day. Which of the following is closest to the total number of days it took Bob to pour concrete for the entire sidewalk? X X X X X X X X X X X _1_ 1_ _3_ _1_ _5_ 3_ _7_ 0 1 8 4 8 2 8 4 8 length (mi)",
+          "choices": {
+            "A": "03",
+            "B": "05",
+            "C": "07",
+            "D": "09",
+            "E": "10"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_29.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 58,
+          "stem": "",
+          "choices": {
+            "A": "store that sells office furniture tracks the number of bookcases sold each day for a year and then prepares the data table below. Which of the following is closest to the number of bookcases the store can expect to sell in 100 randomly selected days? Bookcases sold Probability 0 0.06 1 0.12",
+            "F": "138 2 0.18",
+            "G": "190 3 0.34",
+            "H": "250 4 0.22",
+            "J": "278 5 0.08",
+            "K": "300 \u2264 \u2264"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_29.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 59,
+          "stem": "On the interval 0\u00b0 x 180\u00b0, what are all the real solutions to (2 cos,x+1)(cos,x\u22121) =0 ?",
+          "choices": {
+            "A": "00\u00b0 and 120\u00b0",
+            "B": "00\u00b0 and 150\u00b0",
+            "C": "30\u00b0 and 180\u00b0",
+            "D": "60\u00b0 and 120\u00b0",
+            "E": "60\u00b0 and 150\u00b0 16\u03c0feet."
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_29.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 60,
+          "stem": "The circumference of a circle is What is the perimeter, in feet, of a square inscribed in the circle?",
+          "choices": {
+            "F": "08",
+            "G": "08\u221a\u20222",
+            "H": "16",
+            "J": "16\u221a\u20222",
+            "K": "32\u221a\u20222 STOP! DO NOT TURN TH DO NOT RE 29 ACT-H11"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/math/page_29.jpg",
+          "correct": "K"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "name": "Reading",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "3 3\nmerely out of a sense of parental obligation. It was, in 5. Based on the passage, which of the following statements\nany case, our most effective way of communicating. best expresses how the narrator felt about accompany-\ning his father when his father played the improvised\nfugues?\nA. He liked accompanying his father, but was embar-\nrassed by his father\u2019s lack of musical talent.\nB. He liked accompanying his father, but was uncer-\ntain about his father\u2019s motivation for letting him\ndo so.\nC. He disliked accompanying his father, but was\ngrateful for his father\u2019s attempt at playing impro-\nvisational music.\nD. He disliked accompanying his father, but admired\nhis father\u2019s ability to improvise fugues.\n6. The narrator indicates that he selected the first jazz\n1. Which of the following events referred to in the passage\nalbum he ever purchased primarily based on the:\ntook place first chronologically?\nF. advice of a record store clerk.\nA. New Year\u2019s Day, 1960\nG. title and appearance of the album cover.\nB. The narrator\u2019s first trip to Birdland\nH. review of it he had read in Down Beat magazine.\nC. The narrator\u2019s first time seeing Benny Goodman\nJ. fact that his father played the piano.\nperform\nD. The narrator and his family\u2019s visit to Radio City\n7. According to the passage, when the narrator first arrives\nMusic Hall in New York City\nat Birdland, he feels slightly:\n2. The point of view from which the passage is told is best A. disappointed.\ndescribed as that of: B. intimidated.\nC. thrilled.\nF. a teenager recounting how he became interested in\nD. reassured.\nclassical music.\nG. a teenager recounting a family trip to New York.\n8. As it is used in line 51, the phrase ran to most nearly\nH. an adult recounting how his interest in jazz played\nmeans:\nan important role in his adolescence.\nJ. an adult recounting how he became interested in F. took refuge with.\nhis Polish roots. G. gravitated toward.\nH. imitated.\n3. Based on the passage, it can reasonably be inferred that J. performed with.\none reason the narrator liked jazz was that it:\n9. According to the passage, for the narrator the jazz con-\nA. was something his friends and family enjoyed.\ncerts he attended with his father are memorable\nB. was performed in clubs in the town where he grew\nbecause:\nup.\nC. afforded him an opportunity to take a correspon- A. his father played the piano with the musicians\ndence course from New York. onstage.\nD. gave him a way of distinguishing himself from his B. his father rarely left the house where they lived.\nfriends and family. C. the narrator got to spend time alone with his father.\nD. the narrator learned about the activities his father\n4. The primary purpose of lines 63\u201374 is to: enjoyed as a child.\nF. provide reasons why the narrator was envious of\n1 0. It can reasonably be inferred from the passage that the\nhis father\u2019s childhood.\nnarrator\u2019s father thought the improvisational nature of\nG. explain why the narrator\u2019s father might have had\njazz was:\ndifficulty bonding with the narrator.\nH. justify why the narrator\u2019s father was resentful of F. perplexing.\nthe life the narrator\u2019s family had at St. John\u2019s. G. annoying.\nJ. embellish stories that the narrator used to justify H. calming.\nhis father\u2019s remoteness. J. delightful.\n31 GO ON TO THE NEXT PAGE.\nACT-H11",
+          "questions": [
+            {
+              "number": 1,
+              "stem": "Which of the following events referred to in the passage took place first chronologically?",
+              "choices": {
+                "A": "New Year\u2019s Day, 1960",
+                "B": "The narrator\u2019s first trip to Birdland",
+                "C": "The narrator\u2019s first time seeing Benny Goodman perform",
+                "D": "The narrator and his family\u2019s visit to Radio City Music Hall in New York City"
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 2,
+              "stem": "The point of view from which the passage is told is best described as that of:",
+              "choices": {
+                "F": "a teenager recounting how he became interested in classical music.",
+                "G": "a teenager recounting a family trip to New York.",
+                "H": "an adult recounting how his interest in jazz played an important role in his adolescence.",
+                "J": "an adult recounting how he became interested in his Polish roots."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 3,
+              "stem": "Based on the passage, it can reasonably be inferred that one reason the narrator liked jazz was that it:",
+              "choices": {
+                "A": "was something his friends and family enjoyed.",
+                "B": "was performed in clubs in the town where he grew up.",
+                "C": "afforded him an opportunity to take a correspon- dence course from New York.",
+                "D": "gave him a way of distinguishing himself from his friends and family."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 4,
+              "stem": "The primary purpose of lines 63\u201374 is to:",
+              "choices": {
+                "F": "provide reasons why the narrator was envious of his father\u2019s childhood.",
+                "G": "explain why the narrator\u2019s father might have had difficulty bonding with the narrator.",
+                "H": "justify why the narrator\u2019s father was resentful of the life the narrator\u2019s family had at St. John\u2019s.",
+                "J": "embellish stories that the narrator used to justify his father\u2019s remoteness. 31 ACT-H11 3"
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 5,
+              "stem": "Based on the passage, which of the following statements best expresses how the narrator felt about accompany- ing his father when his father played the improvised fugues?",
+              "choices": {
+                "A": "He liked accompanying his father, but was embar- rassed by his father\u2019s lack of musical talent.",
+                "B": "He liked accompanying his father, but was uncer- tain about his father\u2019s motivation for letting him do so.",
+                "C": "He disliked accompanying his father, but was grateful for his father\u2019s attempt at playing impro- visational music.",
+                "D": "He disliked accompanying his father, but admired his father\u2019s ability to improvise fugues."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 6,
+              "stem": "The narrator indicates that he selected the first jazz album he ever purchased primarily based on the:",
+              "choices": {
+                "F": "advice of a record store clerk.",
+                "G": "title and appearance of the album cover.",
+                "H": "review of it he had read in Down Beat magazine.",
+                "J": "fact that his father played the piano."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 7,
+              "stem": "According to the passage, when the narrator first arrives at Birdland, he feels slightly:",
+              "choices": {
+                "A": "disappointed.",
+                "B": "intimidated.",
+                "C": "thrilled.",
+                "D": "reassured."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 8,
+              "stem": "As it is used in line 51, the phrase ran to most nearly means:",
+              "choices": {
+                "F": "took refuge with.",
+                "G": "gravitated toward.",
+                "H": "imitated.",
+                "J": "performed with."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 9,
+              "stem": "According to the passage, for the narrator the jazz con- certs he attended with his father are memorable because:",
+              "choices": {
+                "A": "his father played the piano with the musicians onstage.",
+                "B": "his father rarely left the house where they lived.",
+                "C": "the narrator got to spend time alone with his father.",
+                "D": "the narrator learned about the activities his father enjoyed as a child. 1 0. It can reasonably be inferred from the passage that the narrator\u2019s father thought the improvisational nature of jazz was:",
+                "F": "perplexing.",
+                "G": "annoying.",
+                "H": "calming.",
+                "J": "delightful. 31 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "genre": "SOCIAL SCIENCE",
+          "title": "Passage II",
+          "source": "",
+          "text": "55emerged as a dominant form of storytelling, probing the\ninner mental lives of its characters with an unrivaled\nSOCIAL SCIENCE: This passage is from How We Got to Now: depth. Entering a novel, particularly a first-person nar-\nSix Innovations That Made the Modern World by Steven rative, was a kind of conceptual parlor trick: it let you\nJohnson. swim through the consciousness, the thoughts and emo-\n60tions, of other people more effectively than any aes-\nThe art of the late Renaissance is heavily popu-\nthetic form yet invented. The psychological novel, in a\nlated by mirrors lurking inside paintings, most famously\nsense, is the kind of story you start wanting to hear\nin Diego Vel\u00e1zquez\u2019s inverted masterpiece, Las Meni-\nonce you begin spending meaningful hours of your life\nnas, which shows the artist (and the extended royal\nstaring at yourself in the mirror.\n5family) in the middle of painting King Philip IV and\nQueen Mariana of Spain. The entire image is captured\n65 How much does this transformation owe to glass?\nfrom the point of view of two royal subjects sitting for\nTwo things are undeniable: the mirror played a direct\ntheir portrait; it is, in a very literal sense, a painting\nrole in allowing artists to paint themselves and invent\nabout the act of painting. The king and queen are visi-\nperspective as a formal device; and shortly thereafter a\n10ble only in one small fragment of the canvas, just to the\nfundamental shift occurred in the consciousness of\nright of Vel\u00e1zquez himself: two small, blurry images\n70Europeans that oriented them around the self in a new\nreflected back in a mirror.\nway, a shift that would ripple across the world (and that\nis still rippling). No doubt many forces converged to\nAs a tool, the mirror became an invaluable asset to\nmake this shift possible: the self-centered world played\npainters who could now capture the world around them\nwell with the early forms of modern capitalism that\n15in a far more realistic fashion, including the detailed\n75were thriving in places like Venice and Holland (home\nfeatures of their own faces. Leonardo da Vinci observed\nto those masters of painterly introspection, D\u00fcrer and\nthe following in his notebooks (using mirrors, natu-\nRembrandt). Likely, these various forces complemented\nrally, to write in his legendary backward script):\neach other: glass mirrors were among the first high-tech\nfurnishings for the home, and once we began gazing\nWhen you wish to see whether the general\n80into those mirrors, we began to see ourselves differ-\n20 effect of your picture corresponds with that of ently, in ways that encouraged the market systems that\nthe object represented after nature, take a\nwould then happily sell us more mirrors. It\u2019s not that\nmirror and set it so that it reflects the actual\nthe mirror made the Renaissance, exactly, but that it got\nthing, and then compare the reflection with\ncaught up in a positive feedback loop with other social\nyour picture, and consider carefully whether\n85forces, and its unusual capacity to reflect light strength-\n25 the subject of the two images is in conformity ened those forces.\nwith both, studying especially the mirror. The\nmirror ought to be taken as a guide.\nFrom HOW WE GOT TO NOW: SIX INNOVATIONS THAT MADE THE\nMODERN WORLD by Steven Johnson, copyright \u00a9 2014 by Steven\nThe historian Alan MacFarlane writes of the role Johnson. Used by permission of Riverhead, an imprint of Penguin Pub-\nof glass in shaping artistic vision, \u201cIt is as if all humans lishing Group, a division of Penguin Random House LLC.\n30had some kind of systematic myopia, but one which\nmade it impossible to see, and particularly to represent,\nthe natural world with precision and clarity. Humans\nnormally saw nature symbolically, as a set of signs. . . .\nWhat glass ironically did was to take away or compen-\n35sate for the dark glass of human sight and the distor-\ntions of the mind, and hence to let in more light.\u201d\nAt the exact moment that the glass lens was allow-\ning us to extend our vision to the stars or microscopic 11. The primary purpose of the passage is to:\ncells, glass mirrors were allowing us to see ourselves\nA. contrast several experts\u2019 views about whether mir-\n40for the first time. It set in motion a reorientation of\nrors were invaluable to European society.\nsociety that was more subtle, but no less transforma-\nB. argue that the invention of the mirror led to the\ntive, than the reorientation of our place in the universe\ninvention of modern capitalism in Europe.\nthat the telescope engendered. \u201cThe most powerful\nC. examine the various effects the mirror had on\nprince in the world created a vast hall of mirrors, and\nEuropean art and society.\n45the mirror spread from one room to another in the bour-\nD. analyze ways in which the mirror caused European\ngeois household,\u201d Lewis Mumford writes in his\nartists to be more innovative.\nTechnics and Civilization. \u201cSelf-consciousness, intro-\nspection, mirror-conversation developed with the new\n1 2. Based on details in the passage, who would most likely\nobject itself.\u201d Social conventions as well as property\nassert that mirrors are a valuable tool for artists?\n50rights and other legal customs began to revolve around\nthe individual rather than the older, more collective F. Vel\u00e1zquez only\nunits: the family, the tribe, the city, the kingdom. G. MacFarlane only\nPeople began writing about their interior lives with far H. Both Leonardo and Mumford\nmore scrutiny. Hamlet ruminated onstage; the novel J. Both Leonardo and MacFarlane\n32 GO ON TO THE NEXT PAGE.\nACT-H11",
+          "questions": [
+            {
+              "number": 11,
+              "stem": "The primary purpose of the passage is to:",
+              "choices": {
+                "A": "contrast several experts\u2019 views about whether mir- rors were invaluable to European society.",
+                "B": "argue that the invention of the mirror led to the invention of modern capitalism in Europe.",
+                "C": "examine the various effects the mirror had on European art and society.",
+                "D": "analyze ways in which the mirror caused European artists to be more innovative. 1 2. Based on details in the passage, who would most likely assert that mirrors are a valuable tool for artists?",
+                "F": "Vel\u00e1zquez only",
+                "G": "MacFarlane only",
+                "H": "Both Leonardo and Mumford",
+                "J": "Both Leonardo and MacFarlane 32 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 13,
+              "stem": "The passage author most strongly suggests that the novel\u2019s emerging popularity was a result of the:",
+              "choices": {
+                "A": "glass lenses and mirrors allowed artists to repre- sent nature symbolically, as a set of signs.",
+                "B": "humans are afflicted with a systematic myopia that makes it impossible to see the world clearly.",
+                "C": "before windows, artists lacked access to light both indoors and beyond daylight hours.",
+                "D": "glass lenses and mirrors helped humans depict the natural world much more accurately. 1 6. According to the passage, compared to the reorienta- tion of society caused by the telescope, the reorienta- tion caused by the mirror was:",
+                "F": "less obvious but just as transformative.",
+                "G": "less obvious and less transformative.",
+                "H": "more obvious and similarly transformative.",
+                "J": "more obvious but less transformative. 33 ACT-H11"
+              },
+              "correct": "C",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "genre": "HUMANITIES",
+          "title": "Passage III",
+          "source": "",
+          "text": "Passage B by Karen Wilkin\nHUMANITIES: Passage A is from the article \u201cThis Modern Painter Kerry James Marshall, born in Birming-\nMaster Spent His Life Bringing Black Faces to Classic Art\u201d by ham, Alabama, and raised in Watts, Los Angeles, lives\nSam Worley. Passage B is from the article \u201cIn the Tower: Kerry and works in Chicago. He is the recipient of a\nJames Marshall\u201d by Karen Wilkin.\nMacArthur Fellowship, among other prestigious\n50awards, and has exhibited in major institutions in the\nPassage A by Sam Worley\nU.S. and Europe. His work figures in important\nmuseum and private collections, including a permanent\nKerry James Marshall knew he wanted to be an\ninstallation, completed in 2008, in the lobby of the San\nartist, but he didn\u2019t know what kind. After graduating\nFrancisco Museum of Modern Art\u2014vast frescoes of\nfrom Otis College of Art and Design in Los Angeles, he\n55George Washington at Mount Vernon and Thomas\ntried some social realist stuff. He tried collage. He tried\nJefferson at Monticello. Yet the Tower installation at\n5abstraction. But none of it fit. \u201cI hadn\u2019t quite figured\nthe National Gallery of Art in 2013 was his first\nout what my interest in making art was supposed to be,\u201d\none-person exhibition in Washington.\nhe says. \u201cExcept I really wanted to do it.\u201d\nThe selection in the Tower presents Marshall to us\nSo, at 25, he decided to return to the basics and\n60as a modern day History Painter\u2014a creator of large-\npaint a self-portrait\u2014a classic portrait, almost. Its title\nscale, often complex narrative images that are packed\n10alluded to a great literary work: Portrait of the Artist as\nwith references and populated by eloquent figures. The\na Shadow of His Former Self. Marshall used egg tem-\nleading lights of the eighteenth- and nineteenth-century\npera, a 13th-century favorite. He adopted compositional\nart establishment deemed History Painting to be the\ntechniques associated with artists such as\n65most high-minded and important of approaches\u2014a con-\nMichelangelo, Leonardo da Vinci, Raphael. But, of\nception of what painting could be that was attainable\n15course, his subject was black. So black that the shade of\nonly by the most ambitious, gifted artists. It is instantly\nhis skin is deeper than the portrait\u2019s black background,\nclear that Marshall lacks neither ambition nor talent\nwhich he fades into, as if invisible. Compared with con-\nnor, in fact, high-mindedness of a certain kind. But\nventional European portraiture, it\u2019s like a photo nega-\n70unlike his distinguished (and often dogmatic) predeces-\ntive. \u201cThis is where I first started to figure out you can\nsors\u2014who concentrated on scenes from ancient history,\n20use all that information, all that knowledge, you can use\nmythology, and the Bible, presented with a mix of\nthat technique, you can use this medium, but it doesn\u2019t\narchaeological accuracy and polite generalization\u2014he\nhave to look like any of the things that you say it\u2019s\ndoes not restrict himself to imaginary visions of a\nintellectually based on.\u201d\n75remote, idealized past.\nAnd so Marshall settled on creating a body of\nQuite the contrary: His unruly, discomfiting\n25work inspired by and in dialogue with the classics\u2014his\nimages fuse a commonplace, imperfect American pres-\nearly barbershop portrait De Style, for example, its\nent with palpable echoes of an even more imperfect\nname a sly play on the Dutch abstract art movement de\nAmerican past, all of it highlighting specifically\nStijl\u2014while remaining resolutely its own thing. He\n80African-American experience and all of it served up in\nfound success with a simple insistence on placing black\na rich, materially expressive language of intensely hued\n30people, and black history, at the center of his raucous,\npaint, extravagant mark-making, collage, and, occa-\ncolorful paintings, and that has opened a space for\nsionally, glitter. Fleeting allusions to the highest of\nyounger artists.\nhigh art of both the distant and recent past share the\n85canvas with present-day, vernacular, sometimes slightly\nOne Marshall disciple, Kehinde Wiley, the star\nham-fisted imagery, as well as African symbols and\n39-year-old New York artist whose huge canvases show\nemblems of African deities. Rather than cancelling each\n35black people in the heroic postures favored by the old\nother out, these unlikely bedfellows somehow reinforce\nmasters, has said that when, as a child, he walked into\neach other.\nthe Los Angeles County Museum of Art and saw a\nKerry James Marshall painting, its black subjects high-\nlighted nothing so much as their absence elsewhere in Passage A: Copyrighted 2016. Tribune Publishing. 126609:1216SH.\n40the museum.\nPassage B: Karen Wilkin, from \u201cIn the Tower: Kerry James Marshall,\u201d\nNew Criterion, October 2013.\nIn a certain sense, young Kehinde Wileys have\nalways been Marshall\u2019s target audience. \u201cIf I have any-\nthing to do with it, you\u2019ll always be able to encounter a\npicture that has a black person in it that\u2019s also made by\n45a black person,\u201d says Marshall.\n34 GO ON TO THE NEXT PAGE.\nACT-H11",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "Which of the following events mentioned in Passage A occurred first chronologically?",
+              "choices": {
+                "A": "Marshall\u2019s dissimilar images combine to create something new and portray a flawed America.",
+                "B": "Marshall\u2019s images are distinctive because they emphasize the present in unusual ways.",
+                "C": "Marshall\u2019s portrayal of present-day America is familiar yet unusual.",
+                "D": "Marshall\u2019s use of unexpected images in his por- trayal of America is needlessly extravagant. 35 ACT-H11",
+                "F": "establish where Marshall was born and raised.",
+                "G": "establish that Marshall is a well-regarded artist.",
+                "H": "provide a critique of some of Marshall\u2019s art installations.",
+                "J": "provide a comprehensive list of paintings Marshall has completed during his artistic career. 2 5. In the last paragraph of Passage B, the author describes Marshall\u2019s artistic philosophy. Which of the following statements best summarizes this description?"
+              },
+              "correct": "C",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "genre": "NATURAL SCIENCE",
+          "title": "Passage IV",
+          "source": "",
+          "text": "55 The Annals and other mathematical journals have\nhad to introduce specific policies to deal with\nNATURAL SCIENCE: This passage is from the book Numer- computer-assisted proofs: the human part of the proofs\nicon: A Journey through the Hidden Lives of Numbers by is refereed to the same standard as always but the com-\nMarianne Freiberger and Rachel Thomas. puter parts are treated more like an experiment\u2014the\n60methods are verified and other mathematicians are\nHexagonal tiles are available from your nearest\nencouraged to replicate the results, preferably using\nhardware store, and even nature loves to use them. Bees\ndifferent methods.\nbuild a honeycomb of hexagonal wax cells to store\npollen and honey and to house the bee larvae.\nIn 1999, just one year after Hales\u2019 mammoth proof\nof Kepler\u2019s Conjecture, Hales turned his attention to\n5 As well as being delicious, honeycomb illustrates 65the problem of honeycombs. Hales said that after his\na fascinating mathematical idea: a honeycomb is the\nexperience with Kepler\u2019s Conjecture he had \u2018come to\nmost efficient way to divide a plane into equal-sized\nexpect every theorem to be a monumental effort\u2019. To\nareas, in that it uses the least amount of wax. We have\nhis surprise, his proof of the Honeycomb Conjecture\nknown about this since at least AD 300 when the Greek\ntook only six months to complete (compared with\n10mathematician Pappus of Alexandria introduced the\n70\u2018years of forced labor\u2019 for the proof of Kepler\u2019s), was\nfifth book in his series The Mathematical Collection\n\u2018just\u2019 twenty pages long and required no significant use\nwith a charming diversion called On the Sagacity of\nof computers: \u2018I felt as if I\u2019d won the lottery.\u2019\nBees. People have believed for millennia that this Hon-\neycomb Conjecture is true, but it wasn\u2019t until 1999 that\nAs well as being a win for mathematicians, the\n15mathematician Thomas Hales confirmed it with a math-\nHoneycomb Conjecture does have an important conse-\nematical proof.\n75quence for bees. The conjecture proves they made a\nwise decision using the honeycomb structure for their\nHales\u2019 proof of the Honeycomb Conjecture came\nhives: it uses the least amount of wax. And making wax\nshortly after his groundbreaking proof in 1998 of the\nis very expensive for bees: they collectively need to\n400-year-old Kepler Conjecture, which essentially said\nconsume about 6 pounds of honey to make one pound\n20 that the most efficient way to stack oranges, in the 80of wax, and they\u2019d need to fly the equivalent of 9 times\nsense that it leaves the smallest gaps possible, was in\naround the world to collect enough pollen to produce\nthe familiar pyramid you see at the greengrocers. The\nthat much honey. However, it\u2019s unlikely that the reason\nquestion had been posed in the 16th century by Sir\nwhy bees use a honeycomb structure is because they\nWalter Raleigh (who also brought Europe the potato) to\nbeat Hales to a proof by millions of years. It\u2019s thought\n25 his assistant Thomas Harriot, although Raleigh was 85they actually build roughly circular cells, which when\nthinking of cannon balls rather than oranges. Harriot\npressed against each other deform into hexagons, the\neventually forwarded the question to Johannes Kepler,\nway soap bubbles form flat sides when they join\nand it now bears his name.\ntogether.\nHales\u2019 proof of Kepler\u2019s Conjecture was ground-\nFrom Numericon by Marianne Freiberger and Rachel Thomas. Copyright\n30breaking because a significant proportion of the proof\n\u00a9 2014 Marianne Freiberger and Rachel Thomas. Reproduced by per-\nwas done using a computer. Although this was still mission of Quercus Editions Limited.\nunusual in 1998 it wasn\u2019t entirely new: ever since the\ncomputer-assisted proof in 1976 of the four-colour the-\norem (which states that you need no more than four\n35colours to colour any flat map so that no two adjacent\ncountries or regions are shaded in the same colour), the\nmathematical community has had to come to terms with\nthis drastic change in the nature of mathematical proof.\nMathematicians had always prided themselves in need-\n40ing nothing but a pen, paper and their brain to prove a\ntheorem, but now a machine was doing some of the\nwork for them. How could they be sure there wasn\u2019t a\nbug in the code? At the time of Hales\u2019 result, the Annals\nof Mathematics, one of the most prestigious journals in\n45mathematics, had been handling computer-assisted\n31. Which of the following events referred to in the pas-\nproofs for nearly a decade. But Hales\u2019 proof was\nsage occurred first chronologically?\nanother ballgame altogether: it consisted of 250 pages\nof traditional mathematical proof and over 3 gigabytes A. Hales completed his proof of the Kepler\nof computer code and data. The Annals assembled a Conjecture.\n50team of twelve experts to verify the proof and after four B. Hales completed his proof of the Honeycomb\nyears the best they could say was that they were 99% Conjecture.\ncertain the proof was correct\u2014everywhere they looked C. Annals of Mathematics began handling computer-\nit was correct but they had to admit they would never assisted proofs.\nbe able to check the whole thing. D. The four-color theorem was proven.\n36 GO ON TO THE NEXT PAGE.\nACT-H11",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "Which of the following events referred to in the pas- sage occurred first chronologically?",
+              "choices": {
+                "A": "Hales completed his proof of the Kepler Conjecture.",
+                "B": "Hales completed his proof of the Honeycomb Conjecture.",
+                "C": "Annals of Mathematics began handling computer- assisted proofs.",
+                "D": "The four-color theorem was proven. 36 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 32,
+              "stem": "In the passage, the authors mention the fifth book of Pappus of Alexandria\u2019s The Mathematical Collection in part to:",
+              "choices": {
+                "F": "served.",
+                "G": "advised.",
+                "H": "consulted.",
+                "J": "handled. 3 5. The main point of the fifth paragraph (lines 55\u201362) is that:",
+                "A": "mathematical journals have implemented new pol- icies that mathematicians follow when verifying the results of computer-assisted proofs.",
+                "B": "mathematical journals rarely publish computer- assisted proofs because the methods to verify the proofs are too costly.",
+                "C": "mathematicians had to change their methods of verifying the results of proofs completed by hand after the introduction of computer-assisted proofs.",
+                "D": "mathematicians prefer verifying the results of proofs completed by hand to verifying the results of computer-assisted proofs. STOP! DO N 37 ACT-H11"
+              },
+              "correct": "H",
+              "lineRef": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "title": "Passage i",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_38.jpg",
+          "startPage": 38,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "Which 2 types of diesel fuel were made from the same type of plant?",
+              "choices": {
+                "A": "Types W and X",
+                "B": "Types X and Y",
+                "C": "Types X and Z",
+                "D": "Types Y and Z"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_38.jpg"
+            },
+            {
+              "number": 2,
+              "stem": "Based on Tables 1 and 3, was the diesel fuel type that burned for the shortest time in an oil lamp a type of biodiesel?",
+              "choices": {
+                "F": "Yes; Type W was made from petroleum.",
+                "G": "Yes; Type X was made from dried algae.",
+                "H": "No; Type W was made from petroleum.",
+                "J": "No; Type X was made from dried algae. 38 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_38.jpg"
+            },
+            {
+              "number": 3,
+              "stem": "Based on Table 3, the time that it took for Type W to drain from a pipet was approximately how many times as great as the time that it took for Type X to drain from a pipet? 1 A. 4 1 B. 2",
+              "choices": {
+                "C": "2",
+                "D": "4"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_38.jpg"
+            },
+            {
+              "number": 4,
+              "stem": "Consider the procedure used to obtain the data shown in Table 2. If the water in the can had an initial tempera- ture of 22\u00b0C before the fuel sample was burned, what was the temperature of the water immediately after the Type Z fuel sample was burned?",
+              "choices": {
+                "F": "9\u00b0C",
+                "G": "13\u00b0C",
+                "H": "35\u00b0C",
+                "J": "38\u00b0C 39 4"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_38.jpg"
+            },
+            {
+              "number": 5,
+              "stem": "Suppose that the procedures used to obtain the data shown in Table 2 were repeated except that 200.0 mL of water was in the aluminum can. Would the water temperature increases obtained more likely be greater than or less than the values listed in Table 2?",
+              "choices": {
+                "A": "Greater; a larger volume of water would increase in temperature by a greater amount when burning each fuel.",
+                "B": "Greater; a smaller volume of water would increase in temperature by a greater amount when burning each fuel.",
+                "C": "Less; a larger volume of water would increase in temperature by a smaller amount when burning each fuel.",
+                "D": "Less; a smaller volume of water would increase in temperature by a smaller amount when burning each fuel."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_38.jpg"
+            },
+            {
+              "number": 6,
+              "stem": "Consider only the biodiesel fuel types listed in Table 1. Based on Table 2, which of the biodiesel fuel types caused the temperature of the water in the can to increase the most?",
+              "choices": {
+                "F": "Type W",
+                "G": "Type X",
+                "H": "Type Y",
+                "J": "Type Z 39 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_38.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "title": "Passage II",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_40.jpg",
+          "startPage": 40,
+          "questions": [
+            {
+              "number": 7,
+              "stem": "Students 2 and 4 both indicated that root nodules:",
+              "choices": {
+                "A": "form only when the bacteria are present.",
+                "B": "form whether the bacteria are present or not.",
+                "C": "provide a place for helpful bacteria to live.",
+                "D": "keep bacteria from spreading to other parts of the plant."
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_40.jpg"
+            },
+            {
+              "number": 8,
+              "stem": "Suppose that an additional study showed that if the bacteria were present, soybean plants required less fer- tilizer to reach their maximum size. This result would support the prediction(s) of which of the students?",
+              "choices": {
+                "F": "Student 2 only",
+                "G": "Students 1 and 2 only",
+                "H": "Students 1, 3, and 4 only",
+                "J": "Students 1, 2, 3, and 4 40 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_40.jpg"
+            },
+            {
+              "number": 9,
+              "stem": "How did the students ensure that the bacteria were pres- ent in only half of the pots? They filled the pots with a:",
+              "choices": {
+                "A": "0",
+                "B": "2",
+                "C": "3",
+                "D": "4 41 GO ON TO THE NEXT PAGE.",
+                "F": "Student 1 only",
+                "G": "Student 4 only",
+                "H": "Both Student 1 and Student 4",
+                "J": "Neither Student 1 nor Student 4 1 3. How many of the students, if any, stated that the bacte- ria must produce nitrogen to infect a plant\u2019s roots?"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_40.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "title": "Passage III",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_42.jpg",
+          "startPage": 42,
+          "questions": [
+            {
+              "number": 14,
+              "stem": "In which of the following ways did Study 1 differ from Study 2 ? In Study 1:",
+              "choices": {
+                "F": "less than 215 \u03bcs.",
+                "G": "between 215 \u03bcs and 250 \u03bcs.",
+                "H": "between 250 \u03bcs and 300 \u03bcs.",
+                "J": "greater than 300 \u03bcs. 43 GO ON TO THE NEXT PAGE.",
+                "A": "05 \u03bcs",
+                "B": "25 \u03bcs",
+                "C": "45 \u03bcs",
+                "D": "65 \u03bcs 2 0. Suppose that Study 2 had included a trial in which a row of 5 spheres and a release height of 0.6 cm had been tested. The interaction time measured for that trial would most likely have been:"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_42.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "title": "Passage IV",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_44.jpg",
+          "startPage": 44,
+          "questions": [
+            {
+              "number": 21,
+              "stem": "Based on Figure 2, which of the following graphs best shows the average Se contents of the sediments taken from a depth of 7 cm ?",
+              "choices": {
+                "A": ")gk/gm( C. )gk/gm( 1.5 1.5 egareva 1.0 egareva 1.0 tnetnoc tnetnoc 0.5 0.5 eS 0 eS 0 n h flat n h flat i s i s la mar la mar p al p al h d h d mars e r t i mars e r t i w w o o l l",
+                "B": ")gk/gm( D. )gk/gm( 1.5 1.5 egareva 1.0 egareva 1.0 tnetnoc tnetnoc 0.5 0.5 eS 0 eS 0 i n mars h flat i n s h flat la la mar p dal p al h h d mars r ti mars r i w e w e t o o l l 44 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_44.jpg"
+            },
+            {
+              "number": 22,
+              "stem": "According to Figure 3, the average OM contents, in percent by mass, of the marsh plain sediment and the lower marsh sediment taken from a depth of 5 cm were closest to which of the following? marsh plain lower marsh",
+              "choices": {
+                "F": "less than 0.55 mg/kg.",
+                "G": "between 0.55 mg/kg and 0.65 mg/kg.",
+                "H": "between 0.65 mg/kg and 0.75 mg/kg.",
+                "J": "greater than 0.75 mg/kg. 45 GO ON TO THE NEXT PAGE.",
+                "A": "05 cm",
+                "B": "10 cm",
+                "C": "15 cm",
+                "D": "20 cm 2 6. Suppose that the core samples had included sediment taken from a depth of 21 cm. Based on Figure 2, the average Se content of the tidal flat sediment taken from that depth would most likely have been:"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_44.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-v",
+          "title": "Passage V",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_46.jpg",
+          "startPage": 46,
+          "questions": [
+            {
+              "number": 4,
+              "stem": "Send light through the sample. These steps were performed in what order?",
+              "choices": {
+                "A": "Trial 3; the A for Trial 3 was higher than the A for Trial 10.",
+                "B": "Trial 3; the A for Trial 3 was lower than the A for Trial 10.",
+                "C": "Trial 10; the A for Trial 10 was higher than the A for Trial 3.",
+                "D": "Trial 10; the A for Trial 10 was lower than the A for Trial 3. 47 GO ON TO THE NEXT PAGE.",
+                "F": "1 L of solution contains 18.8 g of dissolved Ni2+.",
+                "G": "1 g of solution contains 18.8 L of dissolved Ni2+.",
+                "H": "18.8 L of solution contains 1 g of dissolved Ni2+.",
+                "J": "18.8 g of solution contains 1 L of dissolved 3 3. Based on the results of Experiments 1 and 2, did a greater amount of light reach the detector in Trial 3 or in Trial 10?"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_46.jpg"
+            },
+            {
+              "number": 27,
+              "stem": "Which of the following variables was held constant in Experiment 1 but intentionally varied in Experiment 2?",
+              "choices": {
+                "A": "Cuvette width",
+                "B": "Light wavelength",
+                "C": "Sample absorbance",
+                "D": "Ni2+ concentration 2 8. The following table shows wavelength ranges for colors of visible light. Wavelength range Color (nm) Violet 400\u2212450 Blue 451\u2212480 Green 481\u2212560 Yellow 561\u2212590 Red 591\u2212720 Based on this table, what was the color of light that came out of the light source?",
+                "F": "Blue",
+                "G": "Green",
+                "H": "Yellow",
+                "J": "Red 46 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_46.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-vi",
+          "title": "Passage VI",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_48.jpg",
+          "startPage": 48,
+          "questions": [
+            {
+              "number": 34,
+              "stem": "Which of the following conditions was different in Experiment 1 than in Experiment 2?",
+              "choices": {
+                "F": "500",
+                "G": "2,000",
+                "H": "30,000",
+                "J": "120,000 END OF TEST 4 STOP! DO NOT RETURN TO ANY OTHER TEST. 49",
+                "A": "Parasitic; Strain P",
+                "B": "Parasitic; Strain R",
+                "C": "Mutualistic; Strain P",
+                "D": "Mutualistic; Strain R 4 0. In Experiment 1, between each sample removal, approximately how many times did a flask rotate?"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/H11/science/page_48.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scaleTable": {
+    "english": {
+      "74": 36,
+      "75": 36,
+      "71": 35,
+      "72": 35,
+      "73": 35,
+      "69": 34,
+      "70": 34,
+      "68": 33,
+      "67": 32,
+      "66": 31,
+      "65": 30,
+      "64": 29,
+      "62": 28,
+      "63": 28,
+      "61": 27,
+      "59": 26,
+      "60": 26,
+      "57": 25,
+      "58": 25,
+      "54": 24,
+      "55": 24,
+      "56": 24,
+      "52": 23,
+      "53": 23,
+      "50": 22,
+      "51": 22,
+      "46": 21,
+      "47": 21,
+      "48": 21,
+      "49": 21,
+      "43": 20,
+      "44": 20,
+      "45": 20,
+      "41": 19,
+      "42": 19,
+      "39": 18,
+      "40": 18,
+      "37": 17,
+      "38": 17,
+      "35": 16,
+      "36": 16,
+      "31": 15,
+      "32": 15,
+      "33": 15,
+      "34": 15,
+      "28": 14,
+      "29": 14,
+      "30": 14,
+      "25": 13,
+      "26": 13,
+      "27": 13,
+      "23": 12,
+      "24": 12,
+      "20": 11,
+      "21": 11,
+      "22": 11,
+      "17": 10,
+      "18": 10,
+      "19": 10,
+      "15": 9,
+      "16": 9,
+      "13": 8,
+      "14": 8,
+      "10": 7,
+      "11": 7,
+      "12": 7,
+      "8": 6,
+      "9": 6,
+      "6": 5,
+      "7": 5,
+      "5": 4,
+      "3": 3,
+      "4": 3,
+      "2": 2,
+      "0": 1,
+      "1": 1
+    },
+    "math": {
+      "59": 36,
+      "60": 36,
+      "57": 35,
+      "58": 35,
+      "56": 34,
+      "55": 33,
+      "53": 32,
+      "54": 32,
+      "52": 31,
+      "50": 30,
+      "51": 30,
+      "48": 29,
+      "49": 29,
+      "46": 28,
+      "47": 28,
+      "44": 27,
+      "45": 27,
+      "41": 26,
+      "42": 26,
+      "43": 26,
+      "39": 25,
+      "40": 25,
+      "37": 24,
+      "38": 24,
+      "35": 23,
+      "36": 23,
+      "34": 22,
+      "32": 21,
+      "33": 21,
+      "30": 20,
+      "31": 20,
+      "29": 19,
+      "26": 18,
+      "27": 18,
+      "28": 18,
+      "23": 17,
+      "24": 17,
+      "25": 17,
+      "18": 16,
+      "19": 16,
+      "20": 16,
+      "21": 16,
+      "22": 16,
+      "15": 15,
+      "16": 15,
+      "17": 15,
+      "11": 14,
+      "12": 14,
+      "13": 14,
+      "14": 14,
+      "9": 13,
+      "10": 13,
+      "7": 12,
+      "8": 12,
+      "6": 11,
+      "5": 10,
+      "4": 9,
+      "3": 7,
+      "2": 6,
+      "1": 4,
+      "0": 1
+    },
+    "reading": {
+      "38": 36,
+      "39": 36,
+      "40": 36,
+      "37": 35,
+      "35": 34,
+      "36": 34,
+      "34": 33,
+      "33": 32,
+      "32": 31,
+      "31": 30,
+      "30": 29,
+      "29": 27,
+      "28": 26,
+      "27": 24,
+      "25": 23,
+      "26": 23,
+      "24": 22,
+      "23": 21,
+      "21": 20,
+      "22": 20,
+      "20": 19,
+      "19": 18,
+      "18": 17,
+      "17": 16,
+      "16": 15,
+      "15": 14,
+      "14": 13,
+      "12": 12,
+      "13": 12,
+      "9": 11,
+      "10": 11,
+      "11": 11,
+      "8": 10,
+      "7": 9,
+      "6": 8,
+      "5": 7,
+      "4": 6,
+      "3": 5,
+      "2": 3,
+      "1": 2,
+      "0": 1
+    },
+    "science": {
+      "40": 36,
+      "39": 35,
+      "38": 34,
+      "37": 32,
+      "36": 31,
+      "35": 30,
+      "34": 28,
+      "33": 27,
+      "32": 26,
+      "30": 25,
+      "31": 25,
+      "28": 24,
+      "29": 24,
+      "25": 23,
+      "26": 23,
+      "27": 23,
+      "24": 22,
+      "22": 21,
+      "23": 21,
+      "21": 20,
+      "19": 19,
+      "20": 19,
+      "17": 18,
+      "18": 18,
+      "15": 17,
+      "16": 17,
+      "13": 16,
+      "14": 16,
+      "12": 15,
+      "11": 14,
+      "10": 13,
+      "9": 12,
+      "8": 11,
+      "7": 10,
+      "6": 9,
+      "5": 8,
+      "4": 7,
+      "3": 6,
+      "2": 4,
+      "1": 3,
+      "0": 1
+    }
+  }
+}

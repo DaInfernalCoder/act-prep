@@ -60,7 +60,10 @@ export default function TestPage() {
   const goTo = (idx) => { if (idx >= 0 && idx < total) setQuestion(idx) }
 
   // Left pane image src — all sections use rendered page images
-  const leftImageSrc = passage?.imageSrc || q.imageSrc || null
+  // English: use per-question page image. Other sections: passage image first.
+  const leftImageSrc = currentSection === 'english'
+    ? (q.imageSrc || passage?.imageSrc || null)
+    : (passage?.imageSrc || q.imageSrc || null)
 
   return (
     <div className="h-screen flex flex-col bg-white">

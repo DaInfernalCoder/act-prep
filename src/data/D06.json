@@ -1,0 +1,2704 @@
+{
+  "id": "D06",
+  "name": "ACT Form D06",
+  "sections": [
+    {
+      "id": "english",
+      "name": "English",
+      "timeMinutes": 45,
+      "passages": [
+        {
+          "id": "eng-p1",
+          "title": "Passage 1",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_2.jpg",
+          "startPage": 2,
+          "questions": [
+            {
+              "number": 2,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "it was the prolonged winter gloom that alarmed artist Martin Andersen.",
+                "H": "artist Martin Andersen was alarmed by the pro- longed winter gloom.",
+                "J": "the gloom that lasted all winter was alarming for artist Martin Andersen."
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_2.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 3,
+              "stem": "The writer is considering revising the underlined por- tion to the following: redirect sunlight into the town. Should the writer make this revision?",
+              "choices": {
+                "A": "Yes, because it indicates the materials Andersen hoped to use to build the mirrors.",
+                "B": "Yes, because it more specifically establishes what Andersen hoped to do.",
+                "C": "No, because it suggests that Andersen\u2019s idea dif- fered from the ideas mentioned in the following sentence.",
+                "D": "No, because the original sentence more succinctly establishes what Andersen\u2019s plans were. ctexam.net 2 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_2.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 4,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "but",
+                "H": "yet",
+                "J": "and"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_3.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 5,
+              "stem": "Which choice provides the most specific reason Eyde could not build the sun mirrors?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "had come to understand that building the mirrors wasn\u2019t feasible,",
+                "C": "had realized that the necessary technology didn\u2019t exist,",
+                "D": "had recognized that the project could not succeed,"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_3.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 6,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "reality. When three",
+                "H": "reality, three",
+                "J": "reality three"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_3.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 7,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "mountain because",
+                "C": "mountain and",
+                "D": "mountain,"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_3.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 8,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "lead to the cliffside construction sight.",
+                "H": "lead to the cliffside construction cite.",
+                "J": "led to the cliffside construction site."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_3.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 9,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "tools, such as thirty-foot, wooden, tripods",
+                "C": "tools such as thirty-foot wooden tripods,",
+                "D": "tools, such as thirty-foot wooden tripods"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_3.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 10,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "help each other out",
+                "H": "are synchronized",
+                "J": "conspire together"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_3.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 11,
+              "stem": "If the writer were to delete the underlined portion (adjusting the capitalization as needed), the essay would primarily lose information that:",
+              "choices": {
+                "A": "reveals the size and location of the light reflected by the mirrors.",
+                "B": "describes the mechanism that adjusts the mirrors during the day.",
+                "C": "clarifies where the mirrors are located in relation to the town.",
+                "D": "specifies why the mirrors adjust throughout the day. ctexam.net 3 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_3.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 12,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Germany and, monitored in Rjukan, and",
+                "H": "Germany and monitored in Rjukan, and,",
+                "J": "Germany and monitored in Rjukan and"
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_4.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 13,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "reaches the town are",
+                "C": "reach the town are",
+                "D": "reach the town is"
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_4.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 14,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "when the Solspeil, controlled remotely,",
+                "H": "at the initial time the Solspeil",
+                "J": "when the Solspeil Question 15 asks about the preceding passage as a whole."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_4.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 15,
+              "stem": "Suppose the writer\u2019s primary purpose had been to describe a technological project that benefited a com- munity. Would this essay accomplish that purpose?",
+              "choices": {
+                "A": "Yes, because it focuses on the international atten- tion Rjukan has experienced since the completion of the Solspeil.",
+                "B": "Yes, because it describes the planning and con- struction of the Solspeil, which brought the sun to Rjukan residents in winter.",
+                "C": "No, because it focuses mainly on the history of Rjukan and its founder, Sam Eyde.",
+                "D": "No, because it discusses mainly Andersen\u2019s art- work, comparing the Solspeil to his work in other cities. ctexam.net 4 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_4.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 16,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "were",
+                "H": "was",
+                "J": "is"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_5.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 17,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "by folks rattling them off",
+                "C": "through spoken word",
+                "D": "in chitchat"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_5.jpg",
+              "correct": "C"
+            }
+          ]
+        },
+        {
+          "id": "eng-p2",
+          "title": "Passage 2",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_5.jpg",
+          "startPage": 5,
+          "questions": [
+            {
+              "number": 18,
+              "stem": "Which choice most effectively indicates why scops needed great memorization skills?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "(performances could last from several minutes to several days)",
+                "H": "(audiences could range from a few to many people)",
+                "J": "(better than that of the average person)"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_5.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 19,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "regularly as part of their usual routine.",
+                "C": "on a regular basis.",
+                "D": "a lot."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_5.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 20,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "scops were writers of songs,",
+                "H": "they wrote songs,",
+                "J": "songs,"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_5.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 21,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "for",
+                "C": "so",
+                "D": "DELETE the underlined portion."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_5.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 22,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "in other words,",
+                "H": "nonetheless,",
+                "J": "in fact,"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_5.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 23,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "scops after the scops proved they were worthy of such a gift.",
+                "C": "scops when the royals felt they had earned it.",
+                "D": "scops when the scops proved worthy. ctexam.net 5 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_5.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 24,
+              "stem": "The writer is considering revising the underlined por- tion to the following: which could be used as status symbols to dis- play one\u2019s success\u2014 Given that the information is accurate, should the writer make this revision?",
+              "choices": {
+                "F": "Yes, because the revised phrase more clearly explains why coins and gold rings would be useful to scops.",
+                "G": "Yes, because the revised phrase more clearly describes why scops were important to royals.",
+                "H": "No, because the revised phrase fails to maintain the paragraph\u2019s focus on why scops were highly valued in Anglo-Saxon society.",
+                "J": "No, because the revised phrase fails to explain how the gifts were of use to scops."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_6.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 25,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "for whom",
+                "C": "whom",
+                "D": "who"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_6.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 26,
+              "stem": "Which of the following true statements, if added here, would create the most effective transition between the first sentence of the paragraph and the information that follows?",
+              "choices": {
+                "F": "A scop would often travel through several commu- nities, performing in various locations.",
+                "G": "Sometimes audience members sang along with the scops during performances.",
+                "H": "The best scops could keep an audience\u2019s attention for long periods.",
+                "J": "A scop was also a moral compass for the community."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_6.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 27,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "over",
+                "C": "by",
+                "D": "DELETE the underlined portion."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_6.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 28,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "next. Thereby providing",
+                "H": "next, providing",
+                "J": "next. Providing ctexam.net 6 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_6.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 31,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "his \u201csummer office\u201d (a nickname)",
+                "C": "his: \u201csummer office,\u201d a nickname",
+                "D": "his \u201csummer office\u201d a nickname"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_7.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 32,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "morning we walked to the dock and readied",
+                "H": "morning, walking to the dock and readying",
+                "J": "morning, walking to the dock to ready"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_7.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 33,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "sonar, and piloted,",
+                "C": "sonar and piloted,",
+                "D": "sonar and piloted"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_7.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 34,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "the images showed",
+                "H": "they showed",
+                "J": "showed"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_7.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 35,
+              "stem": "Which choice most precisely characterizes the arrange- ment of \u201cmatchsticks\u201d as haphazard?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "jumble",
+                "C": "range",
+                "D": "batch ctexam.net 7 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_7.jpg",
+              "correct": "B"
+            }
+          ]
+        },
+        {
+          "id": "eng-p3",
+          "title": "Passage 3",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_8.jpg",
+          "startPage": 8,
+          "questions": [
+            {
+              "number": 37,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "the underwater video camera\u2019s view of the grapple arm:",
+                "C": "the boat\u2019s underwater video camera\u2019s view:",
+                "D": "the underwater video camera\u2019s view:"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_8.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 38,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "that, Uncle Lee, thought",
+                "H": "that, Uncle Lee thought",
+                "J": "that Uncle Lee thought,"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_8.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 39,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "pulling",
+                "C": "pulled",
+                "D": "pull"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_8.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 40,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "a repugnantly filthy and prodigiously sized",
+                "H": "an excessively proportioned, begrimed",
+                "J": "a slimy, hefty d 41. A. NO CHANGE",
+                "B": "axe, he explained,",
+                "C": "axe, he explained",
+                "D": "axe he explained,"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_8.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 42,
+              "stem": "The best placement for the underlined portion would be:",
+              "choices": {
+                "F": "where it is now.",
+                "G": "after the word age.",
+                "H": "after the word tree (and before the dash).",
+                "J": "after the word looking."
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_8.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 43,
+              "stem": "Which choice puts the age of the tree into perspective by using a specific detail?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "may have started life a century before the Declara- tion of Independence.",
+                "C": "had spent many more years under water than it had on land.",
+                "D": "first sprouted from seed a remarkably long time ago. ctexam.net 8 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_8.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 44,
+              "stem": "Which choice best illustrates that the narrator felt a moderate degree of proficiency at operating the grap- ple arm?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "I\u2019d perfected the skill of",
+                "H": "I still struggled with",
+                "J": "I\u2019d tried my hand at"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_9.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 45,
+              "stem": "Which choice most effectively concludes the essay by alluding to both the past and future of the salvaged t logs?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "The kind of wood we\u2019d recovered\u2014old-growth, tight-grained hardwood\u2014wasn\u2019t really available from commercial loggers anymore.",
+                "C": "Our load of high-quality wood would become beautiful furniture or flooring, complete with an immersing backstory.",
+                "D": "With those heavy logs along for the ride, the boat moved a bit sluggishly, but even so we made it home by dinnertime."
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_9.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 46,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "in pursuit of her PhD",
+                "H": "was pursuing her PhD",
+                "J": "pursuing her PhD"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_9.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 47,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "her if she wanted to see a meteorite",
+                "C": "her, if she wanted to see a meteorite,",
+                "D": "her, if she wanted, to see a meteorite"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_9.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 48,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "After that day, the",
+                "H": "Since then, the",
+                "J": "The"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_9.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 49,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "it was there that",
+                "C": "where",
+                "D": "DELETE the underlined portion. ctexam.net 9 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_9.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 50,
+              "stem": "Which choice most strongly indicates that the mass spectrometer did not directly reveal the processes that created meteorites?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "determined",
+                "H": "hinted at",
+                "J": "showed"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_10.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 51,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "facilitated",
+                "C": "assisted",
+                "D": "aided"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_10.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 52,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Mars, and the asteroid belt; the y. H. Mars and the asteroid belt. The",
+                "J": "Mars and the asteroid belt, the"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_10.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 53,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "supernova, which exploded",
+                "C": "supernova that exploded",
+                "D": "supernova, exploding",
+                "G": "In other words, er H. Even so,",
+                "J": "Instead, d 55. A. NO CHANGE"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_10.jpg",
+              "correct": "A"
+            }
+          ]
+        },
+        {
+          "id": "eng-p4",
+          "title": "Passage 4",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_10.jpg",
+          "startPage": 10,
+          "questions": [
+            {
+              "number": 56,
+              "stem": "At this point, the writer is considering adding the fol- lowing sentence: Wadhwa has twice been to Antarctica to hunt for meteorites. Should the writer make this addition here?",
+              "choices": {
+                "F": "Yes, because it emphasizes that Wadhwa is pas- sionate about studying meteorites.",
+                "G": "Yes, because it further demonstrates the meteorite expertise Wadhwa has developed.",
+                "H": "No, because it presents information that is dis- cussed earlier in the essay.",
+                "J": "No, because it is only loosely related to the con- tent of the paragraph. ctexam.net 10 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_10.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 57,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "herself,",
+                "C": "itself,",
+                "D": "for it,"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_11.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 58,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "astronomers Carolyn,",
+                "H": "astronomers Carolyn",
+                "J": "astronomers; Carolyn"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_11.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 59,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Planet, meaning that one day,",
+                "C": "Planet, meaning that, one day",
+                "D": "Planet, meaning, that one day"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_11.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 60,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "herself once verbally said,",
+                "H": "said in her own words,",
+                "J": "vocally stated,"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_11.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 61,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "may be less renowned than",
+                "C": "may be less renowned then",
+                "D": "maybe less renowned then"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_11.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 62,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "wasn\u2019t any",
+                "H": "were no",
+                "J": "was no"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_11.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 63,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Stax, infused with s. C. Stax, which had",
+                "D": "Stax with ctexam.net 11 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_11.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 64,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "which",
+                "H": "whom",
+                "J": "who"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_12.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 65,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Although they knew",
+                "C": "While knowing",
+                "D": "Knowing ir 66. F. NO CHANGE",
+                "G": "summoned l H. convened",
+                "J": "invited"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_12.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 67,
+              "stem": "If the writer were to delete the underlined portion, the essay would primarily lose a detail that:",
+              "choices": {
+                "A": "helps explain why talented artists would join a fledgling studio run by people with little experi- ence in the industry.",
+                "B": "suggests why unestablished and unconventional artists were overlooked by the more exclusive studios.",
+                "C": "indicates that bigger studios felt threatened by having Stax as a competitor.",
+                "D": "establishes that Stewart and Axton knew little about the music industry."
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_12.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 68,
+              "stem": "Which choice would provide the most effective transi- tion between this paragraph and the next paragraph?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "worked closely with Stewart and Axton to make Stax a successful studio.",
+                "H": "all became a part of the musical \u201cconversation\u201d happening there.",
+                "J": "launched their careers at Stax."
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_12.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 69,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "1960s, during which",
+                "C": "1960s; both",
+                "D": "1960s,"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_12.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 70,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "of this contributed",
+                "H": "contributing",
+                "J": "contributed ctexam.net 12 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_12.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 71,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "studios, performers worked from",
+                "C": "studios performers worked, from",
+                "D": "studios performers worked from,"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_13.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 72,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "In contrast,",
+                "H": "Likewise,",
+                "J": "Besides,"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_13.jpg",
+              "correct": "G"
+            }
+          ]
+        },
+        {
+          "id": "eng-p5",
+          "title": "Passage 5",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_13.jpg",
+          "startPage": 13,
+          "questions": [
+            {
+              "number": 73,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "from",
+                "C": "upon",
+                "D": "to"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_13.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 74,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "building, consequently,",
+                "H": "building, however,",
+                "J": "building Question 75 asks about the preceding passage as a whole."
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_13.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 75,
+              "stem": "The writer is considering adding the following sen- tence to the essay: In general, recorded music couldn\u2019t capture the depth of sound that could be heard at a live performance. If the writer were to add this sentence, it would most logically be placed at:",
+              "choices": {
+                "A": "Point A in Paragraph 1.",
+                "B": "Point B in Paragraph 2.",
+                "C": "Point C in Paragraph 3.",
+                "D": "Point D in Paragraph 5. END OF TEST 1 DO NOT TURN THE PAGE UNTIL TOLD TO DO SO. ctexam.net 13"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/english/page_13.jpg",
+              "correct": "D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "timeMinutes": 60,
+      "questions": [
+        {
+          "number": 1,
+          "stem": "In the figure below, C is on BD, measures 40\u00b0, and \u2220ABC measures 110\u00b0. What is the measure of \u2220ACD? A 40\u00b0 ? 110\u00b0",
+          "choices": {
+            "B": "120\u00b0",
+            "A": "110\u00b0",
+            "C": "130\u00b0",
+            "D": "140\u00b0",
+            "E": "150\u00b0 _1_a+10"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_14.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 2,
+          "stem": "For what value of ais the equation =6 true? 2",
+          "choices": {
+            "F": "\u221232 0\u22128 G.",
+            "H": "0\u22122",
+            "J": "08",
+            "K": "32"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_14.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 3,
+          "stem": "What is the least common denominator of the fractions _4__, _1__, _3_ and ? 15 20 8",
+          "choices": {
+            "A": "0,024",
+            "B": "0,120",
+            "C": "0,300",
+            "D": "0,480",
+            "E": "2,400 \u23aa5 \u22123\u23aa\u2212\u23aa1 \u22126\u23aa=? 4. \u22127 F.",
+            "G": "\u22123",
+            "H": "3",
+            "J": "7",
+            "K": "15 www.actexam.net 14 ACT-D06 2 ___ ____ DO"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_14.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 5,
+          "stem": "In the trapezoid below, AB is parallel to DC. What is the measure of \u2220C? B 85\u00b0",
+          "choices": {
+            "A": "050\u00b0",
+            "B": "095\u00b0",
+            "C": "115\u00b0",
+            "D": "130\u00b0",
+            "E": "135\u00b0"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_15.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 6,
+          "stem": "Gao earns his regular pay of $12 per hour for up to 40 hours of work per week. For each hour over 1_1_ 40hours of work per week, Gao is paid times his 2 regular pay. How much does Gao earn in a week in which he works 56 hours?",
+          "choices": {
+            "F": "$0,672",
+            "G": "$0,756",
+            "H": "$0,768",
+            "J": "$1,008",
+            "K": "$1,344"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_15.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 7,
+          "stem": "On the first day of school, Ms. Dubacek gave her third-grade students 6 new spelling words to learn. On each day of school after that, she gave the students 3 new spelling words. How many new spelling words had she given the students by the end of the 21st day of school?",
+          "choices": {
+            "A": "60",
+            "B": "63",
+            "C": "66",
+            "D": "69",
+            "E": "72 __8_!__"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_15.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 8,
+          "stem": "What is the value of the expression ? (4!)2 =3(2)(1) =6(5)(4)(3)(2)(1)) (Note: 3! and 6!",
+          "choices": {
+            "F": "000 _1_",
+            "G": "0 2",
+            "H": "001",
+            "J": "070",
+            "K": "420 www.actexam.net www.actexam.net 15 ACT-D06 2 nABC DO"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_15.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 9,
+          "stem": "Right triangle and its side lengths given in inches are shown below. What is sin,B? _a_",
+          "choices": {
+            "A": "A b _a_",
+            "B": "c c b _b_ C. a a",
+            "C": "B _b_ D. c _c_ E. a"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_16.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 10,
+          "stem": "(6a3\u22125ac2+12c) \u2212(4c\u22123a3\u22122ac2) is equivalent to: 2a3\u22122ac2+14c F.",
+          "choices": {
+            "G": "3a3\u22127ac2+16c 9a3\u22123ac2+08c H.",
+            "J": "3a6\u22127a2c4+16c2 9a6\u22123a2c4+08c2 K."
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_16.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 11,
+          "stem": "Which of the following (x,y) pairs is the solution for x+2y=2 \u2212x+y=7 the system of equations and ?",
+          "choices": {
+            "A": "(\u22124,3) (\u22121,1.5) B.",
+            "C": "( 1,0.5)",
+            "D": "( 0,1)",
+            "E": "( 2,0)"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_16.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 12,
+          "stem": "Tim\u2019s flight was originally scheduled to depart at 4:51p.m., but it was delayed 563 minutes. What time did Tim\u2019s flight eventually depart?",
+          "choices": {
+            "F": "01:12 a.m.",
+            "G": "01:28 a.m.",
+            "H": "02:14 a.m.",
+            "J": "10:14 p.m.",
+            "K": "10:54 p.m."
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_16.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 13,
+          "stem": "",
+          "choices": {
+            "A": "and (006,0)",
+            "B": "(0\u221212,0) and (012,0) (0\u221224,0)",
+            "C": "and (024,0)",
+            "D": "(0\u221272,0) and (072,0) (\u2212144,0)",
+            "E": "and (144,0)"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_16.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 14,
+          "stem": "Given that x2\u22125x\u221236 factors into 2 binomial factors with integer coefficients, which of the following binomials is 1 of those factors? \u221212",
+          "choices": {
+            "F": "x",
+            "G": "x \u2212 09 \u2212",
+            "H": "x 04",
+            "J": "x +06 +12",
+            "K": "x www.actexam.net 16 ACT-D06 2 DO"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_16.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 15,
+          "stem": "Two vectors are shown in the standard (x,y) coordinate plane below. y 6 4 2 \u22122 O 2 4 x \u22122 One of the following vectors in the standard (x,y) coordinate plane is the sum of these 2 vectors. Which one? y y",
+          "choices": {
+            "A": "D. 6 6 4 4 O O \u22122 2 4 x \u22122 2 4 x \u22122 \u22122 y y",
+            "B": "E. 6 6 4 4 O O \u22122 2 4 x \u22122 2 4 x \u22122 \u22122 y C. 6 4 2 O \u22122 2 4 x \u22122"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_17.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 16,
+          "stem": "",
+          "choices": {
+            "A": "square and a rectangle have the same area. The length of the rectangle is 196 centimeters, and the width of the rectangle is 4 centimeters. What is the length, in centimeters, of a side of the square?",
+            "F": "020",
+            "G": "028",
+            "H": "100",
+            "J": "400",
+            "K": "784 www.actexam.net 17 ACT-D06 2 DO"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_17.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 17,
+          "stem": "T-shirts are on sale for D dollars each, including tax. Valentina has N dollars with which to purchase T-shirts. After she purchases the maximum number she can, Q T-shirts, she has Rdollars left. For all possible choices of D and N, which of the following equations models a correct relationship between D, N, Q, and R, as defined?",
+          "choices": {
+            "A": "N =Q +R =Q +RD",
+            "B": "N",
+            "C": "N =QD +RD =QD +R",
+            "D": "N",
+            "E": "N =QR +D"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_18.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 18,
+          "stem": "At a sandwich shop, customers can order either a meat or a vegetarian sandwich on either white or wheat bread. Out of a total of 50 customers, 20 ordered a sandwich on white bread, 28 ordered a meat sandwich, and 12 ordered a meat sandwich on white bread. The given information is summarized in the table below. Type of bread Meat Vegetarian Total White 12 ? 20 Wheat ? ? ? Total 28 ? 50 How many customers ordered a vegetarian sandwich www.crackab.com on wheat bread?",
+          "choices": {
+            "F": "02",
+            "G": "08",
+            "H": "10",
+            "J": "14",
+            "K": "16"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_18.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 20,
+          "stem": "\u221a\u20222 +\u221a\u20228 +\u221a\u20221\u20228 =? 02\u221a\u20227 F.",
+          "choices": {
+            "G": "06\u221a\u20222 12\u221a\u20222 H.",
+            "J": "14\u221a\u20222",
+            "K": "14 www.crackab.com www.actexam.net 18 ACT-D06 2 DO"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_18.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 21,
+          "stem": "Which of the following inequalities is equivalent to 3 \u22122x>7 \u2212x? <\u2212_4_",
+          "choices": {
+            "A": "x 3 >\u2212_4_",
+            "B": "x 3 < \u22124",
+            "C": "x",
+            "D": "x > \u22124 >",
+            "E": "x 6 determined, in which quadrant of the standard (x,y) (\u2212a,b2) coordinate plane is the point located? y quadrants II I of the standard (x,y) x coordinate O plane III IV",
+            "F": "I",
+            "G": "II",
+            "H": "III",
+            "J": "IV",
+            "K": "Cannot be determined from the given information"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_19.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 23,
+          "stem": "The mass of a certain type of bacteria grows exponentially, doubling every 20 minutes. What was the mass, in milligrams, of the bacteria exactly 2hours after the mass first reached 10 milligrams?",
+          "choices": {
+            "A": "0,070",
+            "B": "0,200",
+            "C": "0,320",
+            "D": "0,640",
+            "E": "4,000"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_19.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 25,
+          "stem": "The average weight of Juan, Jim, and Malik is exactly 160 pounds. The average weight of Juan, Jim, Malik, and Harry is exactly 150 pounds. How many pounds does Harry weigh?",
+          "choices": {
+            "A": "100",
+            "B": "120",
+            "C": "130",
+            "D": "155",
+            "E": "190"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_20.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 26,
+          "stem": "What is the value of the expression _log (36)+_log (9)+? 6 3",
+          "choices": {
+            "F": "02",
+            "G": "03",
+            "H": "04",
+            "J": "05",
+            "K": "18"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_20.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 27,
+          "stem": "Each of 2 identical number cubes, shown below, has a different integer, 1 through 6, on each face. Consider the sample space determined by rolling these number cubes and adding the 2 integers on the faces that land on top. What is the positive difference between the greatest sum and the least sum in this sample space?",
+          "choices": {
+            "A": "05",
+            "B": "10",
+            "C": "11",
+            "D": "12",
+            "E": "34"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_20.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 29,
+          "stem": "For one school week, Hannah recorded the following temperatures, in degrees Fahrenheit, so she could investigate the difference between the high and low temperature each day. Day Low High Monday \u22123\u00b0 26\u00b0 \u22125\u00b0 Tuesday 32\u00b0 Wednesday \u22127\u00b0 22\u00b0 Thursday 03\u00b0 40\u00b0 Friday 02\u00b0 40\u00b0 To the nearest degree, what was the mean of the differences in daily high and low temperatures for these 5 days?",
+          "choices": {
+            "A": "28\u00b0",
+            "B": "29\u00b0",
+            "C": "30\u00b0",
+            "D": "32\u00b0",
+            "E": "34\u00b0 www.actexam.net 20 ACT-D06 2 DO"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_20.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 31,
+          "stem": "What is the 322nd d_i_g_it__ after the decimal point in the repeating decimal 0.1357 ?",
+          "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "3",
+            "D": "5",
+            "E": "7"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_21.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 32,
+          "stem": "You and a friend each have a can full of water. You start pouring the water from your can into an empty bucket at a constant rate of 4ounces per second. While you are still pouring water, 3seconds after you started, your friend starts pouring the water from her can into the same bucket at a constant rate of 2 ounces per second. How many seconds after you first started pouring the water into the bucket will it contain 24ounces of water?",
+          "choices": {
+            "F": "04",
+            "G": "05",
+            "H": "06",
+            "J": "08",
+            "K": "12 www.actexam.net www.actexam.net 21 ACT-D06 2 DO"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_21.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 34,
+          "stem": "Which of the following intervals is the range of the function f(x) =\u2212(x\u22123)2+4 ? (\u2212\u221e,",
+          "choices": {
+            "F": "3]",
+            "G": "(\u2212\u221e, 4]",
+            "H": "[3, 4]",
+            "J": "[3, \u221e) \u221e)",
+            "K": "[4,"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_22.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 35,
+          "stem": "Anoki made a scale drawing of his rectangular classroom. The classroom is 7.5meters by 9.0meters. In his scale drawing, Anoki made the length of the shorter side of the classroom 9.0 centimeters. What is the length, in centimeters, of the longer side of the classroom in Anoki\u2019s scale drawing?",
+          "choices": {
+            "A": "07.5",
+            "B": "10.5",
+            "C": "10.8",
+            "D": "15.0",
+            "E": "16.5 ="
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_22.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 36,
+          "stem": "In rhombus ABCD shown below, AC 5 feet and BD=6 feet. What is the area of ABCD, in square feet? A",
+          "choices": {
+            "D": "B",
+            "F": "05.5",
+            "G": "07.5",
+            "H": "11",
+            "J": "15 C",
+            "K": "30 www.actexam.net ACT-D06 2 DO"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_22.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 37,
+          "stem": "One number is 25% of a second number, and the second number is 70% of a third number. The first number is what percent of the third number?",
+          "choices": {
+            "A": "17.5%",
+            "B": "42.5%",
+            "C": "45%",
+            "D": "87.5%",
+            "E": "95%"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_23.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 38,
+          "stem": "The monthly rent charged for a store at Center Street Mall is $2 per square foot of floor area. The floor plan of a store at Center Street Mall is shown in the figure below, with right angles as indicated and all distances given in feet. How much monthly rent is charged for this store? 39 18 36 33 30 60 27 45",
+          "choices": {
+            "F": "$1,656",
+            "G": "$1,872",
+            "H": "$6,624",
+            "J": "$7,380",
+            "K": "$7,488"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_23.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 39,
+          "stem": "Mrs.Neeson, a science teacher, told her students that 30.0% of their final semester grades will come from their homework averages, and the remaining 70.0% will come from their test averages. She also said that the final exam will count for 20.0% of the test average. What percent of the science final semester grade is the final exam grade?",
+          "choices": {
+            "A": "06.0%",
+            "B": "10.5%",
+            "C": "14.0%",
+            "D": "20.0%",
+            "E": "28.6%"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_23.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 40,
+          "stem": "",
+          "choices": {
+            "A": "couple is deciding between 2 condos to purchase. Some information about each condo is given below. Annual Property Area Price property details List price in ft2 per ft2 tax Condo X $210,000 2,274 $92 $3,824 Condo Y $189,900 1,726 ? $3,524 The couple assumes that the market value of either condo will increase exponentially at a rate of 4% per year.",
+            "F": "22",
+            "G": "26",
+            "H": "34",
+            "J": "60",
+            "K": "62 www.actexam.net 23 ACT-D06 2 DO Use the following information to answer questions 41\u201343."
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_23.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 41,
+          "stem": "What is the positive difference, in dollars, of the 2 list prices?",
+          "choices": {
+            "A": "2.01 \u00d7102 \u00d7103",
+            "B": "2.01",
+            "C": "2.01 \u00d7104 \u00d7104",
+            "D": "2.10",
+            "E": "2.10 \u00d7105"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_24.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 42,
+          "stem": "The couple will consider the price per square foot of each condo. Let x and y be the price per square foot, rounded to the nearest $1, of Condo X and Condo Y, respectively. One of the following comparisons is true. Which one?",
+          "choices": {
+            "F": "x is $03 greater than y.",
+            "G": "x is $06 less than y.",
+            "H": "x is $06 greater than y.",
+            "J": "x is $18 less than y.",
+            "K": "x is $18 greater than y."
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_24.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 43,
+          "stem": "The annual property tax for Condo X is 2% of its assessed value. What is the assessed value of Condo X ?",
+          "choices": {
+            "A": "$019,120",
+            "B": "$042,000",
+            "C": "$186,200",
+            "D": "$191,200",
+            "E": "$205,900"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_24.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 44,
+          "stem": "In the complex plane, consider the segment whose endpoints are the points corresponding to \u22126+3i and \u2212 2 7i. The midpoint of this segment corresponds to which of the following complex numbers? \u22124 \u22124i F.",
+          "choices": {
+            "G": "\u22124 +5i \u22122 \u22122i H.",
+            "J": "\u22122 +2i +5i",
+            "K": "04 www.actexam.net www.actexam.net 24 ACT-D06 2 DO"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_24.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 45,
+          "stem": "In the standard (x,y) coordinate plane, the 3lines with y= _3_x\u22123, y=\u2212_2_x+2, x=0 equations and bound a 5 5 triangular region. What is the area, in square coordinate units, of that triangular region? (A blank grid has been provided for your use.) y x O",
+          "choices": {
+            "A": "02.5",
+            "B": "05.0",
+            "C": "07.5",
+            "D": "12.5",
+            "E": "62.5 ___"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_25.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 46,
+          "stem": "In square ABC D __shown below, AC is a diagonal and _ the length of BC is 75 feet. Which of the following quantities is NOT a rational number?",
+          "choices": {
+            "A": "B 75",
+            "D": "C",
+            "F": "The perimeter of ABCD, in feet",
+            "G": "The area of ABCD, in square feet ___",
+            "H": "The length of AB, in feet ___",
+            "J": "The length of AC, in feet \u2220CAD,",
+            "K": "The measure of in degrees"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_25.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 47,
+          "stem": "The volume of a solid object is equal to the volume of water it displaces when completely submerged in water. A solid object will be placed in a rectangular tank that has a base of 35 cm by 30 cm and is filled with water to a uniform depth of 13 cm. When the object is completely submerged, the new depth of the water in the tank is 15 cm. What is the volume, in cubic centimeters, of the object?",
+          "choices": {
+            "A": "0,135",
+            "B": "0,525",
+            "C": "0,780",
+            "D": "1,212",
+            "E": "2,100 www.actexam.net 25 ACT-D06 2 DO Use the following information to answer questions 48\u201351. The 2circles graphed in the standard (x,y) coordinate plane below are centered at the origin, O. In coordinate units, the radius of the smaller circle is 2, and the radius of the larger A(\u22124,0), circle is 4. Points B, and C(4,0) are on the larger circle. The measure of \u2220BOCis 45\u00b0. y B x A(\u22124,0) O C(4,0) (Note: Both axes have the same scale.)"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_25.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 48,
+          "stem": "What is the x-coordinate of B? 0__4__ F. \u221a\u20223 0__4__ G. \u221a\u20222",
+          "choices": {
+            "H": "4",
+            "J": "4\u221a\u20222 4\u221a\u20223 K."
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_26.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 49,
+          "stem": "",
+          "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "4",
+            "E": "Infinitely many"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_26.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 50,
+          "stem": "What is the area, in square coordinate units, of the region that is outside the smaller circle and inside the larger circle? 04\u03c0 F.",
+          "choices": {
+            "G": "12\u03c0 20\u03c0 H.",
+            "J": "48\u03c0 \u03c0 wKw.w8.0c rackab.com www.actexam.net 26 ACT-D06 2 \u2194 DO"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_26.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 51,
+          "stem": "Which of the following is an equation of OB ?",
+          "choices": {
+            "A": "y =\u22124x =0\u2212x",
+            "B": "y",
+            "C": "y =00x =02x",
+            "D": "y",
+            "E": "y =04x"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_27.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 52,
+          "stem": "",
+          "choices": {
+            "A": "sequence is given by s = 4 and s = 2s \u2212 3 for 1 n+1 n n\u22651. What is s ? 5",
+            "F": "05",
+            "G": "07",
+            "H": "11",
+            "J": "19",
+            "K": "35"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_27.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 53,
+          "stem": "In the figure below, the distances between 2 pairs of cities are shown, as well as the angle formed at Ewing, which has a measure of 127\u00b0. Which of the following values is closest to the distance, in miles, from Deerborn to Fergus? Deerborn 80.0 127\u00b0 Ewing 120.0 Fergus \u2248\u22120.6; \u22480.8) (Note: cos,127\u00b0 sin,127\u00b0",
+          "choices": {
+            "A": "100",
+            "B": "140",
+            "C": "160",
+            "D": "180",
+            "E": "200"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_27.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 55,
+          "stem": "One of the following equations represents the ellipse shown below in the standard (x,y) coordinate plane. Which one? y (2,2) x O (\u22121,\u22123) (5,\u22123) (2,\u22128) \u2212 2 + 2 _(x__ __2_)_ _(y__ __3_)_",
+          "choices": {
+            "A": "+ =1 3 5 + 2 \u2212 2 _(x__ __2_)_ _(y__ __3_)_",
+            "B": "+ =1 3 5 + 2 \u2212 2 _(x__ __2_)_ _(y__ __3_)_",
+            "C": "+ =1 5 3 \u2212 2 + 2 _(x__ __2_)_ _(y__ __3_)_",
+            "D": "+ =1 9 25 + 2 \u2212 2 _(x__ __2_)_ _(y__ __3_)_",
+            "E": "+ =1 9 25"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_28.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 56,
+          "stem": "One of the following equations is that of a parabola \u22125 _3_ with x-intercepts and in the standard (x,y) 4 coordinate plane. Which equation? =03x2\u221211x\u221220",
+          "choices": {
+            "F": "y",
+            "G": "y =03x2+11x\u221220 =04x2\u221217x\u221215",
+            "H": "y",
+            "J": "y =04x2+17x\u221215 =15x2\u221217x\u221204",
+            "K": "y"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_28.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 58,
+          "stem": "If and then",
+          "choices": {
+            "F": "\u221214 0\u22127 G.",
+            "H": "0\u22121",
+            "J": "001",
+            "K": "049"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/math/page_29.jpg",
+          "correct": "H"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "name": "Reading",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "3 3\nThere were also moments when it was quiet, 4. The main idea of the ninth paragraph (lines 62\u201372) is\nwhen kids were at school, people were at work, that Cruz\u2019s apartment was:\n85 and the merengue-loving neighbors were F. too small and cluttered to hold all the people who\ntaking their afternoon siesta. In one of those\nwanted to stay there.\nrare quiet moments, I remember having a reve-\nG. a hospitable, welcoming place despite its clutter\nlation while staring at a draft of my first novel\nand small size.\non my desk, that if I had waited to tell my story\nH. decorated with posters and pictures brought by\n90 until I had a room of my own, as opposed to a Cruz\u2019s many visitors.\nplace that always brimmed with people, I\nJ. much like an office building, with people hurriedly\nwould never have finished that novel.\ncoming and going.\nBut even more so, without all the family mem-\nbers, who showed up with leftovers and slipped 5. The main function of the tenth paragraph (lines 73\u201382)\n95 $20 in my hand when I looked tired from long is to:\nnights at freelance jobs teaching, editing and A. analyze the relationship Cruz had with her grand-\neven window-designing while \u201cestudiando\u201d for mother.\nmy master\u2019s degree, I wouldn\u2019t have had the B. explain how world travel and music influenced\nconfidence that I was right to continue to live Cruz\u2019s writing.\n100 my life as a writer. It was the spirit of all that C. depict the sights and sounds Cruz encountered\ncollective activity inside that apartment with while at her desk.\nelastic walls that gave birth to my first novel. D. reveal Cruz\u2019s frustration with the cluttered, noisy\napartment complex.\n6. Which of the following statements best captures Cruz\u2019s\nrevelation as it is presented in lines 86\u201392?\nF. For Cruz, a quiet, solitary place to write wasn\u2019t\navailable and may not have been helpful.\nG. Cruz was opposed to the idea that a room full of\npeople is more inspiring than a quiet one.\nH. For Cruz, writing came most easily during quiet\nmoments.\nJ. Cruz needed to make the most of the few quiet\n1. As presented in the passage, Capote\u2019s and Cruz\u2019s atti-\nmoments she could find.\ntudes toward the condition of their apartments can best\nbe described as:\n7. According to the passage, without her family members,\nA. similar; they were both disappointed in their old,\nCruz wouldn\u2019t have:\nshabby apartments.\nB. similar; the apartments\u2019 defects didn\u2019t keep them A. obtained a college degree.\nfrom appreciating their apartments. B. felt confident about her career choice.\nC. different; Capote was disappointed in his apart- C. been able to pay rent for her apartment.\nment\u2019s shabbiness, whereas Cruz felt at home D. continued her freelance teaching jobs.\ndespite her apartment\u2019s defects.\nD. different; Capote felt at home despite his apart- 8. According to the passage, acquiring an apartment in\nment\u2019s defects, whereas Cruz was disappointed in New York has become more daunting because:\nher apartment\u2019s shabbiness.\nF. there are fewer apartments in the city.\nG. it has become a transforming rite of passage.\n2. Details in the passage indicate that, compared to\nH. more people are moving to the city.\nCruz\u2019s first apartment, Capote\u2019s first apartment:\nJ. apartments have become more expensive.\nF. was somewhat larger.\nG. had less natural light.\n9. According to Cruz, she returned to the city to:\nH. was in a different city.\nJ. had a clearer view. A. be near family.\nB. find an apartment.\n3. The primary writing mode of Cruz\u2019s essay is: C. finish her second novel.\nD. study creative writing.\nA. descriptive; Cruz uses imagery and specific details\nto portray her surroundings.\n10. Based on the passage, Cruz considered the rent she\nB. narrative; Cruz recounts the main events of her\npaid for her apartment to be:\nwriting career.\nC. persuasive; Cruz uses events from her life to argue F. lower than that of similar apartments.\nthat family support systems are crucial. G. too high for a one-bedroom in a prewar building.\nD. expository; Cruz explains how to thrive in a flawed H. more than she had expected to pay.\napartment. J. less than she had paid in the past.\nwww.actexam.net\n31 GO ON TO THE NEXT PAGE.\nACT-D06",
+          "questions": [
+            {
+              "number": 1,
+              "stem": "As presented in the passage, Capote\u2019s and Cruz\u2019s atti- tudes toward the condition of their apartments can best be described as:",
+              "choices": {
+                "A": "similar; they were both disappointed in their old, shabby apartments.",
+                "B": "similar; the apartments\u2019 defects didn\u2019t keep them from appreciating their apartments.",
+                "C": "different; Capote was disappointed in his apart- ment\u2019s shabbiness, whereas Cruz felt at home despite her apartment\u2019s defects.",
+                "D": "different; Capote felt at home despite his apart- ment\u2019s defects, whereas Cruz was disappointed in her apartment\u2019s shabbiness."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 2,
+              "stem": "Details in the passage indicate that, compared to Cruz\u2019s first apartment, Capote\u2019s first apartment:",
+              "choices": {
+                "F": "was somewhat larger.",
+                "G": "had less natural light.",
+                "H": "was in a different city.",
+                "J": "had a clearer view."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 3,
+              "stem": "The primary writing mode of Cruz\u2019s essay is:",
+              "choices": {
+                "A": "descriptive; Cruz uses imagery and specific details to portray her surroundings.",
+                "B": "narrative; Cruz recounts the main events of her writing career.",
+                "C": "persuasive; Cruz uses events from her life to argue that family support systems are crucial.",
+                "D": "expository; Cruz explains how to thrive in a flawed apartment. www.actexa 3 ACT-D06 3"
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 4,
+              "stem": "The main idea of the ninth paragraph (lines 62\u201372) is that Cruz\u2019s apartment was:",
+              "choices": {
+                "F": "too small and cluttered to hold all the people who wanted to stay there.",
+                "G": "a hospitable, welcoming place despite its clutter and small size.",
+                "H": "decorated with posters and pictures brought by Cruz\u2019s many visitors.",
+                "J": "much like an office building, with people hurriedly coming and going."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 5,
+              "stem": "The main function of the tenth paragraph (lines 73\u201382) is to:",
+              "choices": {
+                "A": "analyze the relationship Cruz had with her grand- mother.",
+                "B": "explain how world travel and music influenced Cruz\u2019s writing.",
+                "C": "depict the sights and sounds Cruz encountered while at her desk.",
+                "D": "reveal Cruz\u2019s frustration with the cluttered, noisy apartment complex."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 6,
+              "stem": "Which of the following statements best captures Cruz\u2019s revelation as it is presented in lines 86\u201392?",
+              "choices": {
+                "F": "For Cruz, a quiet, solitary place to write wasn\u2019t available and may not have been helpful.",
+                "G": "Cruz was opposed to the idea that a room full of people is more inspiring than a quiet one.",
+                "H": "For Cruz, writing came most easily during quiet moments.",
+                "J": "Cruz needed to make the most of the few quiet moments she could find."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 7,
+              "stem": "According to the passage, without her family members, Cruz wouldn\u2019t have:",
+              "choices": {
+                "A": "obtained a college degree.",
+                "B": "felt confident about her career choice.",
+                "C": "been able to pay rent for her apartment.",
+                "D": "continued her freelance teaching jobs."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 8,
+              "stem": "According to the passage, acquiring an apartment in New York has become more daunting because:",
+              "choices": {
+                "F": "there are fewer apartments in the city.",
+                "G": "it has become a transforming rite of passage.",
+                "H": "more people are moving to the city.",
+                "J": "apartments have become more expensive."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 9,
+              "stem": "According to Cruz, she returned to the city to:",
+              "choices": {
+                "A": "be near family.",
+                "B": "find an apartment.",
+                "C": "finish her second novel.",
+                "D": "study creative writing."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 10,
+              "stem": "Based on the passage, Cruz considered the rent she paid for her apartment to be:",
+              "choices": {
+                "F": "lower than that of similar apartments.",
+                "G": "too high for a one-bedroom in a prewar building.",
+                "H": "more than she had expected to pay.",
+                "J": "less than she had paid in the past. am.net 1 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "genre": "SOCIAL SCIENCE",
+          "title": "Passage II",
+          "source": "",
+          "text": "55 metal, which collected in minute silver nuggets on the\nbottom of the tank. The process was cheap and easy,\nSOCIAL SCIENCE: This passage is adapted from the book and it would work just as well in huge vats as on the lab\nThe Disappearing Spoonby Sam Kean (\u00a92010 by Sam Kean). bench. This had been the most sought-after chemical\nprize since the philosopher\u2019s stone, and Hall had found\nAluminiumis the British spelling of aluminum. 60 it. The \u201caluminium boy wonder\u201d was just twenty-three.\nA number of brilliant chemists devoted their\nHall\u2019s fortune, however, was not made instantly.\ncareers to aluminium throughout the 1800s, and it\u2019s\nChemist Paul H\u00e9roult in France stumbled on more or\nhard to judge whether the element was better or worse\nless the same process at the same time. (Today Hall and\noff afterward. A Danish chemist and a German chemist\nH\u00e9roult share credit for the discovery that crashed the\n5 simultaneously extracted this metal from the ancient 65 aluminium market.) An Austrian invented another sepa-\nastringent alum around 1825. (Alum is the powder car-\nration method in 1887, and with the competition\ntoon characters like Sylvester the cat sometimes swal-\nbearing down on Hall, he quickly founded what became\nlow that makes their mouths pucker.) Because of its\nthe Aluminum Company of America, or Alcoa, in\nluster, mineralogists immediately classified aluminium\nPittsburgh. It turned into one of the most successful\n10 as a precious metal, like silver or platinum, worth hun- 70 business ventures in history.\ndreds of dollars an ounce.\nAluminium production at Alcoa grew at exponen-\nTwenty years later, a Frenchman figured out how\ntial rates. In its first months in 1888, Alcoa eked out\nto scale up these methods for industry, making alu-\n50 pounds of aluminium per day; two decades later, it\nminium available commercially. For a price. It was still\nhad to ship 88,000 pounds per day to meet the demand.\n15 more expensive than even gold. That\u2019s because, despite 75 And while production soared, prices plummeted. Years\nbeing the most common metal in the earth\u2019s crust\u2014\nbefore Hall was born, one man\u2019s breakthrough had\naround 8 percent of it by weight, hundreds of millions\ndropped aluminium from $550 per pound to $18 per\nof times more common than gold\u2014aluminium never\npound in seven years. Fifty years later, not even adjust-\nappears in pure, mother lode-al form. It\u2019s always\ning for inflation, Hall\u2019s company drove down the price\n20 bonded to something, usually oxygen. Pure samples 80 to 25 cents per pound. And thanks to Hall, aluminium\nwere considered miracles. The French once displayed\nbecame the utterly blas\u00e9 metal we all know, the basis\nFort Knox\u2013like aluminium bars next to their crown\nfor pop cans and pinging Little League bats and air-\njewels, and the minor emperor Napoleon III reserved a\nplane bodies. (A little anachronistically, it still sits atop\nprized set of aluminium cutlery for special guests at\nthe Washington Monument, too.) I suppose it depends\n25 banquets. (Less favored guests used gold knives and 85 on your taste and temperament whether you think alu-\nforks.) In the United States, government engineers, to\nminium was better off as the world\u2019s most precious or\nshow off their country\u2019s industrial prowess, capped the\nmost productive metal.\nWashington Monument with a six-pound pyramid of\naluminium in 1884. A historian reports that one ounce\n30 of shavings from the pyramid would have paid a day\u2019s\nwages for each of the laborers who erected it.\n11. The passage can best be described as an:\nAluminium\u2019s sixty-year reign as the world\u2019s most\nA. evaluation of Hall and his company\u2019s effects on\nprecious substance was glorious, but soon an American\nthe world economy.\nchemist ruined everything. The metal\u2019s properties\u2014\nB. assessment of major discoveries in chemistry\n35 light, strong, attractive\u2014tantalized manufacturers, and\nduring the nineteenth century.\nits omnipresence in the earth\u2019s crust had the potential to\nC. overview of how the perception of aluminum\u2019s\nrevolutionize metal production. It obsessed people, but\nvalue changed and Hall\u2019s role in that change.\nno one could figure out an efficient way to separate it\nD. argument that aluminum should still be considered\nfrom oxygen. At Oberlin College in Ohio, a chemistry\na precious metal due to its value to manufacturers.\n40 professor named Frank Fanning Jewett would regale his\nstudents with tales of the aluminium El Dorado that\n12. Based on the passage, the author would most likely\nawaited whoever mastered this element. And at least\nagree with which of the following statements?\none of his students had the na\u00efvet\u00e9 to take his professor\nseriously. F. It is unclear why aluminum was originally classi-\nfied as being similar to metals like silver and\n45 In his later years, Professor Jewett bragged to old platinum.\ncollege chums that \u201cmy greatest discovery was the dis- G. It is uncertain whether mineralogists or chemists\ncovery of a man\u201d\u2014Charles Hall. Hall worked with were ultimately more responsible for the wide-\nJewett on separating aluminium throughout his under- spread use of aluminum.\ngraduate years at Oberlin. He failed and failed and H. There is no clear evidence for why aluminum\u2019s\n50 failed again, but failed a little more smartly each time. price dropped substantially years before Hall\nFinally, in 1886, Hall ran an electric current from hand- began experimenting with the metal.\nmade batteries (power lines didn\u2019t exist) through a J. It is difficult to definitively judge whether alu-\nliquid with dissolved aluminium compounds. The minum\u2019s status was bettered or worsened by the\nenergy from the current zapped and liberated the pure attention it received in the 1800s.\nwww.crackab.com\nwww.actexam.net\n32 GO ON TO THE NEXT PAGE.\nACT-D06",
+          "questions": [
+            {
+              "number": 11,
+              "stem": "The passage can best be described as an:",
+              "choices": {
+                "A": "evaluation of Hall and his company\u2019s effects on the world economy.",
+                "B": "assessment of major discoveries in chemistry during the nineteenth century.",
+                "C": "overview of how the perception of aluminum\u2019s value changed and Hall\u2019s role in that change.",
+                "D": "argument that aluminum should still be considered a precious metal due to its value to manufacturers."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 12,
+              "stem": "Based on the passage, the author would most likely agree with which of the following statements?",
+              "choices": {
+                "F": "It is unclear why aluminum was originally classi- fied as being similar to metals like silver and platinum.",
+                "G": "It is uncertain whether mineralogists or chemists were ultimately more responsible for the wide- spread use of aluminum.",
+                "H": "There is no clear evidence for why aluminum\u2019s price dropped substantially years before Hall began experimenting with the metal.",
+                "J": "It is difficult to definitively judge whether alu- minum\u2019s status was bettered or worsened by the attention it received in the 1800s. am.net 2 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "3 3\n13. In the context of the passage, what does the author 17. The author most likely includes the information about\nmost nearly mean when he says that \u201can American Napoleon III primarily to:\nchemist ruined everything\u201d (lines 33\u201334)?\nA. illustrate how commonplace gold had become by\nA. Hall was the first to discover how to extract pure the 1880s.\naluminum from the earth\u2019s crust. B. highlight the extravagant wealth of the French\nB. Hall made aluminum commercially available to royalty.\nmanufacturers for a very high price. C. emphasize just how highly esteemed aluminum\nC. Hall\u2019s work with aluminum quickly stripped it of once was.\nits status as a rare and precious metal. D. suggest that the nineteenth-century fascination\nD. Hall founded his company in the United States with aluminum was felt primarily by the French.\nlong before other countries had the tools to pro-\nduce aluminum. 18. According to the passage, the Washington Monument\nwas capped with a pyramid of aluminum because:\n14. In the passage, which of the following individuals or\ngroups is presented as believing in Jewett\u2019s \u201calu- F. the pyramid\u2019s high cost was meant to symbolize\nminium El Dorado\u201d (line 41)? the overall value of the monument to the United\nStates.\nF. Most students at Oberlin G. aluminum was a commonly used building material\nG. Manufacturers in France\nat the time the monument was erected.\nH. H\u00e9roult H. US engineers wanted to outdo the lavish displays\nJ. Hall\nof wealth put on by French royalty.\nJ. the US government wanted to flaunt the United\n15. The main point of the fourth paragraph (lines 45\u201360) is\nStates\u2019 industrial might.\nthat:\nA. Hall failed for years in his experimentation with 19. The passage indicates that before Hall\u2019s discovery,\naluminum. manufacturers were interested in using aluminum in\nB. Hall found an ideal solution to a confounding sci- part because of the metal\u2019s:\nentific problem.\nA. strength.\nC. Jewett\u2019s experiments with electricity led to a major\nB. popularity.\nscientific discovery.\nC. purity.\nD. despite its success in the lab, Hall\u2019s breakthrough\nD. cheapness.\nwasn\u2019t initially practical on an industrial level.\n16. The passage indicates that Hall moved quickly to 20. The author most likely uses the word stumbled\nfound Alcoa because: (line 62) to suggest that:\nF. other scientists\u2019 work was rapidly beginning to F. the mistakes Hall made in his initial experiments\nrival his own. were later remedied by H\u00e9roult.\nG. he much preferred developing a business to study- G. H\u00e9roult\u2019s discovery may have been more acciden-\ning chemistry. tal than intentional.\nH. his professors were pressuring him to begin pro- H. the problems Hall faced during his experiments\nducing aluminum commercially. were not experienced by H\u00e9roult.\nJ. he wanted to distance himself from H\u00e9roult, who J. H\u00e9roult was the first to discover an entirely new\ntried to take credit for Hall\u2019s discovery. process for obtaining aluminum.\nwww.actexam.net\nwww.actexam.net\n33 GO ON TO THE NEXT PAGE.\nACT-D06",
+          "questions": [
+            {
+              "number": 13,
+              "stem": "In the context of the passage, what does the author most nearly mean when he says that \u201can American chemist ruined everything\u201d (lines 33\u201334)?",
+              "choices": {
+                "A": "Hall was the first to discover how to extract pure aluminum from the earth\u2019s crust.",
+                "B": "Hall made aluminum commercially available to manufacturers for a very high price.",
+                "C": "Hall\u2019s work with aluminum quickly stripped it of its status as a rare and precious metal.",
+                "D": "Hall founded his company in the United States long before other countries had the tools to pro- duce aluminum."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 14,
+              "stem": "In the passage, which of the following individuals or groups is presented as believing in Jewett\u2019s \u201calu- minium El Dorado\u201d (line 41)?",
+              "choices": {
+                "F": "Most students at Oberlin",
+                "G": "Manufacturers in France",
+                "H": "H\u00e9roult",
+                "J": "Hall"
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 15,
+              "stem": "The main point of the fourth paragraph (lines 45\u201360) is that:",
+              "choices": {
+                "A": "Hall failed for years in his experimentation with aluminum.",
+                "B": "Hall found an ideal solution to a confounding sci- entific problem.",
+                "C": "Jewett\u2019s experiments with electricity led to a major scientific discovery.",
+                "D": "despite its success in the lab, Hall\u2019s breakthrough wasn\u2019t initially practical on an industrial level."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 16,
+              "stem": "The passage indicates that Hall moved quickly to found Alcoa because:",
+              "choices": {
+                "F": "other scientists\u2019 work was rapidly beginning to rival his own.",
+                "G": "he much preferred developing a business to study- ing chemistry.",
+                "H": "his professors were pressuring him to begin pro- ducing aluminum commercially.",
+                "J": "he wanted to distance himself from H\u00e9roult, who tried to take credit for Hall\u2019s discovery. www.actexam.net www.actexa 3 ACT-D06 3"
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 17,
+              "stem": "The author most likely includes the information about Napoleon III primarily to:",
+              "choices": {
+                "A": "illustrate how commonplace gold had become by the 1880s.",
+                "B": "highlight the extravagant wealth of the French royalty.",
+                "C": "emphasize just how highly esteemed aluminum once was.",
+                "D": "suggest that the nineteenth-century fascination with aluminum was felt primarily by the French."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 18,
+              "stem": "According to the passage, the Washington Monument was capped with a pyramid of aluminum because:",
+              "choices": {
+                "F": "the pyramid\u2019s high cost was meant to symbolize the overall value of the monument to the United States.",
+                "G": "aluminum was a commonly used building material at the time the monument was erected.",
+                "H": "US engineers wanted to outdo the lavish displays of wealth put on by French royalty.",
+                "J": "the US government wanted to flaunt the United States\u2019 industrial might."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 19,
+              "stem": "The passage indicates that before Hall\u2019s discovery, manufacturers were interested in using aluminum in part because of the metal\u2019s:",
+              "choices": {
+                "A": "strength.",
+                "B": "popularity.",
+                "C": "purity.",
+                "D": "cheapness."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 20,
+              "stem": "The author most likely uses the word stumbled (line 62) to suggest that:",
+              "choices": {
+                "F": "the mistakes Hall made in his initial experiments were later remedied by H\u00e9roult.",
+                "G": "H\u00e9roult\u2019s discovery may have been more acciden- tal than intentional.",
+                "H": "the problems Hall faced during his experiments were not experienced by H\u00e9roult.",
+                "J": "H\u00e9roult was the first to discover an entirely new process for obtaining aluminum. am.net 3 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "genre": "HUMANITIES",
+          "title": "Passage III",
+          "source": "",
+          "text": "Passage B by Larry Starr and\nChristopher Waterman\nHUMANITIES: Passage A is adapted from the article \u201cDylan\u2019s\nElectric Kiss-Off\u201d by Damien Cave et al. (\u00a92004 by Rolling 50 Why was there such a shock wave produced by the\nStone LLC). Passage B is adapted from American Popular concept of Bob Dylan as a rock \u2019n\u2019 roll star?\nMusic: The Rock Years by Larry Starr and Christopher\nWaterman (\u00a92006 by Oxford University Press). It probably had to do with the differing cultural\nroles assigned by most people to urban folk music on\nPassage A by Damien Cave et al.\nthe one hand and to rock \u2019n\u2019 roll on the other. Urban\n55 folk in the early 1960s was an increasingly topical,\nThe most notorious live performance in rock &\npolitical, socially conscious music. Even the singing of\nroll lasted about fifteen minutes: three songs played at\ntraditional folk songs often carried with it a subtext of\nassaultive volume by a plugged-in blues band fronted\npolitical identification\u2014with labor, with the poor, with\nby the young poet-king of American folk music, at the\nminority groups and other peoples seen as oppressed,\n5 sacred annual congress of acoustic purists, the Newport 60 with a movement for international peace and under-\nFolk Festival. In that quarter-hour, on the warm Sunday\nstanding\u2014depending on the nature and origins of the\nevening of July 25th, 1965, at Freebody Park in New-\nparticular songs chosen. Thus the words were of para-\nport, Rhode Island, Bob Dylan, 24\u2014backed by the\nmount importance in urban folk music, and the acoustic\nelectric-Chicago charge of the Paul Butterfield Blues\nguitar accompaniments enabled the words to be heard\n10 Band\u2014declared his independence from the orthodoxy 65 clearly. Besides, acoustic guitars were easily portable,\nof the folk scene and publicly unveiled his rock & roll\nreadily accessible, and presented no elaborate barrier\nheart.\nbetween performers and audiences. It was a relatively\nsimple matter to bring an acoustic guitar along to a\nDylan paid for his daring. Some witnesses claimed\npolitical meeting or demonstration, and to set it up and\nthat he left the stage in tears\u2014shocked by the shouting\n70 play it there when and if the occasion presented itself,\n15 and heckling from several members of the Newport which surely cannot be said of rock \u2019n\u2019 roll band equip-\naudience\u2014before going back out to do penance:\nment. And of course rock \u2019n\u2019 roll was identified as a\ntwo acoustic numbers. Butterfield guitarist Mike\n\u201cfun\u201d music, a music to accompany dancing and other\nBloomfield said Dylan \u201clooked real shook up.\u201d But Al\nsocializing, whose lyric content was by definition light,\nKooper, who joined the Butterfield Band that fateful\n75 amusing, sometimes clever, often generic, but virtually\n20 night as guest organist, insists that the catcalls are a never serious.\nmyth: \u201cIt wasn\u2019t \u2018Boo, boo, boo.\u2019 It was \u2018More, more,\nmore.\u2019\u201d\nBy the mid-1960s changes within rock \u2019n\u2019 roll\nwere already in the wind, but Bob Dylan\u2019s electric style\nWhen Dylan walked onstage at Newport, dressed\nand other manifestations of folk rock had the effect of\nin black pants and a green shirt, it was the first time he\n80 an enormous injection of growth hormones into the pop\n25 had appeared in public with an electric guitar since his music scene. Suddenly, it was all right\u2014expected,\ndays with his Minnesota high school combo. A month\neven\u2014for rock \u2019n\u2019 roll to be as \u201cadult\u201d as its baby\nbefore Newport, Dylan cut his first Top Five hit, \u201cLike\nboomer audience was now becoming itself, and rock \u2019n\u2019\na Rolling Stone,\u201d in New York with a group that\nroll abruptly grew up into rock. Pop records on serious\nincluded Kooper and Bloomfield. Yet Dylan\u2019s first per-\n85 subjects, with political and poetical lyrics, sprang up\n30 formance that weekend, at a Newport workshop on Sat- everywhere; before long, this impulse carried over into\nurday, was a pair of older folk songs.\nthe making of ambitious concept albums. The later\n1960s flowered into a period of intense and remarkable\nThere is no apparent booing on the surviving\ninnovation and creativity in pop music.\nsoundboard tape of the show. There is yelling. It has\nbeen suggested that the audience was complaining\n35 about the sound mix. Folk icon Pete Seeger admitted he\nwas so enraged by Dylan\u2019s set he wanted to \u201cchop the\nmicrophone cord,\u201d but only because Dylan\u2019s voice was\nso distorted. (On the tape, Dylan is front, center and\nbitingly clear.) The crowd was mostly upset because\n40 Dylan, the top attraction at Newport, was on- and off-\nQuestions 21\u201323 ask about Passage A.\nstage in less time than it took some folkies to sing a\nballad. He was so rattled when he returned alone to sing\n\u201cIt\u2019s All Over Now Baby Blue\u201d and \u201cMr. Tambourine\n21. In PassageA, the words \u201csacred\u201d and \u201cpurists\u201d (line 5)\nMan,\u201d that he had the wrong harmonica for the latter\nmost nearly serve to characterize the Newport Folk\n45 song. \u201cDoes anybody have an E harmonica\u2014an E har-\nFestival and its attendees as:\nmonica, anybody?\u201d Dylan asked the crowd. \u201cJust throw\n\u2019em all up.\u201d He got one. A. drawn to songs containing moral lessons.\nB. driven to discover unknown musicians.\nThe folk scene never recovered, rock & roll was C. devoted to the genre of folk music.\nnever the same, and Dylan knew he was responsible. D. dedicated to Dylan\u2019s career.\nwww.actexam.net\n34 GO ON TO THE NEXT PAGE.\nACT-D06",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "In PassageA, the words \u201csacred\u201d and \u201cpurists\u201d (line 5) most nearly serve to characterize the Newport Folk Festival and its attendees as:",
+              "choices": {
+                "A": "drawn to songs containing moral lessons.",
+                "B": "driven to discover unknown musicians.",
+                "C": "devoted to the genre of folk music.",
+                "D": "dedicated to Dylan\u2019s career. am.net 4 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 22,
+              "stem": "The information about Dylan\u2019s guitar in lines 23\u201326 of Passage A primarily serves to:",
+              "choices": {
+                "F": "outline the development of Dylan\u2019s style of guitar- playing.",
+                "G": "contribute to an account of Dylan\u2019s rise to fame.",
+                "H": "emphasize that Dylan switched instruments throughout his career.",
+                "J": "establish that fans were unaccustomed to Dylan playing electric guitar."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 23,
+              "stem": "According to PassageA, Dylan had the wrong harmon- ica onstage to sing \u201cMr. Tambourine Man\u201d because:",
+              "choices": {
+                "A": "he hadn\u2019t planned on playing that song.",
+                "B": "Seeger had tampered with Dylan\u2019s equipment backstage.",
+                "C": "he was flustered by the crowd\u2019s response to his rock \u2019n\u2019 roll performance.",
+                "D": "he wasn\u2019t used to switching instruments between songs. Questions 24\u201327 ask about Passage B."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 24,
+              "stem": "In the context of PassageB, the list between the dashes in lines 58\u201361 can best be described as examples of people and causes that:",
+              "choices": {
+                "F": "folk music sympathized with.",
+                "G": "traditional folk songs avoided mentioning.",
+                "H": "symbolized folk music\u2019s international popularity.",
+                "J": "constituted folk music\u2019s audience."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 25,
+              "stem": "In line 86, the phrase \u201cthis impulse\u201d most specifically refers to the:",
+              "choices": {
+                "A": "shift from political to poetical lyrics in rock \u2019n\u2019 roll.",
+                "B": "ambitiousness of albums in the later 1960s.",
+                "C": "swift displacement of folk music by rock \u2019n\u2019 roll.",
+                "D": "increased seriousness of pop music."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 26,
+              "stem": "As it is used in line 66, the word presented most nearly means:",
+              "choices": {
+                "F": "unveiled.",
+                "G": "posed.",
+                "H": "imparted.",
+                "J": "depicted. www.actexa 3 ACT-D06"
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 27,
+              "stem": "Which of the following statements provides the best paraphrase of lines 77\u201381?",
+              "choices": {
+                "A": "Innovations within rock \u2019n\u2019 roll enticed Dylan and others like him to become rock musicians.",
+                "B": "Rock \u2019n\u2019 roll\u2019s popularity grew as a result of the increasing appeal of electric instruments.",
+                "C": "Dylan\u2019s genre-crossing approach spurred develop- ment in rock \u2019n\u2019 roll.",
+                "D": "Rock \u2019n\u2019 roll merged with folk music to become a genre called folk rock. Questions 28\u201330 ask about both passages."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 28,
+              "stem": "Which of the following statements best captures a main difference in the focus of the two passages?",
+              "choices": {
+                "F": "PassageA focuses on describing the Newport Folk Festival, while Passage B focuses on comparing the popularity of folk music to the popularity of rock \u2019n\u2019 roll.",
+                "G": "Passage A focuses on analyzing Dylan\u2019s popular- ity, while Passage B focuses on questioning why Dylan switched from playing folk music to playing rock \u2019n\u2019 roll.",
+                "H": "Passage A focuses on defending Dylan\u2019s decision to play rock \u2019n\u2019 roll at the Newport Folk Festival, while PassageB focuses on reflecting on rock \u2019n\u2019 roll\u2019s increasingly ambitious sophistication in the 1960s.",
+                "J": "PassageA focuses on portraying Dylan\u2019s rock \u2019n\u2019 roll performance at the Newport Folk Festival, while PassageB focuses on exploring the roles of and changes within folk music and rock \u2019n\u2019 roll in the 1960s."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 29,
+              "stem": "With which of the following claims would the authors of both passages most likely agree?",
+              "choices": {
+                "A": "Dylan\u2019s conversion from folk musician to rock \u2019n\u2019 roll musician temporarily stalled his career.",
+                "B": "Dylan\u2019s rock \u2019n\u2019 roll performance at the Newport Folk Festival marked a pivotal moment in the evo- lution of rock \u2019n\u2019 roll.",
+                "C": "The response to Dylan\u2019s rock \u2019n\u2019 roll performance at the Newport Folk Festival left Dylan confused about the course of his musical development.",
+                "D": "Changes within rock \u2019n\u2019 roll motivated Dylan to switch from playing folk music to playing rock \u2019n\u2019 roll."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 30,
+              "stem": "Compared to Passage A, Passage B provides more information about:",
+              "choices": {
+                "F": "the pre-1960s history of rock \u2019n\u2019 roll.",
+                "G": "lyrics in folk music and rock \u2019n\u2019 roll.",
+                "H": "Dylan\u2019s public persona.",
+                "J": "Dylan\u2019s background and musical training. am.net 5 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "genre": "NATURAL SCIENCE",
+          "title": "Passage IV",
+          "source": "",
+          "text": "Two troughs run through the ruff from the fore-\n55 head to the lower jaw, each about two centimeters wide\nNATURAL SCIENCE:This passage is adapted from the article and nine centimeters long. The troughs are similar in\n\u201cThe Hearing of the Barn Owl\u201d by Eric I. Knudsen (\u00a91981 by shape to the fleshy exterior of the human ear, and they\nScientific American, Inc.). serve the same purpose: to collect high-frequency\nsounds from a large volume of space and funnel them\nFor the barn owl life depends on hearing. A noc- 60 into the ear canals. The troughs join below the beak.\nturnal hunter, the bird must be able to find field mice The ear openings themselves are hidden under the\nsolely by the rustling and squeaking sounds they make preaural flaps: two flaps of skin that project to the side\nas they traverse runways in snow or grass. Like preda- next to the eyes. The entire elaborate facial structure is\n5 tors that hunt on the ground, the barn owl must be able hidden under a layer of particularly fine feathers that\nto locate its prey quickly and precisely in the horizontal 65 are acoustically transparent.\nplane. Since the bird hunts from the air, it must also be\nable to determine its angle of elevation above the The barn owl is capable of locating the source of a\nanimal it is hunting. The owl has solved this problem sound within a range of one to two degrees in both\n10 very successfully: it can locate sounds in azimuth (the azimuth and elevation; one degree is about the width of\nhorizontal dimension) and elevation (the vertical a little finger at arm\u2019s length. Surprisingly, until the\ndimension) better than any other animal whose hearing 70 barn owl was tested, man was the species with the\nhas been tested. greatest known ability to locate the source of a sound;\nhuman beings are about as accurate as the owl in\nWhat accounts for this acuity? The answer lies in azimuth but are three times worse in elevation.\n15 the owl\u2019s ability to utilize subtle differences between\nthe sound in its left ear and that in its right. The ears are The sensitivity of the barn owl\u2019s hearing is shown\ngenerally at slightly different distances from the source 75 both by its capacity to locate distant sounds and by its\nof a sound, so that sound waves reach them at slightly ability to orient its talons for the final strike. When the\ndifferent times. The barn owl is particularly sensitive to owl swoops down on a mouse, even in a completely\n20 these minute differences, exploiting them to determine dark experimental chamber, it quickly aligns its talons\nthe azimuth of the sound. In addition the sound is per- with the body axis of the mouse. This behavior is not\nceived as being somewhat louder by the ear that is 80 accidental. When the mouse turns and runs in a differ-\ncloser to the source, and this difference offers further ent direction, the owl realigns its talons accordingly.\nclues to horizontal location. For the barn owl the differ- This behavior clearly increases the probability of a suc-\n25 ence in loudness also helps to specify elevation because cessful strike; it also implies that the owl not only iden-\nof an unusual asymmetry in the owl\u2019s ears. The right tifies the location of the sound source with extreme\near and its opening are directed slightly upward; the left 85 accuracy but also detects subtle changes in the origin of\near and its opening are directed downward. For this the sound from which it infers the direction of move-\nreason the right ear is more sensitive to sounds from ment of the prey.\n30 above and the left ear to sounds from below.\nThese differences in timing and loudness provide\nenough information for the bird to accurately locate\nsounds both horizontally and vertically. To be of ser-\nvice to the owl, however, the information must be orga-\n35 nized and interpreted. Much of the processing is\naccomplished in brain centers near the beginning of the\nauditory pathway. From these centers nerve impulses\n31. The first paragraph most strongly suggests that a barn\ntravel to a network of neurons in the midbrain that are\nowl must be able to locate sounds in the vertical\narranged in the form of a map of space. Each neuron in\ndimension mainly because it hunts:\n40 this network is excited only by sounds from one small\nregion of space. From this structure impulses are\nA. from the air.\nrelayed to the higher brain centers. The selection of\nB. even when it can only partially see the animal it is\nsensory cues and their transformation into a map of\nhunting.\nspace is what enables the barn owl to locate its prey in\nC. animals that move quickly.\n45 total darkness with deadly accuracy.\nD. while detecting sounds in both its right and left\nears.\nThe most visually striking anatomical feature of\nthe barn owl, and the one that plays the most important\n32. The author uses the expression \u201cthe azimuth of the\nrole in its location of prey, is the face. The skull is rela-\nsound\u201d (line 21) most nearly to refer to a sound\u2019s:\ntively narrow and small and the face is large and round,\n50 made up primarily of layers of stiff, dense feathers F. fluctuation between high and low frequencies.\narrayed in tightly packed rows. The feathered structure, G. location in the horizontal dimension.\ncalled the facial ruff, forms a surface that is a very effi- H. transformation into a map of space.\ncient reflector of high-frequency sounds. J. loudness and intensity.\nwww.actexam.net\n36 GO ON TO THE NEXT PAGE.\nACT-D06",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "The first paragraph most strongly suggests that a barn owl must be able to locate sounds in the vertical dimension mainly because it hunts:",
+              "choices": {
+                "A": "from the air.",
+                "B": "even when it can only partially see the animal it is hunting.",
+                "C": "animals that move quickly.",
+                "D": "while detecting sounds in both its right and left ears."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 32,
+              "stem": "The author uses the expression \u201cthe azimuth of the sound\u201d (line 21) most nearly to refer to a sound\u2019s:",
+              "choices": {
+                "F": "fluctuation between high and low frequencies.",
+                "G": "location in the horizontal dimension.",
+                "H": "transformation into a map of space.",
+                "J": "loudness and intensity. am.net 6 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "3 3\n33. As it is used in line 20, the word exploitingmost nearly 37. The author directly states that which of the following\nmeans: features of the barn owl is the most visually striking?\nA. imposing upon. A. Its aerodynamic flight\nB. improving. B. Its coloring\nC. victimizing. C. Its face\nD. making use of. D. Its talons\n38. According to the passage, in terms of length and width,\na barn owl\u2019s troughs are:\n34. Which of the following behaviors of a barn owl does F. wider than they are long.\nthe author provide as the strongest evidence of the G. longer than they are wide.\nbird\u2019s ability to detect subtle changes in the origin of a H. about as wide as they are long.\nsound? J. variable in terms of their relative length and width.\nF. Locating sound originating from small prey\nG. Catching prey in complete darkness 39. The author most likely refers to the feathers that cover\nH. Realigning its talons as a mouse turns and runs the barn owl\u2019s facial structure as being \u201cacoustically\nJ. Swooping down on stationary prey transparent\u201d (line 65) to emphasize that the feathers\nare:\nA. shaped into two flaps that protect the owl\u2019s ear\nopenings.\n35. The passage indicates that each neuron in the network B. arranged in several layers that allow sound to be\nof neurons in the barn owl\u2019s midbrain is excited only amplified.\nby sounds: C. textured and dense enough to block unnecessary\nsensory stimuli.\nA. from one particular species of animal.\nD. fine enough to allow sound to pass through them\nB. from one small region of space.\nunfiltered.\nC. falling within one specific frequency.\nD. falling within one predictable timing pattern.\n40. Based on the passage, which of the following state-\nments most accurately compares a human\u2019s ability to\nlocate the source of a sound in azimuth and elevation\nto the barn owl\u2019s ability to do so?\n36. The author\u2019s use of the word \u201cdeadly\u201d (line 45) most\nF. The barn owl is about as accurate as a human in\nnearly serves to:\nazimuth but is about three times more accurate in\nF. hint that the barn owl\u2019s method of attack is some- elevation.\ntimes harmful to the owl itself. G. The barn owl is about three times more accurate\nG. imply that the barn owl\u2019s prowess as a hunter is than a human in both azimuth and elevation.\nboth alarming and regrettable. H. The barn owl is about as accurate as a human in\nH. reiterate that the barn owl is feared by many ani- both azimuth and elevation.\nmals for its ability to swiftly kill. J. The barn owl is about three times more accurate as\nJ. emphasize that the barn owl\u2019s means of hunting is a human in azimuth but is about as accurate in\nboth remarkable and lethal. elevation.\nEND OF TEST 3\nSTOP! DO NOT TURN THE PAGE UNTIL TOLD TO DO SO.\nDO NOT RETURN TO A PREVIOUS TEST.\nwww.actexam.net\n37\nACT-D06",
+          "questions": [
+            {
+              "number": 33,
+              "stem": "As it is used in line 20, the word exploitingmost nearly means:",
+              "choices": {
+                "A": "imposing upon.",
+                "B": "improving.",
+                "C": "victimizing.",
+                "D": "making use of."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 34,
+              "stem": "Which of the following behaviors of a barn owl does the author provide as the strongest evidence of the bird\u2019s ability to detect subtle changes in the origin of a sound?",
+              "choices": {
+                "F": "Locating sound originating from small prey",
+                "G": "Catching prey in complete darkness",
+                "H": "Realigning its talons as a mouse turns and runs",
+                "J": "Swooping down on stationary prey"
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 35,
+              "stem": "The passage indicates that each neuron in the network of neurons in the barn owl\u2019s midbrain is excited only by sounds:",
+              "choices": {
+                "A": "from one particular species of animal.",
+                "B": "from one small region of space.",
+                "C": "falling within one specific frequency.",
+                "D": "falling within one predictable timing pattern."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 36,
+              "stem": "The author\u2019s use of the word \u201cdeadly\u201d (line 45) most nearly serves to:",
+              "choices": {
+                "F": "hint that the barn owl\u2019s method of attack is some- times harmful to the owl itself.",
+                "G": "imply that the barn owl\u2019s prowess as a hunter is both alarming and regrettable.",
+                "H": "reiterate that the barn owl is feared by many ani- mals for its ability to swiftly kill.",
+                "J": "emphasize that the barn owl\u2019s means of hunting is both remarkable and lethal. STOP! DO N www.actexa 3 ACT-D06 3"
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 37,
+              "stem": "The author directly states that which of the following features of the barn owl is the most visually striking?",
+              "choices": {
+                "A": "Its aerodynamic flight",
+                "B": "Its coloring",
+                "C": "Its face",
+                "D": "Its talons"
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 38,
+              "stem": "According to the passage, in terms of length and width, a barn owl\u2019s troughs are:",
+              "choices": {
+                "F": "wider than they are long.",
+                "G": "longer than they are wide.",
+                "H": "about as wide as they are long.",
+                "J": "variable in terms of their relative length and width."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 39,
+              "stem": "The author most likely refers to the feathers that cover the barn owl\u2019s facial structure as being \u201cacoustically transparent\u201d (line 65) to emphasize that the feathers are:",
+              "choices": {
+                "A": "shaped into two flaps that protect the owl\u2019s ear openings.",
+                "B": "arranged in several layers that allow sound to be amplified.",
+                "C": "textured and dense enough to block unnecessary sensory stimuli.",
+                "D": "fine enough to allow sound to pass through them unfiltered."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 40,
+              "stem": "Based on the passage, which of the following state- ments most accurately compares a human\u2019s ability to locate the source of a sound in azimuth and elevation to the barn owl\u2019s ability to do so?",
+              "choices": {
+                "F": "The barn owl is about as accurate as a human in azimuth but is about three times more accurate in elevation.",
+                "G": "The barn owl is about three times more accurate than a human in both azimuth and elevation.",
+                "H": "The barn owl is about as accurate as a human in both azimuth and elevation.",
+                "J": "The barn owl is about three times more accurate as a human in azimuth but is about as accurate in elevation. END OF TEST 3 NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST. am.net 7"
+              },
+              "correct": "F",
+              "lineRef": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "title": "Passage i",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_38.jpg",
+          "startPage": 38,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "In Experiment2, which of the following combinations of pH and H O concentration led to the shortest RT ? 2 2 pH H O concentration 2 2",
+              "choices": {
+                "A": "5 0.2%",
+                "B": "5 2.0%",
+                "C": "7 0.2%",
+                "D": "7 2.0%"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_38.jpg"
+            },
+            {
+              "number": 2,
+              "stem": "The number of circular pieces of filter paper used in Experiment2 was:",
+              "choices": {
+                "F": "05.",
+                "G": "10.",
+                "H": "15.",
+                "J": "20. www.actexa 3 4"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_38.jpg"
+            },
+            {
+              "number": 3,
+              "stem": "Suppose that another trial had been performed in Experiment 1 and that the RT for this trial had been 8sec. The H O concentration for this trial would most 2 2 likely have been closest to which of the following?",
+              "choices": {
+                "A": "0.4%",
+                "B": "0.7%",
+                "C": "1.6%",
+                "D": "2.2%"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_38.jpg"
+            },
+            {
+              "number": 4,
+              "stem": "Did H O decompose faster in Trial 2 or in Trial 7 ? 2 2",
+              "choices": {
+                "F": "Trial2; the shorter RT corresponded to the faster decomposition.",
+                "G": "Trial 2; the longer RT corresponded to the faster decomposition.",
+                "H": "Trial7; the shorter RT corresponded to the faster decomposition.",
+                "J": "Trial 7; the longer RT corresponded to the faster decomposition."
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_38.jpg"
+            },
+            {
+              "number": 5,
+              "stem": "Consider the gas bubbles that were responsible for causing the filter paper to rise to the surface. The inte- rior of these gas bubbles was most likely primarily occupied by which of the following substances?",
+              "choices": {
+                "A": "H O 2",
+                "B": "Catalase",
+                "C": "O 2",
+                "D": "H O 2 2"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_38.jpg"
+            },
+            {
+              "number": 6,
+              "stem": "Suppose that in each trial of Experiment1 the volume of the H O solution contained in the beaker in Step 2 2 2 had been 400 mL. In Trial5, the RT would most likely have been closest to which of the following?",
+              "choices": {
+                "F": "08 sec",
+                "G": "10 sec",
+                "H": "14 sec",
+                "J": "16 sec"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_38.jpg"
+            },
+            {
+              "number": 7,
+              "stem": "According to the results of Experiments 1 and 2, what was the range of RT values for the trials done at a neu- tral pH ? sec\u221219",
+              "choices": {
+                "A": "07 sec",
+                "B": "08 sec\u221222 sec sec\u221227",
+                "C": "10 sec",
+                "D": "18 sec\u221250 sec am.net 9 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_38.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "title": "Passage II",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_40.jpg",
+          "startPage": 40,
+          "questions": [
+            {
+              "number": 8,
+              "stem": "If an incubation time of 36 hr had been tested in Study 1, the average number of E. coli cells/cm2 in 10% soy broth would most likely have been:",
+              "choices": {
+                "F": "less than 2,300 cells/cm2. cells/cm2and cells/cm2.",
+                "G": "between 2,300 12,000",
+                "H": "between 12,000 cells/cm2and 49,000 cells/cm2. cells/cm2.",
+                "J": "greater than 49,000"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_40.jpg"
+            },
+            {
+              "number": 9,
+              "stem": "Suppose a student wants to use a medium to grow",
+              "choices": {
+                "E": "coli that will minimize, as much as possible, the adherence of the E.colito a stainless steel surface over a 72 hr incubation period. Based on the results of Study1, which of the 4 media tested should the student select?",
+                "A": "10% soy broth",
+                "B": "100% soy broth",
+                "C": "Skim milk",
+                "D": "20% meat juice"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_40.jpg"
+            },
+            {
+              "number": 10,
+              "stem": "In each trial of the studies, what was the purpose of the euchrysine solution?",
+              "choices": {
+                "F": "To make it possible to see the cells that were attached to each chip",
+                "G": "To remove any cells that were only loosely associ- ated with each chip prior to staining the cells",
+                "H": "To provide a source of nutrients for the cells",
+                "J": "To eliminate any excess dye from the chips after staining the cells"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_40.jpg"
+            },
+            {
+              "number": 11,
+              "stem": "According to the results of Studies 1 and 2, for all 4 of the incubation times tested, the average number of S.typhimurium cells/cm2 was greater than the average cells/cm2 number of E. coli for which of the media tested?",
+              "choices": {
+                "A": "10% soy broth and 100% soy broth only",
+                "B": "10% soy broth and skim milk only",
+                "C": "100% soy broth and 20% meat juice only",
+                "D": "Skim milk and 20% meat juice only www.actexa 4 4"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_40.jpg"
+            },
+            {
+              "number": 12,
+              "stem": "After the cells attached to a stainless steel chip were stained, any excess dye that remained on the chip needed to be removed prior to analyzing the cells. In the studies, which step was most likely performed to accomplish this task?",
+              "choices": {
+                "F": "Step 4",
+                "G": "Step 5",
+                "H": "Step 6",
+                "J": "Step 7"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_40.jpg"
+            },
+            {
+              "number": 13,
+              "stem": "Which of the following statements about the effect of either 10% soy broth or skim milk on the number of S.typhimurium that adhere to a stainless steel surface is consistent with the results of Study2 ? As the incu- bation time increases from 1 hr through 72 hr for S.typhimuriumin:",
+              "choices": {
+                "A": "10% soy broth, the average number of cells/cm2 S. typhimurium increases and then remains constant.",
+                "B": "10% soy broth, the average number of S. typhimurium cells/cm2 decreases and then remains constant.",
+                "C": "skim milk, the average number of S.typhimurium cells/cm2increases only.",
+                "D": "skim milk, the average number of S.typhimurium cells/cm2decreases only."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_40.jpg"
+            },
+            {
+              "number": 14,
+              "stem": "In the studies, the macromolecule that was stained in the cells was composed of what type of subunit?",
+              "choices": {
+                "F": "Amino acid",
+                "G": "Fatty acid",
+                "H": "Monosaccharide",
+                "J": "Nucleotide am.net 1 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_40.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "title": "Passage III",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_42.jpg",
+          "startPage": 42,
+          "questions": [
+            {
+              "number": 15,
+              "stem": "In Study 1, why were the soil samples oven dried before being analyzed?",
+              "choices": {
+                "A": "To increase the soil mass",
+                "B": "To increase the water content",
+                "C": "To remove most or all SRP",
+                "D": "To remove most or all water"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_42.jpg"
+            },
+            {
+              "number": 16,
+              "stem": "Which of the following statements gives the most likely reason the lysimeters were installed 2 years before the studies began? The 2-year period allowed time for the:",
+              "choices": {
+                "F": "holes to be dug in the plots.",
+                "G": "soil to settle again after being disturbed.",
+                "H": "SRP concentration to decrease to zero.",
+                "J": "oak trees to grow to a minimum height. am.net 2 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_42.jpg"
+            },
+            {
+              "number": 17,
+              "stem": "Which of the following statements gives the most likely reason that only the top 12cm of soil was con- sidered in Study 1 ?",
+              "choices": {
+                "A": "The soil\u2019s maximum depth was less than 12 cm.",
+                "B": "The soil\u2019s maximum depth was greater than 12 cm.",
+                "C": "The earthworms lived only at depths less than 12 cm.",
+                "D": "The earthworms lived only at depths greater than 12 cm."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_42.jpg"
+            },
+            {
+              "number": 18,
+              "stem": "Which 2 plots should be compared to determine the effect of a forest\u2019s age on total soil P in the absence of earthworms?",
+              "choices": {
+                "F": "Plots 1 and 2",
+                "G": "Plots 1 and 3",
+                "H": "Plots 2 and 4",
+                "J": "Plots 3 and 4"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_42.jpg"
+            },
+            {
+              "number": 19,
+              "stem": "In Study1, all the particles in the samples analyzed for total soil P were:",
+              "choices": {
+                "A": "smaller than or equal to 2 mm in diameter.",
+                "B": "between 2 mm and 3 mm in diameter.",
+                "C": "exactly 3 mm in diameter.",
+                "D": "larger than 3 mm in diameter. www.actexa 4 4"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_42.jpg"
+            },
+            {
+              "number": 20,
+              "stem": "The greatest depth at which soil was collected in Study 1 was how many times as great as the greatest depth at which soil solution samples were collected in Study 2 ? _1_ F. 3 _1_ G. 2",
+              "choices": {
+                "H": "2",
+                "J": "3"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_42.jpg"
+            },
+            {
+              "number": 21,
+              "stem": "Consider the results of Study 2 for ForestW. For each of the 2depths, was the SRP concentration in the plot with earthworms greater than or less than the SRP con- centration in the plot without earthworms? shallow deep",
+              "choices": {
+                "A": "greater greater",
+                "B": "greater less",
+                "C": "less greater",
+                "D": "less less am.net 3 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_42.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "title": "Passage IV",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_44.jpg",
+          "startPage": 44,
+          "questions": [
+            {
+              "number": 22,
+              "stem": "As the odorant concentration increased from 1 mg/L through 100 mg/L, the average change in antennal voltage:",
+              "choices": {
+                "F": "decreased only for all 5 odorants.",
+                "G": "increased only for all 5 odorants.",
+                "H": "decreased only for 4 odorants but decreased and then increased for 1 odorant.",
+                "J": "increased only for 4 odorants but increased and then decreased for 1 odorant."
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_44.jpg"
+            },
+            {
+              "number": 23,
+              "stem": "Based on the figure, if adult female M. sexta are exposed to 5 mg/L of methyl salicylate, the average change in antennal voltage will most likely be: \u03bcV.",
+              "choices": {
+                "A": "less than 60",
+                "B": "between 60 \u03bcV and 120 \u03bcV. \u03bcV \u03bcV.",
+                "C": "between 120 and 185",
+                "D": "greater than 185 \u03bcV."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_44.jpg"
+            },
+            {
+              "number": 24,
+              "stem": "For which of the following combinations of odorant and concentration was the average change in antennal voltage closest to the average change in antennal volt- age for 50 mg/L of nerolidol? odorant concentration",
+              "choices": {
+                "F": "propylacetone 001 mg/L",
+                "G": "linalool 010 mg/L",
+                "H": "caryophyllic acid 050 mg/L",
+                "J": "methyl salicylate 100 mg/L"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_44.jpg"
+            },
+            {
+              "number": 25,
+              "stem": "For the M. sexta exposed to an odorant concentration of 1mg/L, what is the order of the 5odorants, from the odorant that stimulated the least average change in antennal voltage to the odorant that stimulated the greatest average change in antennal voltage?",
+              "choices": {
+                "A": "Caryophyllic acid, linalool, methyl salicylate, nerolidol, propylacetone",
+                "B": "Caryophyllic acid, methyl salicylate, nerolidol, linalool, propylacetone",
+                "C": "Propylacetone, methyl salicylate, nerolidol, caryo - phyllic acid, linalool",
+                "D": "Propylacetone, nerolidol, caryophyllic acid, methyl salicylate, linalool am.net 4 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_44.jpg"
+            },
+            {
+              "number": 26,
+              "stem": "According to the passage, certain chemical compounds can stimulate a change in the electrical activity of a specific type of neuron in M. sexta. This type of neuron is found in what organ of the human body?",
+              "choices": {
+                "F": "Liver",
+                "G": "Ears",
+                "H": "Heart",
+                "J": "Nose www.actexa 4 4"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_44.jpg"
+            },
+            {
+              "number": 27,
+              "stem": "Would the neurons that are referred to in the passage be classified as belonging to the central nervous system or to the peripheral nervous system?",
+              "choices": {
+                "A": "Central; the function of these neurons is to receive and process information from other neurons.",
+                "B": "Central; the function of these neurons is to receive stimuli from the environment and then pass this information to other neurons.",
+                "C": "Peripheral; the function of these neurons is to receive and process information from other neurons.",
+                "D": "Peripheral; the function of these neurons is to receive stimuli from the environment and then pass this information to other neurons. am.net 5 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_44.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-v",
+          "title": "Passage V",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_46.jpg",
+          "startPage": 46,
+          "questions": [
+            {
+              "number": 28,
+              "stem": "Consider a satellite that completes 1revolution around Mars in exactly 5 hr. Based on Figure1, the altitude at which this satellite orbits is most likely closest to which of the following?",
+              "choices": {
+                "F": "3,200 km",
+                "G": "3,600 km",
+                "H": "4,000 km",
+                "J": "4,400 km"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_46.jpg"
+            },
+            {
+              "number": 29,
+              "stem": "Consider the hypothesis \u201cFor a given central body and a given satellite mass, the greater the altitude of the orbit, the greater the orbital energy.\u201d Which group(s) of satellites listed in Table1 could be cited as evidence in support of this hypothesis? 1\u22124",
+              "choices": {
+                "A": "Satellites only",
+                "B": "Satellites 5\u22128 only 1\u22124 9\u221212",
+                "C": "Satellites and Satellites only",
+                "D": "Satellites 5\u22128 and Satellites 9\u221212 only"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_46.jpg"
+            },
+            {
+              "number": 30,
+              "stem": "Consider 3 satellites: 1 orbiting the Moon, 1 orbiting Earth, and 1 orbiting Mars. Each satellite has the same mass and orbits at the same altitude above its central body. Based on Figure 1, the satellite orbiting which central body most likely completes a revolution in the leasttime?",
+              "choices": {
+                "F": "Moon",
+                "G": "Earth",
+                "H": "Mars",
+                "J": "Cannot be determined from the given information 5\u22128."
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_46.jpg"
+            },
+            {
+              "number": 31,
+              "stem": "Consider the data for Satellites The trend in this data set could be more completely demonstrated if which additional satellite were grouped together with Satellites 5\u22128 ?",
+              "choices": {
+                "A": "Satellite 2",
+                "B": "Satellite 3",
+                "C": "Satellite 9",
+                "D": "Satellite 10 www.actexa 4 4"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_46.jpg"
+            },
+            {
+              "number": 32,
+              "stem": "The diagram below (not drawn to scale) shows the radius, R, of a central body; the center-to-center dis- tance, d, between the central body and a satellite; and the satellite\u2019s altitude. d R altitude Given the data in Table1 regarding Satellites 2 and 10, for which satellite would dbe greater?",
+              "choices": {
+                "F": "Satellite 2, because the altitude for Satellite 2 is greater than the altitude for Satellite 10.",
+                "G": "Satellite2, because R for the Moon is greater than R for Earth.",
+                "H": "Satellite10, because the altitude for Satellite10 is greater than the altitude for Satellite 2.",
+                "J": "Satellite10, because R for Earth is greater than R for the Moon."
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_46.jpg"
+            },
+            {
+              "number": 33,
+              "stem": "Which of the following questions requires additional information beyond what is available in Table 1 and Figure 1 in order to be answered?",
+              "choices": {
+                "A": "What is the orbital energy of a 100 kg satellite in orbit around Mars at an altitude of 400 km ?",
+                "B": "At what altitude does a 100kg satellite orbit Earth if its orbital energy is 3,984 MJ ?",
+                "C": "Approximately how many revolutions does a satel- lite complete per hour while in orbit around Mars at an altitude of 400 km ?",
+                "D": "Approximately how much time is required for a satellite to complete 1 revolution around Earth at an altitude of 400 km ? am.net 7 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_46.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-vi",
+          "title": "Passage VI",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_48.jpg",
+          "startPage": 48,
+          "questions": [
+            {
+              "number": 30,
+              "stem": "",
+              "choices": {
+                "J": "___ 5 Combine the totals of these columns and p *Reporting Categories PHM = Preparing for Higher Math N = Number & Quantity",
+                "A": "= Algebra",
+                "F": "= Functions",
+                "G": "= Geometry S = Statistics & Probability IES = Integrating Essential Skills MDL = Modeling www.actexa 51 Reporting Category* PHM Key N A F G S IES MDL"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_48.jpg"
+            },
+            {
+              "number": 34,
+              "stem": "All 3 scientists made which of the following state- ments about H O or HCl ? 2",
+              "choices": {
+                "F": "H O is an acid. 2",
+                "G": "H O is a base. 2",
+                "H": "HCl is an acid.",
+                "J": "HCl is a base."
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_48.jpg"
+            },
+            {
+              "number": 35,
+              "stem": "Scientist2\u2019s description of an acid differs from that of Scientist3 in which of the following ways? According to Scientist 2, an acid:",
+              "choices": {
+                "A": "accepts a pair of electrons, whereas according to + Scientist 3, an acid donates an H .",
+                "B": "donates a pair of electrons, whereas according to + Scientist 3, an acid accepts an H . +",
+                "C": "accepts an H , whereas according to Scientist3, an acid donates a pair of electrons. +",
+                "D": "donates an H , whereas according to Scientist 3, an acid accepts a pair of electrons."
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_48.jpg"
+            },
+            {
+              "number": 36,
+              "stem": "Consider the statement \u201cAll bases contain hydroxide ions.\u201d Which of the scientists would be likely to agree with the statement?",
+              "choices": {
+                "F": "Scientist 1 only",
+                "G": "Scientist 3 only",
+                "H": "Scientists 1 and 2 only",
+                "J": "Scientists 2 and 3 only"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_48.jpg"
+            },
+            {
+              "number": 37,
+              "stem": "Consider the statement \u201cIn any chemical reaction where a substance acts as an acid, there must also be a substance that acts as a base.\u201d Which of Scientists 2 and 3, if either, would be likely to agree with this statement?",
+              "choices": {
+                "A": "Scientist 2 only",
+                "B": "Scientist 3 only",
+                "C": "Both Scientist 2 and Scientist 3",
+                "D": "Neither Scientist 2 nor Scientist 3"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_48.jpg"
+            },
+            {
+              "number": 38,
+              "stem": "The chemical formula of hypochlorous acid is HOCl. Scientist 1 would likely assert that HOCl is an acid, and explain that assertion by stating that, in H O, 2 HOCl dissociates into: \u2212 +",
+              "choices": {
+                "F": "H and ClO . + \u2212",
+                "G": "H and ClO . \u2212 +",
+                "H": "OH and Cl . + \u2212",
+                "J": "OH and Cl . am.net 8 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_48.jpg"
+            },
+            {
+              "number": 39,
+              "stem": "Based on Scientist3\u2019s model, which of these can never act as a base in a reaction: an individual atom of H or an individual atom of O ? An atom of:",
+              "choices": {
+                "A": "H, because it has less than 2 electrons.",
+                "B": "H, because it has more than 2 electrons.",
+                "C": "O, because it has less than 2 electrons.",
+                "D": "O, because it has more than 2 electrons. S www.actexa 4 4"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_48.jpg"
+            },
+            {
+              "number": 40,
+              "stem": "Consider Scientist2\u2019s model. The conjugate baseof an acid can be defined as the part of the acid that remains + after the acid has donated the H in a reaction. What substance is the conjugate base in the reaction described by Scientist 2 ?",
+              "choices": {
+                "F": "H O 2 +",
+                "G": "H O 3",
+                "H": "HCl \u2212",
+                "J": "Cl END OF TEST 4 STOP! DO NOT RETURN TO ANY OTHER TEST. am.net 9"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/D06/science/page_48.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scaleTable": {}
+}

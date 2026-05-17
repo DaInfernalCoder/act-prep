@@ -1,0 +1,2938 @@
+{
+  "id": "G19",
+  "name": "ACT Form G19",
+  "sections": [
+    {
+      "id": "english",
+      "name": "English",
+      "timeMinutes": 45,
+      "passages": [
+        {
+          "id": "eng-p1",
+          "title": "Passage 1",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_2.jpg",
+          "startPage": 2,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "alike, to the work of Vermont farmer,",
+                "C": "alike to the work of Vermont farmer,",
+                "D": "alike to the work of Vermont farmer"
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_2.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 2,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "history in, 1885,",
+                "H": "history in, 1885",
+                "J": "history, in 1885"
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_2.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 3,
+              "stem": "At this point, the writer is considering adding the fol- lowing true statement: In the 1600s, Johannes Kepler published the treatise \u201cOn the Six-Cornered Snowflake.\u201d Should the writer make this addition here?",
+              "choices": {
+                "A": "Yes, because it establishes a timeline for the study of snowflakes throughout history.",
+                "B": "Yes, because it establishes that Bentley was influ- enced by Kepler\u2019s work.",
+                "C": "No, because it detracts from the essay\u2019s focus on Bentley and his photomicrographs.",
+                "D": "No, because it detracts from the essay\u2019s focus on Bentley\u2019s farm in Vermont. 2 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_2.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 4,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "examining snowflakes during snowfalls and",
+                "H": "to examine snowflakes during snowfalls and",
+                "J": "to examine snowflakes during snowfalls,"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_3.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 5,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "and record the six-cornered snowflakes by drawing them by hand,",
+                "C": "and record the six-cornered snowflakes by hand- drawing them,",
+                "D": "the snowflakes, hand-drawing them by hand,"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_3.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 6,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "favor of",
+                "H": "favor for",
+                "J": "favored"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_3.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 7,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "camera; this being",
+                "C": "camera\u2014",
+                "D": "camera;"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_3.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 8,
+              "stem": "The writer is considering deleting the underlined por- tion. Should the underlined portion be kept or deleted?",
+              "choices": {
+                "F": "Kept, because it introduces a photographic tech- nique of Bentley\u2019s that will be described later in the essay.",
+                "G": "Kept, because it establishes that Bentley was an experienced photographer.",
+                "H": "Deleted, because it detracts from the paragraph\u2019s focus on the quality of Bentley\u2019s photographs.",
+                "J": "Deleted, because it interrupts the description of Bentley\u2019s camera."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_3.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 9,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "putting them on a microscope slide, and snapping",
+                "C": "put them on a microscope slide, and snapping",
+                "D": "put them on a microscope slide, and snap"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_3.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 10,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "the flake",
+                "H": "this",
+                "J": "it"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_3.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 11,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "He then used a feather",
+                "C": "Using a feather, then,",
+                "D": "Then used a feather 3 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_3.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 12,
+              "stem": "The writer is considering revising the underlined por- tion to the following: about seventy-five snowflakes. Given that the information is accurate, should the writer make this revision?",
+              "choices": {
+                "F": "Yes, because it provides specific information about the types of snowfalls Bentley was able to photo- graph while he lived in Vermont.",
+                "G": "Yes, because it provides specific information that helps demonstrate Bentley\u2019s productivity during his snowflake photography sessions.",
+                "H": "No, because although it provides specific informa- e tion, it indicates that Bentley wasn\u2019t satisfied with the number of snowflakes he photographed. e J. No, because although it provides more informa- tion, it does not provide the exact number of snowflakes that Bentley photographed."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_4.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 13,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "black and it accentuated",
+                "C": "black, it accentuated",
+                "D": "black accentuating"
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_4.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 14,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "ultimately",
+                "H": "otherwise",
+                "J": "usually Question 15 asks about the preceding passage as a whole."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_4.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 15,
+              "stem": "Suppose the writer\u2019s primary purpose had been to write about a notable achievement in photography. Would this essay accomplish that purpose?",
+              "choices": {
+                "A": "Yes, because it describes Bentley\u2019s innovative method for photographing an object that had never been captured on film.",
+                "B": "Yes, because it focuses on the process of snowflake formation and the man who discovered it.",
+                "C": "No, because it instead describes how scientists used Bentley\u2019s photomicrographs to study snowflakes.",
+                "D": "No, because it instead focuses on Bentley\u2019s child- hood accomplishments in photography."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_4.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 16,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "clam\u2014flickers a band of bright light",
+                "H": "clam flickers\u2014a band of bright light",
+                "J": "clam flickers a band\u2014of bright light 4 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_4.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 17,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "bioluminescence, and a",
+                "C": "bioluminescence, a",
+                "D": "bioluminescence. A r, 18. F. NO CHANGE",
+                "G": "makes luminosity happen in a whole multiplicity",
+                "H": "generates luminescence in a diverse bunch",
+                "J": "engenders light in a hodgepodge"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_5.jpg",
+              "correct": "C"
+            }
+          ]
+        },
+        {
+          "id": "eng-p2",
+          "title": "Passage 2",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_5.jpg",
+          "startPage": 5,
+          "questions": [
+            {
+              "number": 19,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "in this parallelism with the disco clam\u2019s lips.",
+                "C": "in her comparison.",
+                "D": "DELETE the underlined portion and end the sen- tence with a period."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_5.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 20,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "lips microscopic, mirror-like silica spheres,",
+                "H": "lips microscopic, mirror-like, silica spheres,",
+                "J": "lips, microscopic, mirror-like silica spheres,"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_5.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 21,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "has reflected",
+                "C": "is reflecting",
+                "D": "reflect"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_5.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 22,
+              "stem": "At this point, the writer is considering adding the fol- lowing sentence: Silica is used in the production of glass for windows and drinking cups. Given that the sentence is accurate, should the writer make this addition here?",
+              "choices": {
+                "F": "Yes, because it clarifies how the disco clam\u2019s silica spheres reflect light.",
+                "G": "Yes, because it clarifies information about Dougherty\u2019s motivation for studying disco clams.",
+                "H": "No, because it interrupts the paragraph\u2019s descrip- tion of how the disco clam\u2019s lips reflect light.",
+                "J": "No, because it interrupts the paragraph\u2019s explana- tion of the relationship between spheres and wavelengths."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_5.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 23,
+              "stem": "If the writer were to delete the underlined portion (adjusting the punctuation as needed), the essay would primarily lose:",
+              "choices": {
+                "A": "a description of how the disco clam utilizes the silica spheres.",
+                "B": "a suggestion that one side of the disco clam\u2019s lips is less important than the other side.",
+                "C": "a detail that helps explain why one side of the disco clam\u2019s lips appears red.",
+                "D": "an estimation of how many silica spheres are on the disco clam\u2019s lips. 5 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_5.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 24,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "taking place at a temporal calculation of",
+                "H": "occurring at an average rate of",
+                "J": "happening, more or less, about"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_6.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 25,
+              "stem": "Given that all the choices are accurate, which one most effectively concludes the paragraph?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "The disco clam is also called the electric flame scallop and the electric clam.",
+                "C": "The disco clam is the only bivalve known to have light displays.",
+                "D": "Dougherty studied this mechanism using high- speed video cameras."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_6.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 26,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Dougherty knew some",
+                "H": "She realized some",
+                "J": "Knowing some"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_6.jpg",
+              "correct": ""
+            },
+            {
+              "number": 27,
+              "stem": "For the sake of the logic and cohesion of this para- graph, Sentence 3 should be placed:",
+              "choices": {
+                "A": "where it is now.",
+                "B": "after Sentence 1.",
+                "C": "after Sentence 4.",
+                "D": "after Sentence 5."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_6.jpg",
+              "correct": ""
+            },
+            {
+              "number": 28,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "admitted",
+                "H": "allowed",
+                "J": "granted s 29. Which of the following alternatives to the underlined portion would NOT be acceptable?",
+                "A": "acid, which sent",
+                "B": "acid. This sent",
+                "C": "acid; sending",
+                "D": "acid; it sent 6 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_6.jpg",
+              "correct": ""
+            },
+            {
+              "number": 30,
+              "stem": "Suppose the writer\u2019s primary purpose had been to dis- cuss a particular behavior of a sea creature. Would this essay accomplish that purpose?",
+              "choices": {
+                "F": "Yes, because it explains how the disco clam\u2019s lips reflect light and suggests a possibility for why this occurs.",
+                "G": "Yes, because it provides a summary of Dougherty\u2019s research on the relationship between the disco clam and the mantis shrimp.",
+                "H": "No, because it provides an overview of the differ- ences between bioluminescent sea creatures and disco clams.",
+                "J": "No, because it explains that Dougherty became interested in the disco clam while studying the mantis shrimp."
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_7.jpg",
+              "correct": ""
+            },
+            {
+              "number": 31,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Japan, kumi-daiko, or ensemble drumming,",
+                "C": "Japan kumi-daiko, or ensemble drumming",
+                "D": "Japan kumi-daiko or ensemble drumming,"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_7.jpg",
+              "correct": ""
+            },
+            {
+              "number": 32,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "The drummers\u2019 inspiration came from",
+                "H": "They drew inspiration from",
+                "J": "Inspired by"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_7.jpg",
+              "correct": ""
+            },
+            {
+              "number": 33,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "drums\u2014some of which weigh nearly 900 pounds\u2014",
+                "C": "drums\u2014some of which weigh nearly 900 pounds,",
+                "D": "drums some of which weigh nearly 900 pounds"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_7.jpg",
+              "correct": ""
+            },
+            {
+              "number": 34,
+              "stem": "At this point, the writer is considering adding the fol- lowing sentence to the essay: Hand drums like the kotsuzumi are more common in Japanese classical music than in kumi-daiko. Given that the information is accurate, should the writer make this addition?",
+              "choices": {
+                "F": "Yes, because it explains why the ensembles are able to drum with speed.",
+                "G": "Yes, because it emphasizes that bachi are custom made to meet a specific drummer\u2019s style.",
+                "H": "No, because it interrupts the description of kumi- daiko performances.",
+                "J": "No, because it detracts from the description of the size of taiko drums. 7 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_7.jpg",
+              "correct": ""
+            },
+            {
+              "number": 35,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "has been",
+                "C": "are",
+                "D": "was"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_8.jpg",
+              "correct": ""
+            },
+            {
+              "number": 36,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Den\u2019s students were assured",
+                "H": "Den assured his students",
+                "J": "they were assured"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_8.jpg",
+              "correct": ""
+            }
+          ]
+        },
+        {
+          "id": "eng-p3",
+          "title": "Passage 3",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_8.jpg",
+          "startPage": 8,
+          "questions": [
+            {
+              "number": 37,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Boston, and",
+                "C": "Boston: and",
+                "D": "Boston\u2014"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_8.jpg",
+              "correct": ""
+            },
+            {
+              "number": 38,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "For instance, as",
+                "H": "Likewise, as",
+                "J": "As"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_8.jpg",
+              "correct": ""
+            },
+            {
+              "number": 39,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "weren\u2019t looking like they were sapped.",
+                "C": "betrayed no hint of exhaustion.",
+                "D": "didn\u2019t appear tuckered out."
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_8.jpg",
+              "correct": ""
+            },
+            {
+              "number": 40,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "coupled with",
+                "H": "doubled with",
+                "J": "doubled by"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_8.jpg",
+              "correct": ""
+            },
+            {
+              "number": 41,
+              "stem": "At this point, the writer is considering dividing the paragraph into two. Should the writer begin or not begin a new paragraph here, and why?",
+              "choices": {
+                "A": "Begin a new paragraph, because the essay shifts from a description of a specific event to a broader overview of events that followed.",
+                "B": "Begin a new paragraph, because the essay moves from a description of a group of people to a profile of an individual.",
+                "C": "DO NOT begin a new paragraph, because doing so would interrupt the discussion of specific pieces Ondekoza performed.",
+                "D": "DO NOT begin a new paragraph, because doing so would disrupt the description of how Japanese Americans were inspired by Ondekoza."
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_8.jpg",
+              "correct": ""
+            },
+            {
+              "number": 42,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "completed",
+                "H": "wrought",
+                "J": "fulfilled 8 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_8.jpg",
+              "correct": ""
+            },
+            {
+              "number": 44,
+              "stem": "The writer wants to emphasize the skill of the perform- ers. Which choice best accomplishes that goal?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "important",
+                "H": "popular",
+                "J": "reputable"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_9.jpg",
+              "correct": ""
+            },
+            {
+              "number": 45,
+              "stem": "Which choice would most effectively conclude the essay by referencing information about Den\u2019s teaching presented earlier in the essay?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "reminded him of performances he had once seen in Japan.",
+                "C": "served to further bolster Ondekoza\u2019s reputation.",
+                "D": "represented the culmination of Sogakuron."
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_9.jpg",
+              "correct": ""
+            },
+            {
+              "number": 46,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "town of Eatonville, Florida,",
+                "H": "town, of Eatonville Florida,",
+                "J": "town of Eatonville, Florida y. 47. A. NO CHANGE",
+                "B": "thoroughfare (a two-lane street),",
+                "C": "thoroughfare, a two-lane street,",
+                "D": "thoroughfare, (a two-lane street)"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_9.jpg",
+              "correct": ""
+            },
+            {
+              "number": 48,
+              "stem": "Given that all the choices are accurate, which one best introduces the focus of the essay?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "were supported by local businesses as well as foun- dations such as the Florida Humanities Council.",
+                "H": "motivated many volunteers from the community to become involved.",
+                "J": "included completing a historical survey of the y town. d 9 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_9.jpg",
+              "correct": ""
+            },
+            {
+              "number": 49,
+              "stem": "Given that all the following parenthetical statements are true, which one provides information that is most relevant at this point in the essay?",
+              "choices": {
+                "A": "(the town was founded with twenty-seven families and grew over time)",
+                "B": "(Hurston would later work as a screenwriter and a librarian)",
+                "C": "(her father served as mayor)",
+                "D": "(Hurston had seven siblings)"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 50,
+              "stem": "The writer is considering deleting the underlined por- tion (ending the sentence with a period). Should the writer make this deletion?",
+              "choices": {
+                "F": "Yes, because the underlined portion adds general information about the time period that is unrelated to Hurston\u2019s life and work.",
+                "G": "Yes, because the underlined portion suggests that Hurston is more appreciated today than she was in the 1930s.",
+                "H": "No, because the underlined portion indicates that Hurston\u2019s work initiated the Harlem Renaissance.",
+                "J": "No, because the underlined portion helps empha- size the level of Hurston\u2019s impact."
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 51,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "residents had hope while",
+                "C": "residents, hoping that",
+                "D": "residents, who hoped"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 52,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "of its",
+                "H": "about it\u2019s",
+                "J": "toward its"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 53,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Nonetheless,",
+                "C": "Moreover,",
+                "D": "Instead,"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 54,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "were brought into being.",
+                "H": "have been created.",
+                "J": "was born."
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 55,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "in addition to",
+                "C": "but also",
+                "D": "also"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_10.jpg",
+              "correct": ""
+            }
+          ]
+        },
+        {
+          "id": "eng-p4",
+          "title": "Passage 4",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_10.jpg",
+          "startPage": 10,
+          "questions": [
+            {
+              "number": 56,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "In the year the festival was launched, the",
+                "H": "In that first year, the",
+                "J": "The initial"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 57,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "attracted",
+                "C": "attracting",
+                "D": "having attracted 10 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_10.jpg",
+              "correct": ""
+            },
+            {
+              "number": 58,
+              "stem": "Given that all the choices are accurate, which one most effectively explains the overarching purpose that drives festival organizers today?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "After spending months arranging events and coor- dinating with artists and vendors,",
+                "H": "With the ongoing goal of promoting African American cultural arts,",
+                "J": "Although some of the volunteers, like Hurston her- self, were not born in Eatonville,"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 59,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "in the first month of every year, in January.",
+                "C": "every January, on an annual basis.",
+                "D": "annually each year in January."
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 60,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "large part",
+                "H": "largely",
+                "J": "partly"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 61,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "According to Miss Lin, not",
+                "C": "Per Miss Lin, not",
+                "D": "Not"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 62,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "their",
+                "H": "it\u2019s",
+                "J": "its\u2019"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 63,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "was witness to",
+                "C": "had witnessed",
+                "D": "witnessing"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 64,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "though, was a less glamorous art show called",
+                "H": "though was a less glamorous art show called,",
+                "J": "though was a less glamorous art show, called, 11 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_11.jpg",
+              "correct": ""
+            },
+            {
+              "number": 65,
+              "stem": "Which choice provides the best introduction to the paragraph?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "I wondered where Miss Lin learned about obscure art shows.",
+                "C": "I thought about all the art Miss Lin had taken us to see.",
+                "D": "Miss Lin took attendance before taking a seat."
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 66,
+              "stem": "Which of the following alternatives to the underlined portion would NOT be acceptable?",
+              "choices": {
+                "F": "States and",
+                "G": "States. He",
+                "H": "States, he",
+                "J": "States; he"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 67,
+              "stem": "The writer wants to make clear that Takahashi asked every artist to draw his or her own map of the United States. Which choice best accomplishes that goal?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "to contribute to the project by drawing",
+                "C": "each to draw",
+                "D": "all to draw"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 68,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "stipulation, Miss Lin emphasized,",
+                "H": "stipulation, Miss Lin emphasized",
+                "J": "stipulation Miss Lin, emphasized"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 69,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "chaperone our examinations:",
+                "C": "advise our inspections:",
+                "D": "counsel our surveys:"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 70,
+              "stem": "Which choice provides the best transition from the first sentence to the last sentence of the paragraph?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Miss Lin sometimes asked us philosophical questions.",
+                "H": "There are many different kinds of maps.",
+                "J": "That seemed simple enough."
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 71,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "While studying",
+                "C": "I was studying",
+                "D": "I studied"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_12.jpg",
+              "correct": ""
+            },
+            {
+              "number": 72,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "have been",
+                "H": "was",
+                "J": "are r e 73. A. NO CHANGE",
+                "B": "took",
+                "C": "grabbed",
+                "D": "handled 12 GO ON TO THE NEXT PAGE. rackab.com"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_12.jpg",
+              "correct": ""
+            }
+          ]
+        },
+        {
+          "id": "eng-p5",
+          "title": "Passage 5",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_13.jpg",
+          "startPage": 13,
+          "questions": [
+            {
+              "number": 74,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Angeles, and a",
+                "H": "Angeles. A",
+                "J": "Angeles, a Question 75 asks about the preceding passage as a whole. e."
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_13.jpg",
+              "correct": ""
+            },
+            {
+              "number": 75,
+              "stem": "Suppose the writer\u2019s primary purpose had been to doc- ument the life of an artist. Would this essay accomplish that purpose?",
+              "choices": {
+                "A": "Yes, because the essay describes how Takahashi was influenced by his Japanese upbringing and his American experiences in conceptualizing From Memory.",
+                "B": "Yes, because the essay describes Takahashi\u2019s rela- tionships with artists in America while they col- laborated on From Memory.",
+                "C": "No, because the essay describes the unique method in which a teacher critiques her students\u2019 art projects.",
+                "D": "No, because the essay describes a student\u2019s memory of an art show that resonated with him. END OF TEST 1 DO NOT TURN THE PAGE UNTIL TOLD TO DO SO. 13 rackab.com"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/english/page_13.jpg",
+              "correct": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "timeMinutes": 60,
+      "questions": [
+        {
+          "number": 1,
+          "stem": "",
+          "choices": {
+            "A": "$40",
+            "B": "$41",
+            "C": "$44",
+            "D": "$45",
+            "E": "$46 ___ \u2220BAC"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_14.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 2,
+          "stem": "In the figure below, C is on BD, measures 35\u00b0, and \u2220ABC measures 95\u00b0. What is the measure of \u2220ACD ? A 35\u00b0",
+          "choices": {
+            "F": "095\u00b0",
+            "G": "125\u00b0",
+            "H": "130\u00b0 ?",
+            "J": "140\u00b0 95\u00b0",
+            "K": "145\u00b0 B C D"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_14.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 3,
+          "stem": "Wally buys dog collars online for $4 each. The shipping and handling fee is $5 total, regardless of the number of dog collars ordered. Which of the following equations represents the relationship between x, the number of dog collars ordered, and y, Wally\u2019s total bill in dollars? = _x_",
+          "choices": {
+            "A": "y 5 =4x",
+            "B": "y =9x",
+            "C": "y =4x+5",
+            "D": "y =5x+4",
+            "E": "y 14 ACT-G19 www.crackab.com www.actexam 2 DO"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_14.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 4,
+          "stem": "",
+          "choices": {
+            "A": "certain rectangle has a width of 6km and a length that is 4km more than 2times the width. What is the area, in square kilometers, of this rectangle?",
+            "F": "16",
+            "G": "24",
+            "H": "32",
+            "J": "60",
+            "K": "96"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_15.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 5,
+          "stem": "\u23aa4 \u22123\u23aa\u2212\u23aa2 \u22125\u23aa=? \u22124 A.",
+          "choices": {
+            "B": "\u22122",
+            "C": "2",
+            "D": "4",
+            "E": "14 (8p\u22123q) \u2212(2q+6p)"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_15.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 6,
+          "stem": "is equivalent to:",
+          "choices": {
+            "F": "2p\u22125q 2p\u22120q G.",
+            "H": "5p\u22128q 6p\u22125q J.",
+            "K": "6p\u22120q"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_15.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 7,
+          "stem": "How many minutes would it take an airplane to travel 300 miles at a constant speed of 400 miles per hour?",
+          "choices": {
+            "A": "045",
+            "B": "075",
+            "C": "080",
+            "D": "100",
+            "E": "133 _x10+4"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_15.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 8,
+          "stem": "The expression is equivalent to: 0x14 F.",
+          "choices": {
+            "G": "0x40 0x10,000 H.",
+            "J": "4x6 4x9 K."
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_15.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 9,
+          "stem": "Which of the following equations gives a function f(x) that satisfies f(4) =9 ? = 0x2\u22127",
+          "choices": {
+            "A": "f(x)",
+            "B": "f(x) =0x2+7 =0x0\u22125",
+            "C": "f(x)",
+            "D": "f(x) =4x0+9 =9x0+4",
+            "E": "f(x) 15 ACT-G19 www.crackab.com www.actexam 2 DO"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_15.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 10,
+          "stem": "On the first day of school, Mr. Thibodeaux gave his third-grade students 9 new spelling words to learn. On each day of school after that, he gave the students 6 new spelling words. How many new spelling words had he given the students by the end of the 30th day of school?",
+          "choices": {
+            "F": "174",
+            "G": "180",
+            "H": "183",
+            "J": "189",
+            "K": "195 _3_x_\u2212__6_"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_16.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 12,
+          "stem": "While her mother drives their car along the highway, Mia is noticing some of the mile marker signs. She sees mile marker 117 at noon, and exactly 20minutes later she sees mile marker 97. What is the average speed, in miles per hour, of their car over these 20 minutes?",
+          "choices": {
+            "F": "023.4",
+            "G": "039",
+            "H": "060",
+            "J": "070",
+            "K": "100"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_16.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 13,
+          "stem": "Numbered below are the 14angles formed by parallel lines l and m and transversals p and q. Lines l, p, and q intersect at a single point. Which of the following congruence statements must be true? m 8 9 l 7 10 12 11 13 3 1 4 p 6 5 q \u22201 \u2245\u22205 A.",
+          "choices": {
+            "B": "\u22202 \u2245\u22201 \u22203 \u2245\u222010 C.",
+            "D": "\u22204 \u2245\u22202 \u22205 \u2245\u22208 E. 16 ACT-G19 www.crackab.com www.actexam 2 DO"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_16.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 14,
+          "stem": "",
+          "choices": {
+            "A": "section of highway is represented by a line segment with endpoints (30,50) and (90,100) in the standard (x,y) coordinate plane. Exactly halfway along this highway section is a road sign. What are the coordinates of the road sign?",
+            "F": "(30,25)",
+            "G": "(60,50)",
+            "H": "(60,75)",
+            "J": "(70,65)",
+            "K": "(75,60)"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_17.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 15,
+          "stem": "The Student Council is preparing a budget for an upcoming fund-raising dance. They have decided to spend $150 for a light and sound show, $400 for refreshments, and $50 for decorations. These are the only expenses. Given that the Student Council estimates 500 students will attend the dance, what should be the price, per student, for admission to the dance if the Student Council wants to raise as close as possible to $300 after paying expenses?",
+          "choices": {
+            "A": "$0.60",
+            "B": "$1.20",
+            "C": "$1.67",
+            "D": "$1.80",
+            "E": "$3.33"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_17.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 16,
+          "stem": "The following shapes are a circle and some regular polygons that have their centers marked. All units are given in feet. Which of these shapes has the greatest area?",
+          "choices": {
+            "F": "J. 67.5\u00b0 67.5\u00b0",
+            "G": "K. H. 45\u00b0 1 45\u00b0 17 ACT-G19 www.crackab.com www.actexam 2 DO"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_17.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 17,
+          "stem": "Last semester, each of the 4 students listed below took 6 classes worth 1 credit each. In the 1st matrix, the row corresponding to each student gives the counts of the letter grades earned by that student. The second matrix gives the point value of each letter grade. Points per Letter grades letter grade",
+          "choices": {
+            "A": "1.92",
+            "B": "2.00",
+            "C": "3.00",
+            "D": "3.83",
+            "E": "4.00"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_18.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 18,
+          "stem": "",
+          "choices": {
+            "A": "circle with the equation x2 + y2 = 16 is graphed in the standard (x,y) coordinate plane. At what points does the circle intersect the x-axis? (0\u22122,0)",
+            "F": "and (02,0)",
+            "G": "(0\u22124,0) and (04,0) (0\u22128,0)",
+            "H": "and (08,0)",
+            "J": "(\u221216,0) and (16,0) (\u221232,0)",
+            "K": "and (32,0)"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_18.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 19,
+          "stem": "JoAnna drives a route that is exactly 450 miles from Little Rock, Arkansas, to Mobile, Alabama. JoAnna has already driven 180 miles at an average speed of 60miles per hour. What is the minimum average speed, in miles per hour, that JoAnna can drive for the remainder of the route and have a driving time of 9 hours for the entire trip?",
+          "choices": {
+            "A": "45",
+            "B": "50",
+            "C": "55",
+            "D": "60",
+            "E": "Cannot be determined from the given information"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_18.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 20,
+          "stem": "What is the least positive number that has a remainder of 3 when divided by 5 and a remainder of 4 when divided by 6 ?",
+          "choices": {
+            "F": "18",
+            "G": "23",
+            "H": "28",
+            "J": "30",
+            "K": "39 18 ACT-G19 www.crackab.com www.actexam 2 DO Use the following information to answer questions 21\u201323. Yesterday, there was no snow on the ground at 8:00 a.m. when snow began to fall. Snow fell from 8:00 a.m. to _3_ 8:00p.m. at a constant rate of inch per hour. Kate built a 4 snowman made of 2 spherical snowballs, with the smaller placed on top of the larger. When she built the snowman, the diameter of the larger snowball was 3 times the diameter of the smaller snowball. Today, the day after she built the snowman, there is a 50% chance of rain. If it rains today, then there is a 60% chance that the snowman will melt. If it does not rain today, then there is a 10% chance the snowman will melt."
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_18.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 21,
+          "stem": "Kate could not build the snowman until there was 6 inches of snow on the ground. At how many hours after 8:00a.m. yesterday was there exactly 6 inches of snow on the ground?",
+          "choices": {
+            "A": "0.75",
+            "B": "4.5",
+            "C": "6",
+            "D": "6.75",
+            "E": "8 36\u03c0 the larger snowball was inches. When Kate built the snowman, what was the diameter, in inches, of the smaller snowball?",
+            "F": "004",
+            "G": "006",
+            "H": "012",
+            "J": "054",
+            "K": "108"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_19.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 23,
+          "stem": "What is the probability that the snowman will melt today?",
+          "choices": {
+            "A": "30%",
+            "B": "35%",
+            "C": "50%",
+            "D": "60%",
+            "E": "70% 19 ACT-G19 www.crackab.com www.actexam 2 DO"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_19.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 25,
+          "stem": "One watch gains minutes per hour while another 2 watch loses 1_1_ minutes per hour. If both watches are 4 set correctly at noon, after how many hours will the times shown by the watches be exactly 1 hour apart?",
+          "choices": {
+            "A": "003_3_ 4",
+            "B": "004",
+            "C": "016",
+            "D": "075",
+            "E": "225"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_20.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 26,
+          "stem": "The table below gives the lengths, widths, and heights, in feet, of 3 right rectangular prisms. The difference between the volume of Prism A and the volume of Prism B is how many times the volume of Prism C ? Prism Length Width Height",
+          "choices": {
+            "A": "4 4 3",
+            "B": "3 3 4",
+            "C": "4 3 1",
+            "F": "00",
+            "G": "01",
+            "H": "05",
+            "J": "08",
+            "K": "12 20 ACT-G19 www.crackab.com www.actexam 2 DO"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_20.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 27,
+          "stem": "Which of the following is the complex conjugate of 2 +7i? \u22125 A.",
+          "choices": {
+            "B": "9",
+            "C": "9i",
+            "D": "\u221a\u20225\u20223 \u22127i",
+            "E": "2 f(x)=3x+4 g(x)=x2\u22122,"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_21.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 28,
+          "stem": "Given functions and what is f_g(\u22123)+? the value of \u221229 F.",
+          "choices": {
+            "G": "\u221227 \u221220 H.",
+            "J": "23",
+            "K": "25 _2_1_A_2_B_+__6_A_B__2"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_21.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 29,
+          "stem": "Which of the following is equivalent to 3AB for all nonzero real numbers Aand B?",
+          "choices": {
+            "A": "9AB 9A2B2 B.",
+            "C": "7A+6AB2 7A+6B D.",
+            "E": "7A+2B"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_21.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 30,
+          "stem": "Let n be a positive integer. Which of the following 0.0002n? expressions is equivalent to",
+          "choices": {
+            "F": "2 \u22122n \u22123n",
+            "G": "2",
+            "H": "2n\u00d710 \u2212n 2n\u00d710 \u22123n J.",
+            "K": "2n\u00d710 \u22124n"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_21.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 31,
+          "stem": "Which of the following lists gives the numbers below arranged in order from least to greatest? _5_ 0.6, 0.08, 8 _5_,",
+          "choices": {
+            "A": "0.6, 0.08 8 _5_,",
+            "B": "0.6, 0.08 8 _5_",
+            "C": "0.6, 0.08, 8 _5_,",
+            "D": "0.08, 0.6 8 _5_",
+            "E": "0.08, 0.6, 8 21 ACT-G19 www.crackab.com www.actexam 2 DO"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_21.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 33,
+          "stem": "For the right triangle below, tan,\u03b8 = What is \u221a\u20223\u20229 sin,\u03b8? _2_5_ A. 39 _5_ B. 8 \u03b8 _\u221a__\u20223_\u20229_ C. 8 _5_\u221a__\u20223_\u20229_",
+          "choices": {
+            "D": "1 \u2212 39 \u2022 \u2022 \u2022\u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u20222 1 _ _5 _ __ 2",
+            "E": "1 \u2212 \u221a \u221a\u20223\u20229"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_22.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 34,
+          "stem": "Which of the following expressions is equivalent to (y+8)3?",
+          "choices": {
+            "F": "y3+24y2+192y+512 y3+16y+512 G.",
+            "H": "y3+16y+64 y3+512 J.",
+            "K": "y3+24"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_22.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 35,
+          "stem": "The average of a list of 4numbers is 88.0. A new list of 4 numbers has the same first 3 numbers as the original list, but the fourth number in the original list is 50, and the fourth number in the new list is 70. What is the average of this new list of numbers?",
+          "choices": {
+            "A": "83.5",
+            "B": "88.0",
+            "C": "93.0",
+            "D": "95.0",
+            "E": "96.8 ACT-G19 www.crackab.com www.actexam 2 DO"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_22.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 37,
+          "stem": "",
+          "choices": {
+            "A": "32",
+            "B": "32 \u221216\u03c0 +16\u03c0",
+            "C": "32",
+            "D": "64 \u221216\u03c0 +16\u03c0",
+            "E": "64"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_23.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 38,
+          "stem": "The length of Rectangle A is equal to the length of RectangleB. The width of RectangleA is 3inches less than the width of RectangleB. If it can be determined, how many inches less is the perimeter of RectangleA than the perimeter of Rectangle B ?",
+          "choices": {
+            "F": "03",
+            "G": "06",
+            "H": "09",
+            "J": "12",
+            "K": "Cannot be determined from the given information _5_ _2_ (x4)4(x5)5"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_23.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 40,
+          "stem": "You have a piece of lumber that is exactly 8 feet long. You cut it into 3pieces: one is exactly 3feet 6inches long and another is exactly 2 feet 3 inches long, as _1_ shown below. If each cut is exactly inch wide, how 8 long, in feet and inches, is the third piece? 8 ft 3 ft 6 in 2 ft 3 in ? 1_ 1_ in in 8 8",
+          "choices": {
+            "F": "2 ft 3 in 2_3_",
+            "G": "2 ft in 4 2_5_",
+            "H": "2 ft in 8 _3_",
+            "J": "2 ft in 4",
+            "K": "2 ft"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_24.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 41,
+          "stem": "During a promotion, a radio station gave every 35th caller a T-shirt and gave every 50th caller a concert ticket. Given that 1,000 people called during the promotion, how many callers received both a T-shirt anda concert ticket?",
+          "choices": {
+            "A": "002",
+            "B": "005",
+            "C": "035",
+            "D": "200",
+            "E": "350"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_24.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 42,
+          "stem": "Maria travels to CountryA. Upon her arrival, she finds that 1 United States dollar is exchanged for xunits of CountryA\u2019s currency. How many units of CountryA\u2019s currency will Maria receive when she exchanges yUnited States dollars?",
+          "choices": {
+            "F": "000xy",
+            "G": "100xy _1_0_0_ H. x _x_ J. y _1_0_0__x K. y 24 ACT-G19 www.crackab.com www.actexam 2 nACB DO"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_24.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 43,
+          "stem": "In the figure shown below, is a right trian_g_l_e with a right angle at C. Point D is on BC, m\u2220ADC = m\u2220ABC = = 60\u00b0, 3_0_\u00b0_, and BD 100 feet. What is the length, in feet, of AC ?",
+          "choices": {
+            "A": "050 A _1_0_0_ B. 3 ? _2_0_0_ C. 3 050\u221a\u20223 60\u00b0 30\u00b0 D.",
+            "C": "D 100 B 200\u221a\u20223 E."
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_25.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 44,
+          "stem": "",
+          "choices": {
+            "A": "relation pairs elements in the domain with elements in the range. The table below defines a relation where the domain is represented by the x-values and the range is represented by the y-values. x y 3 6 7 9 1 5 3 4 4 5 2 8 Which of the following statements indicates whether this relation is a function of x and provides a valid reason?",
+            "F": "It is, because the y-value is always greater than the x-value.",
+            "G": "It is, because there are 5 distinct values in both the domain and the range.",
+            "H": "It is not, because there are 2 different y-values paired with the x-value 3.",
+            "J": "It is not, because there are 2 different x-values paired with the y-value 5.",
+            "K": "It is not, because no equation can be written to model the relationship between x and y."
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_25.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 45,
+          "stem": "Only juniors and seniors are enrolled in Algebra III. There are 3juniors for each senior. On an Algebra III test, 80% of the juniors and 70% of the seniors passed. What percent of the students enrolled in Algebra III did NOT pass the test? A. 2 24_1_% B. 6",
+          "choices": {
+            "C": "25% 27_1_% D. 2",
+            "E": "50% 25 ACT-G19 www.crackab.com www.actexam 2 DO Use the following information to answer questions 46\u201348. At a local pet store, 50 shoppers were polled to see if they owned cats or dogs. Among the polled shoppers, 31owned at least 1 dog, 20 owned at least 1 cat, 7 owned at least 1dog and at least 1cat, and 6owned neither a dog nor a cat."
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_25.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 46,
+          "stem": "How many of the 50 polled shoppers owned at least 1 dog but did NOT own at least 1 cat?",
+          "choices": {
+            "F": "11",
+            "G": "13",
+            "H": "23",
+            "J": "24",
+            "K": "25"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_26.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 49,
+          "stem": "In the figure shown below, and the given lengths are in inches. Which of the following expressions gives the value of xin terms of b?",
+          "choices": {
+            "A": "000b _2_1_b B. 5",
+            "C": "005b",
+            "D": "009b _3_5_b E. 3"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_27.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 51,
+          "stem": "What is the value of log ,625 ? 5",
+          "choices": {
+            "A": "003",
+            "B": "004",
+            "C": "006",
+            "D": "125",
+            "E": "436"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_27.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 52,
+          "stem": "The inequality 7x2y < 0 is true for 2 fixed real numbers x and y. Which of the following inequalities must be true? 0x>0 F.",
+          "choices": {
+            "G": "0y>0 0x<0 H.",
+            "J": "0y<0 <0",
+            "K": "xy 27 ACT-G19 www.crackab.com www.actexam 2 c\u2260d, DO"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_27.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 53,
+          "stem": "Given that what are all the real values of b that _b_c_\u2212__b_d_ make the inequality <0 true? 6c\u22126d",
+          "choices": {
+            "A": "06 only 0_1_",
+            "B": "only 6 \u2212_1_",
+            "C": "only 6",
+            "D": "All positive real numbers",
+            "E": "All negative real numbers"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_28.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 54,
+          "stem": "For all negative values of k, what is the range of values 2k? of",
+          "choices": {
+            "F": "All negative numbers",
+            "G": "All numbers less than 1",
+            "H": "All rational numbers less than 1",
+            "J": "All positive numbers less than 1",
+            "K": "All positive numbers less than 2"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_28.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 56,
+          "stem": "EventA consists of 6 simple events. EventB consists of 3 simple events, none of which are in Event A. Event C is the union of A and B, and Event D is the intersection of A and B. Which of the following statements is true? (Note: Given that Event X consists of n simple events, \u23aaX\u23aa=n.) \u23aaB\u23aa<\u23aaA\u23aa<\u23aaC\u23aa<\u23aaD\u23aa F.",
+          "choices": {
+            "G": "\u23aaB\u23aa<\u23aaA\u23aa<\u23aaD\u23aa<\u23aaC\u23aa \u23aaC\u23aa<\u23aaB\u23aa<\u23aaA\u23aa<\u23aaD\u23aa H.",
+            "J": "\u23aaD\u23aa<\u23aaB\u23aa<\u23aaA\u23aa<\u23aaC\u23aa \u23aaD\u23aa<\u23aaC\u23aa<\u23aaB\u23aa<\u23aaA\u23aa K. 28 ACT-G19 www.crackab.com www.actexam 2 DO"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_28.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 57,
+          "stem": "The base of a right square pyramid has a side length of 20ft. The pyramid\u2019s slant height is 15 ft. What is the total surface area, in square feet, of the pyramid?",
+          "choices": {
+            "A": "0,550",
+            "B": "0,600",
+            "C": "1,000",
+            "D": "1,600",
+            "E": "2,000"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_29.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 58,
+          "stem": "For how many integers x is the value of the expression (x\u22121)(x\u22124) a positive prime number?",
+          "choices": {
+            "F": "0",
+            "G": "1",
+            "H": "2",
+            "J": "3",
+            "K": "4"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_29.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 59,
+          "stem": "Which of the following degree values of x is NOT in the domain of the function below? ____1____ = f(x) + 1 sec x",
+          "choices": {
+            "A": "000\u00b0",
+            "B": "045\u00b0",
+            "C": "060\u00b0",
+            "D": "150\u00b0",
+            "E": "180\u00b0"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_29.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 60,
+          "stem": "The function below is defined for constants a and b and for all positive integers n. =abn r(n) = _1_, = _3_, = _9_, It is known that r(1) r(2) r(3) and = _2_7_. r(4) Which of the following functions is 2 equivalent to r(n) ? 1_1_2n \u22121 =3",
+          "choices": {
+            "F": "f(n) 2 1_1_2n =3",
+            "G": "g(n) 2 _1_1_3_2n \u22121 =",
+            "H": "h(n) = _1_(3)n \u22121",
+            "J": "j(n) 2 = _1_(3)n",
+            "K": "k(n) 2 STOP! DO NOT TURN TH DO NOT RE 29 ACT-G19 www.crackab.com"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/math/page_29.jpg",
+          "correct": "J"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "name": "Reading",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "www.actexam.net\n1. The main purpose of the passage is for the author to 6. The author states that the horseshoe of El Paso now\ndescribe his: looks bent and twisted mainly because:\nA. recollection of significant events from his F. environmental conditions are causing the peaks of\nchildhood. the mountains to erode.\nB. personal philosophy about what constitutes home. G. housing developments are progressing farther out\nC. theory that most people don\u2019t understand the con- into the desert and up into the mountains.\ncept of home. H. environmental conditions are causing people to\nD. hometown and how it has remained mostly move up into the mountains.\nunchanged since 1979. J. housing developments are obscuring the views of\nthe surrounding areas from the mountain peaks.\n7. In the passage, when the author reflects on the careers\n2. The author most strongly suggests that when he was a that never materialized, his reaction can best be char-\nboy, the time he spent in the desert surrounding his acterized as one of:\nhometown was primarily marked by:\nA. bitterness; he feels his hometown prevented him\nF. fascination and fear. from realizing his dreams.\nG. celebration and mourning. B. pride; he had visualized himself as a writer for\nH. exploration and solitude. most of his life.\nJ. innocence and recklessness. C. confusion; he\u2019s still hoping his home can illumi-\nnate a career path for him.\nD. acceptance; he has been successful in ways he\nhadn\u2019t anticipated.\n3. The metaphor the author uses of the invisible nest of\nroots (lines 20\u201322) mainly helps emphasize the idea 8. Which of the following is the best paraphrase for the\nthat the author: statement the author makes in lines 54\u201356?\nA. has resided in many locations far from the desert F. We can find out who we really are by living in our\nSouthwest. hometown as adults.\nB. has conflicting memories about El Paso and the G. Who we become is primarily shaped by the educa-\nsouthern New Mexico area. tion we receive and experiences we have in our\nC. feels deeply and ceaselessly connected to the hometown.\ndesert Southwest. H. Becoming who we long to be requires a substantial\nD. feels more drawn to the Franklin Mountains than amount of self-reflection.\nto the desert that surrounds them. J. Opportunities to become who we long to be may\nnot be available in our hometown, forcing us to\nfind them elsewhere.\n4. The main point of lines 35\u201344 is that regarding the 9. As it is used in lines 76\u201377, the phrase \u201cthe citizens of\nauthor\u2019s feelings about home, he is: your places on earth\u201d most nearly refers to one\u2019s:\nF. glad he spent so much time in the desert as a child. A. neighbors close to home.\nG. pulled by both difficult and pleasant memories. B. personal experiences.\nH. upset about some of his family relationships. C. satisfying moments.\nJ. surprised by the memories that surface when he D. physical location.\nvisits.\n10. The main purpose of the last paragraph is to demon-\nstrate that the:\nF. desert Southwest has contributed to a significant\n5. The author uses the word natural in line 19 mainly to\npart of the author\u2019s writing.\nconvey the idea that what he is searching for in other\nG. subjects of the author\u2019s writing, like his location,\ncities is a sense of home that feels:\noften change.\nA. simple yet lively. H. longer the author is away from the desert South-\nB. innocent yet provocative. west, the harder it is for him to write about it.\nC. authentic and innate. J. author plans to return to the desert Southwest\nD. wild and unfettered. someday despite having been away for so long.\n31 GO ON TO THE NEXT PAGE.\nACT-G19\nwww.crackab.com",
+          "questions": [
+            {
+              "number": 1,
+              "stem": "The main purpose of the passage is for the author to describe his:",
+              "choices": {
+                "A": "recollection of significant events from his childhood.",
+                "B": "personal philosophy about what constitutes home.",
+                "C": "theory that most people don\u2019t understand the con- cept of home.",
+                "D": "hometown and how it has remained mostly unchanged since 1979."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 2,
+              "stem": "The author most strongly suggests that when he was a boy, the time he spent in the desert surrounding his hometown was primarily marked by:",
+              "choices": {
+                "F": "fascination and fear.",
+                "G": "celebration and mourning.",
+                "H": "exploration and solitude.",
+                "J": "innocence and recklessness."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 3,
+              "stem": "The metaphor the author uses of the invisible nest of roots (lines 20\u201322) mainly helps emphasize the idea that the author:",
+              "choices": {
+                "A": "has resided in many locations far from the desert Southwest.",
+                "B": "has conflicting memories about El Paso and the southern New Mexico area.",
+                "C": "feels deeply and ceaselessly connected to the desert Southwest.",
+                "D": "feels more drawn to the Franklin Mountains than to the desert that surrounds them."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 4,
+              "stem": "The main point of lines 35\u201344 is that regarding the author\u2019s feelings about home, he is:",
+              "choices": {
+                "F": "glad he spent so much time in the desert as a child.",
+                "G": "pulled by both difficult and pleasant memories.",
+                "H": "upset about some of his family relationships.",
+                "J": "surprised by the memories that surface when he visits."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 5,
+              "stem": "The author uses the word natural in line 19 mainly to convey the idea that what he is searching for in other cities is a sense of home that feels:",
+              "choices": {
+                "A": "simple yet lively.",
+                "B": "innocent yet provocative.",
+                "C": "authentic and innate.",
+                "D": "wild and unfettered. 3 ACT-G19 www.crac exam.net 3"
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 6,
+              "stem": "The author states that the horseshoe of El Paso now looks bent and twisted mainly because:",
+              "choices": {
+                "F": "environmental conditions are causing the peaks of the mountains to erode.",
+                "G": "housing developments are progressing farther out into the desert and up into the mountains.",
+                "H": "environmental conditions are causing people to move up into the mountains.",
+                "J": "housing developments are obscuring the views of the surrounding areas from the mountain peaks."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 7,
+              "stem": "In the passage, when the author reflects on the careers that never materialized, his reaction can best be char- acterized as one of:",
+              "choices": {
+                "A": "bitterness; he feels his hometown prevented him from realizing his dreams.",
+                "B": "pride; he had visualized himself as a writer for most of his life.",
+                "C": "confusion; he\u2019s still hoping his home can illumi- nate a career path for him.",
+                "D": "acceptance; he has been successful in ways he hadn\u2019t anticipated."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 8,
+              "stem": "Which of the following is the best paraphrase for the statement the author makes in lines 54\u201356?",
+              "choices": {
+                "F": "We can find out who we really are by living in our hometown as adults.",
+                "G": "Who we become is primarily shaped by the educa- tion we receive and experiences we have in our hometown.",
+                "H": "Becoming who we long to be requires a substantial amount of self-reflection.",
+                "J": "Opportunities to become who we long to be may not be available in our hometown, forcing us to find them elsewhere."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 9,
+              "stem": "As it is used in lines 76\u201377, the phrase \u201cthe citizens of your places on earth\u201d most nearly refers to one\u2019s:",
+              "choices": {
+                "A": "neighbors close to home.",
+                "B": "personal experiences.",
+                "C": "satisfying moments.",
+                "D": "physical location."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 10,
+              "stem": "The main purpose of the last paragraph is to demon- strate that the:",
+              "choices": {
+                "F": "desert Southwest has contributed to a significant part of the author\u2019s writing.",
+                "G": "subjects of the author\u2019s writing, like his location, often change.",
+                "H": "longer the author is away from the desert South- west, the harder it is for him to write about it.",
+                "J": "author plans to return to the desert Southwest someday despite having been away for so long. 1 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "F",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "genre": "SOCIAL SCIENCE",
+          "title": "Passage II",
+          "source": "",
+          "text": "55 in 1885, but its fragility and sickly green light meant\nthat it remained unpopular. However, by 1891, he found\nSOCIAL SCIENCE: This passage is from the book Periodic that thorium and cerium oxides mixed in the propor-\nTales: A Cultural History of the Elements, from Arsenic to Zinc tions of ninety-nine to one gave a satisfactory white\nby Hugh Aldersey-Williams. light (thorium is not a rare earth but is the heavier\u2014\n60 and, unknown then, radioactive\u2014cousin of cerium).\nThe breakthrough that enabled gas to maintain its Mantles made of this material were more sturdy and\nadvantage over the newfangled electric lighting for a quickly caught on. Unusually for a scientist, Auer was\nlittle longer during the closing years of the nineteenth an astute businessman, and his name soon became more\ncentury was made by Carl Auer, later the Baron von widely known even than Bunsen\u2019s. For while the\n5 Welsbach, a Viennese who had completed his studies in 65 bunsen burner had its place in the laboratory, the bright\nHeidelberg with Robert Bunsen, long the guru of Euro- new Auerlicht, as it was known, was of utility to all,\npean chemists. On his arrival in Heidelberg in 1880, and was rapidly distributed across a grateful continent\nAuer showed the great man a modest collection of rare by various Auer companies. Some 90,000 Auer mantles\nearth mineral specimens that he had amassed, and were sold in Vienna and Budapest alone in 1892;\n10 Bunsen set him to work analyzing them, laughing off 70 twenty years later, annual production stood at 300 mil-\nAuer\u2019s protests that the quantities were insufficient. lion units.\nThis project set the course of his career; and the rare\nearths would make his fortune. Auer\u2019s annus mirabilis It can have done no harm to the inventor\u2019s\ncame in 1885 back in Vienna, when he succeeded in prospects that Auer, a variant of the prefix Ur-, is an\n15 separating the supposed element didymium into two archaic German word for the dawn. At the exact\ntrue elements, which were duly named praseodymium 75 moment when the first of Auer\u2019s bright gas lamps was\nand neodymium. Their green and pink compounds lit outside the Opern Caf\u00e9 in Vienna on 4 November\nmake them attractive for use in ceramic wares and in 1891, Auer\u2019s countryman Gustav Mahler, no stranger to\ntinted glass for protective eyewear. the place, was composing a song that would be incorpo-\nrated into his second symphony, called \u2018Urlicht\u2019\u2014pri-\n20 Auer was not content merely to add to the number 80 mordial light.\nof the rare earths. In his Heidelberg days, he had mar-\nveled at Bunsen\u2019s already famous burner, with its tun- Auer clearly acquired a taste for appending his\nable flame that could be adjusted to simmer or roast. He name to his inventions. He followed up the success of\nhad noticed how, when turned up high, the Bunsen the gas mantle with an osmium electric filament, the\n25 burner flame would cause his rare earth ores to glow Auer-Oslight\u2014even as he perfected his gas mantle,\nbrightly with their own light. He began to explore this 85 Auer was hedging his technological bets by experi-\nphenomenon with different combinations of metal menting with materials for the electric lamps that he\noxides. It was well known that a flame set against a already suspected might one day replace them.\npiece of lime (calcium oxide) will produce the incan-\n30 descence known as limelight. Auer\u2019s investigation From pages 366\u2013368 of the book Periodic Tales: A Cultural History of\nincluded the oxides of magnesium and beryllium, both the Elements, from Arsenic to Zinc by Hugh Aldersey-Williams (\u00a92011\nclosely related to lime, as well as those of his rare by Hugh Aldersey-Williams). First published in 2011 by Viking, an\nearths and other elements. imprint of Penguin Books Ltd, London. Reproduced by permission of\nPenguin Books Ltd.\nGas lighting was well established in streets and\n35 homes by the mid nineteenth century, but the light it\nshed was limited by the luminosity of the flame it pro-\nduced, which depended in turn on the mixture of hydro-\ncarbons being burnt. Candles and oil lamps gave a\nbrighter light than gas, but only gas could be supplied\n40 continuously. Auer believed that a lamp design in\nwhich his rare earth oxides were positioned close to the 11. Based on the passage, which of the following materials\ngas flame might yield a brighter light. Over a period of could most reasonably be classified as one of Auer\u2019s\nseveral years, he soaked sleeves of cotton mesh in dif- \u201crare earths\u201d (lines 32\u201333)?\nferent mixtures of rare earth and other salts. Once\nA. Praseodymium\n45 dried, these sleeves or mantles, now stiff with encrusted\nB. Beryllium\noxide, were placed around the flame, which burnt away\nC. Magnesium\nthe fabric to leave a brittle lace of the refractory oxide.\nD. Lime\nThis would then glow brightly in the heat of the flame.\n12. The passage credits Bunsen for pushing Auer to work\nLittle was known about the properties of many of\non the project that would:\n50 the oxides, and still less about how they behaved in\ncombination, so there was no way of predicting which F. preserve Auer\u2019s collection of rare earth minerals.\ncomposition would produce a white incandescence. G. allow Auer to invent limelight.\nAuer first patented a gas light with a mantle made of a H. set the course of Auer\u2019s career.\nmixture of magnesium, lanthanum and yttrium oxides J. help Auer complete his studies in Heidelberg.\n32 GO ON TO THE NEXT PAGE.\nACT-G19\nwww.crackab.com",
+          "questions": [
+            {
+              "number": 11,
+              "stem": "Based on the passage, which of the following materials could most reasonably be classified as one of Auer\u2019s \u201crare earths\u201d (lines 32\u201333)?",
+              "choices": {
+                "A": "Praseodymium",
+                "B": "Beryllium",
+                "C": "Magnesium",
+                "D": "Lime"
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 12,
+              "stem": "The passage credits Bunsen for pushing Auer to work on the project that would:",
+              "choices": {
+                "F": "preserve Auer\u2019s collection of rare earth minerals.",
+                "G": "allow Auer to invent limelight.",
+                "H": "set the course of Auer\u2019s career.",
+                "J": "help Auer complete his studies in Heidelberg. 2 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 13,
+              "stem": "The use of the word \u201csickly\u201d (line 55) most nearly serves to emphasize the author\u2019s point that the light emitted by the gas light Auer patented in 1885 was:",
+              "choices": {
+                "A": "usually flecked with burnt particles of minerals.",
+                "B": "feared for its frequent explosive bursts.",
+                "C": "known to produce pollutants.",
+                "D": "unappealing in color."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 14,
+              "stem": "According to the passage, compared to the usefulness of Bunsen\u2019s burner to the general public, the useful- ness of Auer\u2019s Auerlicht to the general public was:",
+              "choices": {
+                "F": "much greater.",
+                "G": "about equal.",
+                "H": "slightly less.",
+                "J": "much less."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 15,
+              "stem": "The main point of the fifth paragraph (lines 72\u201380) is that:",
+              "choices": {
+                "A": "Auer enjoyed the song \u201cUrlicht.\u201d",
+                "B": "Mahler was one of the first people to see one of Auer\u2019s gas lamps be lit.",
+                "C": "a song called \u201cUrlicht\u201d was incorporated into Mahler\u2019s second symphony.",
+                "D": "Auer had a fortunate name, given that he created and sold lamps."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 16,
+              "stem": "The passage states that even as Auer worked to perfect his gas mantle, he sensed that:",
+              "choices": {
+                "F": "other researchers had created gas mantles far supe- rior to his own.",
+                "G": "his first gas mantles would be more popular than his new ones.",
+                "H": "electric lamps were the future of lighting.",
+                "J": "Bunsen\u2019s burner was the more elegant invention. 3 ACT-G19 www.crac"
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 17,
+              "stem": "It can most reasonably be inferred from the passage that, unlike Auer, Bunsen was convinced that the spec- imens of rare earth minerals that Auer showed him in 1880 were:",
+              "choices": {
+                "A": "too old to be reliable in experiments.",
+                "B": "adequate enough in quantity to be analyzed.",
+                "C": "much like the specimens Bunsen himself had found years earlier.",
+                "D": "going to be important to the development of elec- tric filaments for lamps."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 18,
+              "stem": "According to the passage, what made the elements praseodymium and neodymium particularly appealing for use in ceramics and in glass for protective eyewear?",
+              "choices": {
+                "F": "Their green and pink compounds",
+                "G": "Their consistent durability",
+                "H": "Their melting points over 1500\u00b0F",
+                "J": "Their low density"
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 19,
+              "stem": "The passage asserts that unlike most scientists, Auer also showed talent as a:",
+              "choices": {
+                "A": "businessman.",
+                "B": "philosopher.",
+                "C": "musician.",
+                "D": "teacher."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 20,
+              "stem": "The author uses the phrase \u201cgrateful continent\u201d (line 67) primarily to emphasize that:",
+              "choices": {
+                "F": "the opening of Auer companies all around Europe was a relief to distributors of the Auerlicht.",
+                "G": "Europeans had been waiting for a lamp like the Auerlicht and were pleased to finally have it.",
+                "H": "the general public was surprised to find that the Auerlicht was inexpensive.",
+                "J": "Auer\u2019s visits to several countries in Europe were well received by the public. 3 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "G",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "genre": "HUMANITIES",
+          "title": "Passage III",
+          "source": "",
+          "text": "environments and motion-capture technologies and\ncommission original scores.\nHUMANITIES: PassageA is from the article \u201cThe Art of Video\nGames\u201d by Abigail Tucker. PassageB is from the article \u201cIn Passage B by Philip Kennicott\n\u2018The Art of Video Games\u2019\u201d by Philip Kennicott.\n\u201cThe Art of Video Games,\u201d a technologically\nPassage A by Abigail Tucker impressive but intellectually inert exhibition at the\n55 Smithsonian American Art Museum, belongs in a his-\nThe Supreme Court ruled that video games should tory or technology museum, not in an institution\nbe considered an art form, as deserving of First Amend- devoted to art. Despite its title, it fails to grapple with\nment safeguards as \u201cthe protected books, plays and questions about the definition and boundaries of art,\nmovies that preceded them.\u201d Chris Melissinos reached questions that tend to make people squeamish in a\n5 that opinion some 30 years earlier, as a teenager plug- 60 democratic society that would rather everything be art\nging away at King\u2019s Quest on a neighbor\u2019s PC. than anyone feel excluded from the realms of sanctified\nculture.\nThe game\u2019s hand-drawn animation and two-word\ncommands seem crude now, but \u201cI remember thinking, Which is not to say that the 40-year history of\n\u2018Oh my goodness, this is a fairy tale come to life,\u2019\u201d video games hasn\u2019t produced supremely sophisticated\n10 Melissinos says. He still gets goose bumps remember- 65 aesthetic experiences. Or that the virtual worlds sum-\ning hidden warp zones in the first Super Mario moned by designers of the best of the 80 games on dis-\nBrothers. play aren\u2019t every bit as \u201cartistic\u201d as the best scenic\ndesign for theater or the movies. Or that people can\u2019t\nNow Melissinos is the guest curator of \u201cThe Art of have emotional reactions to the events within a game,\nVideo Games,\u201d an exhibition at the Smithsonian Ameri- 70 though it is clear that this aspect of gaming is a work in\n15 can Art Museum that celebrates 40 years of the genre, progress rather than a fully achieved goal.\nfrom Pac-man to Minecraft. The show will include\nvideo-game screen shots, videotaped interviews with But is it in fact the case, as game designer Jenova\ngame designers, vintage consoles from Melissinos\u2019s Chen says, that \u201ceverything is an art\u201d? Or are there\npersonal collection (\u201cI\u2019m having a bit of separation important lines that demarcate entertainment and art?\n20 anxiety,\u201d he says) and several opportunities for visitors 75 Exhibition curator Chris Melissinos hedges in the wall\nto seize the arcade joystick or PlayStation controls text that introduces the show: \u201cUsing the cultural lens\nthemselves. of an art museum, viewers can determine whether the\ngames on display are indeed worthy of the title \u2018art.\u2019\u201d\nNot all of the 80 featured games recall classic film\nor literature. Attack of the Mutant Camels, for example, Very likely, some of these games, and even more\n25 stars fireball-spitting dromedaries. Nonetheless, the 80 in the future, rise to that level. But the exhibition\nexhibition contends that games offer much more than a doesn\u2019t address what distinguishes merely entertaining\nchance to mow down armies and plunder cars. Gamers games from great ones, and what models designers\ncan till fields, build hospitals, steer the wind. They can should pursue if they want to achieve greater artistic\nbe inspired to feel guilt or joy or moral ambiguity. They substance.\n30 can be transformed instead of just distracted.\n85 Instead, it focuses on technology, presented as if\nIndeed, video games may be the most immersive the overriding force driving most game design is basic\nmedium of all, in Melissinos\u2019s estimation. \u201cIn books verisimilitude. In one display, we see basic actions\u2014\neverything is laid before you,\u201d he says. \u201cThere is noth- running, climbing, flying\u2014depicted from the earliest\ning left for you to discover. Video games are the only era of design in the 1980s to the past decade in which\n35 forms of artistic expression that allow the authoritative 90 humans and monsters move with an almost cinematic\nvoice of the author to remain true while allowing the believability.\nobserver to explore and experiment.\u201d\nPassage A: From the article \u201cThe Art of Video Games\u201d by Abigail Tucker\nMelissinos grew up with the first games; he later (\u00a92012 by Smithsonian).\nbecame chief gaming officer at Sun Microsystems, and\n40 he is now vice president of corporate marketing at Passage B: From The Washington Post, March 18 \u00a9 2012 Washington\nPost Company. All rights reserved. Used by permission and protected\nVerisign, a network infrastructure company. He has\nby the Copyright Laws of the United States. The printing, copying, redis-\nseen the clunky aliens of Space Invaders and the two- tribution, or retransmission of this Content without express written per-\ndimensional damsel in distress of Donkey Kong morph mission is prohibited.\ninto Bioshock and Zack & Wiki. Today drops of ani-\n45 mated rain dot computer screens, and characters leave\nreflections in puddles; it\u2019s like watching cave art\nbecome Impressionism in just a few decades, he says.\nGames are in many respects converging with movies\n(which, in their infancy, were also belittled as non-art,\n50 Melissinos notes). Designers employ photo-realistic\n34 GO ON TO THE NEXT PAGE.\nACT-G19\nwww.crackab.com",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "The main purpose of the third paragraph of PassageA (lines 13\u201322) is to:",
+              "choices": {
+                "A": "provide an overview of what is included in the exhibition The Art of Video Games.",
+                "B": "compare different video game consoles in Melissinos\u2019s collection.",
+                "C": "establish how Melissinos decided what to include in The Art of Video Games.",
+                "D": "indicate ways in which video games have changed in the past forty years."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 22,
+              "stem": "The main point of the fifth paragraph of Passage A (lines 31\u201337) is that Melissinos believes video games:",
+              "choices": {
+                "F": "should be judged primarily by how much they allow the observer to explore and experiment.",
+                "G": "are created through a collaboration between author and observer that creates a more emotional form of art.",
+                "H": "could be the most immersive medium because they maintain an authorial voice while allowing the observer to explore and experiment.",
+                "J": "are similar to books because both mediums emphasize the authoritative voice of the author."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 23,
+              "stem": "In Passage A, the main purpose of lines 44\u201347 is to:",
+              "choices": {
+                "A": "emphasize how much more sophisticated video games have become in a few decades.",
+                "B": "suggest that the technology of video games has improved while the concepts of video games have not.",
+                "C": "establish how impressionist art directly influenced the visual styles used in modern video games.",
+                "D": "indicate that breakthroughs in art are both deriva- tive of prior breakthroughs and innovative in their own right."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 24,
+              "stem": "The parenthetical information in lines 49\u201350 of Pas- sage A most strongly suggests that Melissinos believes:",
+              "choices": {
+                "F": "early movies lacked the artistry of later movies.",
+                "G": "eventually, video games will be as widely accepted as art as movies are today.",
+                "H": "in the future, video games will emotionally res- onate with observers more than movies do now.",
+                "J": "video games will eventually make movies an obso- lete art form. 3 ACT-G19 www.crac"
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 25,
+              "stem": "The author of Passage B uses the phrase \u201cto grapple with\u201d (line 57) mainly to emphasize:",
+              "choices": {
+                "A": "the degree to which Melissinos agonized over which games to include in the show.",
+                "B": "the difficulties of defining what is and what is not art.",
+                "C": "that artists have difficulty in deciding what to include in their artworks.",
+                "D": "that technological innovation is overlooked by art critics."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 26,
+              "stem": "It can most reasonably be inferred from PassageB that Melissinos\u2019s intention in \u201cusing the cultural lens of an art museum\u201d (lines 76\u201377) for the exhibit is to encour- age viewers to:",
+              "choices": {
+                "F": "consider how much the technology of video games has improved.",
+                "G": "make an emotional connection with different aspects of video games.",
+                "H": "change the context in which they typically think of video games.",
+                "J": "reflect on how realistic the characters in video games look."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 27,
+              "stem": "As it is used in line 86, the word driving most nearly means:",
+              "choices": {
+                "A": "dispatching.",
+                "B": "commuting.",
+                "C": "hauling.",
+                "D": "advancing. Questions 28\u201330 ask about both passages."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 28,
+              "stem": "Concerning the potential value of The Art of Video Games, the attitudes of the passage authors differ in that the author of Passage B is more:",
+              "choices": {
+                "F": "lenient.",
+                "G": "distressed.",
+                "H": "indifferent.",
+                "J": "skeptical. 5 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "J",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "genre": "NATURAL SCIENCE",
+          "title": "Passage IV",
+          "source": "",
+          "text": "way to improving the success rate. The big lesson from\nmultiple investigations is to forget about trying to\nNATURAL SCIENCE: This passage is from the article \u201cArchi- re-create a fully functioning wetland that is identical to\ntects of the Swamp\u201d by John Carey. the one being lost. \u201cWe don\u2019t know how to do it,\u201d says\n60 Doug Wilcox, professor of wetland science at the Col-\nJoy Zedler carefully planned the three experimen- lege at Brockport, S.U.N.Y. There are too many\ntal wetlands at the University of Wisconsin\u2013Madison\u2019s variables.\nArboretum to be identical: parallel marshes 295 feet\nlong and 15 feet wide, carved by engineers into the Instead scientists should focus on one or two key\n5 green landscape. Zedler\u2019s contractors planted all three objectives, such as rebuilding land, improving water\ntracts with similar species to see how the vegetation 65 quality or boosting fish populations, and engineer the\nwould absorb and clean water runoff during storms. system to optimize those objectives. Then, once the\nbasic engineering is done, let nature fill in the details as\nZedler\u2019s team also allowed the same amount of it pleases.\nwater to flow into the test beds from a pond at the front\n10 ends of the tracts. They planned to measure the nutri- Another lesson is to monitor wetland projects for\nents in the water entering each plot and draining into a 70 years, as Zedler continues to do with her experiment.\nbasin at the far end, as well as soil stability, water That time is needed to uncover the often surprising\nabsorption, and the productivity and diversity of the details of what works and why and to take corrective\ngrasses and other plants. The scientists expected that action when necessary. Unlike cars, \u201cwetlands do not\n15 each of the three wetlands would behave similarly. come with repair manuals,\u201d Wilcox says.\nThe stakes were higher than for the typical univer- 75 Accepting the notion that we usually cannot\nsity project. The city of Madison was keenly interested restore wetlands to their original state is a sobering\nbecause it wanted to learn how to use wetlands to slow reminder of the limits of science. But achieving one or\nand cleanse storm water pouring out of town into neigh- two goals can be a major step forward. Inspiration is\n20 boring Lake Wingra, which is suffering from high coming from a growing list of successful projects, from\nlevels of nutrients such as nitrogen and phosphorus in 80 Delaware Bay and the Mississippi River Delta to Iraq\nthe runoff. And the question of how to maximize the and the Guyana coast. \u201cRestoring is a heck of a lot\nmany valuable so-called ecosystem services that wet- better now than it used to be,\u201d says William J. Mitsch,\nlands can provide, from reducing runoff and flood director of the Everglades Wetland Research Park in\n25 damage to boosting biodiversity, has been growing Florida.\n36 GO ON TO THE NEXT PAGE.\nACT-G19\nwww.crackab.com",
+          "questions": [
+            {
+              "number": 29,
+              "stem": "Which of the following statements best describes how the passages present Melissinos\u2019s belief about whether people should consider video games to be art?",
+              "choices": {
+                "A": "Passage A suggests Melissinos believes people should consider video games to be art, while Pas- sageB suggests Melissinos believes people should decide for themselves.",
+                "B": "Passage A suggests Melissinos believes people should consider video games to be merely enter- tainment, while Passage B suggests Melissinos believes people should consider them to be art.",
+                "C": "Both passages suggest Melissinos believes people should consider video games that are used for edu- cational purposes to be art.",
+                "D": "Both passages suggest Melissinos believes people should consider early video games to be art but more recent video games to be merely entertainment."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 30,
+              "stem": "Which of the following questions is answered in both passages?",
+              "choices": {
+                "F": "How many video games are featured in The Art of Video Games ?",
+                "G": "Which elements of The Art of Video Games came from Melissinos\u2019s personal collection?",
+                "H": "How long was The Art of Video Games featured at the Smithsonian American Art Museum?",
+                "J": "Which video game designers does Melissinos con- sider to be the best? Passage IV NATURAL SCIENCE: This passage is from the article \u201cArchi- tects of the Swamp\u201d by John Carey. Joy Zedler carefully planned the three experimen- tal wetlands at the University of Wisconsin\u2013Madison\u2019s Arboretum to be identical: parallel marshes 295 feet long and 15 feet wide, carved by engineers into the 5 green landscape. Zedler\u2019s contractors planted all three tracts with similar species to see how the vegetation would absorb and clean water runoff during storms. Zedler\u2019s team also allowed the same amount of water to flow into the test beds from a pond at the front 10 ends of the tracts. They planned to measure the nutri- ents in the water entering each plot and draining into a basin at the far end, as well as soil stability, water absorption, and the productivity and diversity of the grasses and other plants. The scientists expected that each of the three wetlands would behave similarly. 15 The stakes were higher than for the typical univer- sity project. The city of Madison was keenly interested because it wanted to learn how to use wetlands to slow and cleanse storm water pouring out of town into neigh- boring Lake Wingra, which is suffering from high 20 levels of nutrients such as nitrogen and phosphorus in the runoff. And the question of how to maximize the many valuable so-called ecosystem services that wet- lands can provide, from reducing runoff and flood 25 damage to boosting biodiversity, has been growing 3 ACT-G19 www.crac exam.net 3 more urgent by the year as wetlands worldwide vanish at an alarming rate. Zedler, a professor of botany and restoration ecology at the university, had hoped the experiment would provide some insight. 30 Three years later, however, it was clear that the experiment had raised new questions the researchers had not anticipated. \u201cNothing about the system behaved as we supposed,\u201d Zedler says. The first surprise: even though the tracts were just three feet apart and had been 35 planted and expected to develop similarly, one plot became dominated by cattails, whereas the other two blossomed with up to 29 plant species. Second, although the cattail plot produced more plant material overall, it was lousy at everything Zedler expected from 40 lush growth. It did not slow floodwater or control soil erosion. It did not absorb much of the nutrients in the water. The other two tracts provided more of the expected benefits\u2014except for high productivity. Why the surprising differences? Zedler\u2019s team dis- 45 covered that a layer of clay under the cattail marsh was slightly thicker and thus less permeable than the layer under the two adjacent plots\u2014so water ponded instead of percolating into the ground. That allowed storm water and nutrients to race down the channel. Mean- 50 while the cattails shaded out soil-stabilizing moss\u2014 which grew well in the neighboring swales\u2014so soil erosion was higher. Zedler\u2019s unforeseen results are helping her and other experts explain why the track record of past 55 restoration efforts is poor, and they are pointing the way to improving the success rate. The big lesson from multiple investigations is to forget about trying to re-create a fully functioning wetland that is identical to the one being lost. \u201cWe don\u2019t know how to do it,\u201d says 60 Doug Wilcox, professor of wetland science at the Col- lege at Brockport, S.U.N.Y. There are too many variables. Instead scientists should focus on one or two key objectives, such as rebuilding land, improving water 65 quality or boosting fish populations, and engineer the system to optimize those objectives. Then, once the basic engineering is done, let nature fill in the details as it pleases. Another lesson is to monitor wetland projects for 70 years, as Zedler continues to do with her experiment. That time is needed to uncover the often surprising details of what works and why and to take corrective action when necessary. Unlike cars, \u201cwetlands do not come with repair manuals,\u201d Wilcox says. 75 Accepting the notion that we usually cannot restore wetlands to their original state is a sobering reminder of the limits of science. But achieving one or two goals can be a major step forward. Inspiration is coming from a growing list of successful projects, from 80 Delaware Bay and the Mississippi River Delta to Iraq and the Guyana coast. \u201cRestoring is a heck of a lot better now than it used to be,\u201d says William J. Mitsch, director of the Everglades Wetland Research Park in Florida. 6 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "F",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "www.actexam.net\n85 Recent successes are welcome news because wet- 36. Based on the passage, scientists trying to reestablish a\nlands are so valuable. Mitsch calls them \u201cnature\u2019s kid- functioning wetland will most likely succeed if they:\nneys\u201d and \u201cecological supermarkets, where all the\nF. reintroduce any species that formerly thrived in the\ncritters go to eat or be eaten.\u201d\narea, so the wetland can function as before.\nG. prioritize a few objectives, design the project\nReproduced with permission. Copyright \u00a9 2013 Scientific American, a accordingly, and then monitor the area over time.\ndivision of Nature America, Inc. All rights reserved.\nH. remove buildings that intrude on former wetlands\nand let the area replenish itself naturally.\nJ. plant three different tracts with distinct species\nand then allow nature to control which species\n31. The primary purpose of the passage is to:\nthrive.\nA. convince readers to support local wetland restora-\ntion projects.\nB. analyze varying results from several wetland\nrestoration projects. 37. The main idea of the ninth paragraph (lines 75\u201384) is\nC. report the results of one restoration project and its that:\nimplications for future wetland restoration.\nA. restoration projects occur globally, from Delaware\nD. explain why Zedler\u2019s wetland restoration project\nBay and the Mississippi Delta to Iraq and Guyana.\nwas more successful than others of its kind.\nB. science has limits, so projects should focus on\nconserving wetlands rather than restoring them.\n32. It can most reasonably be deduced from the passage\nC. due to advances in restoration science, wetland\nthat if Zedler had planted only one tract, her findings\nloss won\u2019t be a problem in the future.\nwould have been:\nD. although wetland loss is still a serious concern,\nF. less instructive. restoration efforts have improved substantially.\nG. less controversial.\nH. more predictable and thus more credible.\nJ. more conclusive about a variety of plants.\n38. In the context of the passage, the phrase \u201cthe stakes\n33. Regarding wetland restoration, a primary claim in the\nwere higher\u201d (line 16) most clearly indicates that:\npassage is that wetlands:\nF. most university projects aren\u2019t funded as gener-\nA. must be researched carefully before they can be\nously as Zedler\u2019s project was.\nrestored to their original state.\nG. Zedler\u2019s project was more of a gamble than other\nB. are nearly impossible to duplicate exactly.\nwetland restoration studies had been.\nC. are more useful if engineered by scientists than\nH. Zedler\u2019s reputation would be saved if her project\nleft in their original state.\nwas successful.\nD. are being lost too quickly for restoration efforts to\nJ. the outcome of Zedler\u2019s project was particularly\nmake a difference.\ncritical.\n34. Compared to the other plots described in the passage,\nthe cattail plot was better at:\nF. absorbing nutrients. 39. Based on the passage, which of the following would\nG. slowing floodwater. most likely result from additional clay in the soil?\nH. controlling soil erosion.\nJ. producing plant material. A. Less soil erosion\nB. More moss growth\n35. In the context of the passage, Wilcox mentions repair C. Less water permeating the ground\nmanuals primarily to make the point that wetlands: D. More nutrient absorption into the plants\nA. can\u2019t be repaired in a systematic, standardized\nway.\nB. don\u2019t need human intervention to repair\n40. The main function of the last paragraph is to:\nthemselves.\nC. stop functioning periodically and need repairs, F. describe recent successes in wetland restoration.\nmuch like cars do. G. compare wetlands to ecological supermarkets.\nD. are more easily repaired now that others can learn H. explain how wetlands act as nature\u2019s kidneys.\nfrom Zedler\u2019s research. J. reinforce wetlands\u2019 ecological significance.\nEND OF TEST 3\nSTOP! DO NOT TURN THE PAGE UNTIL TOLD TO DO SO.\nDO NOT RETURN TO A PREVIOUS TEST.\n37\nACT-G19\nwww.crackab.com",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "The primary purpose of the passage is to:",
+              "choices": {
+                "A": "convince readers to support local wetland restora- tion projects.",
+                "B": "analyze varying results from several wetland restoration projects.",
+                "C": "report the results of one restoration project and its implications for future wetland restoration.",
+                "D": "explain why Zedler\u2019s wetland restoration project was more successful than others of its kind."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 32,
+              "stem": "It can most reasonably be deduced from the passage that if Zedler had planted only one tract, her findings would have been:",
+              "choices": {
+                "F": "less instructive.",
+                "G": "less controversial.",
+                "H": "more predictable and thus more credible.",
+                "J": "more conclusive about a variety of plants."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 33,
+              "stem": "Regarding wetland restoration, a primary claim in the passage is that wetlands:",
+              "choices": {
+                "A": "must be researched carefully before they can be restored to their original state.",
+                "B": "are nearly impossible to duplicate exactly.",
+                "C": "are more useful if engineered by scientists than left in their original state.",
+                "D": "are being lost too quickly for restoration efforts to make a difference."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 34,
+              "stem": "Compared to the other plots described in the passage, the cattail plot was better at:",
+              "choices": {
+                "F": "absorbing nutrients.",
+                "G": "slowing floodwater.",
+                "H": "controlling soil erosion.",
+                "J": "producing plant material."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 35,
+              "stem": "In the context of the passage, Wilcox mentions repair manuals primarily to make the point that wetlands:",
+              "choices": {
+                "A": "can\u2019t be repaired in a systematic, standardized way.",
+                "B": "don\u2019t need human intervention to repair themselves.",
+                "C": "stop functioning periodically and need repairs, much like cars do.",
+                "D": "are more easily repaired now that others can learn from Zedler\u2019s research. STOP! DO N 3 ACT-G19 www.crac exam.net 3"
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 36,
+              "stem": "Based on the passage, scientists trying to reestablish a functioning wetland will most likely succeed if they:",
+              "choices": {
+                "F": "reintroduce any species that formerly thrived in the area, so the wetland can function as before.",
+                "G": "prioritize a few objectives, design the project accordingly, and then monitor the area over time.",
+                "H": "remove buildings that intrude on former wetlands and let the area replenish itself naturally.",
+                "J": "plant three different tracts with distinct species and then allow nature to control which species thrive."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 37,
+              "stem": "The main idea of the ninth paragraph (lines 75\u201384) is that:",
+              "choices": {
+                "A": "restoration projects occur globally, from Delaware Bay and the Mississippi Delta to Iraq and Guyana.",
+                "B": "science has limits, so projects should focus on conserving wetlands rather than restoring them.",
+                "C": "due to advances in restoration science, wetland loss won\u2019t be a problem in the future.",
+                "D": "although wetland loss is still a serious concern, restoration efforts have improved substantially."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 38,
+              "stem": "In the context of the passage, the phrase \u201cthe stakes were higher\u201d (line 16) most clearly indicates that:",
+              "choices": {
+                "F": "most university projects aren\u2019t funded as gener- ously as Zedler\u2019s project was.",
+                "G": "Zedler\u2019s project was more of a gamble than other wetland restoration studies had been.",
+                "H": "Zedler\u2019s reputation would be saved if her project was successful.",
+                "J": "the outcome of Zedler\u2019s project was particularly critical."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 39,
+              "stem": "Based on the passage, which of the following would most likely result from additional clay in the soil?",
+              "choices": {
+                "A": "Less soil erosion",
+                "B": "More moss growth",
+                "C": "Less water permeating the ground",
+                "D": "More nutrient absorption into the plants"
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 40,
+              "stem": "The main function of the last paragraph is to:",
+              "choices": {
+                "F": "describe recent successes in wetland restoration.",
+                "G": "compare wetlands to ecological supermarkets.",
+                "H": "explain how wetlands act as nature\u2019s kidneys.",
+                "J": "reinforce wetlands\u2019 ecological significance. END OF TEST 3 NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST. 7 ckab.com"
+              },
+              "correct": "J",
+              "lineRef": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "title": "Passage I",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_38.jpg",
+          "startPage": 38,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "Based on Table 1, the relationship between intensity and wavelength is best represented by which of the fol- lowing graphs?",
+              "choices": {
+                "A": "C. ytisnetni ytisnetni wavelength wavelength",
+                "B": "D. ytisnetni ytisnetni wavelength wavelength 3 www.crac exam.net 4"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_38.jpg"
+            },
+            {
+              "number": 2,
+              "stem": "Based on Figure 2, approximately how long did the bubble take to expand to its maximum radius, and approximately how long after that did the bubble take to contract to its minimum radius? time to time to expand contract \u03bcs \u03bcs",
+              "choices": {
+                "F": "18 4",
+                "G": "18 \u03bcs 9 \u03bcs \u03bcs \u03bcs",
+                "H": "22 4",
+                "J": "22 \u03bcs 9 \u03bcs"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_38.jpg"
+            },
+            {
+              "number": 3,
+              "stem": "Based on Figure1, at approximately what time did the acoustic pressure of the sound wave change from nega- tive to positive? \u03bcs",
+              "choices": {
+                "A": "06",
+                "B": "11 \u03bcs \u03bcs",
+                "C": "14",
+                "D": "19 \u03bcs"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_38.jpg"
+            },
+            {
+              "number": 4,
+              "stem": "Based on Figures 1 and 2, the time at which the flash of light was emitted corresponded most closely with the time when which of the following occurred?",
+              "choices": {
+                "F": "The maximum negative acoustic pressure",
+                "G": "The maximum positive acoustic pressure",
+                "H": "The smallest bubble radius",
+                "J": "The largest bubble radius \u03bcs \u03bcs."
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_38.jpg"
+            },
+            {
+              "number": 5,
+              "stem": "Consider the time interval from 5 to 25 Based on Figures 1 and 2, when the acoustic pressure had a value of 0.5 atm, the bubble radius was closest to which of the following?",
+              "choices": {
+                "A": "0.011 mm",
+                "B": "0.021 mm",
+                "C": "0.031 mm",
+                "D": "0.041 mm"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_38.jpg"
+            },
+            {
+              "number": 6,
+              "stem": "Consider the claim \u201cThe bubble radius will not begin to increase until after the acoustic pressure reaches its most negative value.\u201d Do Figures 1 and 2 support this claim?",
+              "choices": {
+                "F": "Yes; the most negative acoustic pressure was \u03bcs, reached at 9 and the bubble radius began to increase at 9 \u03bcs.",
+                "G": "Yes; the most negative acoustic pressure was reached at 9 \u03bcs, and the bubble radius began to \u03bcs. increase at 14",
+                "H": "No; the most negative acoustic pressure was \u03bcs, reached at 9 and the bubble radius began to increase at 0 \u03bcs.",
+                "J": "No; the most negative acoustic pressure was reached at 9 \u03bcs, and the bubble radius began to \u03bcs. increase at 7 9 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_38.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "title": "Passage II",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_40.jpg",
+          "startPage": 40,
+          "questions": [
+            {
+              "number": 3,
+              "stem": "Releasing the snails back into the stream In the study, these steps were performed in what sequence?",
+              "choices": {
+                "F": "1, 2, 3",
+                "G": "1, 3, 2",
+                "H": "2, 1, 3",
+                "J": "2, 3, 1 4 www.crac exam.net 4"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_40.jpg"
+            },
+            {
+              "number": 7,
+              "stem": "Was the number of unmarked snails captured during the second visit higher for Group 2 or for Group 3 ?",
+              "choices": {
+                "A": "Group 2; the students in Group 2 captured 21 unmarked snails, whereas the students in Group 3 captured 20 unmarked snails.",
+                "B": "Group 2; the students in Group 2 captured 23 unmarked snails, whereas the students in Group 3 captured 21 unmarked snails.",
+                "C": "Group 3; the students in Group 3 captured 21 unmarked snails, whereas the students in Group 2 captured 20 unmarked snails.",
+                "D": "Group 3; the students in Group 3 captured 23 unmarked snails, whereas the students in Group 2 captured 21 unmarked snails."
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_40.jpg"
+            },
+            {
+              "number": 8,
+              "stem": "The estimated size of the snail population was smallest for the group assigned which color?",
+              "choices": {
+                "F": "White",
+                "G": "Red",
+                "H": "Orange",
+                "J": "Green 0 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_40.jpg"
+            },
+            {
+              "number": 9,
+              "stem": "Suppose the students plan to repeat the study the next year to determine whether the size of the snail popula- tion has changed. Which of the following aspects of the study\u2019s design should be kept constant so that the data from each year can be validly compared? I. Species of snail studied II. Location of the study area III. Time of year the study was conducted",
+              "choices": {
+                "A": "I and II only",
+                "B": "I and III only",
+                "C": "II and III only",
+                "D": "I, II, and III"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_40.jpg"
+            },
+            {
+              "number": 11,
+              "stem": "Suppose that the nail polish used to mark the snails had worn off some of the snails within 3days. Which of R and N, if either, would most likely have been affected?",
+              "choices": {
+                "A": "R only",
+                "B": "N only",
+                "C": "Both R and N",
+                "D": "Neither R nor N"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_40.jpg"
+            },
+            {
+              "number": 12,
+              "stem": "The linear distance traveled was measured for a total of how many recaptured snails?",
+              "choices": {
+                "F": "025",
+                "G": "059",
+                "H": "085",
+                "J": "100"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_40.jpg"
+            },
+            {
+              "number": 13,
+              "stem": "What was the minimum linear distance, in centimeters, traveled by a snail recaptured by Group 3 ?",
+              "choices": {
+                "A": "00.0043 cm",
+                "B": "00.43 cm",
+                "C": "04.3 cm",
+                "D": "43 cm 1 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_40.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "title": "Passage III",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_42.jpg",
+          "startPage": 42,
+          "questions": [
+            {
+              "number": 15,
+              "stem": "The results shown in Table 2 are consistent with the prediction(s) of which of the students, if any?",
+              "choices": {
+                "A": "Student 1 only",
+                "B": "Student 4 only",
+                "C": "Students 2 and 3 only",
+                "D": "None of the students"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_42.jpg"
+            },
+            {
+              "number": 16,
+              "stem": "Are the data shown in Table 1 consistent with Stu- dent2\u2019s prediction about how ink concentration affects the average number of ICVs formed?",
+              "choices": {
+                "F": "No; as the ink concentration increased, the average number of ICVs increased.",
+                "G": "No; as the ink concentration increased, the average number of ICVs decreased.",
+                "H": "Yes; as the ink concentration increased, the aver- age number of ICVs increased.",
+                "J": "Yes; as the ink concentration increased, the aver- age number of ICVs decreased. 4 www.crac exam.net 4"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_42.jpg"
+            },
+            {
+              "number": 17,
+              "stem": "Prior to the experiment, with which of the following statements about the effect of ink concentration on ICV formation would both Students 2 and 3 have been likely to agree? As ink concentration increases, the fre- quency at which Tetrahymena come into contact with ink:",
+              "choices": {
+                "A": "increases and, thus, the more frequently they will be stimulated to form an ICV.",
+                "B": "increases and, thus, the less frequently they will be stimulated to form an ICV.",
+                "C": "decreases and, thus, the more frequently they will be stimulated to form an ICV.",
+                "D": "decreases and, thus, the less frequently they will be stimulated to form an ICV."
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_42.jpg"
+            },
+            {
+              "number": 18,
+              "stem": "Prior to the experiment, for which temperature\u201422\u00b0C or 30\u00b0C\u2014would Student1 most likely have predicted that Tetrahymena would, on average, produce the greatest number of ICVs ?",
+              "choices": {
+                "F": "22\u00b0C, because the plasma membrane of Tetrahy- mena would be more flexible at 22\u00b0C than at 30\u00b0C.",
+                "G": "22\u00b0C, because the plasma membrane of Tetrahy- mena would be less flexible at 22\u00b0C than at 30\u00b0C.",
+                "H": "30\u00b0C, because the plasma membrane of Tetrahy- mena would be more flexible at 30\u00b0C than at 22\u00b0C.",
+                "J": "30\u00b0C, because the plasma membrane of Tetrahy- mena would be less flexible at 30\u00b0C than at 22\u00b0C."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_42.jpg"
+            },
+            {
+              "number": 19,
+              "stem": "Which of the students predicted that the average number of ICVs formed by Tetrahymena is affected by either ink concentration or temperature but not both?",
+              "choices": {
+                "A": "Student 2 only",
+                "B": "Student 3 only",
+                "C": "Students 1 and 3 only",
+                "D": "Students 2 and 4 only"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_42.jpg"
+            },
+            {
+              "number": 20,
+              "stem": "Suppose it were determined that, at high ink concentra- tions, ink particles physically interfere with the ability of Tetrahymena\u2019s plasma membrane to form vesicles. This result would strengthen the prediction(s) of which of the students, if any?",
+              "choices": {
+                "F": "Student 1 only",
+                "G": "Student 2 only",
+                "H": "Students 3 and 4 only",
+                "J": "None of the students 3 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_42.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "title": "Passage IV",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_44.jpg",
+          "startPage": 44,
+          "questions": [
+            {
+              "number": 21,
+              "stem": "According to the results of the study, at what time of day was the snowfall frequency of NLES greatest for Site 1, and at what time of day was the snowfall fre- quency of NLES greatest for Site 2 ? Site 1 Site 2",
+              "choices": {
+                "A": "9:00 a.m. 02:00 p.m.",
+                "B": "9:00 a.m. 10:00 p.m.",
+                "C": "2:00 p.m. 02:00 p.m.",
+                "D": "2:00 p.m. 10:00 p.m."
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_44.jpg"
+            },
+            {
+              "number": 22,
+              "stem": "Suppose that snow were falling at one of the sites. Based on the description of the study, which of the fol- lowing measurements would be necessary to determine whether the site was receiving LES or NLES ?",
+              "choices": {
+                "F": "Wind speed",
+                "G": "Wind direction",
+                "H": "Air temperature at Site 1",
+                "J": "Air temperature at Site 2"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_44.jpg"
+            },
+            {
+              "number": 23,
+              "stem": "Which of the following statements about the snowfall frequency of LES is consistent with the results from Sites 1 and 2 ? During the study, LES typically occurred:",
+              "choices": {
+                "A": "more often at both sites between 12:00 a.m. and 12:00p.m. than between 12:00p.m. and 12:00 a.m.",
+                "B": "less often at both sites between 12:00 a.m. and 12:00p.m. than between 12:00p.m. and 12:00 a.m.",
+                "C": "more often, on average, at both sites than did NLES.",
+                "D": "less often, on average, at Site 2 than at Site 1. 4 www.crac exam.net 4"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_44.jpg"
+            },
+            {
+              "number": 24,
+              "stem": "Suppose the temperature of the lake were 5\u00b0C. The for- mation of LES would be most likely to occur if the air moving across the lake had which of the following temperatures?",
+              "choices": {
+                "F": "00\u00b0C",
+                "G": "05\u00b0C",
+                "H": "10\u00b0C",
+                "J": "15\u00b0C"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_44.jpg"
+            },
+            {
+              "number": 25,
+              "stem": "The total snowfall frequency at 12:00 p.m. for Site 2 was closest to which of the following?",
+              "choices": {
+                "A": "11%",
+                "B": "16%",
+                "C": "21%",
+                "D": "26%"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_44.jpg"
+            },
+            {
+              "number": 26,
+              "stem": "Based on the results of the study, on how many days did NLES fall at Site 1 at 4:00 p.m. ?",
+              "choices": {
+                "F": "010 days",
+                "G": "060 days",
+                "H": "120 days",
+                "J": "150 days"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_44.jpg"
+            },
+            {
+              "number": 27,
+              "stem": "Can the results of the study alone be used to determine which site received more inches of LES ?",
+              "choices": {
+                "A": "Yes, because the results show that Site 1 received less snow than Site 2 when Site 1 received LES.",
+                "B": "Yes, because the results show that Site 2 received more snow than Site 1 when Site 2 received LES.",
+                "C": "No, because the results show that LES did not fall at either site when both sites received snow.",
+                "D": "No, because the results do not show the LES snow- fall amounts. 5 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_44.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-v",
+          "title": "Passage V",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_46.jpg",
+          "startPage": 46,
+          "questions": [
+            {
+              "number": 28,
+              "stem": "Based on Figure2, as the number of Catoms per CA molecule increases from 1 through 8, the pH of the CA solution at 25\u00b0C:",
+              "choices": {
+                "F": "decreases only.",
+                "G": "increases only.",
+                "H": "decreases, then remains between 3.40 and 3.50.",
+                "J": "increases, then remains between 3.40 and 3.50."
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_46.jpg"
+            },
+            {
+              "number": 29,
+              "stem": "Consider the CA represented in Figure1 with a BP of approximately 165\u00b0C. Based on Table1 and Figure2, a 0.01mole/L aqueous solution of that CA at 25\u00b0C will have a pH of approximately:",
+              "choices": {
+                "A": "2.90.",
+                "B": "3.05.",
+                "C": "3.25.",
+                "D": "3.40. 6 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_46.jpg"
+            },
+            {
+              "number": 30,
+              "stem": "Based on Table1 and Figure1, will pentanoic acid at 200\u00b0C and 1 atmosphere be a gas or a liquid?",
+              "choices": {
+                "F": "Gas, because 200\u00b0C is lower than the BP of pen- tanoic acid.",
+                "G": "Gas, because 200\u00b0C is higher than the BP of pen- tanoic acid.",
+                "H": "Liquid, because 200\u00b0C is lower than the BP of pentanoic acid.",
+                "J": "Liquid, because 200\u00b0C is higher than the BP of pentanoic acid."
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_46.jpg"
+            },
+            {
+              "number": 31,
+              "stem": "Based on Table1 and Figure1, the BP of ethanoic acid is approximately how much lower or higher than the BP of hexanoic acid?",
+              "choices": {
+                "A": "085\u00b0C lower",
+                "B": "085\u00b0C higher",
+                "C": "115\u00b0C lower",
+                "D": "115\u00b0C higher 4 www.crac exam.net 4"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_46.jpg"
+            },
+            {
+              "number": 32,
+              "stem": "Consider the CA decanoic acid, CH (CH ) COOH. 3 2 8 Based on Table1 and Figure 1, the BP of decanoic acid will most likely be:",
+              "choices": {
+                "F": "less than 225\u00b0C.",
+                "G": "between 225\u00b0C and 240\u00b0C.",
+                "H": "between 240\u00b0C and 255\u00b0C.",
+                "J": "greater than 255\u00b0C."
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_46.jpg"
+            },
+            {
+              "number": 33,
+              "stem": "The empirical formula of a compound is a chemical formula that shows the simplest whole number ratio of the atoms of each element in the compound. Based on Table 1, what is the empirical formula of octanoic acid?",
+              "choices": {
+                "A": "C H O 4 8",
+                "B": "C H O 4 8 2",
+                "C": "C H O 8 8",
+                "D": "C H O 8 8 2 7 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_46.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-vi",
+          "title": "Passage VI",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_48.jpg",
+          "startPage": 48,
+          "questions": [
+            {
+              "number": 34,
+              "stem": "Based on the results of the studies, the absolute value of the difference between \u03b8 and \u03b8 was greatest for S C which of the following pairs of trials?",
+              "choices": {
+                "F": "Trials 1 and 7",
+                "G": "Trials 2 and 8",
+                "H": "Trials 3 and 9",
+                "J": "Trials 4 and 10 \u03bc \u03b8"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_48.jpg"
+            },
+            {
+              "number": 35,
+              "stem": "Based on the results of Study 2, as increased, :",
+              "choices": {
+                "K": "C",
+                "A": "increased only.",
+                "B": "decreased only.",
+                "C": "increased and then decreased.",
+                "D": "decreased and then increased. 8 GO ON TO THE NEXT PAGE. ckab.com"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_48.jpg"
+            },
+            {
+              "number": 36,
+              "stem": "Based on the results of the 2studies, for each combina- tion of plane and block tested, compared to the coeffi- cient of kinetic friction, the coefficient of static friction was:",
+              "choices": {
+                "F": "always greater.",
+                "G": "always less.",
+                "H": "always equal.",
+                "J": "sometimes greater and sometimes less."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_48.jpg"
+            },
+            {
+              "number": 37,
+              "stem": "Can it be determined from the results of the studies \u03b8 whether the value of for a given block depended on S the mass of that block?",
+              "choices": {
+                "A": "Yes, because the blocks varied in mass.",
+                "B": "Yes, because the blocks all had the same mass.",
+                "C": "No, because the blocks varied in mass.",
+                "D": "No, because the blocks all had the same mass."
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_48.jpg"
+            },
+            {
+              "number": 38,
+              "stem": "In Study 2, the students performed the minimum number of trials necessary to test each substance with itself and with every other substance listed in Table2. Suppose that they had included a fourth plane and a fourth 1.0kg block in Study2, each made of concrete. What minimum number of trials would have been required in Study 2 to test each of the 4 substances?",
+              "choices": {
+                "F": "06",
+                "G": "10",
+                "H": "14",
+                "J": "18 S 4 www.crac exam.net 4"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_48.jpg"
+            },
+            {
+              "number": 39,
+              "stem": "In Study1, why did the block in a given trial begin to move? Once \u03b8became equal to \u03b8 , the: S",
+              "choices": {
+                "A": "gravitational force on the block was decreased enough such that the frictional force could acceler- ate the block down the plane.",
+                "B": "gravitational force on the block was increased enough such that the frictional force could acceler- ate the block down the plane.",
+                "C": "frictional force on the block was decreased enough such that the gravitational force could accelerate the block down the plane.",
+                "D": "frictional force on the block was increased enough such that the gravitational force could accelerate the block down the plane."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_48.jpg"
+            },
+            {
+              "number": 40,
+              "stem": "In each trial of Study2, \u03b8 was initially 45\u00b0. Based on the results of Study 1, which of the following state- ments best explains why this initial value of \u03b8 was chosen? For each combination of plane and block tested in Study 2, this initial value of \u03b8was:",
+              "choices": {
+                "F": "equal to \u03b8 . C",
+                "G": "less than \u03b8 . C",
+                "H": "less than \u03b8 . S",
+                "J": "greater than \u03b8 . S END OF TEST 4 STOP! DO NOT RETURN TO ANY OTHER TEST. 9 ckab.com"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/G19/science/page_48.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scaleTable": {
+    "english": {
+      "74": 36,
+      "75": 36,
+      "72": 35,
+      "73": 35,
+      "70": 34,
+      "71": 34,
+      "69": 33,
+      "68": 32,
+      "67": 31,
+      "66": 30,
+      "65": 29,
+      "64": 28,
+      "62": 27,
+      "63": 27,
+      "61": 26,
+      "58": 25,
+      "59": 25,
+      "60": 25,
+      "56": 24,
+      "57": 24,
+      "53": 23,
+      "54": 23,
+      "55": 23,
+      "50": 22,
+      "51": 22,
+      "52": 22,
+      "46": 21,
+      "47": 21,
+      "48": 21,
+      "49": 21,
+      "43": 20,
+      "44": 20,
+      "45": 20,
+      "41": 19,
+      "42": 19,
+      "39": 18,
+      "40": 18,
+      "37": 17,
+      "38": 17,
+      "35": 16,
+      "36": 16,
+      "31": 15,
+      "32": 15,
+      "33": 15,
+      "34": 15,
+      "28": 14,
+      "29": 14,
+      "30": 14,
+      "25": 13,
+      "26": 13,
+      "27": 13,
+      "23": 12,
+      "24": 12,
+      "20": 11,
+      "21": 11,
+      "22": 11,
+      "17": 10,
+      "18": 10,
+      "19": 10,
+      "14": 9,
+      "15": 9,
+      "16": 9,
+      "12": 8,
+      "13": 8,
+      "10": 7,
+      "11": 7,
+      "8": 6,
+      "9": 6,
+      "6": 5,
+      "7": 5,
+      "5": 4,
+      "3": 3,
+      "4": 3,
+      "2": 2,
+      "0": 1,
+      "1": 1
+    },
+    "math": {
+      "59": 36,
+      "60": 36,
+      "57": 35,
+      "58": 35,
+      "55": 34,
+      "56": 34,
+      "54": 33,
+      "53": 32,
+      "51": 31,
+      "52": 31,
+      "49": 30,
+      "50": 30,
+      "48": 29,
+      "46": 28,
+      "47": 28,
+      "43": 27,
+      "44": 27,
+      "45": 27,
+      "41": 26,
+      "42": 26,
+      "38": 25,
+      "39": 25,
+      "40": 25,
+      "35": 24,
+      "36": 24,
+      "37": 24,
+      "33": 23,
+      "34": 23,
+      "32": 22,
+      "30": 21,
+      "31": 21,
+      "29": 20,
+      "27": 19,
+      "28": 19,
+      "24": 18,
+      "25": 18,
+      "26": 18,
+      "21": 17,
+      "22": 17,
+      "23": 17,
+      "17": 16,
+      "18": 16,
+      "19": 16,
+      "20": 16,
+      "14": 15,
+      "15": 15,
+      "16": 15,
+      "11": 14,
+      "12": 14,
+      "13": 14,
+      "8": 13,
+      "9": 13,
+      "10": 13,
+      "7": 12,
+      "6": 11,
+      "5": 10,
+      "4": 9,
+      "3": 8,
+      "2": 6,
+      "1": 4,
+      "0": 1
+    },
+    "reading": {
+      "39": 36,
+      "40": 36,
+      "37": 35,
+      "38": 35,
+      "36": 34,
+      "35": 33,
+      "34": 32,
+      "33": 31,
+      "32": 30,
+      "31": 28,
+      "30": 27,
+      "29": 26,
+      "28": 25,
+      "27": 24,
+      "26": 23,
+      "25": 22,
+      "23": 21,
+      "24": 21,
+      "22": 20,
+      "21": 19,
+      "19": 18,
+      "20": 18,
+      "18": 17,
+      "17": 16,
+      "15": 15,
+      "16": 15,
+      "14": 14,
+      "12": 13,
+      "13": 13,
+      "10": 12,
+      "11": 12,
+      "9": 11,
+      "7": 10,
+      "8": 10,
+      "6": 9,
+      "5": 8,
+      "4": 6,
+      "3": 5,
+      "2": 4,
+      "1": 2,
+      "0": 1
+    },
+    "science": {
+      "39": 36,
+      "40": 36,
+      "38": 35,
+      "37": 34,
+      "36": 32,
+      "35": 31,
+      "34": 30,
+      "33": 29,
+      "32": 28,
+      "31": 27,
+      "30": 26,
+      "28": 25,
+      "29": 25,
+      "26": 24,
+      "27": 24,
+      "24": 23,
+      "25": 23,
+      "23": 22,
+      "21": 21,
+      "22": 21,
+      "20": 20,
+      "18": 19,
+      "19": 19,
+      "16": 18,
+      "17": 18,
+      "15": 17,
+      "13": 16,
+      "14": 16,
+      "12": 15,
+      "11": 14,
+      "10": 13,
+      "8": 12,
+      "9": 12,
+      "7": 11,
+      "6": 10,
+      "5": 9,
+      "4": 8,
+      "3": 6,
+      "2": 5,
+      "1": 3,
+      "0": 1
+    }
+  }
+}

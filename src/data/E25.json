@@ -1,0 +1,2704 @@
+{
+  "id": "E25",
+  "name": "ACT Form E25",
+  "sections": [
+    {
+      "id": "english",
+      "name": "English",
+      "timeMinutes": 45,
+      "passages": [
+        {
+          "id": "eng-p1",
+          "title": "Passage 1",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_2.jpg",
+          "startPage": 2,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "heroes, such as,",
+                "C": "heroes: such as",
+                "D": "heroes such as,"
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_2.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 2,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "whom",
+                "H": "who",
+                "J": "DELETE the underlined portion."
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_2.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 3,
+              "stem": "Given that all the choices are accurate, which one most clearly signals that the paragraph will focus on Sampson\u2019s Revolutionary War experience?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "a house servant for many years.",
+                "C": "tall for a woman of her time.",
+                "D": "a capable young woman."
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_2.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 4,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "given that",
+                "H": "because",
+                "J": "and 2 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_2.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 5,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "In the fourteen months that Sampson served in the army,",
+                "C": "Sampson served in the army for fourteen months,",
+                "D": "Her fourteen months of service in the army,"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_3.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 6,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "one of such",
+                "H": "such a one",
+                "J": "such"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_3.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 7,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "their assignment was",
+                "C": "who\u2019s been assigned",
+                "D": "assigned l"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_3.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 8,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Sampson\u2019s party",
+                "H": "Sampsons\u2019 party",
+                "J": "Sampsons party"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_3.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 9,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "escape, the scouts,",
+                "C": "escape the scouts,",
+                "D": "escape, the scouts"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_3.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 10,
+              "stem": "Given that all the choices are accurate, which one most effectively advances the narration of events in the paragraph?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "demonstrate courage.",
+                "H": "help one another.",
+                "J": "act quickly."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_3.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 11,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "She felt weighted down by",
+                "C": "Weighted down by",
+                "D": "The weight of"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_3.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 12,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Moreover, a",
+                "H": "Instead, a",
+                "J": "A"
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_3.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 13,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "reached up from the deep water and took hold of the rope thrown by the colonial soldier",
+                "C": "relied on assistance from a colonial soldier",
+                "D": "caught the rope 3 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_3.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 14,
+              "stem": "Which of the following alternatives to the underlined portion would NOT be acceptable?",
+              "choices": {
+                "F": "pension, which was",
+                "G": "pension, for which",
+                "H": "pension. It was",
+                "J": "pension, Question 15 asks about the preceding passage as a whole."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_4.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 15,
+              "stem": "The writer wants to add the following sentence to the essay: When she was hospitalized for a severe fever, authorities discovered that she was a woman. The sentence would most logically be placed at:",
+              "choices": {
+                "A": "Point A in Paragraph 4.",
+                "B": "Point B in Paragraph 5.",
+                "C": "Point C in Paragraph 5.",
+                "D": "Point D in Paragraph 5."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_4.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 16,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "spectacular horticulturally",
+                "H": "spectacular horticultural",
+                "J": "spectacle horticultural"
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_4.jpg",
+              "correct": "H"
+            }
+          ]
+        },
+        {
+          "id": "eng-p2",
+          "title": "Passage 2",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_4.jpg",
+          "startPage": 4,
+          "questions": [
+            {
+              "number": 17,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "when it became",
+                "C": "that became",
+                "D": "becoming 4 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_4.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 18,
+              "stem": "Which choice most clearly suggests that Fong had a primary role in the start-up and development of the law firm referred to in the sentence?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "assisted in the business of",
+                "H": "helped found and run",
+                "J": "became employed at"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_5.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 19,
+              "stem": "Which of the following true statements, if added here, would most logically lead into the information that fol- lows in the paragraph?",
+              "choices": {
+                "A": "Today, Fong\u2019s family maintains his gardens and visitors\u2019 center\u2014one of his sons is the head gar- dener, and his daughter-in-law leads classes and tours.",
+                "B": "By 1950, Fong was in the market to purchase a large plot of land, an acreage that would provide room for his horses.",
+                "C": "In 1950, Fong purchased more than 700 acres of land on Oahu, above Kaneohe Bay.",
+                "D": "The acreage once operated as a banana plantation."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_5.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 20,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "to try and to experiment with",
+                "H": "the experimentation of",
+                "J": "and experimenting"
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_5.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 21,
+              "stem": "Given that all the choices are accurate, which one pro- vides the most clear and direct purpose, related to Hawaii\u2019s natural history, for Fong\u2019s planting crops such as bamboo, coconut, betel nut, and turmeric?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "not only grew cash crops, such as fruit, but addi- tionally crops that have other purposes.",
+                "C": "developed a landscape reminiscent of Hawaii hun- dreds of years ago.",
+                "D": "began to create a garden unlike any other on Hawaii today."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_5.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 22,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "that are once plenty",
+                "H": "formerly many",
+                "J": "once common d le 23. A. NO CHANGE",
+                "B": "being one who",
+                "C": "of whom",
+                "D": "who 5 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_5.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 24,
+              "stem": "At this point, the writer is considering adding the fol- lowing true statement: In 1989, the State Department of Agriculture commemorated the bicentennial of Chinese immigrants\u2019 arrival to Hawaii by giving one hundred rare sandalwood trees to Fong to plant on his land. Should the writer make this addition here?",
+              "choices": {
+                "F": "Yes, because it suggests that the State Department of Agriculture was supportive of Fong\u2019s endeavor and the expansion of his gardens.",
+                "G": "Yes, because it provides information about a type of tree in Fong\u2019s gardens that has not yet been mentioned in the essay.",
+                "H": "No, because it interrupts the paragraph\u2019s focus on providing an overview of the plants in each of the five presidential gardens.",
+                "J": "No, because it provides scientific information about sandalwood trees that is inconsistent with the tone of the essay."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_6.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 25,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "their",
+                "C": "it\u2019s",
+                "D": "its\u2019"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_6.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 26,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "subsidizes",
+                "H": "supports",
+                "J": "endures"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_6.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 27,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "had abounded",
+                "C": "abounding",
+                "D": "abounds"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_6.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 28,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "preserve, which includes a visitors\u2019 center,",
+                "H": "preserve, having been named after Fong,",
+                "J": "preserve"
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_6.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 29,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "having mingled",
+                "C": "then mingles",
+                "D": "mingling 6 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_6.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 30,
+              "stem": "The writer wants to add the following sentence to the essay: Fong eventually led several companies. The sentence would most logically be placed at:",
+              "choices": {
+                "F": "Point A in Paragraph 1.",
+                "G": "Point B in Paragraph 1.",
+                "H": "Point C in Paragraph 2.",
+                "J": "Point D in Paragraph 4. y g"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_7.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 31,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "men, Nicholas Carlile,",
+                "C": "men: Nicholas Carlile",
+                "D": "men Nicholas Carlile,"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_7.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 32,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "bush, that is, hanging",
+                "H": "bush, that is hanging,",
+                "J": "bush that is hanging,"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_7.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 33,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "the men have found",
+                "C": "the insects are",
+                "D": "DELETE the underlined portion."
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_7.jpg",
+              "correct": "C"
+            }
+          ]
+        },
+        {
+          "id": "eng-p3",
+          "title": "Passage 3",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_7.jpg",
+          "startPage": 7,
+          "questions": [
+            {
+              "number": 34,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "than fifteen miles from",
+                "H": "then fifteen miles from",
+                "J": "then fifteen miles to"
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_7.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 35,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "aground and while the ship was being repaired,",
+                "C": "aground. While the ship was being repaired,",
+                "D": "aground, while the ship was being repaired 7 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_7.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 37,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "though, the island\u2019s remote location and dangerous waters made",
+                "C": "though, the island\u2019s remote location and dangerous waters making",
+                "D": "though the island\u2019s remote location, and dangerous waters making"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_8.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 38,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "question; what should be done,",
+                "H": "question, what should be done,",
+                "J": "question, what should be done"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_8.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 39,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "over from",
+                "C": "back from",
+                "D": "against"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_8.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 40,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "expert, Patrick Honan,",
+                "H": "expert, Patrick Honan",
+                "J": "expert Patrick Honan"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_8.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 41,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "them.",
+                "C": "that.",
+                "D": "this."
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_8.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 42,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Honan, working at the Melbourne Zoo,",
+                "H": "Honan, who works with insects,",
+                "J": "Honan, an expert,"
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_8.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 43,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "retrieve",
+                "C": "revive",
+                "D": "rouse 8 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_8.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 44,
+              "stem": "Given that all the choices are accurate, which one offers the most logical contrast to the first part of the sentence?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "prospects continue to improve.",
+                "H": "future remains uncertain.",
+                "J": "recovery is noteworthy. Question 45 asks about the preceding passage as a whole."
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_9.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 45,
+              "stem": "The writer wants to add the following sentence to the essay: By 2012, the zoo had bred over nine thousand stick insects. The sentence would most logically be placed at:",
+              "choices": {
+                "A": "Point A in Paragraph 2.",
+                "B": "Point B in Paragraph 3.",
+                "C": "Point C in Paragraph 4.",
+                "D": "Point D in Paragraph 4."
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_9.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 46,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "code, used",
+                "H": "code was,",
+                "J": "code,"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_9.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 47,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "its\u2019 usage",
+                "C": "it\u2019s use",
+                "D": "its use"
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_9.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 48,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Notwithstanding",
+                "H": "Given",
+                "J": "Like 9 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_9.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 49,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "closed the book on the final chapter",
+                "C": "portended the ill-fated demise",
+                "D": "manifested the cessation"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_10.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 50,
+              "stem": "Which of the following true statements, if added here, would best serve as a transition between the preceding sentence and the next sentence?",
+              "choices": {
+                "F": "They wistfully recalled hearing new call signs, or code names, buzzing over their radios\u2014proof that people were still learning and using the code.",
+                "G": "Many modern users of the code, though, assert that it will persist alongside new technologies.",
+                "H": "E-mail, in contrast to Morse code, enables us to send messages almost instantaneously.",
+                "J": "Today, for most of the public, Morse code is famil- iar only from historical films. n 51. A. NO CHANGE",
+                "B": "lies in the fact that it functions less like a technol- ogy than",
+                "C": "lies in the fact that it functions less like a technol- ogy then",
+                "D": "lays in the fact that it functions less like a technol- ogy than"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_10.jpg",
+              "correct": "G"
+            }
+          ]
+        },
+        {
+          "id": "eng-p4",
+          "title": "Passage 4",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_10.jpg",
+          "startPage": 10,
+          "questions": [
+            {
+              "number": 52,
+              "stem": "Which of the following placements for the underlined portion would most clearly indicate that each letter in Morse code is composed of its own distinct combina- tion of signals?",
+              "choices": {
+                "F": "Where it is now",
+                "G": "After the word each",
+                "H": "After the word a",
+                "J": "After the phrase pattern of"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_10.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 53,
+              "stem": "Given that all the choices are accurate, which one sets up the clearest, most logical contrast with the claim made in the next part of the sentence?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "telegraphs once recorded literal dots and dashes on punched tape,",
+                "C": "dashes are less commonly occurring in Morse code than dots,",
+                "D": "few changes have been made to the code over time, e 54. F. NO CHANGE",
+                "G": "flashing a mirror in the sun can work, h H. a mirror can be flashed in the sun,",
+                "J": "flashing a mirror in the sun,"
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_10.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 55,
+              "stem": "Which choice most effectively leads into the new sub- ject of this paragraph while summarizing a main idea d of the preceding paragraph?",
+              "choices": {
+                "A": "NO CHANGE e",
+                "B": "Thanks to the efforts of enthusiasts,",
+                "C": "Though it has fallen from use,",
+                "D": "Easy to learn and fun to use, 10 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_10.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 57,
+              "stem": "The writer is considering deleting the preceding sen- tence. Should the sentence be kept or deleted?",
+              "choices": {
+                "A": "Kept, because it identifies the types of safety instructions that are most common in Morse code.",
+                "B": "Kept, because it explains the important role Morse code can play in an emergency.",
+                "C": "Deleted, because it contradicts a claim made ear- lier by implying that specialized machines are required to relay messages in Morse code.",
+                "D": "Deleted, because it distracts the reader from the paragraph\u2019s focus on how advanced technologies have replaced Morse code."
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_11.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 58,
+              "stem": "",
+              "choices": {
+                "F": "Yes, because it explains how Morse code changed the way people sent messages over long distances. st",
+                "G": "Yes, because it describes how the advent of new technologies rendered Morse code obsolete.",
+                "H": "No, because it indicates that Morse code today is pursued primarily as a hobby.",
+                "J": "No, because it focuses instead on the advantages of and continuing uses for Morse code."
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_11.jpg",
+              "correct": "H"
+            },
+            {
+              "number": 61,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "pillar, just a few meters from, the Eiffel Tower",
+                "C": "pillar, just a few meters from the Eiffel Tower",
+                "D": "pillar just a few meters from the Eiffel Tower"
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_11.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 62,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "large, spray-painted \u201cX,\u201d",
+                "H": "large spray-painted \u201cX,\u201d",
+                "J": "large, spray-painted \u201cX\u201d 11 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_11.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 63,
+              "stem": "Which choice best completes the rhetorical pattern established in the preceding sentences?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "Found in London on the side of a building, a sten- ciled image depicts a pair of uniformed soldiers",
+                "C": "The side of a building in London depicts a sten- ciled image of uniformed soldiers,",
+                "D": "A stenciled image on the side of a building in London depicts uniformed soldiers"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_12.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 64,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "like. There",
+                "H": "like; there",
+                "J": "like there"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_12.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 65,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "whimsy, British-born artist, Banksy,",
+                "C": "whimsy, British-born artist Banksy",
+                "D": "whimsy British-born artist, Banksy"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_12.jpg",
+              "correct": "C"
+            },
+            {
+              "number": 66,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "Initially,",
+                "H": "At first,",
+                "J": "DELETE the underlined portion."
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_12.jpg",
+              "correct": "J"
+            },
+            {
+              "number": 67,
+              "stem": "Given that all the following statements are true, which one, if added here, would best conclude this paragraph and introduce the subject of the next paragraph?",
+              "choices": {
+                "A": "Banksy\u2019s stenciled message \u201cSorry! The lifestyle you ordered is currently out of stock\u201d captures his disapproval of consumerism.",
+                "B": "Daylight would reveal his creations to a simultane- ously outraged and admiring public.",
+                "C": "This technique was featured in the street art docu- mentary Exit Through the Gift Shop.",
+                "D": "It is hard to believe that no one has ever been able to get a photograph of Banksy\u2019s face."
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_12.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 68,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "the kind that",
+                "H": "and that",
+                "J": "while it"
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_12.jpg",
+              "correct": "F"
+            },
+            {
+              "number": 69,
+              "stem": "Which choice most clearly indicates the enthusiasm people had for Banksy\u2019s art?",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "clamored",
+                "C": "blustered",
+                "D": "asked e 70. F. NO CHANGE",
+                "G": "of their",
+                "H": "for its",
+                "J": "of its 12 GO ON TO THE NEXT PAGE."
+              },
+              "pageIndex": 12,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_12.jpg",
+              "correct": "B"
+            },
+            {
+              "number": 71,
+              "stem": "Given that all the following statements are true, which one, if added here, would provide the most effective transition between this paragraph and the next paragraph?",
+              "choices": {
+                "A": "Afterward, only a blank wall stood where Banksy\u2019s art had been.",
+                "B": "Even in Los Angeles, some of Banksy\u2019s art was washed away.",
+                "C": "Banksy had assumed that his art would eventually disappear.",
+                "D": "Still, people had begun to take notice."
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_13.jpg",
+              "correct": "D"
+            },
+            {
+              "number": 72,
+              "stem": "",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "whether he is",
+                "H": "to be",
+                "J": "DELETE the underlined portion."
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_13.jpg",
+              "correct": "J"
+            }
+          ]
+        },
+        {
+          "id": "eng-p5",
+          "title": "Passage 5",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_13.jpg",
+          "startPage": 13,
+          "questions": [
+            {
+              "number": 73,
+              "stem": "",
+              "choices": {
+                "A": "NO CHANGE",
+                "B": "actual pieces of buildings were sold by auctioneers",
+                "C": "actual pieces, sold by auctioneers, were of buildings",
+                "D": "selling actual pieces of buildings were auctioneers e"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_13.jpg",
+              "correct": "A"
+            },
+            {
+              "number": 74,
+              "stem": "Which of the following quotations attributed to Banksy best suggests why Banksy has not revealed his identity to the public?",
+              "choices": {
+                "F": "NO CHANGE",
+                "G": "\u201cIf you want to say something and have people listen, then you have to wear a mask.\u201d",
+                "H": "\u201cGraffiti is one of the few tools you have if you have almost nothing.\u201d",
+                "J": "\u201cSpeak softly, but carry a big can of paint.\u201d Question 75 asks about the preceding passage as a whole."
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_13.jpg",
+              "correct": "G"
+            },
+            {
+              "number": 75,
+              "stem": "Suppose the writer\u2019s primary purpose had been to explain a common debate about the definition of art. Would this essay accomplish that purpose?",
+              "choices": {
+                "A": "Yes, because it demonstrates that characteristics of street art are similar to those found in other types of art.",
+                "B": "Yes, because it explains why street art is controversial.",
+                "C": "No, because it focuses on why the work of one street artist has gained popularity.",
+                "D": "No, because it explains Banksy\u2019s reasons for choosing to create street art. END OF TEST 1 DO NOT TURN THE PAGE UNTIL TOLD TO DO SO. 13"
+              },
+              "pageIndex": 13,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/english/page_13.jpg",
+              "correct": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Mathematics",
+      "timeMinutes": 60,
+      "questions": [
+        {
+          "number": 1,
+          "stem": "The table below gives the exact probability of randomly drawing a marble of a particular color from a bag of solid-colored marbles. Color of marble Probability Red 0.2 Blue 0.3 Yellow 0.2 Green 0.1 Orange 0.1 Purple 0.1 What is the probability of randomly drawing a marble that is NOT green and is NOT blue?",
+          "choices": {
+            "A": "0.60",
+            "B": "0.63",
+            "C": "0.67",
+            "D": "0.70",
+            "E": "0.90 _3_ =x+ _1_"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_14.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 3,
+          "stem": "(3a6b)(7a3b9) is equivalent to: 10a9b10 A.",
+          "choices": {
+            "B": "10a18b9 21a9b9 C.",
+            "D": "21a9b10 21a18b9 E. 14 ACT-E25 2 DO"
+          },
+          "pageIndex": 14,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_14.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 4,
+          "stem": "During the month of July, Garth\u2019s Video tracked the number of videos rented for each transaction. A total of 600 transactions were made during the month of July. The results are shown in the table below. How many transactions of exactly 3 video rentals were made during the month of July? Number of Percent of videos rented transactions 2 36% 3 26% 4 08% 5 or more 10%",
+          "choices": {
+            "F": "048",
+            "G": "120",
+            "H": "156",
+            "J": "216",
+            "K": "336"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_15.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 5,
+          "stem": "The total price for the pizza Jana and her friends bought was $15.60. The pizza was cut into 8 equal slices, and Jana ate 3 of the slices. Jana paid a portion of the total price that was the same as the portion of the pizza she ate. What portion of the total price did Jana pay?",
+          "choices": {
+            "A": "$1.95",
+            "B": "$4.68",
+            "C": "$5.20",
+            "D": "$5.85",
+            "E": "$7.80 =(5x+3)2, =?"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_15.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 6,
+          "stem": "If f(x) then f(1)",
+          "choices": {
+            "F": "08",
+            "G": "16",
+            "H": "28",
+            "J": "34",
+            "K": "64"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_15.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 7,
+          "stem": "The mean of 4 numbers is 6. Given that 3 of the numbers are 3, 6, and 7, what is the remaining number?",
+          "choices": {
+            "A": "02 0_8_ B. 3",
+            "C": "04",
+            "D": "08",
+            "E": "16 www.actexam.net 15 ACT-E25 2 ___ DO"
+          },
+          "pageIndex": 15,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_15.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 8,
+          "stem": "The midpoint of NQ is located at M(3,5) in the standard (x,y) coordinate plane. Given that the coordinates of Q are (1,2), what are the coordinates of N? F. 2 G. 2",
+          "choices": {
+            "H": "(5,08)",
+            "J": "(5,12)",
+            "K": "(7,12)"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_16.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 9,
+          "stem": "What is the value of \u23aa\u22123\u23aa\u2212\u23aa7 \u2212 49\u23aa? \u221245 A.",
+          "choices": {
+            "B": "\u221239",
+            "C": "39",
+            "D": "45",
+            "E": "59"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_16.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 10,
+          "stem": "Australia\u2019s Sydney Opera House covers a rectangular region that has a length of 605 feet and a width of 388 feet. Which of the following values is closest to the area, in acres, of the rectangular region? (Note: 1 acre =43,560 square feet)",
+          "choices": {
+            "F": "000,005",
+            "G": "000,070",
+            "H": "000,110",
+            "J": "068,000",
+            "K": "230,000 52x\u22122y47 \u22121is"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_16.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 12,
+          "stem": "The lengths of the 2 shorter sides of a right triangle are 2 cm and 3 cm, respectively. Which of the following values is closest to the length, in centimeters, of the longest side of the triangle?",
+          "choices": {
+            "F": "2.2",
+            "G": "2.3",
+            "H": "3.6",
+            "J": "5.0",
+            "K": "6.5 16 ACT-E25 2 y=x x+y=10 DO"
+          },
+          "pageIndex": 16,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_16.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 13,
+          "stem": "When and are graphed in the standard (x,y) coordinate plane, at what point do they intersect? (\u22125,05) A.",
+          "choices": {
+            "B": "(00,10) (05,\u22125) C.",
+            "D": "(05,05)",
+            "E": "(10,00)"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_17.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 14,
+          "stem": "The first 4 terms of a geometric sequence are listed in order below. What is the seventh term of the sequence? \u2026 24, 12, 6, 3, \u22126 F.",
+          "choices": {
+            "G": "0",
+            "H": "0.1875",
+            "J": "0.375",
+            "K": "0.75"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_17.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 15,
+          "stem": "Let s be any real number such that 4 < \u221a\u2022s < 9. Which of the following is a possible value of s?",
+          "choices": {
+            "A": "02.5",
+            "B": "07.6",
+            "C": "12.7",
+            "D": "39.3",
+            "E": "82.4"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_17.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 16,
+          "stem": "In the standard (x,y) coordinate plane, which of the following lines goes through (0,2) and is parallel to y=\u22125x+7 ? =\u22125x\u22122",
+          "choices": {
+            "F": "y =\u22125x+2",
+            "G": "y = _1_x \u22122",
+            "H": "y 5 = _1_x +2",
+            "J": "y 5 = 2x+7",
+            "K": "y"
+          },
+          "pageIndex": 17,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_17.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 19,
+          "stem": "",
+          "choices": {
+            "A": "tank has a capacity of 30 gallons and is full of 6 _1_ water. Jamal then removes of the water in the tank. 8 How many gallons of water are left in the tank? 03_1_ A. 8",
+            "B": "05 17_1_ C. 7 21_7_ D. 8 26_7_ E. 8"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_18.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 20,
+          "stem": "Which of the following expressions is equivalent to 3(a+b) \u22125(a\u22122b) ?",
+          "choices": {
+            "F": "\u22122a\u221209b \u22122a\u221207b G.",
+            "H": "\u22122a\u221200b \u22122a+05b J.",
+            "K": "\u22122a+13b"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_18.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 21,
+          "stem": "An English teacher decided to give a second test over the same material as a first test. To reward those students who did well and to provide an incentive to students to improve their score, he announced that he would calculate the combined test score by starting _2_ with the first test score and adding of the increase in 3 test score from their first test to their second test. Trish scored 57points on her first test and 72points on her second test. What is her combined test score?",
+          "choices": {
+            "A": "62",
+            "B": "67",
+            "C": "72",
+            "D": "82",
+            "E": "95 www.crackab.com 18 ACT-E25 2 \u221a3 \u20222\u20224\u2022 DO",
+            "F": "2",
+            "G": "8",
+            "H": "2\u221a3 \u20223 2\u221a3 \u20226 J.",
+            "K": "2\u221a\u20222"
+          },
+          "pageIndex": 18,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_18.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 23,
+          "stem": "On a rectangular sheet of paper, Aiko drew a triangle whose base length is the same as the length of the sheet and whose height is the same as the width of the sheet. What is the ratio of the area of the triangle to the area of the rectangular sheet of paper? _1_ A. 4 _1_ B. 3 _1_ C. 2",
+          "choices": {
+            "D": "1",
+            "E": "2"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_19.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 24,
+          "stem": "Norah invited 4friends to a table tennis party. Each of the 5 people at the party played every other person exactly 1 time. The table below shows the number of games won by each player except Norah. There were no ties. How many games did Norah win? Player Games won Collier 2 Evangeline 1 Gabe 1 Norah ? Maria 3",
+          "choices": {
+            "F": "0",
+            "G": "1",
+            "H": "2",
+            "J": "3",
+            "K": "4"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_19.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 25,
+          "stem": "",
+          "choices": {
+            "A": "18, 18, 26",
+            "B": "18, 13, 13",
+            "C": "18, 22, 22",
+            "D": "18, 31, 31",
+            "E": "Cannot be determined from the given information 19 ACT-E25 2 DO Use the following information to answer questions 26\u201328. The 2010 ADA Standards for Accessible Design require that elevator cars with centered doors, like the one shown below, have a minimum door clear width of 42 inches. They also require a minimum number of wheelchair spaces in 1 assembly area, such as a classroom, based on the number of seats in the assembly area, as the table below indicates. L 2 3 4 5 6 door clear width Number of Minimum seats in number of 1 assembly wheelchair area spaces 004 to 025 1 026 to 050 2 051 to 150 4 151 to 300 5 301 to 500 6"
+          },
+          "pageIndex": 19,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_19.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 26,
+          "stem": "Door clear widths, in feet, of 5 elevator cars with centered doors built before 2010 are listed below. 3.5, 3.6, 3.8, 3.2, 2.8 How many of the elevator cars do NOT meet the 2010 ADA standard for minimum door clear width?",
+          "choices": {
+            "F": "1",
+            "G": "2",
+            "H": "3",
+            "J": "4",
+            "K": "5"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_20.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 27,
+          "stem": "An elevator car with centered doors has a door clear width that is 8% wider than the minimum distance required by the 2010 ADA standard. Which of the following distances, in inches, is closest to the door clear width of the elevator car?",
+          "choices": {
+            "A": "43",
+            "B": "45",
+            "C": "50",
+            "D": "62",
+            "E": "76 20 ACT-E25 2 DO"
+          },
+          "pageIndex": 20,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_20.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 28,
+          "stem": "",
+          "choices": {
+            "A": "local college will construct a 2-floor building next year. Each of the 5 classrooms on the 1st floor will have 20 seats, and each of the 8 classrooms on the 2nd floor will have 35seats. To comply with the 2010 ADA standard, what is the fewest total number of wheelchair spaces needed in the 13 classrooms?",
+            "F": "04",
+            "G": "06",
+            "H": "11",
+            "J": "13",
+            "K": "21"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_21.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 29,
+          "stem": "",
+          "choices": {
+            "A": "paint researcher collected the following data about the relationship between the paint level in a paint can and the surface area painted from this can. distance from surface area top of can painted (xinches) (ysquare feet) 03 096 07 224 11 352 Assume there is a linear relationship between x and y. Which of the following is an equation showing this relationship? y=32x A. y=x+96 B. =x+32",
+            "C": "y x=32y D. _9_6_ = _3_5_2_ E. 3 11"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_21.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 30,
+          "stem": "Which of the following sentences is true about the 2 nonright angles of anyright triangle?",
+          "choices": {
+            "F": "They are complementary angles.",
+            "G": "They are congruent angles.",
+            "H": "They are obtuse angles.",
+            "J": "They are supplementary angles.",
+            "K": "They are vertical angles."
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_21.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 31,
+          "stem": "The temperature in Chicago was \u22124\u00b0F at noon and rose 24\u00b0F by 3:00 p.m. The temperature in New Orleans was 42\u00b0F at noon and dropped 24\u00b0F by 3:00 p.m. How did the temperatures in Chicago and New Orleans compare at 3:00 p.m. ?",
+          "choices": {
+            "A": "New Orleans was 10\u00b0F colder than Chicago.",
+            "B": "New Orleans was 2\u00b0F colder than Chicago.",
+            "C": "The temperatures were the same.",
+            "D": "New Orleans was 22\u00b0F warmer than Chicago.",
+            "E": "New Orleans was 46\u00b0F warmer than Chicago. www.actexam.net 21 ACT-E25 2 \u2194 \u2194 \u2192 DO"
+          },
+          "pageIndex": 21,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_21.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 32,
+          "stem": "In the figure below, AB and CE intersect at O, OC bisects \u2220BOD, and the measure of \u2220AOD is 40\u00b0. What \u2220AOE? is the measure of C D",
+          "choices": {
+            "A": "B 40\u00b0 O ?",
+            "F": "40\u00b0",
+            "G": "50\u00b0",
+            "H": "60\u00b0",
+            "J": "70\u00b0 E",
+            "K": "80\u00b0"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_22.jpg",
+          "correct": "J"
+        },
+        {
+          "number": 33,
+          "stem": "The entire length of a rope is coiled into 6 circular loops, each with a diameter of 10 inches, as shown below. Which of the following is closest to the length, in inches, of the rope? 10",
+          "choices": {
+            "A": "030",
+            "B": "080",
+            "C": "095",
+            "D": "190",
+            "E": "315"
+          },
+          "pageIndex": 22,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_22.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 36,
+          "stem": "During rehearsal for the Founders\u2019 Day choir program, the director, Mrs. Mazurek, tried 3 different configurations, each using all the choir members at the rehearsal. One configuration was to have only rows of 12, one was to have only rows of 15, and one was to have only rows of 20. None of these configurations worked because for each, the last row had 1 person less than the other rows. What was the least of the possible numbers of choir members at the rehearsal?",
+          "choices": {
+            "F": "044",
+            "G": "047",
+            "H": "059",
+            "J": "079",
+            "K": "119 x2 + ="
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_23.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 37,
+          "stem": "The equation P 0, where P is an integer, has 2 integer solutions for x. Which of the following is a possible value of P?",
+          "choices": {
+            "A": "\u221248 \u221236 B.",
+            "C": "\u221210",
+            "D": "36",
+            "E": "48"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_23.jpg",
+          "correct": "B"
+        },
+        {
+          "number": 39,
+          "stem": "Given x 4y and y 2z, which of the following expressions is equivalent to x+4y\u22128zin terms of z? \u22123z A.",
+          "choices": {
+            "B": "\u22122z",
+            "C": "2z",
+            "D": "4z",
+            "E": "8z 23 ACT-E25 2 DO"
+          },
+          "pageIndex": 23,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_23.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 40,
+          "stem": "Using the street map shown below, you are directed to take a 4-block-long route to walk from First and Main Streets to Third and Market Streets. If each of the different 4-block-long routes consists of a unique sequence of streets, how many such routes could you take? First and Main Streets Third and Market Streets",
+          "choices": {
+            "F": "04",
+            "G": "06",
+            "H": "08",
+            "J": "12",
+            "K": "16"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_24.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 41,
+          "stem": "For i=\u221a\u2212\u2022\u20221, (3 +i)2=? \u22129 A.",
+          "choices": {
+            "B": "8 +6i",
+            "C": "8",
+            "D": "6 +0i +2i",
+            "E": "6 ="
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_24.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 43,
+          "stem": "In a small high school with 20seniors, 8 of the seniors are in soccer, 9 of the seniors are in band, and 5 of the seniors are in both. How many seniors are in neither soccer nor band?",
+          "choices": {
+            "A": "15",
+            "B": "12",
+            "C": "11",
+            "D": "08",
+            "E": "03 www.actexam.net 24 ACT-E25 2 x<\u22125 DO"
+          },
+          "pageIndex": 24,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_24.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 44,
+          "stem": "For any real number x such that in the equation below, which of the following statements must be true of the number represented by y? y=\u2212\u221a\u2022x\u2022+\u2022\u20225\u2022",
+          "choices": {
+            "F": "y is irrational.",
+            "G": "y >0 =0",
+            "H": "y",
+            "J": "y <0",
+            "K": "y is imaginary."
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_25.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 45,
+          "stem": "The population of Northtown on January 1 for the years 2001 through 2007 is shown in the table below. What is the average yearly change in population from January 1, 2003, to January 1, 2005 ? Year Population 2001 1,506 2002 1,612 2003 1,726 2004 1,844 2005 1,972 2006 2,098 2007 2,224",
+          "choices": {
+            "A": "082",
+            "B": "120",
+            "C": "123",
+            "D": "124",
+            "E": "246"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_25.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 46,
+          "stem": "The bottom of the empty rectangular storage bin shown below is a square. If 175 cubic feet of salt are poured into the bin and leveled, how many feet of the bin will be filled? 50 feet 5 feet 5 feet",
+          "choices": {
+            "F": "07",
+            "G": "17.5",
+            "H": "25",
+            "J": "35",
+            "K": "That much salt will more than fill the bin. 25 ACT-E25 2 y\u2264ax+b DO"
+          },
+          "pageIndex": 25,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_25.jpg",
+          "correct": "F"
+        },
+        {
+          "number": 47,
+          "stem": "One of the following graphs is the graph of for some positive aand positive b. Which graph?",
+          "choices": {
+            "A": "y D. y x x O O",
+            "B": "y E. y x O x O y C. x O"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_26.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 48,
+          "stem": "The ratings from a survey taken by 90 students are summarized in the frequency bar graph below. The possible ratings on the survey are 0, 1, 2, 3, and 4. 40 stneduts 40 30 25 fo 20 rebmun 10 10 10 5 0 0 1 2 3 4 rating What is the mean of the 90 ratings?",
+          "choices": {
+            "F": "2 _4_",
+            "G": "2 9 _1_",
+            "H": "2 2 _1_0_",
+            "J": "2 17 www.crackab.com K. 3 26 ACT-E25 2 DO"
+          },
+          "pageIndex": 26,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_26.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 49,
+          "stem": "",
+          "choices": {
+            "A": "Mean",
+            "B": "Median",
+            "C": "Mode",
+            "D": "Range",
+            "E": "Variance Use the following information to answer questions 50\u201352. Harold is planning a garden as shown in the scale drawing below. The line segments represent the fence surrounding the garden, with an opening in the fence to access the garden. Each small square in the scale drawing represents a square with a side length of 2 feet. Each marked point is at the vertex of a small square in the drawing. \u03b8"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_27.jpg",
+          "correct": "C"
+        },
+        {
+          "number": 50,
+          "stem": "What will be the length, in feet, of the fence surrounding Harold\u2019s garden?",
+          "choices": {
+            "F": "26",
+            "G": "28",
+            "H": "52",
+            "J": "56",
+            "K": "60"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_27.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 51,
+          "stem": "What will be the area, in square feet, of Harold\u2019s garden?",
+          "choices": {
+            "A": "040",
+            "B": "064",
+            "C": "080",
+            "D": "128",
+            "E": "160"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_27.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 52,
+          "stem": "What is the measure of the angle labeled \u03b8 in the scale drawing of the garden? \u221211_6_2",
+          "choices": {
+            "F": "cos 8 \u221211_6_2",
+            "G": "sin 8 \u221211_6_2",
+            "H": "tan 8 \u221211_8_2",
+            "J": "tan 8 \u221211_8_2",
+            "K": "tan 6 27 ACT-E25 2 _\u221a__3\u2022_x\u2022_\u2022+_\u2022_4\u2022\u2022_ =1 DO"
+          },
+          "pageIndex": 27,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_27.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 53,
+          "stem": "What is the solution of the equation log ? 2 x\u22122",
+          "choices": {
+            "A": "0 _3_ B. 4",
+            "C": "2",
+            "D": "4",
+            "E": "7 = + = _1_,"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_28.jpg",
+          "correct": "D"
+        },
+        {
+          "number": 54,
+          "stem": "For the functions f(x) 4x 12 and g(x) what is x the set of real numbers xon which g_f(x)+is defined?",
+          "choices": {
+            "F": "All real numbers",
+            "G": "All real numbers except 3",
+            "H": "All real numbers except 0 \u2212_1_",
+            "J": "All real numbers except 3",
+            "K": "All real numbers except \u22123"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_28.jpg",
+          "correct": "K"
+        },
+        {
+          "number": 55,
+          "stem": "One alarm beeps 4seconds after it is activated and at the end of every 6 seconds after that. Another alarm beeps 29seconds after it is activated and at the end of every 30 seconds after that. The 2 alarms are activated at the same time and are left on for t minutes, where t is a whole number. What is the total number of times the 2 alarms beep in those tminutes?",
+          "choices": {
+            "A": "012t",
+            "B": "018t",
+            "C": "024t",
+            "D": "060t",
+            "E": "180t 3x4y <"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_28.jpg",
+          "correct": "A"
+        },
+        {
+          "number": 56,
+          "stem": "The inequality 0 is true for real numbers x and y. If it can be determined, which of the following inequalities mustbe true?",
+          "choices": {
+            "F": "x <0 >0",
+            "G": "x",
+            "H": "y <0 >0",
+            "J": "y",
+            "K": "Cannot be determined from the given information"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_28.jpg",
+          "correct": "H"
+        },
+        {
+          "number": 57,
+          "stem": "In the figure shown below, squ_a_re__ MNPT is inscribed in square A__B_CD. The length of DC is xinches, and the length of BN is yinches. In terms of x and y, which of the following expressions gives the area, in square inches, of MNPT?",
+          "choices": {
+            "A": "x2\u2212y2 x2+y2",
+            "B": "T",
+            "C": "xy \u2212y2 x2\u22122xy+0y2",
+            "D": "D P C",
+            "E": "x2\u22122xy+2y2 x in 28 ACT-E25 2 DO"
+          },
+          "pageIndex": 28,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_28.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 58,
+          "stem": "For all distinct nonzero values of x and y, which of the _x_ \u22121 _y_____ following expressions is equivalent to ? _1_ \u2212_1_ y x",
+          "choices": {
+            "F": "1",
+            "G": "x _1_ H. x _1_ J. y _x_2_\u2212__1_ K. x\u2212y < < < < ="
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_29.jpg",
+          "correct": "G"
+        },
+        {
+          "number": 59,
+          "stem": "For 0\u00b0 a\u00b0 90\u00b0 and 0 b 1, when cos,a\u00b0 b, which of the following expressions is equivalent to cos(2a\u00b0) ? (Note: cos,2\u03b8=(cos,\u03b8)2\u2212(sin,\u03b8)2) \u22121 A.",
+          "choices": {
+            "B": "0",
+            "C": "01",
+            "D": "0b2\u2212a2 2b2\u22121 E."
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_29.jpg",
+          "correct": "E"
+        },
+        {
+          "number": 60,
+          "stem": "In the figure shown below, each of the points labeled P through X is a point of tangency between 2 circles. nABC Each vertex of is the center of a circle. Each circle has a radius of r cm. Which of the following expressions represents the area, in square centimeters, of nABC? A 4r2\u221a\u20223 F. U P 6r2 G. V _8_r_2_\u221a__\u20223_ T Q",
+          "choices": {
+            "H": "X W 3 8r2 J.",
+            "C": "S R B 8r2\u221a\u20223 K. STOP! DO NOT TURN TH DO NOT RE www.actexam.net 29 ACT-E25"
+          },
+          "pageIndex": 29,
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/math/page_29.jpg",
+          "correct": "F"
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "name": "Reading",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "genre": "LITERARY NARRATIVE",
+          "title": "Passage i",
+          "source": "",
+          "text": "was another, done in gorgeous hues of blue and greys,\nin a mix of drawing and watercolor. There is a quiet\nLITERARY NARRATIVE: This passage is adapted from the simplicity in the illustrations and the story that reminds\nessay \u201cIntroduction\u201d by Charlotte Noruzi (\u00a92008 by Charlotte 45 me of the silence right after snowfall.\nNoruzi).\nAbout 12 years ago, my mother visited Iran and\nWhen my family first moved to the United States, brought back with her another set of children\u2019s books.\nmy father was still traveling back and forth to Iran These happened to be illustrated by an important figure\nbefore joining us permanently. After one trip, he from my childhood: Gholamali Maktabi, someone I\nbrought with him a small collection of Iranian chil- 50 hadn\u2019t thought of in years. I never until now got the\n5 dren\u2019s books. These books, along with numerous message of the giving of all these books, first by my\nothers, were created under the Kanoon Parvaresh Fekri father and again by my mother. I had tucked Maktabi\u2019s\nKoodakan va Nojavanan (Institute for the Intellectual wonderful books away in my memory all of these years\nDevelopment of Children and Adolescents). To me, its and not until the idea for this essay presented itself, did\niconic stylized rooster logo conveyed a positive and 55 I bring them out into the light. And he came out along\n10 bright outlook for the betterment of children. In 1961, with them.\nthe Kanoon was established to enhance the quality and\neducational standards of children\u2019s literature and Gholamali Maktabi was my father\u2019s dear and life-\nactivities. A large part of the program was devoted to long friend from their school days. He was a part of our\nthe publishing of high-quality, richly written and illus- family and we endearingly called him \u201cDhayee Mak-\n15 trated books for children and adolescents. 60 tabi,\u201d which means Uncle Maktabi in Farsi. I remember\na sense of warmth always surrounding that name. I\nI have six books from that era. They were loaded knew him first as the person behind the poignant,\nwith cultural and historical references and set apart sensitive photographs taken of us in Iran as we were\nfrom each other and from my American children\u2019s growing up. The images he recorded have served time\nbooks in their individual and unique styles of 65 and again as windows into my childhood, my personal-\n20 illustration. ity as a child, images that connect me with who I was.\nHis innate ability to capture with such simplicity and\nIn times where I felt the most disconnected, the affection the smile or frown of a child can also be seen\nmost doubtful of my identity, I would turn to these in his lifework as an illustrator of children\u2019s books.\nbooks, get lost in them, in the fantasy of them. They 70 Dhayee Maktabi would spend time drawing with my\nwere my one connection to the culture I left behind. In sister and me when we were children.\n25 them I found some remnant of my past life. I would\nopen a book and feel like I was \u201chome\u201d again. I see In October 2007, after more than 30 years, I called\nnow how the seeds to express my thoughts and ideas Dhayee Maktabi. No time, it felt, had gone by. \u201cI was\nthrough pictures were sown. Out of the endearing times drawn from a young age to painting,\u201d Maktabi remem-\nI spent with my little collection sprung the desire to 75 bers. \u201cThis interest ultimately led to my desire to\n30 illustrate books, to use calligraphy and hand-written become an illustrator and slowly began to replace\ntext. This was my introduction to art and words living painting for me\u2014though to this day I still have a spe-\ntogether and there\u2019s a little from each book in some cial love for drawing and painting. I\u2019ve spent about\naspect of my work, my own children\u2019s book. forty years illustrating children\u2019s and adolescents\u2019\n80 books and I expect that I will continue to do this for the\nMy favorite of the collection is called Marmoolak foreseeable future. The thing that has always attracted\n35 Koochak Otagheh Man (My Room\u2019s Little Lizard) by me to illustrating for children and adolescents is the\nFarshid Mesqali. Its surrealistic watercolors draw you world that they inhabit, one which is full of mysteries\ninto the realm of dreams. The hand lettering of the and secrets.\u201d\nbook\u2019s title and the deep black, blues, greens and pur-\nples that bleed softly into one another, making up the 85 Indeed, I believe that those photographic portraits\n40 body of the lizard, were so beguiling to me. They still of my family done long ago also served this purpose.\nare. I see the influence in my own work. Baba Barfi\n30 GO ON TO THE NEXT PAGE.\nACT-E25",
+          "questions": [
+            {
+              "number": 1,
+              "stem": "The author of the passage can best be described as a children\u2019s book author and illustrator who is:",
+              "choices": {
+                "A": "remembering the day she first read a children\u2019s book from Iran.",
+                "B": "considering the influences on her artistic interests and work.",
+                "C": "explaining the goals of the Kanoon Parvaresh Fekri Koodakan va Nojavanan.",
+                "D": "analyzing the loss of her cultural identity."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 2,
+              "stem": "Which of the following events in the passage occurred first chronologically?",
+              "choices": {
+                "F": "Noruzi moves to the United States.",
+                "G": "Maktabi photographs Noruzi.",
+                "H": "Maktabi and Noruzi speak on the phone.",
+                "J": "Noruzi receives books by Maktabi."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 3,
+              "stem": "In the passage, the label \u201cthe collection\u201d (line 34) most nearly refers to the:",
+              "choices": {
+                "A": "six books that Noruzi owns that are from the early years of the Kanoon.",
+                "B": "books by Maktabi that Noruzi owns.",
+                "C": "books that Noruzi herself has illustrated.",
+                "D": "entire group of books that have been created under the Kanoon."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 4,
+              "stem": "As presented in the passage, is Noruzi\u2019s statement in lines 10\u201313 best described as a fact or an opinion?",
+              "choices": {
+                "F": "A fact; it directly states the purpose behind the establishment of the Kanoon.",
+                "G": "A fact; it makes clear that Noruzi is an expert on the history of the Kanoon.",
+                "H": "An opinion; it presents Noruzi\u2019s view on whether the Kanoon met its educational goals.",
+                "J": "An opinion; it states that the books published by the Kanoon were richly written."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 5,
+              "stem": "The main purpose of the fourth paragraph (lines 34\u201345) is for Noruzi to:",
+              "choices": {
+                "A": "contrast the prose styles of the books Marmoolak Koochak Otagheh Man and Baba Barfi.",
+                "B": "describe several specific ways the book Baba Barfi has influenced her work as an illustrator.",
+                "C": "describe what is moving and inspiring to her about two of her favorite children\u2019s books from Iran.",
+                "D": "explain, using two examples, why most children\u2019s books from Iran are painted in dark hues. 3 ACT-E25"
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 6,
+              "stem": "As it is used in line 63, the word sensitive most nearly means:",
+              "choices": {
+                "F": "pliant.",
+                "G": "touchy.",
+                "H": "evasive.",
+                "J": "perceptive."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 7,
+              "stem": "In the passage, Maktabi describes his professional work as primarily that of:",
+              "choices": {
+                "A": "a painter.",
+                "B": "a photographer.",
+                "C": "an illustrator.",
+                "D": "a writer."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 8,
+              "stem": "Noruzi indicates that each of the six books mentioned in the second paragraph (lines 16\u201320) features a:",
+              "choices": {
+                "F": "similar style of illustration.",
+                "G": "similar style of storytelling.",
+                "H": "unique style of storytelling.",
+                "J": "unique style of illustration."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 9,
+              "stem": "The passage most strongly suggests that Noruzi\u2019s own children\u2019s book includes:",
+              "choices": {
+                "A": "calligraphy.",
+                "B": "pop-up images.",
+                "C": "poems by other artists.",
+                "D": "objects glued to the pages to create texture."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 10,
+              "stem": "In a section of the essay not included here, Noruzi explains: Little did I know that those little sessions [drawing with Maktabi] would awaken a desire for art and expression. I made the important connection between my love of chil- dren\u2019s books and the time spent with Dhayee Maktabi as a child. How does this statement expand on information pro- vided in the passage?",
+              "choices": {
+                "F": "It further explains the elements of Maktabi\u2019s chil- dren\u2019s books that Noruzi found most inspiring.",
+                "G": "It provides further details about how spending time with Maktabi inspired Noruzi to create art.",
+                "H": "It suggests the feelings Maktabi had about his time spent drawing with Noruzi and her sister.",
+                "J": "It outlines the idea Noruzi had for what came to be her first project as a children\u2019s book illustrator. 1 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "genre": "SOCIAL SCIENCE",
+          "title": "Passage II",
+          "source": "",
+          "text": "Orleaneans not only could no longer access the river;\n55 they could no longer even see it.\nSOCIAL SCIENCE: This passage is adapted from the book\nDown on the Batture by Oliver A. Houck (\u00a92010 by University Enter Robert Livingston, Edward\u2019s brother, with\nPress of Mississippi). an even more impressive list of accomplishments and a\nyet bigger coup in mind. He and Robert Fulton, who\nThe Mississippi River batture is unique. Here we had either invented the steamboat or made a quick copy\nhave a place that is neither water nor land; it is both. It 60 of someone else\u2019s, depending on your source, tendered\ndepends on the time of year. Spanish and French tradi- an offer to New Orleans that it could not refuse, a\ntions going back to the time of Rome recognized public monopoly on the Mississippi River.\n5 rights to public things. The civil code declared that\nrivers and their banks were public, which would have Fulton\u2019s steamboat had one huge advantage for the\nclosed the matter. But in the late 1700s along came future of the city; it could go upriver. The early flat-\nEdward Livingston, a New Yorker with an American 65 boats didn\u2019t even try. Fulton\u2019s new boat could get back\nnotion of private property, a keen legal mind, a nose for up in a week, although he had not exactly done it yet.\n10 money, and an ambition as big as the Ritz. The Fulton-Livingston team proposed a deal. They\nwould deliver steamboat commerce to New Orleans, if\nLivingston\u2019s accomplishments in the courthouse the city would grant them all rights to the river trade.\nand the legislature remain monuments today, but the 70 They would own the river.\ncase that made him famous was about dirt on the banks\nof the Mississippi at a prime location in downtown New Enter another challenger. Henry Shreve came from\n15 Orleans. Livingston and his client who claimed the dirt the Red River in northwestern Louisiana and saw\nstood to make a fortune. Indeed, Livingston declined a Livingston\u2019s monopoly as a threat to the future of his\nfee in the case. Instead, if he won he would get a piece region. He built his own steamship, sailed it down to\nof the victory, the most valuable real estate in New 75 New Orleans, loaded it with goods, and sailed back\nOrleans. home again to a hero\u2019s welcome. People did that sort of\nthing back then. Fulton had only talked about going\n20 The American notion of property was not popular back upriver. Now Shreve had actually done it, and with\nin New Orleans, whose people were accustomed to merchandise on board. More threatening, Shreve tried it\nusing the banks of rivers to beach their boats, prome- 80 again. Livingston had to make his move, and so, as the\nnade, fish, swim, rake mussels, and even take fill for second Shreve boat was ready to leave New Orleans\ntheir front yards. By precedent rising from centuries, with its cargo, he had the captain and the boat arrested.\n25 the Mississippi batture was common ground. In a city The public sided against the Livingstons, as it had on\noppressed by heat, the batture was also treasured the batture cases earlier, causing a small riot. Shreve\nground, the place where everyone in society from 85 was released the next day. A few months later a local\ncotton brokers to boat hands could enjoy the breeze, air judge dismissed the lawsuit. Edward Livingston might\npleasant to inhale, and the very sight of the river. When own a piece of the batture, but Robert would not own\n30 Livingston\u2019s client undertook to develop the batture he the river.\nwas claiming, a public mob arrived to interrupt his\nwork. Every day.\nLivingston\u2019s client made a frontal assault. He went\nout at low water, diked off the batture, and then arrested 11. In the third and fourth paragraphs (lines 20\u201346), the\n35 people coming to take the river sand in the old and author portrays the main conflict over the Mississippi\naccustomed way. The ensuing lawsuits rivaled the River batture as primarily between:\ntwists and turns of a Dickens novel. On one side was\nA. the government of New Orleans and that of the\nLivingston, claiming that private property was sacred in\nUnited States.\nAmerica. On the other was a who\u2019s who of wellborn\nB. a lawyer-client team and a large segment of the\n40 local names right on up to the president of the United\npublic, including the US president.\nStates. Thomas Jefferson considered the public charac-\nC. two social classes.\nter of the Mississippi to be a civic right and essential to\nD. two ambitious brothers.\nhis ambitions for settling the West. After Livingston\nwon his first case, Jefferson had U.S. marshals evict\n12. Which of the following events referred to in the pas-\n45 him from the batture anyway, at which point Livingston\nsage occurred first chronologically?\nsued the officer who evicted him. It got that bad.\nF. The Fulton-Livingston team proposed a deal to the\nWhen the dust settled, years later, Livingston city of New Orleans.\nemerged with his property deed, but he had ceded G. Edward Livingston sued the officer who evicted\nimportant claims to the city, including part of his real him from the batture.\n50 estate and development controls on the rest. Compro- H. Shreve sailed from New Orleans to northwestern\nmise that it was, the New Orleans batture would go Louisiana.\nfrom small wharves and open space to an impressive J. A local judge threw out Robert Livingston\u2019s case\naccumulation of mega-wharves and warehouses. New against Shreve.\nwww.crackab.com\n32 GO ON TO THE NEXT PAGE.\nACT-E25",
+          "questions": [
+            {
+              "number": 11,
+              "stem": "In the third and fourth paragraphs (lines 20\u201346), the author portrays the main conflict over the Mississippi River batture as primarily between:",
+              "choices": {
+                "A": "the government of New Orleans and that of the United States.",
+                "B": "a lawyer-client team and a large segment of the public, including the US president.",
+                "C": "two social classes.",
+                "D": "two ambitious brothers."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 12,
+              "stem": "Which of the following events referred to in the pas- sage occurred first chronologically?",
+              "choices": {
+                "F": "The Fulton-Livingston team proposed a deal to the city of New Orleans.",
+                "G": "Edward Livingston sued the officer who evicted him from the batture.",
+                "H": "Shreve sailed from New Orleans to northwestern Louisiana.",
+                "J": "A local judge threw out Robert Livingston\u2019s case against Shreve. 2 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 13,
+              "stem": "It can most reasonably be inferred that when the author mentions the \u201cAmerican notion of property\u201d (line 20), he is referring to the idea that:",
+              "choices": {
+                "A": "limits should be placed on how much property one person can own.",
+                "B": "the owner of public lands is the public, not the government.",
+                "C": "the owner of private property controls the use and purpose of that property.",
+                "D": "certain responsibilities to the public go along with owning property."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 14,
+              "stem": "It is reasonable to infer that the author sets the phrase \u201cevery day\u201d (line 32) apart from the preceding sen- tence to emphasize the:",
+              "choices": {
+                "F": "monotony of an endeavor.",
+                "G": "enormous opportunity on the river.",
+                "H": "determination of the public.",
+                "J": "enduring character of the river."
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 15,
+              "stem": "Which of the following statements about Shreve is best supported by the passage?",
+              "choices": {
+                "A": "He foiled Robert Livingston\u2019s plans to control commerce on the Mississippi River.",
+                "B": "He designed and built a flatboat that could carry cargo up the Mississippi River.",
+                "C": "He secured federal funding for the development of steamboat commerce on the Mississippi River.",
+                "D": "He sued the Livingston brothers for stealing his steamboat design."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 16,
+              "stem": "The author presents the drama in the last paragraph primarily as:",
+              "choices": {
+                "F": "a private citizen trying to respond to a public defeat.",
+                "G": "a ferocious competition with an outcome the public favored.",
+                "H": "an ongoing disagreement between a federal and a local judge.",
+                "J": "a bitter rivalry that drove two brothers apart. www.actexam.net 3 ACT-E25"
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 17,
+              "stem": "According to the passage, Edward Livingston\u2019s client reacted to the public mob by:",
+              "choices": {
+                "A": "diking off the area of the batture that he was claiming.",
+                "B": "using his influence to gain the media\u2019s support for his position.",
+                "C": "selling one part of the batture and purchasing another.",
+                "D": "increasing the rents on his waterfront properties in New Orleans."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 18,
+              "stem": "According to the passage, as a result of the Edward Livingston case, what replaced the small wharves on the New Orleans batture?",
+              "choices": {
+                "F": "Fishing docks and residential neighborhoods",
+                "G": "Protected open space and recreational facilities",
+                "H": "Steamboat-building facilities",
+                "J": "Mega-wharves and warehouses"
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 19,
+              "stem": "According to the passage, what deal did the Fulton- Livingston team propose to the city of New Orleans?",
+              "choices": {
+                "A": "They would provide steamboat service if the city would outlaw flatboats on the Mississippi River.",
+                "B": "They would build commercial wharves downtown in exchange for tax relief from the city.",
+                "C": "They would bring steamboat commerce to the city in exchange for all rights to the river trade.",
+                "D": "They would fund city development if the city would endorse their steamboat business."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 20,
+              "stem": "According to the passage, who achieved a heroic hometown status by establishing steamboat traffic to and from New Orleans?",
+              "choices": {
+                "F": "Robert Livingston",
+                "G": "Edward Livingston",
+                "H": "Thomas Jefferson",
+                "J": "Henry Shreve 3 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "genre": "HUMANITIES",
+          "title": "Passage III",
+          "source": "",
+          "text": "Passage B by Daniel J. Levitin\nHUMANITIES: PassageA is adapted from the article \u201cSearch- The music of many avant-garde composers\ning for Silence: John Cage\u2019s Art of Noise\u201d by Alex Ross (\u00a92010 stretches the bounds of what most of us think music is.\nby Cond\u00e9 Nast). PassageB is adapted from the book This Is Going beyond the use of melody and harmony, and even\nYour Brain on Music: The Science of a Human Obsession by 55 beyond the use of instruments, these composers use\nDaniel J. Levitin (\u00a92006 by Daniel J. Levitin). recordings of found objects in the world such as jack-\nhammers, trains, and waterfalls. They edit the record-\nPassage A by Alex Ross\nings, play with their pitch, and ultimately combine\nthem into an organized collage of sound with the same\nOn August 29, 1952, David Tudor walked onto the\n60 type of emotional trajectory\u2014the same tension and\nstage of the Maverick Concert Hall, near Woodstock,\nrelease\u2014as traditional music. Composers in this tradi-\nNew York, sat down at the piano, and, for four and a\ntion are like the painters who stepped outside the\nhalf minutes, made no sound. He was performing\nboundaries of representational and realistic art\u2014the\n5 \u201c4\u203233\u2033,\u201d a conceptual work by John Cage. It has been cubists, the Dadaists, many of the modern painters from\ncalled the \u201csilent piece,\u201d but its purpose is to make\n65 Picasso to Kandinsky.\npeople listen. \u201cThere\u2019s no such thing as silence,\u201d Cage\nsaid, recalling the premi\u00e8re. \u201cYou could hear the wind\nWhat do the music of Bach and John Cage funda-\nstirring outside during the first movement. During the\nmentally have in common? On the most basic level,\n10 second, raindrops began pattering the roof, and during what distinguishes Busta Rhymes\u2019s \u201cWhat\u2019s It Gonna\nthe third people themselves made all kinds of interest-\nBe?!\u201d or Beethoven\u2019s \u201cPath\u00e9tique\u201d Sonata from, say,\ning sounds as they talked or walked out.\u201d\n70 the collection of sounds you\u2019d hear standing in the\nmiddle of Times Square or those you\u2019d hear deep in a\nComposer and scholar Kyle Gann defines \u201c4\u203233\u2033\u201d\nrainforest? As the composer Edgard Var\u00e8se famously\nas \u201can act of framing, of enclosing environmental and\ndefined it, \u201cMusic is organized sound.\u201d\n15 unintended sounds in a moment of attention in order to\nopen the mind to the fact that all sounds are music.\u201d\nIt is helpful to examine what music is made of.\nThat last thought ruled Cage\u2019s life: he wanted to discard\n75 What are the fundamental building blocks of music?\ninherited structures, open doors to the exterior world,\nAnd how, when organized, do they give rise to music?\n\u201clet sounds be just sounds.\u201d Gann writes, \u201cIt begged for\nThe basic elements of any sound are loudness, pitch,\n20 a new approach to listening, perhaps even a new under- contour, duration (or rhythm), tempo, timbre, spatial\nstanding of music itself, a blurring of the conventional\nlocation, and reverberation. Our brains organize these\nboundaries between art and life.\u201d\n80 fundamental perceptual attributes into higher-level con-\ncepts\u2014just as a painter arranges lines into forms. When\nOn a simpler level, Cage had an itch to try new\nwe listen to music, we are actually perceiving multiple\nthings. What would happen if you sat at a piano and did\nattributes.\n25 nothing? If you chose among an array of musical possi-\nbilities by flipping a coin and consulting the I Ching? If\nEach attribute can be varied without altering the\nyou made music from junkyard percussion, squads of\n85 others. The difference between music and a random or\nradios, the scratching of pens, an amplified cactus?\ndisordered set of sounds has to do with the way these\nfundamental attributes combine, and the relations that\nMany people, of course, won\u2019t hear of it. Nearly\nform between them.\n30 six decades after the work came into the world, \u201c4\u203233\u2033\u201d\nis still dismissed as \u201cabsolutely ridiculous,\u201d \u201cstupid,\u201d\nand \u201ca gimmick.\u201d Such judgments are especially\ncommon within classical music where Cage, who died\nin 1992, remains an object of widespread scorn.\n35 Morton Feldman, another avant-garde musician,\nonce said, \u201cJohn Cage was the first composer in the his-\ntory of music who raised the question by implication\nthat maybe music could be an art form rather than a\nQuestions 21\u201324 ask about Passage A.\nmusical form.\u201d Feldman meant that, since the Middle\n40 Ages, even the most adventurous composers had\nlabored within a craftsmanlike tradition. Cage held that\n21. The author of PassageA most likely includes the anec-\nan artist can work as freely with sound as with paint: he\ndote in the first paragraph in order to:\nchanged what it meant to be a composer, and every kid\nmanipulating music on a laptop is in his debt. Not A. introduce Tudor as a musician who was one of\n45 everything he did was laudable, or even tolerable. Yet Cage\u2019s strongest supporters.\nthe work remains inescapable, mesmerizing, and often B. provide a sense of what a performance of \u201c4\u203233\u2033\u201d\nunexpectedly touching. It encompasses some of the might be like.\nmost violent sounds of the twentieth century, as well as C. assert Cage\u2019s importance to avant-garde music by\nsome of the most gently beguiling. It confronts us with describing a work he once performed.\n50 the elemental question of what music is, and confounds D. illustrate how popular Cage was at the time\nall easy answers. \u201c4\u203233\u2033\u201d premiered.\n34 GO ON TO THE NEXT PAGE.\nACT-E25",
+          "questions": [
+            {
+              "number": 21,
+              "stem": "The author of PassageA most likely includes the anec- dote in the first paragraph in order to:",
+              "choices": {
+                "A": "introduce Tudor as a musician who was one of Cage\u2019s strongest supporters.",
+                "B": "provide a sense of what a performance of \u201c4\u203233\u2033\u201d might be like.",
+                "C": "assert Cage\u2019s importance to avant-garde music by describing a work he once performed.",
+                "D": "illustrate how popular Cage was at the time \u201c4\u203233\u2033\u201d premiered. 4 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 22,
+              "stem": "As it relates to Gann\u2019s definition of framing (lines 14\u201316) can best be understood to mean that:",
+              "choices": {
+                "F": "the piece treats as music any sounds that occur within the set period of time that is the work\u2019s length.",
+                "G": "the piece is meant to be played only within small, enclosed spaces.",
+                "H": "a piano playing at the beginning and end of the piece provides a frame for other sounds occurring in the middle of the piece.",
+                "J": "the piano mimics any natural sounds that may typ- ically occur in the four and a half minutes it takes to play the piece."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 23,
+              "stem": "As it is used in line 31, the word dismissedmost nearly means:",
+              "choices": {
+                "A": "released.",
+                "B": "sent away.",
+                "C": "let go.",
+                "D": "rejected."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 24,
+              "stem": "Based on PassageA, which of the following statements best expresses how the author feels about Cage?",
+              "choices": {
+                "F": "He believes Cage had some interesting ideas but did not try hard enough to reach a wide audience.",
+                "G": "He tolerates Cage\u2019s experiments but is not particu- larly moved by them.",
+                "H": "He enjoys \u201c4\u203233\u2033\u201d but feels most of Cage\u2019s other work was too gimmicky.",
+                "J": "He admires Cage\u2019s work but acknowledges that it can be difficult to appreciate. Questions 25\u201327 ask about Passage B."
+              },
+              "correct": "J",
+              "lineRef": null
+            },
+            {
+              "number": 25,
+              "stem": "Passage B is best described as:",
+              "choices": {
+                "A": "an argument for popular composers to take more risks when writing music.",
+                "B": "an outline of one theory about what determines musical preferences.",
+                "C": "a brief overview of what distinguishes music from sound.",
+                "D": "an in-depth analysis of the work of several famous avant-garde composers."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 26,
+              "stem": "The main idea of the first paragraph of Passage B (lines 52\u201365) is that:",
+              "choices": {
+                "F": "many avant-garde composers step outside estab- lished musical traditions to make music.",
+                "G": "most avant-garde musicians approach composition the same way modern painters do.",
+                "H": "objects like jackhammers are often used instead of traditional instruments in avant-garde music.",
+                "J": "avant-garde music follows an emotional trajectory unlike that of traditional music. 3 ACT-E25"
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 27,
+              "stem": "Based on PassageB, the found objects used by avant- garde composers can most nearly be defined as:",
+              "choices": {
+                "A": "secondhand orchestral instruments.",
+                "B": "instruments that were once popular but have gone out of style.",
+                "C": "discarded scrap materials that can be used to build instruments.",
+                "D": "anything that can make sound but is not a standard musical instrument. Questions 28\u201330 ask about both passages. \u201c4\u203233\u2033\u201d"
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 28,
+              "stem": "Based on the passages, Cage\u2019s primarily dif- fers from the compositions described in lines 54\u201361 of \u201c4\u203233\u2033\u201d: Passage B in that",
+              "choices": {
+                "F": "is mainly concerned with the absence of organized sound, while the other compositions have been manipulated into organized sound.",
+                "G": "features a piano as the only sound, while the other compositions feature varied and more unusual instruments.",
+                "H": "is much shorter than the other compositions, which can go on for hours.",
+                "J": "was only performed once, whereas the other com- positions have been performed more often."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 29,
+              "stem": "In PassageA, Gann is quoted as claiming, in part, that \u201call sounds are music\u201d (line 16). Is this assertion sup- ported by the definition of music put forth in lines 85\u201388 of Passage B?",
+              "choices": {
+                "A": "Yes, because Passage B develops the idea that avant-garde musicians use unconventional instru- ments to make music.",
+                "B": "Yes, because Passage B illustrates how avant- garde music follows the same emotional trajectory as traditional music.",
+                "C": "No, because Passage B mentions Cage only in passing and does not elaborate on his idea that any sound can be music.",
+                "D": "No, because PassageB states that random sounds have to combine to form relationships before they can be considered music."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 30,
+              "stem": "Based on the passages, what is one similarity that the composers mentioned in the first paragraph of Passage B (lines 52\u201365) share with Cage as he is described in Passage A?",
+              "choices": {
+                "F": "The composers often debut material at the Maver- \u201c4\u203233\u2033.\u201d ick Concert Hall where Cage debuted",
+                "G": "The composers build most of their music around loudness, pitch, and tempo, which is what Cage did.",
+                "H": "The composers experiment with unconventional objects to make music, just as Cage sometimes did.",
+                "J": "The composers often compose \u201csilent\u201d pieces like \u201c4\u203233\u2033.\u201d Cage\u2019s 5 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "H",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "genre": "NATURAL SCIENCE",
+          "title": "Passage IV",
+          "source": "",
+          "text": "55 modern-day humans for signs of natural selection that\nhas happened in the past.\nNATURAL SCIENCE:This passage is adapted from the article\n\u201cHow We Are Evolving\u201d by Jonathan K. Pritchard (\u00a92010 by One such tactic is to comb DNA data from many\nScientific American, a division of Nature America, Inc.). different people for stretches that show few differences\nin SNP alleles within a population. The spread of\nA few years ago it was extremely difficult for sci- 60 selected alleles by natural selection can leave distinc-\nentists to trace our species\u2019 genetic responses to our tive patterns in the SNP data: if an existing allele sud-\nenvironment; the needed tools just did not exist. All denly proves particularly helpful when a population\nthat changed with the completion of the human genome finds itself in new circumstances, that allele can reach\n5 sequence and the subsequent cataloguing of genetic high frequency (while remaining rare in other\nvariation. To understand exactly what we did, it helps to 65 populations).\nknow a bit about how DNA is structured and how small\nchanges can affect its function. The human genome Over the past few years multiple studies have iden-\nsequence consists of about three billion pairs of DNA tified several hundred genome signals of apparent nat-\n10 nucleotides, or \u201cletters,\u201d that serve as an instruction ural selection that occurred within the past 60,000 years\nmanual for how to assemble a human. The manual or so. In a few of these cases, scientists have a pretty\nis now known to contain a parts list of about 70 good grasp on the selective pressures and the adaptive\n20,000 genes\u2014strings of DNA letters that spell out the benefit of the favored allele. For example, among dairy-\ninformation required to build proteins. (Proteins, which farming populations in Europe, the Middle East and\n15 include enzymes, do much of the work in cells.) About East Africa, the region of the genome that houses the\n2 percent of the human genome encodes proteins, and a gene for the lactase enzyme that digests lactose (the\nroughly similar amount seems to be involved in gene 75 sugar in milk) shows clear signs of having been\nregulation. Most of the rest of the genome has no the target of strong selection. In most populations,\nknown role. babies are born with the ability to digest lactose, but the\nlactase gene turns off after weaning, leaving people\n20 Overall the genomes of any two people are unable to digest lactose as adults. Writing in the Ameri-\nextremely similar, differing in only about one out of 80 can Journal of Human Genetics in 2004, a team at the\nevery 1,000 nucleotide pairs. Sites where one Massachusetts Institute of Technology estimated that\nnucleotide pair substitutes for another are referred to as variants of the lactase gene that remain active into\nsingle-nucleotide polymorphisms, or SNPs (pronounced adulthood achieved high frequency in European dairy-\n25 \u201csnips\u201d), and the alternative versions of the DNA at farming groups in just 5,000 to 10,000 years. In 2006 a\neach SNP are called alleles. Because most of the 85 group led by Sarah Tishkoff, who is now at the Univer-\ngenome does not encode proteins or regulate genes, sity of Pennsylvania, reported in Nature Genetics that\nmost SNPs probably have no measurable effect on the they had found rapid evolution of the lactase gene in\nindividual. But if a SNP occurs in a region of the East African dairy-farming populations. These changes\n30 genome that does have a coding or regulating function, were surely an adaptive response to a new subsistence\nit may affect the structure or function of a protein or 90 practice.\nwhere and how much of the protein is made. In this\nway, SNPs can conceivably modify almost any trait, be\nit height, eye color, ability to digest milk, or suscepti-\n35 bility to diseases.\nWhen natural selection strongly favors a particular\nallele, it becomes more common in the population with 31. The main purpose of the passage is to:\neach generation, while the disfavored allele becomes\nA. explain the numerous steps involved in mapping\nless common. Eventually, if the environment remains\nthe human genome sequence.\n40 stable, the beneficial allele will spread until everyone in\nB. discuss the evolutionary process of genetic traits\nthe population carries it, at which point it has become\nspreading across populations.\nfixed in that group. This process typically takes many\nC. summarize researchers\u2019 skeptical response to the\ngenerations. In theory, a helpful allele could become\nconclusions drawn by the human genome project.\nfixed in as little as a few hundred years if it conferred\nD. compare two prominent methods of combing\n45 an extraordinarily large advantage. Conversely, a less\nhuman DNA data for evidence of genetic\nadvantageous allele could take many thousands of years\nevolution.\nto spread.\n32. Based on the passage, if a SNP occurred in a part of\nIt would be great if in our efforts to understand\nthe genome that does not encode protein or regulate\nrecent human evolution, we could obtain DNA samples\ngenes, the SNP would most likely:\n50 from ancient remains and actually track the changes of\nfavored alleles over time. But DNA usually degrades F. affect the structure or function of a nearby protein.\nquickly in ancient samples, thereby hindering this G. influence how much protein is made.\napproach. Research groups around the world have H. modify the ability of an individual to digest milk.\ndeveloped methods of examining genetic variation in J. have no measurable effect on an individual.\n36 GO ON TO THE NEXT PAGE.\nACT-E25",
+          "questions": [
+            {
+              "number": 31,
+              "stem": "The main purpose of the passage is to:",
+              "choices": {
+                "A": "explain the numerous steps involved in mapping the human genome sequence.",
+                "B": "discuss the evolutionary process of genetic traits spreading across populations.",
+                "C": "summarize researchers\u2019 skeptical response to the conclusions drawn by the human genome project.",
+                "D": "compare two prominent methods of combing human DNA data for evidence of genetic evolution."
+              },
+              "correct": "B",
+              "lineRef": null
+            },
+            {
+              "number": 32,
+              "stem": "Based on the passage, if a SNP occurred in a part of the genome that does not encode protein or regulate genes, the SNP would most likely:",
+              "choices": {
+                "F": "affect the structure or function of a nearby protein.",
+                "G": "influence how much protein is made.",
+                "H": "modify the ability of an individual to digest milk.",
+                "J": "have no measurable effect on an individual. 6 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J",
+              "lineRef": null
+            }
+          ]
+        },
+        {
+          "id": "passage-i",
+          "genre": "",
+          "title": "Passage i",
+          "source": "",
+          "text": "3 3\n33. In the passage, height, eye color, and the ability to 37. The passage indicates that approximately what percent\ndigest milk are offered as examples of: of the human genome has no known role?\nA. the variety of traits that SNPs can modify. A. 002 percent\nB. a collection of traits caused by the same SNP in B. 004 percent\nthe human genome. C. 096 percent\nC. traits that SNPs could modify, but haven\u2019t. D. 100 percent\nD. traits caused by SNPs occurring in an unknown\nregion of the human genome.\n38. As it is used in line 42, the word fixed most nearly\nmeans:\n34. It can most reasonably be inferred from the passage\nthat when examining modern-day human DNA data for F. repaired.\nsigns of relatively recent natural selection, genetic G. established.\nresearchers: H. connected.\nJ. directed.\nF. look for distinctive patterns in SNP data.\nG. study data from primarily ancient DNA samples.\nH. expect to find that most SNPs have measurable 39. According to the passage, when natural selection\neffects on individuals. strongly favors a beneficial allele, the allele will\nJ. comb the DNA of relatively few people within a spread through a population until everyone carries it if:\npopulation.\nA. it is rare in other populations.\n35. The passage suggests that for European and East B. it does not alter the structure of a protein.\nC. the environment remains stable.\nAfrican dairy-farming populations, variants of the lac-\nD. the population is relatively large.\ntase gene:\nA. occurred in numerous SNPs in an individual\u2019s\ngenome. 40. Lines 42\u201347 primarily serve to illustrate the point that\nB. spread by a means other than natural selection. the:\nC. appeared prior to 60,000 years ago.\nF. amount of time needed for a beneficial allele to\nD. provided an adaptive benefit.\nspread depends on the degree of advantage the\nallele provides.\n36. The passage indicates that after the completion of the\nG. evolution of the modern human genome is rela-\nhuman genome sequence, scientists found it easier to:\ntively slow compared to that of the ancient human\nF. prevent the DNA in ancient samples from degrading. genome.\nG. spread a beneficial allele through a population. H. spread of beneficial alleles in ancient populations\nH. trace human genetic responses to the environment. will take scientists thousands of years to track.\nJ. prime the environment for the spread of a benefi- J. length of time needed for a trait to appear in a pop-\ncial allele. ulation is widely disputed among researchers.\nEND OF TEST 3\nSTOP! DO NOT TURN THE PAGE UNTIL TOLD TO DO SO.\nDO NOT RETURN TO A PREVIOUS TEST.\n37\nACT-E25",
+          "questions": [
+            {
+              "number": 33,
+              "stem": "In the passage, height, eye color, and the ability to digest milk are offered as examples of:",
+              "choices": {
+                "A": "the variety of traits that SNPs can modify.",
+                "B": "a collection of traits caused by the same SNP in the human genome.",
+                "C": "traits that SNPs could modify, but haven\u2019t.",
+                "D": "traits caused by SNPs occurring in an unknown region of the human genome."
+              },
+              "correct": "A",
+              "lineRef": null
+            },
+            {
+              "number": 34,
+              "stem": "It can most reasonably be inferred from the passage that when examining modern-day human DNA data for signs of relatively recent natural selection, genetic researchers:",
+              "choices": {
+                "F": "look for distinctive patterns in SNP data.",
+                "G": "study data from primarily ancient DNA samples.",
+                "H": "expect to find that most SNPs have measurable effects on individuals.",
+                "J": "comb the DNA of relatively few people within a population."
+              },
+              "correct": "F",
+              "lineRef": null
+            },
+            {
+              "number": 35,
+              "stem": "The passage suggests that for European and East African dairy-farming populations, variants of the lac- tase gene:",
+              "choices": {
+                "A": "occurred in numerous SNPs in an individual\u2019s genome.",
+                "B": "spread by a means other than natural selection.",
+                "C": "appeared prior to 60,000 years ago.",
+                "D": "provided an adaptive benefit."
+              },
+              "correct": "D",
+              "lineRef": null
+            },
+            {
+              "number": 36,
+              "stem": "The passage indicates that after the completion of the human genome sequence, scientists found it easier to:",
+              "choices": {
+                "F": "prevent the DNA in ancient samples from degrading.",
+                "G": "spread a beneficial allele through a population.",
+                "H": "trace human genetic responses to the environment.",
+                "J": "prime the environment for the spread of a benefi- cial allele. STOP! DO N 3 ACT-E25 3"
+              },
+              "correct": "H",
+              "lineRef": null
+            },
+            {
+              "number": 37,
+              "stem": "The passage indicates that approximately what percent of the human genome has no known role?",
+              "choices": {
+                "A": "002 percent",
+                "B": "004 percent",
+                "C": "096 percent",
+                "D": "100 percent"
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 38,
+              "stem": "As it is used in line 42, the word fixed most nearly means:",
+              "choices": {
+                "F": "repaired.",
+                "G": "established.",
+                "H": "connected.",
+                "J": "directed."
+              },
+              "correct": "G",
+              "lineRef": null
+            },
+            {
+              "number": 39,
+              "stem": "According to the passage, when natural selection strongly favors a beneficial allele, the allele will spread through a population until everyone carries it if:",
+              "choices": {
+                "A": "it is rare in other populations.",
+                "B": "it does not alter the structure of a protein.",
+                "C": "the environment remains stable.",
+                "D": "the population is relatively large."
+              },
+              "correct": "C",
+              "lineRef": null
+            },
+            {
+              "number": 40,
+              "stem": "Lines 42\u201347 primarily serve to illustrate the point that the:",
+              "choices": {
+                "F": "amount of time needed for a beneficial allele to spread depends on the degree of advantage the allele provides.",
+                "G": "evolution of the modern human genome is rela- tively slow compared to that of the ancient human genome.",
+                "H": "spread of beneficial alleles in ancient populations will take scientists thousands of years to track.",
+                "J": "length of time needed for a trait to appear in a pop- ulation is widely disputed among researchers. END OF TEST 3 NOT TURN THE PAGE UNTIL TOLD TO DO SO. DO NOT RETURN TO A PREVIOUS TEST. 7"
+              },
+              "correct": "F",
+              "lineRef": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "timeMinutes": 35,
+      "passages": [
+        {
+          "id": "passage-i",
+          "title": "Passage i",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_38.jpg",
+          "startPage": 38,
+          "questions": [
+            {
+              "number": 1,
+              "stem": "Which of the polyols listed in Table2 is least soluble in water at 40\u00b0C ?",
+              "choices": {
+                "A": "Xylitol",
+                "B": "Maltitol",
+                "C": "Erythritol",
+                "D": "Isomalt"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_38.jpg"
+            },
+            {
+              "number": 2,
+              "stem": "Based on Table 1, if the temperature of the erythritol solution had been recorded at 7 sec, it would most likely have been closest to which of the following?",
+              "choices": {
+                "F": "20.7\u00b0C",
+                "G": "21.8\u00b0C",
+                "H": "24.5\u00b0C",
+                "J": "28.3\u00b0C"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_38.jpg"
+            },
+            {
+              "number": 3,
+              "stem": "Tagatose is a polyol that has a solubility of 58% by mass in water at 20\u00b0C. Based on Table2, the relative sweetness of tagatose is most similar to the relative sweetness of:",
+              "choices": {
+                "A": "xylitol.",
+                "B": "maltitol.",
+                "C": "erythritol.",
+                "D": "isomalt. 3 4"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_38.jpg"
+            },
+            {
+              "number": 4,
+              "stem": "Based on Tables 1 and 2, the polyol in the solution that had the smallest temperature change over the 6 sec period has a relative sweetness of:",
+              "choices": {
+                "F": "0.40.",
+                "G": "0.70.",
+                "H": "0.90.",
+                "J": "0.95."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_38.jpg"
+            },
+            {
+              "number": 5,
+              "stem": "Based on Table 2, it is NOT possible to dissolve enough xylitol in water to form a solution of 60% xyli- tol by mass if the water is kept at which of the follow- ing temperatures?",
+              "choices": {
+                "A": "10\u00b0C",
+                "B": "20\u00b0C",
+                "C": "40\u00b0C",
+                "D": "60\u00b0C"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_38.jpg"
+            },
+            {
+              "number": 6,
+              "stem": "The dissolving of a polyol in water requires energy. Based on Table1, the dissolving of which polyol over the 6 sec period required the most energy?",
+              "choices": {
+                "F": "Xylitol; the temperature change was less for xyli- tol than for any of the other polyols.",
+                "G": "Xylitol; the temperature change was greater for xylitol than for any of the other polyols.",
+                "H": "Isomalt; the temperature change was less for iso- malt than for any of the other polyols.",
+                "J": "Isomalt; the temperature change was greater for isomalt than for any of the other polyols. 9 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_38.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-ii",
+          "title": "Passage II",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_40.jpg",
+          "startPage": 40,
+          "questions": [
+            {
+              "number": 7,
+              "stem": "According to Figure 1, when the 13-lined ground squirrel was NOT hibernating, its average body tem- perature was approximately:",
+              "choices": {
+                "A": "00\u00b0C.",
+                "B": "05\u00b0C.",
+                "C": "25\u00b0C.",
+                "D": "40\u00b0C."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_40.jpg"
+            },
+            {
+              "number": 8,
+              "stem": "According to Figure1, of the following months, during which one did the 13-lined ground squirrel spend the most time in periods of torpor?",
+              "choices": {
+                "F": "August",
+                "G": "September",
+                "H": "February",
+                "J": "April"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_40.jpg"
+            },
+            {
+              "number": 9,
+              "stem": "Which of the following statements about hibernation and total blood cholesterol is best supported by Figure 2 ? On average, the 13-lined ground squirrels\u2019 total blood cholesterol was:",
+              "choices": {
+                "A": "above 300 mg/dL when the squirrels were hiber- nating and below 300 mg/dL when the squirrels were not hibernating.",
+                "B": "below 300 mg/dL when the squirrels were hiber- nating and above 300 mg/dL when the squirrels were not hibernating.",
+                "C": "above 500 mg/dL when the squirrels were hiber- nating and below 500 mg/dL when the squirrels were not hibernating.",
+                "D": "below 500 mg/dL when the squirrels were hiber- nating and above 500 mg/dL when the squirrels were not hibernating. 4 4"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_40.jpg"
+            },
+            {
+              "number": 10,
+              "stem": "Do 13-lined ground squirrels more likely consume O 2 at a greater rate during periods of torpor or during active bouts?",
+              "choices": {
+                "F": "Periods of torpor; the rate of metabolism is higher during periods of torpor than during active bouts.",
+                "G": "Periods of torpor; the rate of metabolism is lower during periods of torpor than during active bouts.",
+                "H": "Active bouts; the rate of metabolism is higher during active bouts than during periods of torpor.",
+                "J": "Active bouts; the rate of metabolism is lower during active bouts than during periods of torpor."
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_40.jpg"
+            },
+            {
+              "number": 11,
+              "stem": "Based on Figure1, approximately what percent of the 12 months did the 13-lined ground squirrel spend in hibernation?",
+              "choices": {
+                "A": "15%",
+                "B": "35%",
+                "C": "55%",
+                "D": "75%"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_40.jpg"
+            },
+            {
+              "number": 12,
+              "stem": "Consider the blood samples having an average total cholesterol of 420 mg/dL, as shown in Figure2. Based on Figure1, were those blood samples collected when the 13-lined ground squirrels were hibernating?",
+              "choices": {
+                "F": "Yes; the samples were collected while the squirrels were in an active bout during hibernation.",
+                "G": "Yes; the samples were collected while the squirrels were in a period of torpor during hibernation.",
+                "H": "No; the samples were collected while the squirrels were in an active bout, which does not occur during hibernation.",
+                "J": "No; the samples were collected while the squirrels were in a period of torpor, which does not occur during hibernation. 1 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_40.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iii",
+          "title": "Passage III",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_42.jpg",
+          "startPage": 42,
+          "questions": [
+            {
+              "number": 13,
+              "stem": "According to the results of the study, in either area of jack pine trees, CH was consumed at the greatest rate 4 over the month that ended on:",
+              "choices": {
+                "A": "June 15.",
+                "B": "July 15.",
+                "C": "August 15.",
+                "D": "September 15. 2 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_42.jpg"
+            },
+            {
+              "number": 14,
+              "stem": "Over which 2 months was there a net production of CH in both areas of black spruce trees? 4",
+              "choices": {
+                "F": "The month ending on June 15 and the month ending on July 15",
+                "G": "The month ending on June 15 and the month ending on August 15",
+                "H": "The month ending on July 15 and the month ending on September 15",
+                "J": "The month ending on August 15 and the month ending on September 15"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_42.jpg"
+            },
+            {
+              "number": 15,
+              "stem": "Consider the results for the 2 areas of black spruce trees. Over the months that both areas had a net pro- duction of CH , which area had the greater average 4 rate of production; and over the months that both areas had a net consumption of CH , which area had the 4 greater average rate of consumption? greater production greater consumption",
+              "choices": {
+                "A": "healthy healthy",
+                "B": "healthy burned",
+                "C": "burned healthy",
+                "D": "burned burned"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_42.jpg"
+            },
+            {
+              "number": 16,
+              "stem": "In the area of healthy jack pine trees, from June15 to July 15, was there a net production of CH or a net 4 consumption of CH , and what was the average rate? 4 net production or consumption average rate",
+              "choices": {
+                "F": "production \u22120.8 mg/m2/day mg/m2/day",
+                "G": "production 00.4",
+                "H": "consumption \u22120.8 mg/m2/day mg/m2/day",
+                "J": "consumption 00.4 4 4"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_42.jpg"
+            },
+            {
+              "number": 17,
+              "stem": "Consider the unit of measurement in Figure 2 for the average rate of CH production or consumption. What 4 quantity is represented by \u201cmg,\u201d and what quantity is represented by \u201cm2\u201d ? m2 mg",
+              "choices": {
+                "A": "mass of CH area of soil 4",
+                "B": "mass of soil area of soil",
+                "C": "density of CH volume of cylinder 4",
+                "D": "density of air volume of cylinder"
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_42.jpg"
+            },
+            {
+              "number": 18,
+              "stem": "Temperature affects the production and consumption of CH by bacteria. What part or component of the exper- 4 imental apparatus was directly responsible for mini- mizing the daily temperature increase in the soil that was covered by a cylinder?",
+              "choices": {
+                "F": "The airtight seal",
+                "G": "The shiny foil",
+                "H": "The syringe",
+                "J": "The open end of the cylinder"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_42.jpg"
+            },
+            {
+              "number": 19,
+              "stem": "Let x represent the CH content of the gas inside a 4 cylinder on May 15, and let y represent the CH con- 4 tent of the gas inside the cylinder on June15. Based on Figure 2, in the area of burned jack pine trees, was x>yor x<y? was",
+              "choices": {
+                "A": "x>y, because there was a net production of CH 4 from May 15 to June 15 in that area.",
+                "B": "x>y, because there was a net consumption of CH 4 from May 15 to June 15 in that area.",
+                "C": "x<y, because there was a net production of CH 4 from May 15 to June 15 in that area.",
+                "D": "x<y, because there was a net consumption of CH 4 from May 15 to June 15 in that area. 3 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_42.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-iv",
+          "title": "Passage IV",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_44.jpg",
+          "startPage": 44,
+          "questions": [
+            {
+              "number": 20,
+              "stem": "According to the results of Experiment1, from acetate to acetate, as the number of C atoms in the R group increased, the value of k:",
+              "choices": {
+                "F": "increased only.",
+                "G": "decreased only.",
+                "H": "increased, then decreased.",
+                "J": "decreased, then increased. 14\u221216"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_44.jpg"
+            },
+            {
+              "number": 21,
+              "stem": "Trials were different from Trial 9 with respect to what experimental factor?",
+              "choices": {
+                "A": "Amount of catalyst",
+                "B": "Identity of R group",
+                "C": "Temperature",
+                "D": "Composition of solvent"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_44.jpg"
+            },
+            {
+              "number": 22,
+              "stem": "Which of the following pieces of laboratory equipment was most likely used in Step 1 of the experimental procedure?",
+              "choices": {
+                "F": "Electronic balance",
+                "G": "Thermometer",
+                "H": "Graduated cylinder",
+                "J": "Metric ruler"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_44.jpg"
+            },
+            {
+              "number": 23,
+              "stem": "Suppose that in Experiment 3 the acetate with the R group CH (CH ) had been hydrolyzed at 32\u00b0C. At 3 2 2 that temperature, the value of k would most likely have been: ___L____.",
+              "choices": {
+                "A": "less than 0.0202 mol\u00b7sec ___L____ ___L____.",
+                "B": "between 0.0202 and 0.0507 mol\u00b7sec mol\u00b7sec ___L____ ___L____.",
+                "C": "between 0.0507 and 0.0880 mol\u00b7sec mol\u00b7sec ___L____.",
+                "D": "greater than 0.0880 mol\u00b7sec 4 4"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_44.jpg"
+            },
+            {
+              "number": 24,
+              "stem": "In how many experiments, if any, was kan independent variable?",
+              "choices": {
+                "F": "0",
+                "G": "1",
+                "H": "2",
+                "J": "3"
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_44.jpg"
+            },
+            {
+              "number": 25,
+              "stem": "Can it be determined on the basis of Experiment 2 whether the rate constant depends on the temperature of the reaction solution?",
+              "choices": {
+                "A": "Yes, because in Experiment 2, the temperature of the reaction solution was varied.",
+                "B": "Yes, because in Experiment 2, the temperature of the reaction solution was held constant.",
+                "C": "No, because in Experiment 2, the temperature of the reaction solution was varied.",
+                "D": "No, because in Experiment 2, the temperature of the reaction solution was held constant."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_44.jpg"
+            },
+            {
+              "number": 26,
+              "stem": "The dielectric constant (\u03b5) of a substance is a measure of the polarity of the substance; the greater the value of \u03b5, the greater the polarity. If the \u03b5 of acetone is 21 and \u03b5 the of H O is 80, was the solvent used in Experi- 2 ment 1 less polar or more polar than the solvent used in Experiment 2 ?",
+              "choices": {
+                "F": "Less polar, because the solvent used in Experi- ment1 contained a higher percent of acetone than did the solvent in Experiment 2.",
+                "G": "Less polar, because the solvent used in Experi- ment1 contained a higher percent of H O than did 2 the solvent in Experiment 2.",
+                "H": "More polar, because the solvent used in Experi- ment1 contained a higher percent of acetone than did the solvent in Experiment 2.",
+                "J": "More polar, because the solvent used in Experi- ment1 contained a higher percent of H O than did 2 the solvent in Experiment 2. 5 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_44.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-v",
+          "title": "Passage V",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_46.jpg",
+          "startPage": 46,
+          "questions": [
+            {
+              "number": 27,
+              "stem": "Which of the following groups was most likely intended to serve as a control for the effect of Protein F on tadpole activity?",
+              "choices": {
+                "A": "Group 3",
+                "B": "Group 4",
+                "C": "Group 5",
+                "D": "Group 6"
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_46.jpg"
+            },
+            {
+              "number": 28,
+              "stem": "Suppose Experiment 2 had been continued for another 30 min. How many Group 7 tadpoles would most likely have been observed to be swimming at 180 min ?",
+              "choices": {
+                "F": "Fewer than 4",
+                "G": "Between 4 and 8",
+                "H": "Between 8 and 14",
+                "J": "More than 14"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_46.jpg"
+            },
+            {
+              "number": 29,
+              "stem": "Experiments 1 and 2 differed in which of the following ways?",
+              "choices": {
+                "A": "The number of tadpoles in each group was greater in Experiment 1 than in Experiment 2.",
+                "B": "The number of tadpoles in each group was greater in Experiment 2 than in Experiment 1.",
+                "C": "The groups of tadpoles were placed into equal vol- umes of water in Experiment1 but not in Experi- ment 2.",
+                "D": "The groups of tadpoles were placed into equal vol- umes of water in Experiment2 but not in Experi- ment 1."
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_46.jpg"
+            },
+            {
+              "number": 30,
+              "stem": "In Experiment 1, after a group was exposed to Pro- tein F for 2 hr, how was the group more likely removed from the water containing Protein F and placed into its new environment\u2014with a fine wire mesh basket or with a watertight plastic cup?",
+              "choices": {
+                "F": "A fine wire mesh basket, to maximize the amount of Protein F that would be transferred to the group\u2019s new environment",
+                "G": "A fine wire mesh basket, to minimize the amount of Protein F that would be transferred to the group\u2019s new environment",
+                "H": "A watertight plastic cup, to maximize the amount of Protein F that would be transferred to the group\u2019s new environment",
+                "J": "A watertight plastic cup, to minimize the amount of Protein F that would be transferred to the group\u2019s new environment 4 4"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_46.jpg"
+            },
+            {
+              "number": 31,
+              "stem": "The molecules of the substance secreted by the tad- poles are composed of what type of subunit?",
+              "choices": {
+                "A": "Amino acid",
+                "B": "Monosaccharide",
+                "C": "Fatty acid",
+                "D": "Nucleotide"
+              },
+              "correct": "B",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_46.jpg"
+            },
+            {
+              "number": 32,
+              "stem": "Consider the statement \u201cWhen the tadpoles were in the presence of Protein F, the activity of the tadpoles that were more hungry increased faster than did the activity of the tadpoles that were less hungry.\u201d Do the results of Experiment 2 support this statement?",
+              "choices": {
+                "F": "Yes; as the length of time that tadpoles were deprived of food increased, the rate of increase in the number of swimming tadpoles increased.",
+                "G": "Yes; as the length of time that tadpoles were deprived of food increased, the rate of increase in the number of swimming tadpoles decreased.",
+                "H": "No; as the length of time that tadpoles were deprived of food increased, the rate of increase in the number of swimming tadpoles increased.",
+                "J": "No; as the length of time that tadpoles were deprived of food increased, the rate of increase in the number of swimming tadpoles decreased."
+              },
+              "correct": "J",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_46.jpg"
+            },
+            {
+              "number": 33,
+              "stem": "Consider the statement \u201cThe activity of the tadpoles that had been exposed to 300 pM of Protein F increased faster than did the activity of the tadpoles that had been exposed to 100 pM of ProteinF.\u201d Do the results of Experiment 1 support this statement?",
+              "choices": {
+                "A": "Yes; the rate at which tadpole activity increased was greater for Group 1 than it was for Group 3.",
+                "B": "Yes; the rate at which tadpole activity increased was greater for Group 4 than it was for Group 2.",
+                "C": "No; the rate at which tadpole activity increased was greater for Group 3 than it was for Group 1.",
+                "D": "No; the rate at which tadpole activity increased was greater for Group 2 than it was for Group 4. 7 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "A",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_46.jpg"
+            }
+          ]
+        },
+        {
+          "id": "passage-vi",
+          "title": "Passage VI",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_48.jpg",
+          "startPage": 48,
+          "questions": [
+            {
+              "number": 30,
+              "stem": "",
+              "choices": {
+                "F": "= Functions",
+                "A": "= Algebra",
+                "G": "= Geometry S = Statistics & Probability IES = Integrating Essential Skills MDL = Modeling 51 Reporting Category* PHM Key N A F G S IES MDL"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_48.jpg"
+            },
+            {
+              "number": 34,
+              "stem": "Based on Student 3\u2019s predictions, when light enters the glass from the vacuum, which of the properties of light listed below increase(s) in value? I. f II. E III. v L",
+              "choices": {
+                "F": "I only",
+                "G": "III only",
+                "H": "I and II only",
+                "J": "I, II, and III 8 GO ON TO THE NEXT PAGE."
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_48.jpg"
+            },
+            {
+              "number": 35,
+              "stem": "Based on the information given, when light enters the glass, can light\u2019s fchange without its Echanging?",
+              "choices": {
+                "A": "Yes, because the value of hcan change.",
+                "B": "Yes, because the value of his constant.",
+                "C": "No, because the value of hcan change.",
+                "D": "No, because the value of his constant."
+              },
+              "correct": "D",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_48.jpg"
+            },
+            {
+              "number": 36,
+              "stem": "Which students imply that light\u2019s frequency before entering the glass is different from its frequency after leaving the glass?",
+              "choices": {
+                "F": "Students 1 and 2 only",
+                "G": "Students 1 and 3 only",
+                "H": "Students 2 and 3 only",
+                "J": "Students 1, 2, and 3"
+              },
+              "correct": "H",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_48.jpg"
+            },
+            {
+              "number": 37,
+              "stem": "Which of the students, if any, implies that the colli- sions between light and atoms of the glass cause no change in light\u2019s energy?",
+              "choices": {
+                "A": "Student 1 only",
+                "B": "Student 2 only",
+                "C": "Student 3 only",
+                "D": "None of the students S 4 4"
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_48.jpg"
+            },
+            {
+              "number": 38,
+              "stem": "Which of the students, if any, implies that the speed of light in the vacuum can have more than one value?",
+              "choices": {
+                "F": "Student 1 only",
+                "G": "Student 2 only",
+                "H": "Student 3 only",
+                "J": "None of the students"
+              },
+              "correct": "G",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_48.jpg"
+            },
+            {
+              "number": 39,
+              "stem": "Why does Student 2 maintain that if light enters the \u03bb glass and increases, the size of the increase must be limited? If the increase in \u03bbwere too great, the: \u00f7\u03bbwould",
+              "choices": {
+                "A": "quotient f decrease.",
+                "B": "quotient f \u00f7\u03bbwould increase. \u00d7\u03bbwould",
+                "C": "product f decrease.",
+                "D": "product f \u00d7\u03bbwould increase."
+              },
+              "correct": "C",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_48.jpg"
+            },
+            {
+              "number": 40,
+              "stem": "If each of Students 1 and 2 were to provide a value for the Eof light reentering the vacuum, would Student 1\u2019s value be greater than, less than, or equal to Student 2\u2019s value?",
+              "choices": {
+                "F": "Greater",
+                "G": "Less",
+                "H": "Equal",
+                "J": "Cannot be determined from the given information END OF TEST 4 STOP! DO NOT RETURN TO ANY OTHER TEST. 9"
+              },
+              "correct": "F",
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/E25/science/page_48.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scaleTable": {}
+}

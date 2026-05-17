@@ -10,7 +10,7 @@
         {
           "id": "eng-p1",
           "title": "Passage 1",
-          "imageSrc": "/tests/J08/english/page_2.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_2.jpg",
           "startPage": 2,
           "questions": [
             {
@@ -22,6 +22,8 @@
                 "C": "grew in the nineteenth,",
                 "D": "grew, in the nineteenth"
               },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_2.jpg",
               "correct": "B"
             },
             {
@@ -33,6 +35,8 @@
                 "H": "But there\u2019s a conceivable fix if communities would only just invest their monetary assets",
                 "J": "One surefire way to remedy the culverting mess is for communities to invest 2 GO ON TO THE NEXT PAGE."
               },
+              "pageIndex": 2,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_2.jpg",
               "correct": "F"
             },
             {
@@ -44,6 +48,8 @@
                 "C": "describes the process through which soil absorbs rainwater where it falls.",
                 "D": "explains the impact of rainwater on daylighting projects."
               },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_3.jpg",
               "correct": "A"
             },
             {
@@ -55,6 +61,8 @@
                 "H": "streams that",
                 "J": "streams g, d"
               },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_3.jpg",
               "correct": "J"
             },
             {
@@ -66,6 +74,8 @@
                 "C": "natural streambeds actually help clean the water that flows over them.",
                 "D": "accessible waterways provide habitats for fish and other wildlife. 3 GO ON TO THE NEXT PAGE."
               },
+              "pageIndex": 3,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_3.jpg",
               "correct": "B"
             },
             {
@@ -77,6 +87,8 @@
                 "H": "many citizens have lived and worked above their cities\u2019 streams.",
                 "J": "a downside of daylighting is the loss of some usable structures."
               },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_4.jpg",
               "correct": "J"
             },
             {
@@ -88,6 +100,8 @@
                 "C": "who may be effected.",
                 "D": "who may be affected."
               },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_4.jpg",
               "correct": "D"
             },
             {
@@ -99,6 +113,8 @@
                 "H": "enriches",
                 "J": "fortifies"
               },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_4.jpg",
               "correct": "H"
             },
             {
@@ -110,6 +126,8 @@
                 "C": "Daylighting offers more than a view of a water- way; it brings life back to the city center.",
                 "D": "Daylighting is doable when people work together, but it isn\u2019t easy. Question 10 asks about the preceding passage as a whole."
               },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_4.jpg",
               "correct": "C"
             },
             {
@@ -121,6 +139,8 @@
                 "H": "Point C in Paragraph 3.",
                 "J": "Point D in Paragraph 4. 4 GO ON TO THE NEXT PAGE."
               },
+              "pageIndex": 4,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_4.jpg",
               "correct": "H"
             },
             {
@@ -136,6 +156,8 @@
                 "H": "conceived e",
                 "J": "supposed"
               },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_5.jpg",
               "correct": "D"
             },
             {
@@ -147,6 +169,8 @@
                 "C": "seeking the phone with a structural configuration most suited to being flung afar.",
                 "D": "keeping their eyes peeled for the phone that might take to the skies with gusto."
               },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_5.jpg",
               "correct": "A"
             }
           ]
@@ -154,7 +178,7 @@
         {
           "id": "eng-p2",
           "title": "Passage 2",
-          "imageSrc": "/tests/J08/english/page_5.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_5.jpg",
           "startPage": 5,
           "questions": [
             {
@@ -166,6 +190,8 @@
                 "H": "festive, cordial",
                 "J": "tense, wary"
               },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_5.jpg",
               "correct": "H"
             },
             {
@@ -177,6 +203,8 @@
                 "C": "Besides,",
                 "D": "In fact, 5 GO ON TO THE NEXT PAGE."
               },
+              "pageIndex": 5,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_5.jpg",
               "correct": "D"
             },
             {
@@ -188,6 +216,8 @@
                 "H": "defines the minimum required length of the perfor- mances in this event.",
                 "J": "reveals why the woman chose to ride a unicycle before throwing her phone."
               },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_6.jpg",
               "correct": "G"
             },
             {
@@ -199,6 +229,8 @@
                 "C": "primarily",
                 "D": "Delete the underlined portion."
               },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_6.jpg",
               "correct": "A"
             },
             {
@@ -210,6 +242,8 @@
                 "H": "3, 1, 2",
                 "J": "3, 2, 1"
               },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_6.jpg",
               "correct": "H"
             },
             {
@@ -221,6 +255,8 @@
                 "C": "phones, they were talking",
                 "D": "phones instead talking"
               },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_6.jpg",
               "correct": "A"
             },
             {
@@ -232,6 +268,8 @@
                 "H": "At that moment, I started hoping that I could come again next year.",
                 "J": "I could still feel it in my pocket, but I ignored it\u2014mostly. 6 GO ON TO THE NEXT PAGE."
               },
+              "pageIndex": 6,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_6.jpg",
               "correct": "G"
             },
             {
@@ -243,6 +281,8 @@
                 "C": "art and",
                 "D": "art,"
               },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_7.jpg",
               "correct": "B"
             },
             {
@@ -254,6 +294,8 @@
                 "H": "a suggestion that Torres often finds inspiration for his art from a connection with friends and family.",
                 "J": "a description of Torres\u2019s upbringing and the cul- tural traditions that most influenced his artistry."
               },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_7.jpg",
               "correct": "F"
             },
             {
@@ -265,6 +307,8 @@
                 "C": "portraits in his signature",
                 "D": "portraits, in his signature"
               },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_7.jpg",
               "correct": "C"
             },
             {
@@ -276,6 +320,8 @@
                 "H": "precisely interlaced to",
                 "J": "artistically used to"
               },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_7.jpg",
               "correct": "H"
             },
             {
@@ -287,6 +333,8 @@
                 "C": "photographs, who drew",
                 "D": "photographs that drew 7 GO ON TO THE NEXT PAGE."
               },
+              "pageIndex": 7,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_7.jpg",
               "correct": "A"
             }
           ]
@@ -294,7 +342,7 @@
         {
           "id": "eng-p3",
           "title": "Passage 3",
-          "imageSrc": "/tests/J08/english/page_8.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_8.jpg",
           "startPage": 8,
           "questions": [
             {
@@ -306,6 +354,8 @@
                 "H": "Again,",
                 "J": "Then,"
               },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_8.jpg",
               "correct": "J"
             },
             {
@@ -317,6 +367,8 @@
                 "C": "paint, (mostly whites, grays, and blacks),",
                 "D": "paint\u2014mostly whites, grays, and blacks,"
               },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_8.jpg",
               "correct": "B"
             },
             {
@@ -328,6 +380,8 @@
                 "H": "and",
                 "J": "for )"
               },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_8.jpg",
               "correct": "H"
             },
             {
@@ -339,6 +393,8 @@
                 "C": "\u201cMost of the Cuban population is made up of farmers who plant and harvest their crops on the waning moon.\u201d",
                 "D": "\u201cI started to paint objects and people made out of natural elements, like feathers and basket weaving.\u201d 8 GO ON TO THE NEXT PAGE."
               },
+              "pageIndex": 8,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_8.jpg",
               "correct": "A"
             },
             {
@@ -350,6 +406,8 @@
                 "H": "No, because although it discusses major ideas that Torres has explored throughout his artistic career, it doesn\u2019t focus on particular artworks.",
                 "J": "No, because although it describes Torres\u2019s Sun Light portraits in detail, it fails to discuss thematic elements in the series."
               },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_9.jpg",
               "correct": "G"
             },
             {
@@ -361,6 +419,8 @@
                 "C": "challenge stereotypes and are helping",
                 "D": "challenges stereotypes and is helping"
               },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_9.jpg",
               "correct": "D"
             },
             {
@@ -372,6 +432,8 @@
                 "H": "hip hop\u2014dip hop is not simply rap songs, trans- lated into ASL but musical expression,",
                 "J": "hip hop, dip hop is not simply rap songs translated into ASL but\u2014musical expression"
               },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_9.jpg",
               "correct": "F"
             },
             {
@@ -383,6 +445,8 @@
                 "C": "compound",
                 "D": "integrate 9 GO ON TO THE NEXT PAGE."
               },
+              "pageIndex": 9,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_9.jpg",
               "correct": "D"
             },
             {
@@ -394,6 +458,8 @@
                 "H": "which only sign their raps, and them that",
                 "J": "who only sign their raps, and them which"
               },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_10.jpg",
               "correct": "F"
             },
             {
@@ -405,6 +471,8 @@
                 "C": "And dip hop is resonating.",
                 "D": "But each artist is unique."
               },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_10.jpg",
               "correct": "C"
             },
             {
@@ -416,6 +484,8 @@
                 "H": "embraces",
                 "J": "embrace"
               },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_10.jpg",
               "correct": "H"
             },
             {
@@ -427,6 +497,8 @@
                 "C": "thirty,",
                 "D": "thirty:"
               },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_10.jpg",
               "correct": "B"
             }
           ]
@@ -434,7 +506,7 @@
         {
           "id": "eng-p4",
           "title": "Passage 4",
-          "imageSrc": "/tests/J08/english/page_10.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_10.jpg",
           "startPage": 10,
           "questions": [
             {
@@ -446,6 +518,8 @@
                 "H": "member, Dionta White",
                 "J": "member Dionta White, 10 GO ON TO THE NEXT PAGE."
               },
+              "pageIndex": 10,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_10.jpg",
               "correct": "F"
             },
             {
@@ -457,6 +531,8 @@
                 "C": "revelatory; he\u2019s learning",
                 "D": "revelatory; to learn"
               },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_11.jpg",
               "correct": "C"
             },
             {
@@ -468,6 +544,8 @@
                 "H": "employees, having earned stipends, to",
                 "J": "employees have earned stipends to END OF TEST 1 DO NOT TURN THE PAGE UNTIL TOLD TO DO SO. 11"
               },
+              "pageIndex": 11,
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/english/page_11.jpg",
               "correct": "J"
             }
           ]
@@ -489,7 +567,7 @@
             "D": "289 \u2212_ 1 _1"
           },
           "pageIndex": 12,
-          "imageSrc": "/tests/J08/math/page_12.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_12.jpg",
           "correct": "D"
         },
         {
@@ -502,7 +580,7 @@
             "J": "128"
           },
           "pageIndex": 12,
-          "imageSrc": "/tests/J08/math/page_12.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_12.jpg",
           "correct": "H"
         },
         {
@@ -515,7 +593,7 @@
             "J": "5 out of 6 flips were heads. 12 ACT-J08 2 DO"
           },
           "pageIndex": 12,
-          "imageSrc": "/tests/J08/math/page_12.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_12.jpg",
           "correct": "J"
         },
         {
@@ -528,7 +606,7 @@
             "D": "14"
           },
           "pageIndex": 13,
-          "imageSrc": "/tests/J08/math/page_13.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_13.jpg",
           "correct": "B"
         },
         {
@@ -541,7 +619,7 @@
             "J": "side lengths."
           },
           "pageIndex": 13,
-          "imageSrc": "/tests/J08/math/page_13.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_13.jpg",
           "correct": "F"
         },
         {
@@ -554,7 +632,7 @@
             "J": "9 x \u2212 27x + 18"
           },
           "pageIndex": 13,
-          "imageSrc": "/tests/J08/math/page_13.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_13.jpg",
           "correct": "H"
         },
         {
@@ -567,7 +645,7 @@
             "D": "4,056"
           },
           "pageIndex": 13,
-          "imageSrc": "/tests/J08/math/page_13.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_13.jpg",
           "correct": "B"
         },
         {
@@ -581,7 +659,7 @@
             "J": "40 (20.10) + 14 (1 ) (20.10) 2 13 ACT-J08 2 DO"
           },
           "pageIndex": 13,
-          "imageSrc": "/tests/J08/math/page_13.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_13.jpg",
           "correct": "J"
         },
         {
@@ -594,7 +672,7 @@
             "D": "9i"
           },
           "pageIndex": 14,
-          "imageSrc": "/tests/J08/math/page_14.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_14.jpg",
           "correct": "C"
         },
         {
@@ -608,7 +686,7 @@
             "J": "Decrease the y -intercept by 12.5"
           },
           "pageIndex": 14,
-          "imageSrc": "/tests/J08/math/page_14.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_14.jpg",
           "correct": "H"
         },
         {
@@ -621,7 +699,7 @@
             "J": "671"
           },
           "pageIndex": 15,
-          "imageSrc": "/tests/J08/math/page_15.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_15.jpg",
           "correct": "F"
         },
         {
@@ -634,7 +712,7 @@
             "D": "[0, 860] time in minutes 10i + 2"
           },
           "pageIndex": 15,
-          "imageSrc": "/tests/J08/math/page_15.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_15.jpg",
           "correct": "A"
         },
         {
@@ -647,7 +725,7 @@
             "D": "11i 15 ACT-J08 2 DO"
           },
           "pageIndex": 15,
-          "imageSrc": "/tests/J08/math/page_15.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_15.jpg",
           "correct": "A"
         },
         {
@@ -660,7 +738,7 @@
             "D": "Period: 3 Amplitude: 4"
           },
           "pageIndex": 16,
-          "imageSrc": "/tests/J08/math/page_16.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_16.jpg",
           "correct": "A"
         },
         {
@@ -673,7 +751,7 @@
             "J": "+ h h 16 ACT-J08 2 nRST DO"
           },
           "pageIndex": 16,
-          "imageSrc": "/tests/J08/math/page_16.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_16.jpg",
           "correct": "G"
         },
         {
@@ -686,7 +764,7 @@
             "D": "The measure of \u2220T is the greatest. \u22121"
           },
           "pageIndex": 17,
-          "imageSrc": "/tests/J08/math/page_17.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_17.jpg",
           "correct": "A"
         },
         {
@@ -703,7 +781,7 @@
             "J": "(16,\u221220) 17 ACT-J08 2 DO"
           },
           "pageIndex": 17,
-          "imageSrc": "/tests/J08/math/page_17.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_17.jpg",
           "correct": "C"
         },
         {
@@ -716,7 +794,7 @@
             "D": "$80.00"
           },
           "pageIndex": 18,
-          "imageSrc": "/tests/J08/math/page_18.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_18.jpg",
           "correct": "A"
         },
         {
@@ -730,7 +808,7 @@
             "J": "30%"
           },
           "pageIndex": 18,
-          "imageSrc": "/tests/J08/math/page_18.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_18.jpg",
           "correct": "F"
         },
         {
@@ -743,7 +821,7 @@
             "D": "7 18 ACT-J08 2 DO"
           },
           "pageIndex": 18,
-          "imageSrc": "/tests/J08/math/page_18.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_18.jpg",
           "correct": "A"
         },
         {
@@ -756,7 +834,7 @@
             "J": "45 cot 25\u00b0"
           },
           "pageIndex": 19,
-          "imageSrc": "/tests/J08/math/page_19.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_19.jpg",
           "correct": "H"
         },
         {
@@ -769,7 +847,7 @@
             "D": "1.475"
           },
           "pageIndex": 19,
-          "imageSrc": "/tests/J08/math/page_19.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_19.jpg",
           "correct": "B"
         },
         {
@@ -782,7 +860,7 @@
             "D": "12 19 ACT-J08 2 DO"
           },
           "pageIndex": 19,
-          "imageSrc": "/tests/J08/math/page_19.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_19.jpg",
           "correct": "A"
         },
         {
@@ -795,7 +873,7 @@
             "J": "Exponential, because over equal time intervals, the concentration decreases by equal differences."
           },
           "pageIndex": 20,
-          "imageSrc": "/tests/J08/math/page_20.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_20.jpg",
           "correct": "H"
         },
         {
@@ -808,7 +886,7 @@
             "D": "is a rational number. 2 2 _ x 2 _ y"
           },
           "pageIndex": 20,
-          "imageSrc": "/tests/J08/math/page_20.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_20.jpg",
           "correct": "C"
         },
         {
@@ -821,7 +899,7 @@
             "J": "( 9,0 ) 20 ACT-J08 2 DO"
           },
           "pageIndex": 20,
-          "imageSrc": "/tests/J08/math/page_20.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_20.jpg",
           "correct": "G"
         },
         {
@@ -834,7 +912,7 @@
             "D": "y = 4 log (x + 2) + 4 4"
           },
           "pageIndex": 21,
-          "imageSrc": "/tests/J08/math/page_21.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_21.jpg",
           "correct": "D"
         },
         {
@@ -847,7 +925,7 @@
             "J": "\u23aaY\u23aa < \u23aaZ\u23aa < \u23aaX\u23aa < \u23aaW\u23aa"
           },
           "pageIndex": 21,
-          "imageSrc": "/tests/J08/math/page_21.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_21.jpg",
           "correct": "H"
         },
         {
@@ -861,7 +939,7 @@
             "C": "16:1"
           },
           "pageIndex": 21,
-          "imageSrc": "/tests/J08/math/page_21.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_21.jpg",
           "correct": "C"
         },
         {
@@ -874,7 +952,7 @@
             "D": "2"
           },
           "pageIndex": 22,
-          "imageSrc": "/tests/J08/math/page_22.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_22.jpg",
           "correct": "B"
         },
         {
@@ -887,7 +965,7 @@
             "J": "14"
           },
           "pageIndex": 22,
-          "imageSrc": "/tests/J08/math/page_22.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_22.jpg",
           "correct": "J"
         },
         {
@@ -900,7 +978,7 @@
             "D": "110"
           },
           "pageIndex": 22,
-          "imageSrc": "/tests/J08/math/page_22.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_22.jpg",
           "correct": "A"
         },
         {
@@ -914,7 +992,7 @@
             "J": "64"
           },
           "pageIndex": 22,
-          "imageSrc": "/tests/J08/math/page_22.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_22.jpg",
           "correct": "H"
         },
         {
@@ -927,7 +1005,7 @@
             "D": "84b ACT-J08 2 DO"
           },
           "pageIndex": 22,
-          "imageSrc": "/tests/J08/math/page_22.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_22.jpg",
           "correct": "A"
         },
         {
@@ -940,7 +1018,7 @@
             "J": "2,850"
           },
           "pageIndex": 23,
-          "imageSrc": "/tests/J08/math/page_23.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_23.jpg",
           "correct": "J"
         },
         {
@@ -953,7 +1031,7 @@
             "D": "x = \u22123 , x = 3 , and y = 3 STOP! DO NOT TURN TH DO NOT RE 23 ACT-J08"
           },
           "pageIndex": 23,
-          "imageSrc": "/tests/J08/math/page_23.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/math/page_23.jpg",
           "correct": "D"
         }
       ]
@@ -1078,8 +1156,7 @@
               "correct": "A",
               "lineRef": null
             }
-          ],
-          "imageSrc": "/tests/J08/reading/page_24.jpg"
+          ]
         },
         {
           "id": "passage-ii",
@@ -1196,8 +1273,7 @@
               "correct": "H",
               "lineRef": null
             }
-          ],
-          "imageSrc": "/tests/J08/reading/page_26.jpg"
+          ]
         },
         {
           "id": "passage-iii",
@@ -1314,8 +1390,7 @@
               "correct": "J",
               "lineRef": null
             }
-          ],
-          "imageSrc": "/tests/J08/reading/page_28.jpg"
+          ]
         }
       ]
     },
@@ -1327,7 +1402,7 @@
         {
           "id": "passage-i",
           "title": "Passage i",
-          "imageSrc": "/tests/J08/science/page_30.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_30.jpg",
           "startPage": 30,
           "questions": [
             {
@@ -1340,7 +1415,7 @@
                 "D": "did not vary."
               },
               "correct": "B",
-              "imageSrc": "/tests/J08/science/page_30.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_30.jpg"
             },
             {
               "number": 2,
@@ -1352,7 +1427,7 @@
                 "J": "12"
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/page_30.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_30.jpg"
             },
             {
               "number": 3,
@@ -1364,7 +1439,7 @@
                 "D": "greater than 16 cm. 31 4"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/page_30.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_30.jpg"
             },
             {
               "number": 4,
@@ -1376,7 +1451,7 @@
                 "J": "From 60 s to 70 s"
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/page_30.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_30.jpg"
             },
             {
               "number": 5,
@@ -1388,7 +1463,7 @@
                 "D": "Neither Experiment 1 nor Experiment 2"
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/page_30.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_30.jpg"
             },
             {
               "number": 6,
@@ -1400,14 +1475,14 @@
                 "J": "16 cm 31 GO ON TO THE NEXT PAGE."
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/page_30.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_30.jpg"
             }
           ]
         },
         {
           "id": "passage-ii",
           "title": "Passage II",
-          "imageSrc": "/tests/J08/science/page_32.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_32.jpg",
           "startPage": 32,
           "questions": [
             {
@@ -1420,7 +1495,7 @@
                 "D": "Time period: 5:00 p.m. to 5:05 p.m. Number of discharges: 100"
               },
               "correct": "B",
-              "imageSrc": "/tests/J08/science/page_32.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_32.jpg"
             },
             {
               "number": 8,
@@ -1432,7 +1507,7 @@
                 "J": "Storm 6, Storm 8, Storm 2, Storm 4 32 GO ON TO THE NEXT PAGE."
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/page_32.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_32.jpg"
             },
             {
               "number": 9,
@@ -1444,7 +1519,7 @@
                 "D": "Average flash rate: 5 Difference: 15"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/page_32.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_32.jpg"
             },
             {
               "number": 10,
@@ -1456,7 +1531,7 @@
                 "J": "20\u221225 C, 25\u221230 C, and 30\u221235 C only 33 4"
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/page_32.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_32.jpg"
             },
             {
               "number": 11,
@@ -1468,7 +1543,7 @@
                 "D": "16 discharges/min"
               },
               "correct": "A",
-              "imageSrc": "/tests/J08/science/page_32.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_32.jpg"
             },
             {
               "number": 12,
@@ -1480,14 +1555,14 @@
                 "J": "515 33 GO ON TO THE NEXT PAGE."
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/page_32.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_32.jpg"
             }
           ]
         },
         {
           "id": "passage-iii",
           "title": "Passage III",
-          "imageSrc": "/tests/J08/science/page_34.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_34.jpg",
           "startPage": 34,
           "questions": [
             {
@@ -1500,7 +1575,7 @@
                 "D": "an organ, a group of tissues that perform a specific function. 34 GO ON TO THE NEXT PAGE."
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/page_34.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_34.jpg"
             },
             {
               "number": 14,
@@ -1512,7 +1587,7 @@
                 "J": "Insulin: decrease Glucagon: stay approximately the same"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/page_34.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_34.jpg"
             },
             {
               "number": 15,
@@ -1524,7 +1599,7 @@
                 "D": "Students 1, 2, and 3"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/page_34.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_34.jpg"
             },
             {
               "number": 16,
@@ -1536,7 +1611,7 @@
                 "J": "a chemical messenger that cannot regulate hor- mone release. 35 4"
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/page_34.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_34.jpg"
             },
             {
               "number": 17,
@@ -1548,7 +1623,7 @@
                 "D": "No; Student 1 indicated that the greatest amount of glucagon is released when BG concentrations are greater than the set point."
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/page_34.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_34.jpg"
             },
             {
               "number": 18,
@@ -1560,14 +1635,14 @@
                 "J": "Yes; Student 4 indicated that the BG set point was recommended, and based on the Introduction, the BG set point results in optimal body functioning. 35 GO ON TO THE NEXT PAGE."
               },
               "correct": "F",
-              "imageSrc": "/tests/J08/science/page_34.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_34.jpg"
             }
           ]
         },
         {
           "id": "passage-iv",
           "title": "Passage IV",
-          "imageSrc": "/tests/J08/science/page_36.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_36.jpg",
           "startPage": 36,
           "questions": [
             {
@@ -1580,7 +1655,7 @@
                 "D": "greater than 20%."
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/page_36.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_36.jpg"
             },
             {
               "number": 20,
@@ -1590,7 +1665,7 @@
                 "J": "6"
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/page_36.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_36.jpg"
             },
             {
               "number": 21,
@@ -1602,7 +1677,7 @@
                 "D": "4 trials 37 4"
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/page_36.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_36.jpg"
             },
             {
               "number": 22,
@@ -1614,7 +1689,7 @@
                 "J": "Temperature"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/page_36.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_36.jpg"
             },
             {
               "number": 23,
@@ -1626,7 +1701,7 @@
                 "D": "30 mg/L."
               },
               "correct": "B",
-              "imageSrc": "/tests/J08/science/page_36.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_36.jpg"
             },
             {
               "number": 24,
@@ -1638,14 +1713,14 @@
                 "J": "HCl; the solution tested in that trial was more acidic than the starting phenol solution. 37 GO ON TO THE NEXT PAGE."
               },
               "correct": "F",
-              "imageSrc": "/tests/J08/science/page_36.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_36.jpg"
             }
           ]
         },
         {
           "id": "passage-v",
           "title": "Passage V",
-          "imageSrc": "/tests/J08/science/page_38.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_38.jpg",
           "startPage": 38,
           "questions": [
             {
@@ -1658,7 +1733,7 @@
                 "D": "Trial 10"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/page_38.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_38.jpg"
             },
             {
               "number": 26,
@@ -1671,7 +1746,7 @@
                 "J": "The R tested in Study 1 was less than that tested in Study 3. Li+?"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/page_38.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_38.jpg"
             },
             {
               "number": 27,
@@ -1683,7 +1758,7 @@
                 "D": "2.00 \u00d7 m/s 39 4 10\u22123"
               },
               "correct": "A",
-              "imageSrc": "/tests/J08/science/page_38.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_38.jpg"
             },
             {
               "number": 28,
@@ -1695,7 +1770,7 @@
                 "J": "48.0 \u00d7 103 mT"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/page_38.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_38.jpg"
             },
             {
               "number": 29,
@@ -1707,14 +1782,14 @@
                 "D": "sometimes greater and sometimes less. 39 GO ON TO THE NEXT PAGE."
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/page_38.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_38.jpg"
             }
           ]
         },
         {
           "id": "passage-vi",
           "title": "Passage VI",
-          "imageSrc": "/tests/J08/science/page_40.jpg",
+          "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_40.jpg",
           "startPage": 40,
           "questions": [
             {
@@ -1727,7 +1802,7 @@
                 "J": "Females; males deposit the eggs into the female\u2019s brood pouch where the eggs are fertilized by the female\u2019s sperm. S 41 4"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/page_40.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_40.jpg"
             },
             {
               "number": 31,
@@ -1739,7 +1814,7 @@
                 "D": "Neither Group 3 nor Group 4"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/page_40.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_40.jpg"
             },
             {
               "number": 32,
@@ -1751,7 +1826,7 @@
                 "J": "Neither the grow-out stage nor the nursery stage"
               },
               "correct": "F",
-              "imageSrc": "/tests/J08/science/page_40.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_40.jpg"
             },
             {
               "number": 33,
@@ -1763,7 +1838,7 @@
                 "D": "Yes; Group 2 seahorses had an average percent survival just under 30 percentage points less than that of Group 4."
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/page_40.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_40.jpg"
             },
             {
               "number": 34,
@@ -1775,7 +1850,7 @@
                 "J": "Grow-out stage; the overall rate of change during the grow-out stage was greater than 0.5 mm/day, whereas the overall rate of change during the nurs- ery stage was less than 0.5 mm/day. END OF TEST 4 STOP! DO NOT RETURN TO ANY OTHER TEST. 41"
               },
               "correct": "F",
-              "imageSrc": "/tests/J08/science/page_40.jpg"
+              "imageSrc": "https://pnuihxemmmtdpvakndgg.supabase.co/storage/v1/object/public/act-images/J08/science/page_40.jpg"
             }
           ]
         }
