@@ -16,6 +16,7 @@ async function loadResults() {
     .order('created_at', { ascending: true })
   if (!data) return
   const results = data.map(r => ({
+    id: r.id,
     testId: r.test_id,
     date: r.created_at,
     scores: r.scores,

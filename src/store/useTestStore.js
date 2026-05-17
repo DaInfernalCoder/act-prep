@@ -23,6 +23,7 @@ export const useTestStore = create(
 
       // Historical results
       testResults: [],     // [{ testId, date, scores, errorTags, mindsetNotes }]
+      currentResultId: null,
 
       // Actions
       startTest: (testId) => set({
@@ -36,6 +37,7 @@ export const useTestStore = create(
         breakTimeRemaining: BREAK_TIME,
         errorTags: {},
         mindsetNotes: {},
+        currentResultId: null,
       }),
 
       beginSection: () => set((state) => ({
@@ -107,13 +109,19 @@ export const useTestStore = create(
 
       goToReview: () => set({ phase: 'review' }),
 
-      setErrorTag: (key, tag) => set((state) => ({
-        errorTags: { ...state.errorTags, [key]: state.errorTags[key] === tag ? null : tag }
-      })),
+      setErrorTag: (key, tag) => {
+        set((state) => ({
+          errorTags: { ...state.errorTags, [key]: state.errorTags[key] === tag ? null : tag }
+        }))
+        get().saveReview()
+      },
 
-      setMindsetNote: (key, note) => set((state) => ({
-        mindsetNotes: { ...state.mindsetNotes, [key]: note }
-      })),
+      setMindsetNote: (key, note) => {
+        set((state) => ({
+          mindsetNotes: { ...state.mindsetNotes, [key]: note }
+        }))
+        get().saveReview()
+      },
 
       saveResults: async (testData) => {
         const { activeTestId, answers, errorTags, mindsetNotes, testResults } = get()
@@ -131,17 +139,32 @@ export const useTestStore = create(
         // Save to Supabase (no auth needed — single user app)
         try {
           const { supabase } = await import('../lib/supabase')
-          await supabase.from('act_test_results').insert({
+          const { data } = await supabase.from('act_test_results').insert({
             test_id: activeTestId,
             scores,
             answers,
             error_tags: errorTags,
             mindset_notes: mindsetNotes,
-          })
+          }).select('id').single()
+          if (data?.id) set({ currentResultId: data.id })
         } catch (e) {
           console.error('Cloud save failed:', e)
         }
         return result
+      },
+
+      saveReview: async () => {
+        const { currentResultId, errorTags, mindsetNotes } = get()
+        if (!currentResultId) return
+        try {
+          const { supabase } = await import('../lib/supabase')
+          await supabase
+            .from('act_test_results')
+            .update({ error_tags: errorTags, mindset_notes: mindsetNotes })
+            .eq('id', currentResultId)
+        } catch (e) {
+          console.error('Review save failed:', e)
+        }
       },
 
       resetToHome: () => set({

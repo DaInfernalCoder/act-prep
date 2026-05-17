@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { useTestStore } from '../store/useTestStore'
-import { ChevronLeft, ChevronRight, Home, TimerReset } from 'lucide-react'
+import { Check, ChevronLeft, ChevronRight, Home } from 'lucide-react'
 import tests from '../data'
 
 const ACTIVE_SECTIONS = ['english', 'math', 'reading']
@@ -99,26 +99,29 @@ export default function ReviewPage() {
 
         <div className="w-[500px] flex flex-col overflow-hidden">
           <div className="border-b border-gray-100 p-6">
-            <div className="flex items-center justify-between mb-3">
+            <div className="flex items-center justify-between">
               <span className="text-xs font-semibold uppercase tracking-wide text-gray-400">
                 {SECTION_LABELS[section.id]} Q{q.number} · {index + 1}/{wrongQuestions.length}
               </span>
-              <button onClick={() => setElapsed(0)} className="text-gray-400 hover:text-gray-700" title="Reset timer">
-                <TimerReset size={16} />
-              </button>
-            </div>
-            <div className={`rounded-2xl p-4 ${helpReady ? 'bg-amber-50 border border-amber-200' : 'bg-gray-50'}`}>
-              <div className="text-3xl font-black text-gray-900">{formatTime(timeLeft)}</div>
-              <div className={`text-sm mt-1 ${helpReady ? 'text-amber-700' : 'text-gray-500'}`}>
-                {helpReady
-                  ? "5 minutes are up. If you're still stuck, ask for help now."
-                  : 'Think it through before asking for help.'}
+              <div className={`text-2xl font-black ${helpReady ? 'text-amber-600' : 'text-gray-900'}`}>
+                {formatTime(timeLeft)}
               </div>
             </div>
           </div>
 
           <div className="flex-1 overflow-y-auto p-6">
             {section.id !== 'math' && <p className="text-[15px] leading-relaxed text-gray-800 mb-5">{q.stem}</p>}
+
+            <div className="grid grid-cols-2 gap-3 mb-5">
+              <div className="rounded-2xl border border-red-200 bg-red-50 p-4">
+                <div className="text-xs font-semibold uppercase tracking-wide text-red-500 mb-1">Your answer</div>
+                <div className="text-2xl font-black text-red-700">{userAnswer || 'Blank'}</div>
+              </div>
+              <div className="rounded-2xl border border-green-200 bg-green-50 p-4">
+                <div className="text-xs font-semibold uppercase tracking-wide text-green-600 mb-1">Correct answer</div>
+                <div className="text-2xl font-black text-green-700">{q.correct}</div>
+              </div>
+            </div>
 
             <div className="space-y-2 mb-6">
               {Object.entries(q.choices).map(([letter, text]) => {
@@ -139,7 +142,16 @@ export default function ReviewPage() {
               <div className="text-xs font-semibold uppercase tracking-wide text-gray-400 mb-2">Why did you miss it?</div>
               <div className="flex gap-2 flex-wrap">
                 {ERROR_TAGS.map(({ key: tag, label }) => (
-                  <button key={tag} onClick={() => setErrorTag(key, tag)} className={`error-tag ${tag} ${errorTag === tag ? 'active' : ''}`}>
+                  <button
+                    key={tag}
+                    onClick={() => setErrorTag(key, tag)}
+                    className={`flex items-center gap-2 rounded-xl border px-3 py-2 text-sm font-semibold transition-colors ${
+                      errorTag === tag
+                        ? 'border-black bg-black text-white'
+                        : 'border-gray-200 bg-white text-gray-600 hover:border-gray-400'
+                    }`}
+                  >
+                    {errorTag === tag && <Check size={14} />}
                     {label}
                   </button>
                 ))}
