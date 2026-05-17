@@ -147,18 +147,18 @@ export default function ReviewPage() {
                     onClick={() => setErrorTag(key, tag)}
                     className={`w-full flex items-center gap-3 rounded-2xl border-2 px-4 py-3 text-left transition-all ${
                       errorTag === tag
-                        ? 'border-black bg-black text-white shadow-sm'
+                        ? 'border-red-600 bg-red-50 text-red-700 shadow-sm'
                         : 'border-gray-200 bg-white text-gray-700 hover:border-gray-400'
                     }`}
                   >
                     <span className={`w-6 h-6 rounded-full border-2 flex items-center justify-center flex-shrink-0 ${
-                      errorTag === tag ? 'border-white bg-white text-black' : 'border-gray-300'
+                      errorTag === tag ? 'border-red-600 bg-red-600 text-white' : 'border-gray-300'
                     }`}>
                       {errorTag === tag && <Check size={14} strokeWidth={3} />}
                     </span>
                     <span>
                       <span className="block text-sm font-bold">{label}</span>
-                      <span className={`block text-xs mt-0.5 ${errorTag === tag ? 'text-gray-300' : 'text-gray-500'}`}>{detail}</span>
+                      <span className={`block text-xs mt-0.5 ${errorTag === tag ? 'text-red-500' : 'text-gray-500'}`}>{detail}</span>
                     </span>
                   </button>
                 ))}
