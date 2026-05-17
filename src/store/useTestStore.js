@@ -1,8 +1,8 @@
 import { create } from 'zustand'
 import { persist } from 'zustand/middleware'
 
-const SECTION_ORDER = ['english', 'math', 'reading', 'science']
-const SECTION_TIMES = { english: 45 * 60, math: 60 * 60, reading: 35 * 60, science: 35 * 60 }
+const SECTION_ORDER = ['english', 'math', 'reading']
+const SECTION_TIMES = { english: 45 * 60, math: 60 * 60, reading: 35 * 60 }
 const BREAK_AFTER = 'math'
 const BREAK_TIME = 10 * 60
 
@@ -157,7 +157,8 @@ export function computeScores(testData, answers) {
   let totalCorrect = 0
   let totalQuestions = 0
 
-  for (const section of testData.sections) {
+  const activeSections = ['english', 'math', 'reading']
+  for (const section of testData.sections.filter(s => activeSections.includes(s.id))) {
     let correct = 0
     let total = 0
     for (const passage of (section.passages || [])) {

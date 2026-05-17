@@ -10,16 +10,8 @@
         {
           "id": "eng-p1",
           "title": "Passage 1",
-          "paragraphs": [
-            {
-              "segments": [
-                {
-                  "type": "text",
-                  "text": "[See PDF for passage text]"
-                }
-              ]
-            }
-          ],
+          "imageSrc": "/tests/J08/english/page_2.jpg",
+          "startPage": 2,
           "questions": [
             {
               "number": 1,
@@ -162,16 +154,8 @@
         {
           "id": "eng-p2",
           "title": "Passage 2",
-          "paragraphs": [
-            {
-              "segments": [
-                {
-                  "type": "text",
-                  "text": "[See PDF for passage text]"
-                }
-              ]
-            }
-          ],
+          "imageSrc": "/tests/J08/english/page_5.jpg",
+          "startPage": 5,
           "questions": [
             {
               "number": 14,
@@ -310,16 +294,8 @@
         {
           "id": "eng-p3",
           "title": "Passage 3",
-          "paragraphs": [
-            {
-              "segments": [
-                {
-                  "type": "text",
-                  "text": "[See PDF for passage text]"
-                }
-              ]
-            }
-          ],
+          "imageSrc": "/tests/J08/english/page_8.jpg",
+          "startPage": 8,
           "questions": [
             {
               "number": 26,
@@ -458,16 +434,8 @@
         {
           "id": "eng-p4",
           "title": "Passage 4",
-          "paragraphs": [
-            {
-              "segments": [
-                {
-                  "type": "text",
-                  "text": "[See PDF for passage text]"
-                }
-              ]
-            }
-          ],
+          "imageSrc": "/tests/J08/english/page_10.jpg",
+          "startPage": 10,
           "questions": [
             {
               "number": 38,
@@ -520,6 +488,7 @@
             "C": "34",
             "D": "289 \u2212_ 1 _1"
           },
+          "pageIndex": 12,
           "imageSrc": "/tests/J08/math/page_12.jpg",
           "correct": "D"
         },
@@ -532,6 +501,7 @@
             "H": "8",
             "J": "128"
           },
+          "pageIndex": 12,
           "imageSrc": "/tests/J08/math/page_12.jpg",
           "correct": "H"
         },
@@ -544,6 +514,7 @@
             "H": "4 out of 5 flips were heads.",
             "J": "5 out of 6 flips were heads. 12 ACT-J08 2 DO"
           },
+          "pageIndex": 12,
           "imageSrc": "/tests/J08/math/page_12.jpg",
           "correct": "J"
         },
@@ -556,6 +527,7 @@
             "C": "13",
             "D": "14"
           },
+          "pageIndex": 13,
           "imageSrc": "/tests/J08/math/page_13.jpg",
           "correct": "B"
         },
@@ -568,6 +540,7 @@
             "H": "perimeter.",
             "J": "side lengths."
           },
+          "pageIndex": 13,
           "imageSrc": "/tests/J08/math/page_13.jpg",
           "correct": "F"
         },
@@ -580,6 +553,7 @@
             "H": "9 x 2 \u2212 54x + 81 2",
             "J": "9 x \u2212 27x + 18"
           },
+          "pageIndex": 13,
           "imageSrc": "/tests/J08/math/page_13.jpg",
           "correct": "H"
         },
@@ -592,7 +566,8 @@
             "C": "2,904",
             "D": "4,056"
           },
-          "imageSrc": "/tests/J08/math/page_14.jpg",
+          "pageIndex": 13,
+          "imageSrc": "/tests/J08/math/page_13.jpg",
           "correct": "B"
         },
         {
@@ -605,7 +580,8 @@
             "H": "40 (20.10) + 14 ( ) (20.10) 2 _1",
             "J": "40 (20.10) + 14 (1 ) (20.10) 2 13 ACT-J08 2 DO"
           },
-          "imageSrc": "/tests/J08/math/page_14.jpg",
+          "pageIndex": 13,
+          "imageSrc": "/tests/J08/math/page_13.jpg",
           "correct": "J"
         },
         {
@@ -617,6 +593,7 @@
             "C": "3i",
             "D": "9i"
           },
+          "pageIndex": 14,
           "imageSrc": "/tests/J08/math/page_14.jpg",
           "correct": "C"
         },
@@ -630,7 +607,8 @@
             "H": "Increase the y -intercept by 12.5",
             "J": "Decrease the y -intercept by 12.5"
           },
-          "imageSrc": "/tests/J08/math/page_15.jpg",
+          "pageIndex": 14,
+          "imageSrc": "/tests/J08/math/page_14.jpg",
           "correct": "H"
         },
         {
@@ -642,6 +620,7 @@
             "H": "370",
             "J": "671"
           },
+          "pageIndex": 15,
           "imageSrc": "/tests/J08/math/page_15.jpg",
           "correct": "F"
         },
@@ -654,6 +633,7 @@
             "C": "0, 436 [ 2] 0 13 t",
             "D": "[0, 860] time in minutes 10i + 2"
           },
+          "pageIndex": 15,
           "imageSrc": "/tests/J08/math/page_15.jpg",
           "correct": "A"
         },
@@ -666,7 +646,8 @@
             "C": "9i",
             "D": "11i 15 ACT-J08 2 DO"
           },
-          "imageSrc": "/tests/J08/math/page_16.jpg",
+          "pageIndex": 15,
+          "imageSrc": "/tests/J08/math/page_15.jpg",
           "correct": "A"
         },
         {
@@ -678,6 +659,7 @@
             "C": "Period: 3 Amplitude: 2",
             "D": "Period: 3 Amplitude: 4"
           },
+          "pageIndex": 16,
           "imageSrc": "/tests/J08/math/page_16.jpg",
           "correct": "A"
         },
@@ -690,6 +672,7 @@
             "H": "c + c _q _ c",
             "J": "+ h h 16 ACT-J08 2 nRST DO"
           },
+          "pageIndex": 16,
           "imageSrc": "/tests/J08/math/page_16.jpg",
           "correct": "G"
         },
@@ -702,6 +685,7 @@
             "C": "The measure of \u2220R is the greatest.",
             "D": "The measure of \u2220T is the greatest. \u22121"
           },
+          "pageIndex": 17,
           "imageSrc": "/tests/J08/math/page_17.jpg",
           "correct": "A"
         },
@@ -718,6 +702,7 @@
             "H": "(15,\u221236)",
             "J": "(16,\u221220) 17 ACT-J08 2 DO"
           },
+          "pageIndex": 17,
           "imageSrc": "/tests/J08/math/page_17.jpg",
           "correct": "C"
         },
@@ -730,7 +715,8 @@
             "C": "$35.00",
             "D": "$80.00"
           },
-          "imageSrc": "/tests/J08/math/page_17.jpg",
+          "pageIndex": 18,
+          "imageSrc": "/tests/J08/math/page_18.jpg",
           "correct": "A"
         },
         {
@@ -743,6 +729,7 @@
             "H": "18%",
             "J": "30%"
           },
+          "pageIndex": 18,
           "imageSrc": "/tests/J08/math/page_18.jpg",
           "correct": "F"
         },
@@ -755,6 +742,7 @@
             "C": "4",
             "D": "7 18 ACT-J08 2 DO"
           },
+          "pageIndex": 18,
           "imageSrc": "/tests/J08/math/page_18.jpg",
           "correct": "A"
         },
@@ -767,7 +755,8 @@
             "H": "45 tan 25\u00b0",
             "J": "45 cot 25\u00b0"
           },
-          "imageSrc": "/tests/J08/math/page_18.jpg",
+          "pageIndex": 19,
+          "imageSrc": "/tests/J08/math/page_19.jpg",
           "correct": "H"
         },
         {
@@ -779,6 +768,7 @@
             "C": "1.350",
             "D": "1.475"
           },
+          "pageIndex": 19,
           "imageSrc": "/tests/J08/math/page_19.jpg",
           "correct": "B"
         },
@@ -791,6 +781,7 @@
             "C": "11",
             "D": "12 19 ACT-J08 2 DO"
           },
+          "pageIndex": 19,
           "imageSrc": "/tests/J08/math/page_19.jpg",
           "correct": "A"
         },
@@ -803,7 +794,8 @@
             "H": "Exponential, because over equal time intervals, the concentration decreases by equal factors.",
             "J": "Exponential, because over equal time intervals, the concentration decreases by equal differences."
           },
-          "imageSrc": "/tests/J08/math/page_19.jpg",
+          "pageIndex": 20,
+          "imageSrc": "/tests/J08/math/page_20.jpg",
           "correct": "H"
         },
         {
@@ -815,6 +807,7 @@
             "C": "is an irrational number. 2 _ _\u22124\u221a 14 \u2212 n",
             "D": "is a rational number. 2 2 _ x 2 _ y"
           },
+          "pageIndex": 20,
           "imageSrc": "/tests/J08/math/page_20.jpg",
           "correct": "C"
         },
@@ -827,6 +820,7 @@
             "H": "( 7,0 )",
             "J": "( 9,0 ) 20 ACT-J08 2 DO"
           },
+          "pageIndex": 20,
           "imageSrc": "/tests/J08/math/page_20.jpg",
           "correct": "G"
         },
@@ -839,7 +833,8 @@
             "C": "y = 4 log (x \u2212 4) \u2212 2 4",
             "D": "y = 4 log (x + 2) + 4 4"
           },
-          "imageSrc": "/tests/J08/math/page_20.jpg",
+          "pageIndex": 21,
+          "imageSrc": "/tests/J08/math/page_21.jpg",
           "correct": "D"
         },
         {
@@ -851,6 +846,7 @@
             "H": "\u23aaY\u23aa < \u23aaX\u23aa < \u23aaW\u23aa < \u23aaZ\u23aa",
             "J": "\u23aaY\u23aa < \u23aaZ\u23aa < \u23aaX\u23aa < \u23aaW\u23aa"
           },
+          "pageIndex": 21,
           "imageSrc": "/tests/J08/math/page_21.jpg",
           "correct": "H"
         },
@@ -864,6 +860,7 @@
             "B": "8:1",
             "C": "16:1"
           },
+          "pageIndex": 21,
           "imageSrc": "/tests/J08/math/page_21.jpg",
           "correct": "C"
         },
@@ -876,7 +873,8 @@
             "C": "1",
             "D": "2"
           },
-          "imageSrc": "/tests/J08/math/page_21.jpg",
+          "pageIndex": 22,
+          "imageSrc": "/tests/J08/math/page_22.jpg",
           "correct": "B"
         },
         {
@@ -888,6 +886,7 @@
             "H": "12",
             "J": "14"
           },
+          "pageIndex": 22,
           "imageSrc": "/tests/J08/math/page_22.jpg",
           "correct": "J"
         },
@@ -900,6 +899,7 @@
             "C": "80",
             "D": "110"
           },
+          "pageIndex": 22,
           "imageSrc": "/tests/J08/math/page_22.jpg",
           "correct": "A"
         },
@@ -913,6 +913,7 @@
             "H": "32",
             "J": "64"
           },
+          "pageIndex": 22,
           "imageSrc": "/tests/J08/math/page_22.jpg",
           "correct": "H"
         },
@@ -925,7 +926,8 @@
             "C": "40b",
             "D": "84b ACT-J08 2 DO"
           },
-          "imageSrc": "/tests/J08/math/page_23.jpg",
+          "pageIndex": 22,
+          "imageSrc": "/tests/J08/math/page_22.jpg",
           "correct": "A"
         },
         {
@@ -937,6 +939,7 @@
             "H": "2,775",
             "J": "2,850"
           },
+          "pageIndex": 23,
           "imageSrc": "/tests/J08/math/page_23.jpg",
           "correct": "J"
         },
@@ -949,6 +952,7 @@
             "C": "x = \u22123 , x = 3 , and y = 0",
             "D": "x = \u22123 , x = 3 , and y = 3 STOP! DO NOT TURN TH DO NOT RE 23 ACT-J08"
           },
+          "pageIndex": 23,
           "imageSrc": "/tests/J08/math/page_23.jpg",
           "correct": "D"
         }
@@ -1074,7 +1078,8 @@
               "correct": "A",
               "lineRef": null
             }
-          ]
+          ],
+          "imageSrc": "/tests/J08/reading/page_24.jpg"
         },
         {
           "id": "passage-ii",
@@ -1191,7 +1196,8 @@
               "correct": "H",
               "lineRef": null
             }
-          ]
+          ],
+          "imageSrc": "/tests/J08/reading/page_26.jpg"
         },
         {
           "id": "passage-iii",
@@ -1308,7 +1314,8 @@
               "correct": "J",
               "lineRef": null
             }
-          ]
+          ],
+          "imageSrc": "/tests/J08/reading/page_28.jpg"
         }
       ]
     },
@@ -1320,7 +1327,7 @@
         {
           "id": "passage-i",
           "title": "Passage i",
-          "imageSrc": "/tests/J08/science/passage_passage-i.jpg",
+          "imageSrc": "/tests/J08/science/page_30.jpg",
           "startPage": 30,
           "questions": [
             {
@@ -1333,7 +1340,7 @@
                 "D": "did not vary."
               },
               "correct": "B",
-              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/J08/science/page_30.jpg"
             },
             {
               "number": 2,
@@ -1345,7 +1352,7 @@
                 "J": "12"
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/J08/science/page_30.jpg"
             },
             {
               "number": 3,
@@ -1357,7 +1364,7 @@
                 "D": "greater than 16 cm. 31 4"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/J08/science/page_30.jpg"
             },
             {
               "number": 4,
@@ -1369,7 +1376,7 @@
                 "J": "From 60 s to 70 s"
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/J08/science/page_30.jpg"
             },
             {
               "number": 5,
@@ -1381,7 +1388,7 @@
                 "D": "Neither Experiment 1 nor Experiment 2"
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/J08/science/page_30.jpg"
             },
             {
               "number": 6,
@@ -1393,14 +1400,14 @@
                 "J": "16 cm 31 GO ON TO THE NEXT PAGE."
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/passage_passage-i.jpg"
+              "imageSrc": "/tests/J08/science/page_30.jpg"
             }
           ]
         },
         {
           "id": "passage-ii",
           "title": "Passage II",
-          "imageSrc": "/tests/J08/science/passage_passage-ii.jpg",
+          "imageSrc": "/tests/J08/science/page_32.jpg",
           "startPage": 32,
           "questions": [
             {
@@ -1413,7 +1420,7 @@
                 "D": "Time period: 5:00 p.m. to 5:05 p.m. Number of discharges: 100"
               },
               "correct": "B",
-              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/J08/science/page_32.jpg"
             },
             {
               "number": 8,
@@ -1425,7 +1432,7 @@
                 "J": "Storm 6, Storm 8, Storm 2, Storm 4 32 GO ON TO THE NEXT PAGE."
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/J08/science/page_32.jpg"
             },
             {
               "number": 9,
@@ -1437,7 +1444,7 @@
                 "D": "Average flash rate: 5 Difference: 15"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/J08/science/page_32.jpg"
             },
             {
               "number": 10,
@@ -1449,7 +1456,7 @@
                 "J": "20\u221225 C, 25\u221230 C, and 30\u221235 C only 33 4"
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/J08/science/page_32.jpg"
             },
             {
               "number": 11,
@@ -1461,7 +1468,7 @@
                 "D": "16 discharges/min"
               },
               "correct": "A",
-              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/J08/science/page_32.jpg"
             },
             {
               "number": 12,
@@ -1473,14 +1480,14 @@
                 "J": "515 33 GO ON TO THE NEXT PAGE."
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/passage_passage-ii.jpg"
+              "imageSrc": "/tests/J08/science/page_32.jpg"
             }
           ]
         },
         {
           "id": "passage-iii",
           "title": "Passage III",
-          "imageSrc": "/tests/J08/science/passage_passage-iii.jpg",
+          "imageSrc": "/tests/J08/science/page_34.jpg",
           "startPage": 34,
           "questions": [
             {
@@ -1493,7 +1500,7 @@
                 "D": "an organ, a group of tissues that perform a specific function. 34 GO ON TO THE NEXT PAGE."
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/J08/science/page_34.jpg"
             },
             {
               "number": 14,
@@ -1505,7 +1512,7 @@
                 "J": "Insulin: decrease Glucagon: stay approximately the same"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/J08/science/page_34.jpg"
             },
             {
               "number": 15,
@@ -1517,7 +1524,7 @@
                 "D": "Students 1, 2, and 3"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/J08/science/page_34.jpg"
             },
             {
               "number": 16,
@@ -1529,7 +1536,7 @@
                 "J": "a chemical messenger that cannot regulate hor- mone release. 35 4"
               },
               "correct": "H",
-              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/J08/science/page_34.jpg"
             },
             {
               "number": 17,
@@ -1541,7 +1548,7 @@
                 "D": "No; Student 1 indicated that the greatest amount of glucagon is released when BG concentrations are greater than the set point."
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/J08/science/page_34.jpg"
             },
             {
               "number": 18,
@@ -1553,14 +1560,14 @@
                 "J": "Yes; Student 4 indicated that the BG set point was recommended, and based on the Introduction, the BG set point results in optimal body functioning. 35 GO ON TO THE NEXT PAGE."
               },
               "correct": "F",
-              "imageSrc": "/tests/J08/science/passage_passage-iii.jpg"
+              "imageSrc": "/tests/J08/science/page_34.jpg"
             }
           ]
         },
         {
           "id": "passage-iv",
           "title": "Passage IV",
-          "imageSrc": "/tests/J08/science/passage_passage-iv.jpg",
+          "imageSrc": "/tests/J08/science/page_36.jpg",
           "startPage": 36,
           "questions": [
             {
@@ -1573,7 +1580,7 @@
                 "D": "greater than 20%."
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             },
             {
               "number": 20,
@@ -1583,7 +1590,7 @@
                 "J": "6"
               },
               "correct": "J",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             },
             {
               "number": 21,
@@ -1595,7 +1602,7 @@
                 "D": "4 trials 37 4"
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             },
             {
               "number": 22,
@@ -1607,7 +1614,7 @@
                 "J": "Temperature"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             },
             {
               "number": 23,
@@ -1619,7 +1626,7 @@
                 "D": "30 mg/L."
               },
               "correct": "B",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             },
             {
               "number": 24,
@@ -1631,14 +1638,14 @@
                 "J": "HCl; the solution tested in that trial was more acidic than the starting phenol solution. 37 GO ON TO THE NEXT PAGE."
               },
               "correct": "F",
-              "imageSrc": "/tests/J08/science/passage_passage-iv.jpg"
+              "imageSrc": "/tests/J08/science/page_36.jpg"
             }
           ]
         },
         {
           "id": "passage-v",
           "title": "Passage V",
-          "imageSrc": "/tests/J08/science/passage_passage-v.jpg",
+          "imageSrc": "/tests/J08/science/page_38.jpg",
           "startPage": 38,
           "questions": [
             {
@@ -1651,7 +1658,7 @@
                 "D": "Trial 10"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/J08/science/page_38.jpg"
             },
             {
               "number": 26,
@@ -1664,7 +1671,7 @@
                 "J": "The R tested in Study 1 was less than that tested in Study 3. Li+?"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/J08/science/page_38.jpg"
             },
             {
               "number": 27,
@@ -1676,7 +1683,7 @@
                 "D": "2.00 \u00d7 m/s 39 4 10\u22123"
               },
               "correct": "A",
-              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/J08/science/page_38.jpg"
             },
             {
               "number": 28,
@@ -1688,7 +1695,7 @@
                 "J": "48.0 \u00d7 103 mT"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/J08/science/page_38.jpg"
             },
             {
               "number": 29,
@@ -1700,14 +1707,14 @@
                 "D": "sometimes greater and sometimes less. 39 GO ON TO THE NEXT PAGE."
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-v.jpg"
+              "imageSrc": "/tests/J08/science/page_38.jpg"
             }
           ]
         },
         {
           "id": "passage-vi",
           "title": "Passage VI",
-          "imageSrc": "/tests/J08/science/passage_passage-vi.jpg",
+          "imageSrc": "/tests/J08/science/page_40.jpg",
           "startPage": 40,
           "questions": [
             {
@@ -1720,7 +1727,7 @@
                 "J": "Females; males deposit the eggs into the female\u2019s brood pouch where the eggs are fertilized by the female\u2019s sperm. S 41 4"
               },
               "correct": "G",
-              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/J08/science/page_40.jpg"
             },
             {
               "number": 31,
@@ -1732,7 +1739,7 @@
                 "D": "Neither Group 3 nor Group 4"
               },
               "correct": "C",
-              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/J08/science/page_40.jpg"
             },
             {
               "number": 32,
@@ -1744,7 +1751,7 @@
                 "J": "Neither the grow-out stage nor the nursery stage"
               },
               "correct": "F",
-              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/J08/science/page_40.jpg"
             },
             {
               "number": 33,
@@ -1756,7 +1763,7 @@
                 "D": "Yes; Group 2 seahorses had an average percent survival just under 30 percentage points less than that of Group 4."
               },
               "correct": "D",
-              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/J08/science/page_40.jpg"
             },
             {
               "number": 34,
@@ -1768,7 +1775,7 @@
                 "J": "Grow-out stage; the overall rate of change during the grow-out stage was greater than 0.5 mm/day, whereas the overall rate of change during the nurs- ery stage was less than 0.5 mm/day. END OF TEST 4 STOP! DO NOT RETURN TO ANY OTHER TEST. 41"
               },
               "correct": "F",
-              "imageSrc": "/tests/J08/science/passage_passage-vi.jpg"
+              "imageSrc": "/tests/J08/science/page_40.jpg"
             }
           ]
         }
