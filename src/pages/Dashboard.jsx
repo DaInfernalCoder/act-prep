@@ -38,6 +38,7 @@ export default function Dashboard() {
 
 function TestCard({ test, result, completed, onStart }) {
   const { startTest, goToReview, testResults } = useTestStore()
+  const composite = result?.scores?.composite
 
   const handleReview = () => {
     // Set active test context then jump to review
@@ -70,9 +71,14 @@ function TestCard({ test, result, completed, onStart }) {
       {/* Body */}
       <div className="px-5 py-4">
         {completed ? (
-          <div className="flex items-center gap-1.5 text-sm text-gray-600 mb-4">
-            <Check size={15} className="text-gray-500" />
-            Completed
+          <div className="flex items-center justify-between gap-2 mb-4">
+            <div className="flex items-center gap-1.5 text-sm text-gray-600">
+              <Check size={15} className="text-gray-500" />
+              Completed
+            </div>
+            {composite != null && (
+              <div className="text-2xl font-black text-green-600 leading-none">{composite}</div>
+            )}
           </div>
         ) : (
           <div className="text-sm text-gray-400 mb-4">Not started</div>

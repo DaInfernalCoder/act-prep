@@ -1,5 +1,5 @@
-import { useEffect, useRef, useState } from 'react'
-import { useTestStore, computeScores } from '../store/useTestStore'
+import { useEffect, useMemo, useState } from 'react'
+import { useTestStore, computeScores, getRecentComparison } from '../store/useTestStore'
 import { ArrowRight, RotateCcw } from 'lucide-react'
 import tests from '../data'
 
@@ -8,11 +8,12 @@ const SECTION_LABELS = { english: 'English', math: 'Math', reading: 'Reading' }
 export default function Results() {
   const { activeTestId, answers, testResults, saveResults, goToReview, resetToHome } = useTestStore()
   const [saved, setSaved] = useState(false)
-  const resultRef = useRef(null)
   const test = tests.find(t => t.id === activeTestId)
   const scores = test ? computeScores(test, answers) : null
-  const prev = [...testResults].reverse().find(r => r.testId === activeTestId)
-  const improvement = scores && prev?.scores?.composite != null ? scores.composite - prev.scores.composite : null
+  const previousComposite = useMemo(
+    () => getRecentComparison(testResults, activeTestId),
+    [testResults, activeTestId]
+  )
 
   useEffect(() => {
     if (!saved && test) {
@@ -37,7 +38,7 @@ export default function Results() {
             <div className="text-sm text-gray-400">Composite / 36</div>
             <div className="text-sm text-gray-500">
               {scores.totalCorrect}/{scores.totalQuestions} correct
-              {improvement != null && ` · ${improvement > 0 ? '+' : ''}${improvement} vs last ${test.name}`}
+              {previousComposite != null && ` · previous composite ${previousComposite}`}
             </div>
           </div>
         </div>

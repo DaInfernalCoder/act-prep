@@ -266,19 +266,24 @@ def extract_scale_table(pdf):
     tables = {}
     for page in pdf.pages:
         text = page.extract_text() or ''
-        if 'Conversion of Raw Scores to Scale Scores' not in text:
+        if not any(marker in text for marker in [
+            'Conversion of Raw Scores to Scale Scores',
+            'Scale Scores from Raw Scores',
+            'Explanation of Procedures Used to Obtain',
+            'Your Scale Score',
+        ]):
             continue
         for m in re.finditer(
-            r'^(\d+)\s+([\d––]+|—)\s+([\d––]+|—)\s+([\d––]+|—)\s+([\d––]+|—)',
+            r'^(\d+)\s+([\d\-–—]+|—)\s+([\d\-–—]+|—)\s+([\d\-–—]+|—)\s+([\d\-–—]+|—)',
             text, re.MULTILINE
         ):
             scale = int(m.group(1))
             for i, sec in enumerate(['english', 'math', 'reading', 'science'], 2):
-                raw_str = m.group(i).replace('–', '–')
-                if '—' in raw_str or not raw_str.strip():
+                raw_str = m.group(i).strip()
+                if '—' in raw_str or not raw_str:
                     continue
-                if '–' in raw_str:
-                    parts = raw_str.split('–')
+                if any(sep in raw_str for sep in ['-', '–']):
+                    parts = re.split(r'[-–]', raw_str)
                     try:
                         lo, hi = int(parts[0]), int(parts[1])
                         for r in range(lo, hi + 1):

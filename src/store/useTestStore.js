@@ -127,6 +127,7 @@ export const useTestStore = create(
         const { activeTestId, answers, errorTags, mindsetNotes, testResults } = get()
         const scores = computeScores(testData, answers)
         const result = {
+          localId: `${activeTestId}-${Date.now()}`,
           testId: activeTestId,
           date: new Date().toISOString(),
           scores,
@@ -215,6 +216,13 @@ export function computeScores(testData, answers) {
   )
 
   return { sections: sectionScores, scaled: scaledScores, composite, totalCorrect, totalQuestions }
+}
+
+export function getRecentComparison(testResults, activeTestId) {
+  const history = testResults.filter(r => r.testId === activeTestId)
+  if (history.length < 2) return null
+  const prev = history[history.length - 2]
+  return prev?.scores?.composite ?? null
 }
 
 function lookupScale(table, raw) {
