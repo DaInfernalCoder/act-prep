@@ -102,7 +102,10 @@ export default function TestPage() {
         {/* Right: question + choices */}
         <div className="w-[460px] flex flex-col overflow-hidden">
           <div className="flex-1 overflow-y-auto p-7">
-            <div className="flex items-center justify-end mb-5">
+            <div className="flex items-start justify-between mb-5">
+              <div className="w-9 h-9 rounded-full border-2 border-gray-800 flex items-center justify-center flex-shrink-0">
+                <span className="text-sm font-bold text-gray-800">{q.number}</span>
+              </div>
               <button
                 onClick={() => toggleFlag(questionKey)}
                 className={`flex items-center gap-1 text-xs font-semibold px-2.5 py-1 rounded-lg transition-colors ${

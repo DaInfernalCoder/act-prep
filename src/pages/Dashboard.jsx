@@ -77,19 +77,29 @@ function TestCard({ test, result, completed, onStart }) {
               Completed
             </div>
             {composite != null && (
-              <div className="relative">
-                <button
-                  onClick={() => setShowBreakdown(v => !v)}
-                  className="text-2xl font-black text-green-600 leading-none"
-                >
-                  {composite}
-                </button>
+              <div className="relative"
+                onMouseEnter={() => setShowBreakdown(true)}
+                onMouseLeave={() => setShowBreakdown(false)}
+                onClick={() => setShowBreakdown(v => !v)}
+              >
+                <div className="text-2xl font-black text-green-600 leading-none cursor-default">{composite}</div>
                 {showBreakdown && (
                   <div className="absolute right-0 bottom-full mb-2 z-10 bg-gray-900 text-white text-xs rounded-lg px-3 py-2 whitespace-nowrap shadow-lg">
-                    <div className="flex flex-col gap-1">
-                      <div className="flex justify-between gap-4"><span className="text-gray-400">English</span><span className="font-bold">{result?.scores?.scaled?.english ?? '—'}</span></div>
-                      <div className="flex justify-between gap-4"><span className="text-gray-400">Math</span><span className="font-bold">{result?.scores?.scaled?.math ?? '—'}</span></div>
-                      <div className="flex justify-between gap-4"><span className="text-gray-400">Reading</span><span className="font-bold">{result?.scores?.scaled?.reading ?? '—'}</span></div>
+                    <div className="flex flex-col gap-1.5">
+                      {[
+                        { label: 'English', id: 'english' },
+                        { label: 'Math',    id: 'math' },
+                        { label: 'Reading', id: 'reading' },
+                      ].map(({ label, id }) => {
+                        const scaled = result?.scores?.scaled?.[id] ?? '—'
+                        const sec = result?.scores?.sections?.[id]
+                        return (
+                          <div key={id} className="flex justify-between gap-6">
+                            <span className="text-gray-400">{label}</span>
+                            <span className="font-bold">{scaled} <span className="font-normal text-gray-500">({sec ? `${sec.correct}/${sec.total}` : '—'})</span></span>
+                          </div>
+                        )
+                      })}
                     </div>
                     <div className="absolute right-2 top-full w-0 h-0 border-l-4 border-r-4 border-t-4 border-l-transparent border-r-transparent border-t-gray-900" />
                   </div>
